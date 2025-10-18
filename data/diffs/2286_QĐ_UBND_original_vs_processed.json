@@ -1,0 +1,36 @@
+{
+  "base": "2286_QĐ_UBND_original",
+  "revised": "2286_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "Quyết định này danh mục 02 thủ tục hành chính (TTHC) được bãi bỏ trong lĩnh vực đường bộ thuộc thẩm quyền giải quyết của Sở Giao thông vận tải (Có Danh mục TTHC kèm theo)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "vận tải có trách nhiệm đồng bộ dữ liệu TTHC mới công bố từ Cơ sở dữ liệu quốc gia về TTHC về Cơ sở dữ liệu TTHC tỉnh Thừa Thiên Huế theo đúng quy định."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "có hiệu lực thi hành kể từ ngày 05 tháng 10 năm 2024. Bãi bỏ TTHC có số thứ tự 08, 09 tại mục 1 ban hành kèm theo Quyết định số 2897/QĐ-UBND ngày 08/12/2023 của Ủy ban nhân dân tỉnh về việc công bố danh mục thủ tục hành chính mới ban hành, sửa đổi, bổ sung trong lĩnh vực đường bộ thuộc phạm vi chức năng quản lý nhà nước của Sở Giao thông vận tải tỉnh Thừa Thiên Huế."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "TỤC HÀNH CHÍNH ĐƯỢC BÃI BỎ TRONG LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH THỪA THIÊN HUẾ (Ban hành kèm theo Quyết định số 2286/QĐ-UBND ngày 27 tháng 8 năm 2024 của Chủ tịch UBND tỉnh Thừa Thiên Huế) STT Tên TTHC (Mã số TTHC) Tên VBQPPL quy định nội dung bãi bỏ Cơ quan thực hiện 1 Công bố đưa trạm dừng nghỉ vào khai thác (1.002889) Thông tư số 09/2024/TTBGTVT ngày 05/4/2024 của Bộ trưởng Bộ Giao thông vận tải ban hành sửa đổi 01:2024 QCVN 43:2012/BGTVT - Quy chuẩn kỹ thuật quốc gia về Trạm dừng nghỉ đường bộ Sở Giao thông vận tải 2 Công bố lại đưa trạm dừng nghỉ vào khai thác (1.002883)"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH THỪA THIÊN HUẾ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 2286/QĐ-UBND Thừa Thiên Huế, ngày 27 tháng 8 năm 2024 QUYẾT ĐỊNH CÔNG BỐ DANH MỤC THỦ TỤC HÀNH CHÍNH ĐƯỢC BÃI BỎ TRONG LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 48/2013/NĐ-CP ngày 14 tháng 5 năm 2013 và Nghị định số 92/2017/NĐ-CP ngày 07 tháng 8 năm 2017 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Thông tư số 02/2017/TT-VPCP ngày 31 tháng 10 năm 2017 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ hướng dẫn n..."
+    }
+  ]
+}

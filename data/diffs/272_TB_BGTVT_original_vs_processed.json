@@ -1,0 +1,48 @@
+{
+  "base": "272_TB_BGTVT_original",
+  "revised": "272_TB_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 11.1",
+      "change": "added",
+      "to": "12, 13, không làm phát sinh hoặc phức tạp thêm các thủ tục hành chính so với Thông tư 29/2018/TT-BGTVT . - Số ngày thực hiện thủ tục hành chính: đề nghị rà soát lại trên cơ sở Thông tư 29/2018/TT-BGTVT và có báo cáo cụ thể căn cứ, cơ sở quy định số ngày. Làm rõ lý do quy định thời gian khắc phục đối với toa xe đường sắt đô thị là 60 ngày và có báo cáo cụ thể Lãnh đạo Bộ xem xét, quyết định. 7. Đề nghị chỉnh sửa và làm rõ nội dung cho các điều khoản có sử dụng dấu gạch chéo “/”, đảm bảo rõ nghĩa (ví dụ: bản chính/bản sao có giá trị pháp lý...). Làm rõ về “bản sao” trọng dự thảo Thông tư, ví dụ: tại điểm b khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "rõ cơ sở pháp lý của việc kiểm tra thiết bị sản xuất, lắp ráp mới. 9."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 9.1",
+      "change": "added",
+      "to": "sung “Nhiệm vụ, quyền hạn của đoàn kiểm tra” thực hiện theo quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 13.1",
+      "change": "added",
+      "to": "lại hiệu lực giấy chứng nhận cấp lại do bị mất, hỏng được xác định và căn cứ theo hiệu lực của giấy chứng nhận đã cấp. 11. Rà soát lại điểm b khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 16.1",
+      "change": "added",
+      "to": "giấy chứng nhận đã cấp hết hiệu lực…” hoặc “Thông báo việc hết hiệu lực của giấy chứng nhận đã cấp …”. 13."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 17.1",
+      "change": "added",
+      "to": "nghị rà soát, chỉnh sửa cho thống nhất với khoản 3"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 272/TB-BGTVT Hà Nội, ngày 23 tháng 08 năm 2023 THÔNG BÁO KẾT LUẬN NỘI DUNG CUỘC HỌP XEM XÉT, THỐNG NHẤT NỘI DUNG DỰ THẢO THÔNG TƯ QUY ĐỊNH VỀ VIỆC KIỂM TRA CHẤT LƯỢNG AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG PHƯƠNG TIỆN GIAO THÔNG ĐƯỜNG SẮT (THAY THẾ THÔNG TƯ SỐ 29/2018/TT-BGTVT NGÀY 14/5/2018 CỦA BỘ TRƯỞNG BỘ GTVT VÀ CÁC THÔNG TƯ SỬA ĐỔI, BỔ SUNG THÔNG TƯ SỐ 29/2018/TT-BGTVT) Thực hiện kế hoạch xây dựng văn bản quy phạm pháp luật năm 2023 của Bộ Giao thông vận tải tại Quyết định số 1814/QĐ-BGTVT ngày 30/12/2022, ngày 17/8/2023, tại trụ sở làm việc của Vụ Khoa học - Công nghệ và Môi trường (308E Minh Khai), lãnh đạo Vụ Khoa học - Công nghệ và Môi trường đã chủ trì cuộc họp để thảo luận, xem xét, thống nhất nội dung dự thảo Thông tư quy định về việc kiểm tra chất lượng an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông đường sắt (thay thế Thông tư số..."
+    }
+  ]
+}

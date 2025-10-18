@@ -1,0 +1,48 @@
+{
+  "base": "1446_BC_BGTVT_original",
+  "revised": "1446_BC_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section Section_1.1",
+      "change": "added",
+      "to": "TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 1446/BC-BGTVT Hà Nội, ngày 06 tháng 02 năm 2024 BÁO CÁO TÌNH HÌNH TRIỂN KHAI CÁC CÔNG TRÌNH, DỰ ÁN QUAN TRỌNG QUỐC GIA, TRỌNG ĐIỂM NGÀNH GIAO THÔNG VẬN TẢI (Kỳ tháng 01 năm 2024) Kính gửi: - Thủ tướng Chính phủ Phạm Minh Chính - Trưởng Ban Chỉ đạo; - Các đồng chí Phó Trưởng Ban Chỉ đạo; - Các đồng chí Ủy viên Ban Chỉ đạo. Năm 2023, ngành Giao thông vận tải (GTVT) đã nhận được sự quan tâm đặc biệt của Thủ tướng Chính phủ, các đồng chí Phó Thủ tướng Chính phủ; Thủ tướng Chính phủ đã chủ trì 05 phiên họp Ban Chỉ đạo và cùng các Phó Thủ tướng Chính phủ trực tiếp kiểm tra hiện trường các công trình, dự án; đã chỉ đạo, ban hành nhiều chỉ thị, công điện, văn bản để tháo gỡ các khó khăn vướng mắc, đôn đốc các bộ, ngành, địa phương triển khai thực hiện"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "02 công điện chỉ đạo các cơ quan, đơn vị tiếp tục phát huy tinh thần trách nhiệm cao nhất, đẩy nhanh tiến độ đầu tư xây dựng các dự án, công trình hạ tầng giao thông và tập trung tháo gỡ các khó khăn, vướng mắc liên quan đến định mức, đơn giá xây dựng; khai thác, cung ứng vật liệu xây dựng (VLXD) cho các dự án. Với sự chỉ đạo sâu sát, quyết liệt của Thủ tướng Chính phủ, các đồng chí Phó Thủ tướng Chính phủ, cùng với sự phối hợp chặt chẽ có trách nhiệm, sự nỗ lực triển khai của các bộ, ngành, địa phương, ngành GTVT đã đạt được nhiều kết quả: nhiều khó khăn, vướng mắc tồn tại từ lâu tại một số dự án đã được tập trung xử lý; công tác chuẩn bị đầu tư của các dự án đã được đẩy nhanh, nhiều dự án đã được khởi công trong năm 2023 như cao tốc Bắc- Nam phía Đông giai đoạn 2021 - 2025, 03 dự án trục Đông - Tây, đường Vành đai của Hà Nội và Thành phố Hồ Chí Minh, cao tốc Tuyên Quang - Hà Giang, An Hữu - Cao Lãnh, đường Hồ Chí Minh đoạn Chơn Thành - Đức Hòa…, nhiều công trình dự án đã được khánh thành đưa vào sử dụng (7 DATP dài 412 km thuộc cao tốc Bắc - Nam phía Đông, cao tốc Mỹ Thuận - Cần Thơ dài 23 km, Tuyên Quang - Phú Thọ dài 40 km) phát huy hiệu quả đầu tư. Với các dự án mới triển khai, các tỉnh đã tập trung lực lượng để tổ chức thực hiện công tác giải phóng mặt bằng (GPMB), nhanh hơn so với các dự án trước đây; các đơn vị thi công nỗ lực tổ chức thi công với phương châm vượt nắng thắng mưa, ăn tranh thủ ngủ khẩn trương, thi công 3 ca 4 kíp, đa số đạt hoặc vượt kế hoạch đề ra; kết"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "tham mưu Chính phủ trình Quốc hội ban hành Nghị quyết 106/2023/QH15 thí điểm một số chính sách đặc thù về đầu tư xây dựng công trình đường bộ. Bộ Tài nguyên và Môi trường (TN&MT) đã hoàn thành một phần Dự án đánh giá tài nguyên cát biển phục vụ các dự án đường cao tốc và hạ tầng giao thông khu vực đồng bằng sông Cửu Long; đã có hướng dẫn về sử dụng điều phối vật liệu khai thác từ nền đào để đắp"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "khai thí điểm sử dụng cát biển cho các dự án giao thông và hoàn thành công tác theo dõi, đánh giá. Bộ Tài chính đã tham mưu Thủ tướng Chính phủ phê duyệt sửa đổi Thỏa thuận vay VN14-P3 cho dự án Bến Lức - Long Thành [1] . Bộ Xây dựng và Bộ GTVT đã phối hợp tổ chức Hội nghị trao đổi về tháo gỡ các khó khăn, vướng mắc liên quan đến định mức, đơn giá xây dựng; khai thác, cung ứng VLXD cho các dự án, công trình giao thông trọng"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_5.1",
+      "change": "added",
+      "to": "trực Ban Chỉ đạo Nhà nước các công trình, dự án quan trọng quốc gia, trọng điểm ngành Giao thông vận tải (Ban Chỉ đạo), trên cơ sở báo cáo của các địa phương, đơn vị liên quan, Bộ GTVT tổng hợp báo cáo kết quả thực hiện các dự án đến nay như sau: I. TÌNH HÌNH THỰC HIỆN 1. Công tác chuẩn bị đầu tư các dự án a) Công tác lập báo cáo nghiên cứu tiền khả thi (BCNCTKT) Các tỉnh Hòa Bình, Sơn La, Lạng Sơn, Ninh Bình, Bình Dương đã phê duyệt/phê duyệt điều chỉnh chủ trương đầu tư các dự án Hòa Bình - Mộc Châu, Hữu Nghị - Chi Lăng, Ninh Bình - Hải Phòng đoạn qua Ninh Bình, Thành phố Hồ Chí Minh - Thủ Dầu Một - Chơn Thành. Thủ tướng Chính phủ đã phê duyệt chủ trương đầu tư dự án Ninh Bình - Hải Phòng đoạn qua Nam Định, Thái Bình theo hình thức PPP và phê duyệt điều chỉnh chủ trương đầu tư dự án Cao Lãnh - An Hữu và Mỹ An - Cao Lãnh. Tỉnh Bình Phước đã hoàn chỉnh hồ sơ chủ trương đầu tư cao tốc Gia Nghĩa - Chơn Thành, Bộ trưởng Bộ GTVT đã thay mặt Chính phủ, trình Quốc hội xem xét, quyết định chủ trương đầu tư [3] ; theo đề nghị của Tổng Thư ký Quốc hội, Văn phòng Chính phủ đang tham mưu Ban cán sự Đảng Chính phủ báo cáo cấp có thẩm quyền cho ý kiến. Nhìn chung công tác lập, phê duyệt BCNCTKT đã được các cơ quan, đơn vị chủ động, tích cực triển khai đáp ứng"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_6.1",
+      "change": "added",
+      "to": "Thành phố Hồ Chí Minh - Mộc Bài [4] , dự án đường sắt đô thị tuyến"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 1446/BC-BGTVT Hà Nội, ngày 06 tháng 02 năm 2024 BÁO CÁO TÌNH HÌNH TRIỂN KHAI CÁC CÔNG TRÌNH, DỰ ÁN QUAN TRỌNG QUỐC GIA, TRỌNG ĐIỂM NGÀNH GIAO THÔNG VẬN TẢI (Kỳ tháng 01 năm 2024) Kính gửi: - Thủ tướng Chính phủ Phạm Minh Chính - Trưởng Ban Chỉ đạo; - Các đồng chí Phó Trưởng Ban Chỉ đạo; - Các đồng chí Ủy viên Ban Chỉ đạo. Năm 2023, ngành Giao thông vận tải (GTVT) đã nhận được sự quan tâm đặc biệt của Thủ tướng Chính phủ, các đồng chí Phó Thủ tướng Chính phủ; Thủ tướng Chính phủ đã chủ trì 05 phiên họp Ban Chỉ đạo và cùng các Phó Thủ tướng Chính phủ trực tiếp kiểm tra hiện trường các công trình, dự án; đã chỉ đạo, ban hành nhiều chỉ thị, công điện, văn bản để tháo gỡ các khó khăn vướng mắc, đôn đốc các bộ, ngành, địa phương triển khai thực hiện nhiệm vụ. Ngay trong những ngày đầu năm 2024, Thủ tướng Chính phủ đã ban hành 02 công điện chỉ đạo các cơ quan, đ..."
+    }
+  ]
+}

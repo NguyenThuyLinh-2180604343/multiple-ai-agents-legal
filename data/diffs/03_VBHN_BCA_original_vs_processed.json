@@ -1,0 +1,42 @@
+{
+  "base": "03_VBHN_BCA_original",
+  "revised": "03_VBHN_BCA_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "bị phương tiện phòng cháy và chữa cháy đối với phương tiện giao thông cơ giới đường bộ gồm: ô tô trên 09 chỗ ngồi 2 , rơ moóc hoặc sơ mi rơ moóc chở khách được kéo bởi xe ô tô, máy kéo; phương tiện giao thông cơ giới đường bộ vận chuyển chất, hàng nguy hiểm về cháy, nổ; nguyên tắc, kiểm định, kinh phí bảo đảm trang bị và trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan. 2. Việc trang bị phương tiện phòng cháy và chữa cháy đối với các loại phương tiện giao thông cơ giới đường bộ sau đây được thực hiện theo quy định của pháp luật khác có liên quan: a) Phương tiện giao thông cơ giới đường bộ chuyên sử dụng vào mục đích quốc phòng, an ninh; b) Phương tiện giao thông cơ giới đường bộ thuộc phạm vi quản lý của Bộ Quốc phòng, trừ phương tiện giao thông cơ giới đường bộ hoạt động phục vụ mục đích kinh tế - xã hội; c) Phương tiện giao thông cơ giới đường bộ của cơ quan, tổ chức, cá nhân nước ngoài hoạt động tại Việt Nam được hưởng quyền ưu đãi, miễn trừ ngoại giao hoặc lãnh sự theo quy định của pháp luật; d) Phương tiện giao thông cơ giới đường bộ phục vụ chở lãnh đạo cấp cao của Đảng, Nhà nước Việt Nam, khách quốc tế đến thăm và làm việc tại Việt Nam theo quy định của pháp luật về Cảnh vệ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "bộ. 2. Cơ quan, tổ chức quản lý phương tiện giao thông cơ giới đường bộ. 3. Công an các đơn vị, địa phương. 4. Cơ quan, tổ chức, cá nhân có liên quan đến việc trang bị phương tiện phòng cháy và chữa cháy đối với phương tiện giao thông cơ giới đường bộ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "TCVN 6211:2003 Phương tiện giao thông đường bộ - Kiểu - Thuật ngữ và định nghĩa, TCVN 7271:2003 Phương tiện giao thông đường bộ - Ô tô - Phân loại theo mục đích sử dụng. 2. Phương tiện giao thông cơ giới đường bộ vận chuyển chất, hàng nguy hiểm về cháy, nổ thuộc các loại 1, 2, 3, 4 và 9 quy định tại khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "cơ giới đường bộ thuộc đối tượng trang bị phương tiện phòng cháy và chữa cháy 1. Ô tô trên 09 chỗ ngồi 3 , rơ moóc hoặc sơ mi rơ moóc chở khách được kéo bởi xe ô tô, máy kéo theo quy định tại khoản 18"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "bị phương tiện phòng cháy và chữa cháy đối với phương tiện giao thông cơ giới đường bộ 1. Chủ sở hữu phương tiện giao thông cơ giới đường bộ tự bảo đảm kinh phí trang bị phương tiện phòng cháy và chữa cháy đối với phương tiện thuộc phạm vi quản lý của mìn"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ CÔNG AN ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 03/VBHN-BCA Hà Nội, ngày 19 tháng 4 năm 2021 THÔNG TƯ HƯỚNG DẪN VỀ TRANG BỊ PHƯƠNG TIỆN PHÒNG CHÁY VÀ CHỮA CHÁY ĐỐI VỚI PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ Thông tư số 57/2015/TT-BCA ngày 26 tháng 10 năm 2015 của Bộ trưởng Bộ Công an hướng dẫn về trang bị phương tiện phòng cháy và chữa cháy đối với phương tiện giao thông cơ giới đường bộ, có hiệu lực kể từ ngày 06 tháng 01 năm 2016, được sửa đổi, bổ sung bởi: Thông tư số 148/2020/TT-BCA ngày 31 tháng 12 năm 2020 của Bộ trưởng Bộ Công an sửa đổi, bổ sung một số điều của Thông tư số 57/2015/TT-BCA ngày 26/10/2015 của Bộ trưởng Bộ Công an hướng dẫn về trang bị phương tiện phòng cháy và chữa cháy đối với phương tiện giao thông cơ giới đường bộ, có hiệu lực kể từ ngày 20 tháng 02 năm 2021. Căn cứ Luật phòng cháy và chữa cháy ngày 29 tháng 6 năm 2001; Luật sửa đổi, bổ sung một số điều của Luật phòng cháy và chữa cháy n..."
+    }
+  ]
+}

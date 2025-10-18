@@ -1,0 +1,30 @@
+{
+  "base": "35_2023_QĐ_UBND_original",
+  "revised": "35_2023_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "vi điều chỉnh 1. Quy định này quy định về khu vực bảo vệ; khu vực cấm tập trung đông người, cấm ghi âm, ghi hình, chụp ảnh; khu vực cấm hoặc hạn chế người và phương tiện giao thông ; tổ chức thực hiện việc đặt các biển báo đó trên địa bàn tỉnh Quảng Ngãi. 2. Các nội dung liên quan đến khoản 1 Điều này không được quy định tại Quy định này thì thực hiện theo các văn bản pháp luật chuyên ngành hiện hành."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "tượng áp dụng 1. Các cơ quan, đơn vị, tổ chức, cá nhân người Việt Nam cư trú và hoạt động trên địa bàn tỉnh Quảng Ngãi. 2. Tổ chức, cá nhân người nước ngoài cư trú và hoạt động trên địa bàn tỉnh Quảng Ngãi, trừ trường hợp pháp luật Việt Nam hoặc Điều ước quốc tế mà Việt Nam ký kết hoặc tham gia quy định khác."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "thích từ ngữ 1. Khu vực bảo vệ là khu vực có giới hạn nhất định, có vị trí quan trọng về chính trị, kinh tế, ngoại giao, khoa học - kỹ thuật, văn hóa, xã hội, quốc phòng, an ninh; khu vực đang xảy ra thiên tai, dịch bệnh hoặc đang diễn ra các sự kiện chính trị quan trọng do lực lượng Công an, Quân đội và các lực lượng bảo vệ có trách nhiệm quản lý, kiểm soát hoạt động của người, phương tiện nhằm duy trì an ninh, trật tự; phòng, chống các hành vi xâm phạm an ninh quốc gia, trật tự, an toàn xã hội. 2. Khu vực cấm tập trung đông người là khu vực không được tập trung từ 05 người trở lên nhằm mục đích đưa ra yêu cầu hoặc kiến nghị về những vấn đề có liên quan đến quyền và lợi ích hợp pháp của cá nhân, gia đình, tổ chức hoặc nhằm đưa ra những yêu cầu, kiến nghị về những vấn đề có liên quan chung đến đời sống chính trị - xã hội, đến quyền"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH QUẢNG NGÃI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 35/2023/QĐ-UBND Quảng Ngãi, ngày 24 tháng 8 năm 2023 QUYẾT ĐỊNH BAN HÀNH QUY ĐỊNH KHU VỰC BẢO VỆ; KHU VỰC CẤM TẬP TRUNG ĐÔNG NGƯỜI, CẤM GHI ÂM, GHI HÌNH, CHỤP ẢNH; KHU VỰC CẤM HOẶC HẠN CHẾ NGƯỜI VÀ PHƯƠNG TIỆN GIAO THÔNG TRÊN ĐỊA BÀN TỈNH QUẢNG NGÃI ỦY BAN NHÂN DÂN TỈNH QUẢNG NGÃI Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Pháp lệnh Bảo vệ công trình quốc phòng và khu quân sự ngày 19 tháng 5 năm 1994 ; Căn cứ Nghị định số 38/2005/NĐ-CP ngày 18 tháng 3 năm 2005 của Chính phủ quy định một số biện pháp bảo đảm trật tự công cộng; Căn cứ Nghị định số 126/2008/NĐ-CP ngày 11 tháng 12 năm 2008 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Pháp lệnh bảo vệ công trình qu..."
+    }
+  ]
+}

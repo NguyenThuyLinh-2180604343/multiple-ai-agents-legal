@@ -1,0 +1,54 @@
+{
+  "base": "49_2024_NĐ_CP_original",
+  "revised": "49_2024_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "động thông tin cơ sở; trách nhiệm quản lý nhà nước về hoạt động thông tin cơ sở; quyền và nghĩa vụ của các cơ quan, tổ chức, cá nhân tham gia hoạt động thông tin cơ sở."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân cấp tỉnh, Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã, cơ quan, tổ chức, cá nhân tham gia hoạt động thông tin cơ sở."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "ngữ dưới đây được hiểu như sau: 1. Thông tin cơ sở là thông tin thiết yếu được truyền tải trực tiếp đến người dân thông qua các loại hình thông tin: đài truyền thanh cấp xã; bảng tin công cộng; bản tin thông tin cơ sở; tài liệu không kinh doanh phục vụ hoạt động thông tin cơ sở; tuyên truyền trực tiếp qua tuyên truyền viên cơ sở; cổng hoặc trang thông tin điện tử; mạng xã hội, ứng dụng nhắn tin trên Internet; tin nhắn viễn thông. 2. Hoạt động thông tin cơ sở là hoạt động cung cấp thông tin thiết yếu; tiếp nhận thông tin phản ánh và thông tin nội dung trả lời của cơ quan, tổ chức, cá nhân có thẩm quyền đối với thông tin phản ánh của người dân thông qua các loại hình thông tin quy định tại khoản 1 Điều này. 3. Ứng dụng nhắn tin trên Internet là dịch vụ nhắn tin trên các nền tảng, phần mềm truy cập trên Internet. 4. Tin nhắn viễn thông là dịch vụ nhắn tin trên mạng viễn thông di động mặt đất (mạng thông tin di động). 5. Hoạt động thông tin cơ sở của cấp huyện là hoạt động do đài truyền thanh - truyền hình cấp huyện hoặc bộ phận chuyên biệt làm công tác thông tin cơ sở thuộc Trung tâm Văn hóa, Thông tin và Thể thao, Trung tâm Truyền thông và Văn hóa hoặc Trung tâm có tên gọi khác của cấp huyện thực hiện theo quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 40.1",
+      "change": "added",
+      "to": "này . 6. Hệ thống thông tin nguồn thông tin cơ sở trung ương là hệ thống cung cấp thông tin nguồn cho hoạt động thông tin cơ sở; thu thập, tổng hợp, phân tích, quản lý dữ liệu, đánh giá hiệu quả hoạt động thông tin cơ sở phục vụ công tác quản lý nhà nước trên phạm vi toàn quốc. 7. Hệ thống thông tin nguồn thông tin cơ sở cấp tỉnh là hệ thống cung cấp thông tin nguồn cho hoạt động thông tin cơ sở; thu thập, tổng hợp, phân tích, quản lý dữ liệu, đánh giá hiệu quả hoạt động thông tin cơ sở phục vụ công tác quản lý nhà nước trên địa bàn cấp tỉnh."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "xác, công khai, minh bạch, phù hợp với trình độ, nhu cầu của người dân ở từng vùng, miền, đặc biệt là người dân ở vùng đồng bào dân tộc thiểu số và miền núi, vùng sâu, vùng xa, biên giới, hải đảo. 2. Phục vụ công tác chỉ đạo, điều hành của cấp ủy, chính quyền địa phương. 3. Bảo đảm thực hiện nhiệm vụ truyền thông chính sách của Đảng, Nhà nước, cung cấp thông tin thiết yếu đến người dân. 4. Người dân được bảo đảm và bình đẳng, không bị phân biệt đối xử trong việc thực hiện quyền tiếp cận thông tin. 5. Tôn trọng ý kiến đóng góp của người dân; tiếp nhận thông tin phản ánh và thông tin nội dung trả lời của cơ quan, tổ chức, cá nhân có thẩm quyền đối với thông tin phản ánh của người dân. 6. Tuân thủ quy định của pháp luật về bảo đảm an ninh, trật tự, an toàn xã hội, bảo vệ bí mật nhà nước, bảo đảm quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "cần thiết cho hoạt động thông tin cơ sở. 2. Bồi dưỡng nâng cao năng lực chuyên môn, nghiệp vụ tuyên truyền, kỹ năng sử dụng thiết bị kỹ thuật, công nghệ, kỹ năng chuyển đổi số trong hoạt động thông tin cơ sở cho người tham gia hoạt động thông tin cơ sở."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "chủ trương của Đảng, chính sách, pháp luật của Nhà nước, các quy định của cấp ủy, chính quyền địa phương, những sự kiện quan trọng liên quan đến ngư"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 49/2024/NĐ-CP Hà Nội, ngày 10 tháng 5 năm 2024 NGHỊ ĐỊNH QUY ĐỊNH VỀ HOẠT ĐỘNG THÔNG TIN CƠ SỞ Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Xuất bản ngày 20 tháng 11 năm 2012; Căn cứ Luật Báo chí ngày 05 tháng 4 năm 2016; Căn cứ Luật Quảng cáo ngày 10 tháng 12 năm 2018; Căn cứ Luật Viễn thông ngày 24 tháng 11 năm 2023; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Luật An ninh mạng ngày 12 tháng 6 năm 2018; Căn cứ Luật Tiếp cận thông tin ngày 06 tháng 4 năm 2016; Căn cứ Luật Thực hiện dân chủ ở cơ sở ngày 10 tháng 11 năm 2022; Theo đề nghị của Bộ trưởng Bộ Thông tin và ..."
+    }
+  ]
+}

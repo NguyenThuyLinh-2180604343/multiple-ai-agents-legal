@@ -1,0 +1,30 @@
+{
+  "base": "674_QĐ_UBND_original",
+  "revised": "674_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "hành kèm theo Quyết định này xếp loại đường để xác định cước vận tải đường bộ trên địa bàn tỉnh Vĩnh Phúc ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "chức thực hiện 1. Sở Giao thông vận tải chủ trì phối hợp với các sở, ngành, địa phương và các cơ quan, đơn vị liên quan phổ biến, hướng dẫn triển khai thực hiện việc xếp loại đường để xác định cước vận tải đường bộ theo Quyết định này. 2. Trong quá trình thực hiện, Sở Giao thông vận tải, Sở Xây dựng, UBND các huyện, thành phố và các cơ quan, đơn vị liên quan tiếp tục rà soát, kịp thời phản ánh các khó khăn, vướng mắc phát sinh, các nội dung kiến nghị cần điều chỉnh qua Sở Giao thông vận tải để tổng hợp, báo cáo, đề xuất với UBND tỉnh xem xét điều chỉnh, bổ sung cho phù hợp."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "TƯƠNG ĐƯƠNG TRÊN ĐỊA BÀN TỈNH (Ban hành kèm theo Quyết định số 674/QĐ-UBND ngày 28/3/2023 của Chủ tịch UBND tỉnh Vĩnh Phúc) TT Tên đường Địa phận Lý trình Chiều dài (Km) Xếp loại đường Ghi chú Loại 1 Loại 2 Loại 3 Loại 4 Loại 5 Loại 6 1 ĐT.301 Phúc Yên Km0+00 - Km 13+00 13,0 B1 Km13+00 - Km26+00 13,0 D1 2 ĐT.302 Bình Xuyên Km0+00 - Km 8+100 8,1 C1 Tam Đảo Km8+100 - Km16+600 8,5 D1 Km16+600 - Km25+600 9,0 B1 Km25+600 - Km34+700 9,1 D3 Đang thi công đoạn từ Km25+600 - Km32+300 3 ĐT.302B Bình Xuyên Km0+00 - Km20+200 20,2 D1 Đang TC đoạn từ Km0+00 - Km3+00 4 ĐT.303 Yên Lạc Km0+00 - Km5+500 5,5 D1 Đang TC đoạn từ Km15+600 - Km17+600 Bình Xuyên Km5+500 - Km8+800 3,3 Km8+800 - Km15+600 6,8 Yên Lạc Km15+600 - Km24+500 8,9 5 ĐT.304 Vĩnh Tường Km0+00 - Km11+300 11,30 A1 Vĩnh Tường Km11+300 - Km16+800 5,5 D2 Đang TC đoạn từ Km12+300 - Km16+800 Yên Lạc Km16+800 - Km27+100 10,3 A1 6 ĐT.305 Yên Lạc, Vĩnh Yên Km0+00 - Km6+500 6,5 B1 Đang TC đoạn từ Km2+00 - Km5+300; Km11+700 - Km13+200 Km6+500 - Km13+200 6,7 C1 Tam Dương Km13+200 - Km22+00 8,8 D2 Đang thi công Lập Thạch Km22+00 - Km31+00 9 D1 Km31+00 - Km48+100 17,1 C1 Đang TC đoạn từ Km29+00 - Km31+00 7 ĐT.305C Lâp Thạch Km0+000 - Km9+600 9,6 B1 Đang TC đoạn từ Km0+00 - Km2+100 8 ĐT.306 Tam Dương Km 0+00 - Km7+700 7,7 D1 Km7+700 - Km12+00 4,3 A1 Lập Thạch Km12+00 - Km20+500 8,5 D1 Sông Lô Km20+500 - Km29+000 8,5 D1 9 ĐT.306B Lâp Thạch Km0+00 - Km5+100 5,1 A1 Sông Lô Km5+100 - Km12+700 7,6 D1 10 ĐT.307 Lập Thạch Km0+00 - Km8+400 8,4 D1 Sông Lô Km8+400 - Km12+500 4,1 Km12+500 - Km21+200 8,7 B1 Km21+200 - Km27+00 5,8 D1 11 ĐT.307B Sông Lô Km0+00 - Km9+900 9,9 B1 12 ĐT.309 Vĩnh Tường Km0+00 - Km7+000 7,0 D1 Tam Dương Km7+00 - Km12+00 5,0 D2 Tam Dương Km12+00 - Km21+00 9,0 C1 13 ĐT.309B Tam Dương Km0+000 - Km7+00 7,0 D1 Tam Dương Km7+00 - Km13+300 6,3 D3 Đang TC đoạn từ Km7+00 - Km13+300 14 ĐT.310 Phúc Yên Km0+00 - Km3+100 3,1 D1 Km3+100 - Km5+700 2,6 A1 Bình Xuyên Km5+700 - Km13+500 7,8 Tam Đảo Km13+500 - Km16+00 2,5 Tam Dương Km16+00 - Km19+600 3,6 Tam Đảo Km19+600 - Km22+600 3 Tam Dương Km22+600 - Km26+300 3,7 15 ĐT.310B Bình Xuyên Km0+00 - Km9+500 9,6 A1 16 ĐT.310C Tam Dương Km0+00 - Km9+100 9,1 A1 Km9+100 - Km15+600 6,5 C1 Đang TC đoạn từ Km10+500 - Km14+900 17 ĐT.311 Phúc Yên Km0+00 - Km7+500 7,5 A3 Km7+500 - Km8+00 0,5 A1 Bình Xuyên Km8+00 - Km16+00 8,0 Vĩnh Yên Km16+00 - Km17+100 1,7 18 Trục trung tâm huyện Mê Linh Bình Xuyên Km0+00 - Km0+600 0,6 A1 Phúc Yên Km1+600 - Km3+200 1,6 19 Đường Vành đ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH VĨNH PHÚC ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 674/QĐ-UBND Vĩnh Phúc, ngày 28 tháng 3 năm 2023 QUYẾT ĐỊNH VỀ VIỆC XẾP LOẠI ĐƯỜNG ĐỂ XÁC ĐỊNH CƯỚC VẬN TẢI ĐƯỜNG BỘ TRÊN ĐỊA BÀN TỈNH CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH VĨNH PHÚC Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Căn cứ Luật Giao thông đường bộ ngày 13/11/2008; Căn cứ Luật Xây dựng ngày 18/6/2014; Luật sửa đổi, bổ sung một số điều Luật Xây dựng ngày 17/6/2020; Căn cứ Quyết định số 32/2005/QĐ-BGTVT ngày 17/6/2005 của Bộ Giao thông vận tải về việc ban hành Quy định về xếp loại đường để xác định cước vận tải đường bộ; Căn cứ Thông tư số 15/2021/TT-BGTVT ngày 30/7/2021 của Bộ Giao thông Vận tải về việc Hướng dẫn chức năng, nhiệm vụ, quyền hạn của cơ quan chuyên môn về Giao thông vận tải thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh, thành phố trực thuộc trung ươ..."
+    }
+  ]
+}

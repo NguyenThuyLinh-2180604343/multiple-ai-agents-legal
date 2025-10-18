@@ -1,0 +1,48 @@
+{
+  "base": "15_2019_NĐ_CP_original",
+  "revised": "15_2019_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "đầu tư ; Căn cứ Luật doanh nghiệp ngày 26 tháng 11 năm 2014; Theo đề nghị của Bộ trưởng Bộ Lao động - Thương binh và Xã hội; Chính phủ ban hành Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật giáo dục nghề nghiệp . Chương I NHỮNG QUY ĐỊNH CHUNG"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "QUẢN LÝ NHÀ NƯỚC VỀ GIÁO DỤC NGHỀ NGHIỆP"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 47.1",
+      "change": "added",
+      "to": "định pháp luật Việt Nam, pháp luật nước ngoài hoặc thỏa thuận, điều ước quốc tế mà Việt Nam là thành viên. 3. Cơ sở giáo dục nghề nghiệp có vốn đầu tư nước ngoài thực hiện đăng ký hoạt động giáo dục nghề nghiệp theo quy định tại Nghị định số 143/2016/NĐ-CP ngày 14 tháng 10 năm 2016 của Chính phủ quy định điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục nghề nghiệp và văn bản sửa đổi có liên quan. 4. Nghị định này không áp dụng đối với: a) Việc quản lý nhà nước đối với các trường trung cấp sư phạm, trường cao đẳng sư phạm; b) Việc cho phép thành lập, chia, tách, sáp nhập, giải thể, đổi tên trường trung cấp sư phạm, trường cao đẳng sư phạm có vốn đầu tư nước ngoài; cho phép thành lập, chấm dứt hoạt động phân hiệu của trường trung cấp sư phạm, trường cao đẳng sư phạm có vốn đầu tư nước ngoài; c) Việc cấp giấy chứng nhận đăng ký hoạt động liên kết đào tạo với nước ngoài đối với nhóm ngành đào tạo giáo viên thuộc thẩm quyền quản lý nhà nước của Bộ Giáo dục và Đào tạo."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "trường cao đẳng (sau đây gọi là cơ sở giáo dục nghề nghiệp). 2. Cơ sở giáo dục đại học có đăng ký hoạt động giáo dục nghề nghiệp trình độ cao đẳng, doanh nghiệp có đăng ký hoạt động giáo dục nghề nghiệp trình độ sơ cấp (sau đây gọi là cơ sở hoạt động giáo dục nghề nghiệp). 3. Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; các tổ chức chính trị - xã hội; Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi là Ủy ban nhân dân cấp tỉnh); Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi là Ủy ban nhân dân cấp huyện); Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi là Ủy ban nhân dân cấp xã). 4. Cơ quan, tổ chức, doanh nghiệp, cá nhân Việt Nam và nước ngoài có liên quan đến các nội dung quy định tại khoản 1, khoản 2 và khoản 3"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "về giáo dục nghề nghiệp 1. Bộ Lao động - Thương binh và Xã hội chịu trách nhiệm trước Chính phủ thực hiện quản lý nhà nước về giáo dục nghề nghiệp. 2. Ủy ban nhân dân các cấp trong phạm vi nhiệm vụ, quyền hạn của mình thực hiện quản lý nhà nước về giáo dục nghề nghiệp trên địa bàn."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "quản lý nhà nước về giáo dục nghề nghiệp của Bộ Lao động - Thương binh và Xã hội Bộ Lao động - Thương binh và Xã hội có trách nhiệm thực hiện quản lý nhà nước về giáo dục nghề nghiệp theo quy định của Luật giáo dục nghề nghiệp , Nghị định này, các văn bản quy phạm pháp luật có liên quan và thực hiện nhiệm vụ sau đây: 1. Xây dựng và ban hành danh mục các ngành, nghề nặng nhọc, độc hại, nguy hiểm; danh mục ngành, nghề khó tuyển sinh nhưng xã hội có nhu cầu. Ban hành định mức kinh tế - kỹ thuật, khối lượng kiến thức tối thiểu, yêu cầu về năng lực mà người học đạt được sau khi tốt nghiệp cho từng ngành, nghề trình độ trung cấp, cao đẳng đối với các ngành, nghề trọng điểm quốc gia; ngành, nghề nặng nhọc, độc hại, nguy hiểm, khó tuyển sinh nhưng xã hội có nhu cầu; ngành, nghề do cơ quan quản lý nhà nước đặt hàng, giao nhiệm vụ đào tạo và ngành, nghề chuy"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 15/2019/NĐ-CP Hà Nội, ngày 01 tháng 02 năm 2019 NGHỊ ĐỊNH QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU VÀ BIỆN PHÁP THI HÀNH LUẬT GIÁO DỤC NGHỀ NGHIỆP Căn cứ Luật tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Căn cứ Luật giáo dục nghề nghiệp ngày 27 tháng 11 năm 2014; Căn cứ Luật đầu tư ngày 26 tháng 11 năm 2014; Luật sửa đổi, bổ sung Điều 6 và Phụ lục 4 về Danh mục ngành, nghề đầu tư kinh doanh có điều kiện của Luật đầu tư ; Căn cứ Luật doanh nghiệp ngày 26 tháng 11 năm 2014; Theo đề nghị của Bộ trưởng Bộ Lao động - Thương binh và Xã hội; Chính phủ ban hành Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật giáo dục nghề nghiệp . Chương I NHỮNG QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh 1. Nghị định này quy định chi tiết một số điều và biện pháp thi hành Luật giáo dục nghề nghiệp , bao gồm: a) Thẩm quyền và nội dung quản lý nhà nước về giáo dục nghề nghiệp; b) Cho phép ..."
+    }
+  ]
+}

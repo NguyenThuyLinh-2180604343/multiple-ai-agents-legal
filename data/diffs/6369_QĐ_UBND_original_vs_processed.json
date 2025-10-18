@@ -1,0 +1,30 @@
+{
+  "base": "6369_QĐ_UBND_original",
+  "revised": "6369_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "duyệt Đề án “Giao thông thông minh trên địa bàn thành phố Hà Nội” (có Đề án kèm theo) ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "chức thực hiện: 1. Giao Sở Giao thông vận tải có trách nhiệm chủ trì, phối hợp với các Sở, ngành Thành phố, đơn vị có liên quan và UBND các quận, huyện, thị xã tham mưu, xây dựng kế hoạch và tổ chức triển khai thực hiện Đề án “Giao thông thông minh trên địa bàn thành phố Hà Nội” theo thẩm quyền và quy định, đảm bảo hiệu quả, không trùng lắp, lãng phí, phù hợp với tình hình thực tiễn của Thành phố. Trong quá trình thực hiện có rà soát, đánh giá việc thực hiện Đề án, kịp thời đề xuất, tham mưu, báo cáo UBND Thành phố xem xét, điều chỉnh theo quy định. 2. Giao Công an Thành phố, các Sở: Tài chính, Kế hoạch và Đầu tư, Nội Vụ, Thông tin và Truyền thông, Khoa học và Công nghệ, Tài nguyên và Môi trường, Tư pháp, UBND các quận, huyện, thị xã căn cứ chức năng, nhiệm vụ và thẩm quyền được giao có trách nhiệm phối hợp, hướng dẫn Sở Giao thông vận tải trong quá trình triển khai thực hiện, đảm bảo hiệu quả, góp phần xây dựng văn hóa giao thông, giảm thiểu ô nhiễm môi trường, bảo đảm trật tự an toàn giao thông, giảm ùn tắc và tai nạn giao thông trên địa bàn Thành phố."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "Đức Tuấn ĐỀ ÁN GIAO THÔNG THÔNG MINH TRÊN ĐỊA BÀN THÀNH PHỐ HÀ NỘI (Ban hành kèm theo Quyết định số 6369/QĐ-UBND ngày 11/12/2024 của Ủy ban nhân dân thành phố Hà Nội) PHẦN I. MỞ ĐẦU 1. Căn cứ pháp lý xây dựng đề án. * Văn bản của Quốc hội, Chính phủ, Thủ tướng Chính phủ, các Bộ ngành liên quan Luật Tổ chức chính quyền địa phương ngày 19/6/2015 và Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Luật Thủ đô ngày 21/11/2012; Luật Ngân sách Nhà nước ngày 25/6/2015; Nghị quyết số 15-NQ/TW ngày 05/5/2022 của Bộ Chính trị về phương hướng, nhiệm vụ phát triển Thủ đô Hà Nội đến năm 2030,"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN THÀNH PHỐ HÀ NỘI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 6369/QĐ-UBND Hà Nội, ngày 11 tháng 12 năm 2024 QUYẾT ĐỊNH VỀ VIỆC PHÊ DUYỆT ĐỀ ÁN “GIAO THÔNG THÔNG MINH TRÊN ĐỊA BÀN THÀNH PHỐ HÀ NỘI” ỦY BAN NHÂN DÂN THÀNH PHỐ HÀ NỘI Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015 và Luật sửa đổi một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Căn cứ Luật Thủ đô ngày 28/6/2024; Căn cứ các Quyết định của Thủ tướng Chính phủ: số 950/QĐ-TTg ngày 01/8/2018 về Đề án phát triển đô thị thông minh bền vững Việt Nam giai đoạn 2018 - 2025 và định hướng đến năm 2030; số 923/QĐ-TTg ngày 30/6/2020 phê duyệt Đề án “Ứng dụng công nghệ thông tin trong quản lý, điều hành giao thông vận tải, tập trung đối với lĩnh vực đường bộ”; số 2289/QĐ-TTg ngày 31/12/2020 Ban hành chiến lược quốc gia về Cách mạng công nghiệp lần thứ tư đến năm 2030; 749/QĐ-TTg ngày 3/6/2022 về “Chươn..."
+    }
+  ]
+}

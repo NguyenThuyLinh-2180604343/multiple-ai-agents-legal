@@ -1,0 +1,36 @@
+{
+  "base": "20_VBHN_BGTVT_original",
+  "revised": "20_VBHN_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "chỉnh Thông tư này quy định về tổ chức giao thông trên cầu đường bộ và việc đặt biển báo hiệu hạn chế trọng lượng xe qua cầu trên mạng lưới đường bộ Việt Nam."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "dụng Thông tư này áp dụng đối với người tham gia giao thông và tổ chức, cá nhân liên quan đến quản lý, khai thác cầu đường bộ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau: 1. Cầu đường bộ là một công trình vượt chướng ngại vật, có khẩu độ không dưới 6m tạo thành một phần của con đường. 2. Phương tiện tham gia giao thông đường bộ gồm phương tiện giao thông đường bộ và xe máy chuyên dùng. 3. Phương tiện giao thông đường bộ gồm phương tiện giao thông cơ giới đường bộ, phương tiện giao thông thô sơ đường bộ. 4. Xe máy chuyên dùng gồm xe máy thi công, xe máy nông nghiệp, lâm nghiệp và các loại xe đặc chủng khác sử dụng vào mục đích quốc phòng, an ninh có tham gia giao thông đường bộ. 5. Phương tiện giao thông cơ giới đường bộ gồm xe ô tô; máy kéo; rơ moóc hoặc sơmi rơ moóc được kéo bởi xe ô tô, máy kéo; xe mô tô hai bánh; xe mô tô ba bánh; xe gắn máy (kể cả xe máy điện) và các loại xe tương tự. 6. Xe thân liền là xe có khoang lái và thùng chở hàng nằm trên một khung xe cứng, liền khối. 7. Xe đầu kéo sơmi rơ moóc là một tổ hợp xe, bao gồm một đầu kéo kéo theo một sơmi rơ moóc. 8. Xe thân liền kéo rơ moóc là một tổ hợp xe, bao gồm xe thân liền kéo theo một rơ moóc. 9. Tổng trọng lượng xe (khối lượng toàn bộ xe) bao gồm trọng lượng bản thân xe cộng với trọng lượng của người, hành lý và hàng hóa xếp trên xe (nếu có). 10. Tải trọng trục xe là tổng trọng lượng xe phân bổ trên mỗi trục xe (trục đơn, cụm trục kép, cụm trục ba). 11. Chiều dài cơ sở của xe là khoảng cách từ tim trục bánh xe đầu tiên đến tim trục bánh xe cuối cùng của xe hay tổ hợp xe. 12. Tải trọng khai thác của cầu là khả năng chịu tải cho phép để bảo đảm khai thác an toàn, bền vững công trình cầu. Tải trọng khai thác được xác định theo hồ sơ thiết kế và tình trạng kỹ thuật thực tế của cầu, được cơ quan có thẩm quyền công bố hoặc được thể hiện bằng biển báo hiệu đặt trước cầu. 13. Chiều dài nhịp tính toán cầu là khoảng cách theo phương dọc cầu, giữa tim hai gối cầu trong cùng một nhịp hoặc khoảng cách giữa hai trụ, mố liên tiếp đối với cầu khung, cầu bản không gối. 14. Chiều dài cầu là chiều dài theo phương dọc cầu, tính từ điểm cuối của hai đuôi mố. 15. 2 Cơ quan, đơn vị trực tiếp quản lý cầu (viết tắt là Cơ quan trực tiếp quản lý cầu) gồm: Cục Đường cao tốc Việt Nam, các Khu Quản lý đường bộ, Sở Giao thông vận tải, Ủy ban nhân dân cấp huyện, Ủy ban nhân dân cấp xã, Nhà đầu tư đối với các dự án PPP và cơ quan, đơn vị khác được cấp có thẩm quyền giao nhiệm vụ 16. Thông tư số 07/2010/TT-BGTVT là tên viết tắt của Thông tư số 07/2010/TT-BGTVT ngày 11 tháng 02 năm 2010 của Bộ trưởng Bộ Giao thông vận tải quy định về tải trọng, khổ giới hạn của đường bộ; lưu hành xe quá tải trọng, xe quá khổ giới hạn, xe bánh xích trên đường bộ; vận chuyển hàng siêu trường, siêu trọng; giới hạn xếp hàng hóa trên phương tiện giao thông đường bộ khi tham gia giao thông trên đường bộ, đã được sửa đổi, bổ sung bởi Thông tư số 03/2011/TT-BGTVT ngày 22 tháng 02 năm 2011 và Thông tư số 65/2013/TT- BGTVT ngày 31 tháng 12 năm 2013. Chương II TỔ CHỨC GIAO THÔNG TRÊN CẦU ĐƯỜNG BỘ"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "chức giao thông trên cầu đường bộ Trên cầu đường bộ, việc tổ chức giao thông tuân theo quy tắc giao thông đường bộ được quy định tại Chương II của Luật Giao thông đường bộ năm 2008 và nguyên tắc sau đây: 1. Phương tiện tham gia giao thông trên cầu đường bộ phải đi bên phải theo chiều đi của mình, đi đúng làn đường, phần đường quy định; tuân th"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 20/VBHN-BGTVT Hà Nội, ngày 28 tháng 7 năm 2023 THÔNG TƯ QUY ĐỊNH VỀ TỔ CHỨC GIAO THÔNG VÀ ĐẶT BIỂN BÁO HIỆU HẠN CHẾ TRỌNG LƯỢNG XE QUA CẦU ĐƯỜNG BỘ Thông tư số 84/2014/TT-BGTVT ngày 31 tháng 12 năm 2014 của Bộ trưởng Bộ Giao thông vận tải quy định về tổ chức giao thông và đặt biển báo hiệu hạn chế trọng lượng xe qua cầu đường bộ, có hiệu lực kể từ ngày 01 tháng 03 năm 2015 được sửa đổi, bổ sung bởi: Thông tư số 06/2023/TT-BGTVT ngày 12 tháng 05 năm 2023 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của các thông tư liên quan đến quản lý, khai thác, sử dụng, bảo trì và bảo vệ đường bộ, có hiệu lực kể từ ngày 01 tháng 07 năm 2023. Căn cứ Luật Giao thông đường bộ ngày 13 tháng 11 năm 2008; Căn cứ Nghị định số 107/2012/NĐ-CP ngày 20 tháng 12 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tả..."
+    }
+  ]
+}

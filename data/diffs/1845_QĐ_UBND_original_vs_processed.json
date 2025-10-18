@@ -1,0 +1,30 @@
+{
+  "base": "1845_QĐ_UBND_original",
+  "revised": "1845_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "thủ tục hành chính (thủ tục số 42, 43 tại mục III) bị bãi bỏ trong lĩnh vực đường bộ được công bố tại Quyết định số 951/QĐ-UBND ngày 05/4/2016 của Chủ tịch Ủy ban nhân dân tỉnh về việc công bố thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Giao thông vận tải tỉnh Tiền Giang đã chuẩn hóa về nội dung (có danh mục kèm theo) ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "kể từ ngày 05/10/2024."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "BỊ BÃI BỎ TRONG LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH TIỀN GIANG (Ban hành kèm theo Quyết định số 1845/QĐ-UBND ngày 26 tháng 8 năm 2024 của Chủ tịch Ủy ban nhân dân tỉnh Tiền Giang) STT Số hồ sơ TTHC Tên thủ tục hành chính Tên VBQPPL quy định nội dung bãi bỏ 1. 1.002889 Công bố đưa trạm dừng nghỉ vào khai thác Thông tư số 09/2024/TT BGTVT ngày 05/4/2024 của Bộ trưởng Bộ Giao thông vận tải ban hành sửa đổi 01:2024 QCVN 43:2012/BGTVT - Quy chuẩn kỹ thuật quốc gia về Trạm dừng nghỉ đường bộ 2. 1.002883 Công bố lại đưa trạm dừng nghỉ vào khai thác"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH TIỀN GIANG ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 1845/QĐ-UBND Tiền Giang, ngày 26 tháng 8 năm 2024 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ THỦ TỤC HÀNH CHÍNH BỊ BÃI BỎ TRONG LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH TIỀN GIANG CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH TIỀN GIANG Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 92/2017/NĐ-CP ngày 07 tháng 8 năm 2017 của Chính phủ về sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Thông tư số 02/2017/TT-VPCP ngày 31 tháng 10 năm 2017 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ hướng dẫn về nghiệp vụ kiểm soát thủ tục hành chính; C..."
+    }
+  ]
+}

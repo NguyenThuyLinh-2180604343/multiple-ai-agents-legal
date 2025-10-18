@@ -1,0 +1,36 @@
+{
+  "base": "03_2021_QĐ_UBND_original",
+  "revised": "03_2021_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "liên quan trong việc thẩm định, thẩm tra an toàn giao thông đường bộ trên địa bàn tỉnh Hòa Bình bao gồm: a) Các dự án, công trình đường bộ xây dựng mới, nâng cấp cải tạo: Dự án đường tỉnh; đường huyện (bao gồm cả đường huyện theo hình thức PPP) có cấp kỹ thuật từ cấp V trở lên theo Quy chuẩn TCVN 4054:2005 ; đường đô thị có tiêu chuẩn từ đường phố gom trở lên theo TCXDVN 104:2007 . b) Các công trình đường bộ đang khai thác đối với đường đô thị, đường tỉnh, đường huyện, đường chuyên dùng được quy định tại khoản 2,"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "DÂN CHỦ TỊCH Bùi Văn Khánh QUY ĐỊNH VỀ THẨM ĐỊNH, THẨM TRA AN TOÀN GIAO THÔNG ĐƯỜNG BỘ TRÊN ĐỊA BÀN TỈNH HÒA BÌNH (Kèm theo Quyết định số: 03/2021/QĐ-UBND ngày 15 tháng 01 năm 2021 của Ủy ban nhân dân tỉnh Hòa Bình) Chương I NHỮNG QUY ĐỊNH CHUNG"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 13.1",
+      "change": "added",
+      "to": "quản lý bảo vệ kết cấu hạ tầng giao thông đường bộ. 2. Đối với các dự án công trình đê kết hợp giao thông và các dự án, công trình đường bộ khác trên địa bàn tỉnh không thuộc quy định tại Khoản 1 Điều này khuyến khích thực hiện việc thẩm định, thẩm tra an toàn giao thông theo quy định tại Quy định này."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "chức, cá nhân thực hiện đầu tư các dự án xây dựng mới, nâng cấp, cải tạo các công trình đường bộ; các cơ quan, đơ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH HÒA BÌNH -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc -------------------- Số: 03/2021/QĐ-UBND Hòa Bình, ngày 15 tháng 01 năm 2021 QUYẾT ĐỊNH BAN HÀNH QUY ĐỊNH VỀ THẨM ĐỊNH, THẨM TRA AN TOÀN GIAO THÔNG ĐƯỜNG BỘ TRÊN ĐỊA BÀN TỈNH HÒA BÌNH ỦY BAN NHÂN DÂN TỈNH HÒA BÌNH Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015; Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015; Căn cứ Luật Giao thông đường bộ ngày 13 tháng 11 năm 2008; Căn cứ Luật Xây dựng ngày 18 tháng 6 năm 2014 và các Luật Xây dựng đã được sửa đổi, bổ sung; Căn cứ Nghị định số 154/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 34/2016/NĐ-CP ngày 14 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật ban hành văn bản quy phạm pháp luật; Căn cứ Nghị định số 11/2010/NĐ-CP ngày 24 tháng 02 năm 2010 của Chính phủ quy định về quản lý và bảo vệ..."
+    }
+  ]
+}

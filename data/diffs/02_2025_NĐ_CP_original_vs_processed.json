@@ -1,0 +1,48 @@
+{
+  "base": "02_2025_NĐ_CP_original",
+  "revised": "02_2025_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "19 tháng 10 năm 2023 của Chính phủ như sau: “"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 14.1",
+      "change": "added",
+      "to": "trường hợp quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 22.1",
+      "change": "added",
+      "to": "đi khám bệnh, chữa bệnh theo yêu cầu: a) Người có thẻ bảo hiểm y tế đi khám bệnh, chữa bệnh theo yêu cầu được quỹ b"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "hưởng 100% chi phí khám bệnh, chữa bệnh theo quy định tại điểm a khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 21.1",
+      "change": "added",
+      "to": "năm 1945; b) Người hoạt động cách mạng từ ngày 01 tháng 01 năm 1945 đến ngày khởi nghĩa tháng Tám năm 1945; c) Bà mẹ Việt Nam anh hùng; d) Thương binh, người hưởng chính sách như thương binh, thương binh loại B, bệnh binh suy giảm khả năng lao động từ 81% trở lên; đ) Thương binh, người hưởng chính sách như thương binh, thương binh loại B, bệnh binh khi điều trị vết thương, bệnh tật tái phát; e) Người hoạt động kháng chiến bị nhiễm chất độc hóa học có tỷ lệ suy giảm khả năng lao động từ 81% trở lên; g) Trẻ em dưới 6 tuổi. 3. 100% chi phí khám bệnh, chữa bệnh đối với trường hợp chi phí cho một lần khám bệnh, chữa bệnh thấp hơn 15% mức lương cơ sở. 4. 95% chi phí khám bệnh, chữa bệnh đối với các đối tượng quy định tại khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "chữa bệnh ngoại trú tại cơ sở khám bệnh, chữa bệnh cấp cơ bản theo quy định tại điểm e và điểm h khoản 4"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 02/2025/NĐ-CP Hà Nội, ngày 01 tháng 01 năm 2025 NGHỊ ĐỊNH SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 146/2018/NĐ-CP NGÀY 17 THÁNG 10 NĂM 2018 CỦA CHÍNH PHỦ QUY ĐỊNH CHI TIẾT VÀ HƯỚNG DẪN BIỆN PHÁP THI HÀNH LUẬT BẢO HIỂM Y TỂ, ĐÃ ĐƯỢC SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU TẠI NGHỊ ĐỊNH SỐ 75/2023/NĐ-CP NGÀY 19 THÁNG 10 NĂM 2023 CỦA CHÍNH PHỦ Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Bảo hiểm y tế ngày 14 tháng 11 năm 2008; Luật sửa đổi, bổ sung một số điều của Luật Bảo hiểm y tế ngày 13 tháng 6 năm 2014 và Luật sửa đổi, bổ sung một số điều của Luật Bảo hiểm y tế ngày 27 tháng 11 năm 2024; Theo đề nghị của Bộ trưởng Bộ Y tế; Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của Nghị định số 146/2018/NĐ-CP ngày 17 th..."
+    }
+  ]
+}

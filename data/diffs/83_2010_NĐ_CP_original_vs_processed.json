@@ -1,0 +1,48 @@
+{
+  "base": "83_2010_NĐ_CP_original",
+  "revised": "83_2010_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "tục đăng ký và cung cấp thông tin về giao dịch bảo đảm bằng tài sản (sau đây gọi chung là đăng ký giao dịch bảo đảm); tổ chức, nhiệm vụ, quyền hạn của cơ quan đăng ký giao dịch bảo đảm và quản lý nhà nước về đăng ký giao dịch bảo đảm."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "đây được hiểu như sau: 1. Đăng ký giao dịch bảo đảm là việc cơ quan đăng ký giao dịch bảo đảm ghi vào Sổ đăng ký giao dịch bảo đảm hoặc nhập vào Cơ sở dữ liệu về giao dịch bảo đảm việc bên bảo đảm dùng tài sản để bảo đảm thực hiện nghĩa vụ dân sự đối với bên nhận bảo đảm. 2. Sổ đăng ký giao dịch bảo đảm là sổ chuyên dùng để đăng ký giao dịch bảo đảm hoặc sổ có một phần dành để đăng ký giao dịch bảo đảm. 3. Cơ sở dữ liệu về giao dịch bảo đảm là tập hợp các thông tin về giao dịch bảo đảm đã đăng ký được lưu giữ tại cơ quan đăng ký. 4. Hồ sơ đăng ký bao gồm đơn yêu cầu đăng ký hoặc đơn yêu cầu đăng ký và các giấy tờ khác theo quy định của pháp luật về đăng ký giao dịch bảo đảm. 5. Hồ sơ đăng ký hợp lệ là hồ sơ có đủ các giấy tờ theo quy định của pháp luật hoặc có đơn yêu cầu đăng ký hợp lệ. 6. Đơn yêu cầu đăng ký hợp lệ là đơn có đủ các nội dung thuộc diện bắt buộc phải kê khai theo mẫu. 7. Tài sản gắn liền với đất bao gồm nhà ở, công trình xây dựng khác, rừng sản xuất là rừng trồng, vườn cây lâu năm. 8. Giấy tờ xác định tư cách pháp lý của người yêu cầu đăng ký là văn bản của cơ quan nhà nước có thẩm quyền cấp cho cá nhân, tổ chức, gồm: chứng minh nhân dân, hộ chiếu, thẻ thường trú, văn bản cấp mã số thuế, giấy chứng nhận đăng ký kinh doanh, quyết định thành lập, giấy phép đầu tư, giấy chứng nhận nhận đầu tư hoặc giấy tờ khác cấp cho tổ chức nước ngoài theo quy định của pháp luật nước đó."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "đăng ký: a) Thế chấp quyền sử dụng đất; b) Thế chấp rừng sản xuất là rừng trồng; c) Cầm cố tàu bay, thế chấp tàu bay; d) Thế chấp tàu biển; đ) Các trường hợp khác, nếu pháp luật có quy định. 2. Các giao dịch bảo đảm bằng tài sản không thuộc các trường hợp quy định tại khoản 1 Điều này được đăng ký khi cá nhân, tổ chức có yêu cầu."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "tài sản gắn liền với đất, cầm cố tàu bay, thế chấp tàu bay, thế chấp tàu biển được đăng ký trên cơ sở nội dung kê khai trong đơn yêu cầu đăng ký, các giấy tờ trong hồ sơ đăng ký và thông tin được lưu giữ tại cơ quan đăng ký. Giao dịch bảo đảm bằng tài sản khác được đăng ký trên cơ sở nội dung kê khai trong đơn yêu cầu đăng ký. Nội dung kê khai trong đơn yêu cầu đăng ký phải phù hợp với thỏa thuận của các bên tham gia giao dịch bảo đảm. 2. Cơ quan đăng ký giao dịch bảo đảm thực hiện việc đăng ký theo đúng thứ tự nộp hồ sơ yêu cầu đăng ký. 3. Thông tin lưu trữ trong Sổ đăng ký giao dịch bảo đảm, Cơ sở dữ liệu về giao dịch bảo đảm và Hệ thống dữ liệu quốc gia về giao dịch bảo đảm được công khai cho cá nhân, tổ chức có yêu cầu tìm hiểu."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "người yêu cầu đăng ký 1. Người yêu cầu đăng ký là bên bảo đảm, bên nhận bảo đảm hoặc Tổ trưởng tổ quản lý, thanh lý tài sản của bên nhận bảo đảm là doanh nghiệp, hợp tác xã bị lâm vào tình trạng phá sản hoặc người được một trong các chủ thể này ủy quyền. Trong trường hợp thay đổi bên bảo đảm, bên nhận bảo đảm, thì bên bảo đảm mới, bên nhận bảo đảm mới cũng có thể là người yêu cầu đăng ký thay đổi đó. 2. Người yêu cầu đăng ký phải kê khai chính xác, đúng sự thật, phù hợp với nội dung của giao dịch bảo đảm đã giao kết và kê khai đầy đủ các mục thuộc diện phải kê khai trong đơn yêu cầu đăng ký; lập hồ sơ đăng ký đầy đủ và không được giả mạo giấy tờ. 3. Trong trường hợp đơn yêu cầu đăng ký có nội dung không đúng sự thật, không phù hợp với nội dung của giao dịch bảo đảm đã giao kết, hồ sơ đăng ký có giấy tờ giả mạo mà gây thiệt hại thì người yêu cầu đăng ký phải bồi thường cho người bị thiệt hại; tùy theo mức độ vi phạm có thể bị xử lý vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự theo quy định của pháp luật."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "hiệu"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc -------------- Số: 83/2010/NĐ-CP Hà Nội, ngày 23 tháng 07 năm 2010 NGHỊ ĐỊNH VỀ ĐĂNG KÝ GIAO DỊCH BẢO ĐẢM CHÍNH PHỦ Căn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001; Căn cứ Bộ luật Dân sự ngày 14 tháng 6 năm 2005; Căn cứ Bộ luật Hàng hải ngày 14 tháng 6 năm 2005; Căn cứ Luật Đất đai ngày 26 tháng 11 năm 2003; Căn cứ Luật Bảo vệ và Phát triển rừng ngày 03 tháng 12 năm 2004; Căn cứ Luật Hàng không dân dụng Việt Nam ngày 29 tháng 6 năm 2006; Căn cứ Luật sửa đổi, bổ sung một số điều của các luật liên quan đến đầu tư xây dựng cơ bản ngày 19 tháng 6 năm 2009; Xét đề nghị của Bộ trưởng Bộ Tư pháp, NGHỊ ĐỊNH: Chương 1. NHỮNG QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định trình tự, thủ tục đăng ký và cung cấp thông tin về giao dịch bảo đảm bằng tài sản (sau đây gọi chung là đăng ký giao dịch bảo đảm); tổ chức, nhiệm vụ, quyền hạn của cơ quan đăng ký giao dịch bảo đảm và quả..."
+    }
+  ]
+}

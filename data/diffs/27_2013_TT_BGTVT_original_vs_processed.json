@@ -1,0 +1,54 @@
+{
+  "base": "27_2013_TT_BGTVT_original",
+  "revised": "27_2013_TT_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "chỉnh Thông tư này quy định về tiêu chuẩn, nhiệm vụ và quy ề n hạn đ ố i với lãnh đạo, nhâ n viên tại Trung tâm đ ă ng kiểm phươn g tiện giao thông cơ giới đường bộ (sau đây gọi tắt l à Trung tâm đă ng kiểm)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "dụng 1. Thông tư này áp dụng đối với cơ quan, tổ c hức, cá nhân có liên quan đến hoạt động kiểm định an toàn kỹ thuật v à bảo vệ môi trường xe cơ giới (sau đây gọi tắt là kiểm định). 2. Th ô ng tư n à y không áp dụng đối với cơ quan, tổ chức, cá nh â n c ó liên quan đến hoạt động k iể m định xe cơ giới của Bộ Quốc phòn g v à Bộ Công an phụ c vụ mục đích quốc p h òng, an ninh ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "ngữ Trong Thông tư nà y , c á c từ ngữ dưới đây được hiểu như sau: 1. Lãnh đạo Trung tâm đăng kiểm bao gồm: Giám đốc, Phó Giám đốc. 2. Nhân viên Trung tâm đăng kiểm bao gồm: Phụ trách dây chuyền, đ ă ng kiểm viên và nhân viên nghiệp vụ. 3. Đăng kiểm viên bao gồm các hạng: Đăng kiểm viên xe cơ giới và đăng kiểm viên xe cơ giới bậc cao. Chương 2. TIÊU CHUẨN, ĐIỀU KIỆN CỦA LÃNH ĐẠO, NHÂN VIÊN TRUNG TÂM ĐĂNG KIỂM"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "lãnh đạo và nhân viên L ã nh đạo, nhân viên Trung tâm đăng kiểm nếu là công chức, viên chức phải đáp ứng c á c tiêu chuẩn theo quy định của pháp luật về côn g chức, viên chức."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "viên nghiệp vụ 1. Trình độ chuyên môn: Tối thiểu tốt n g hiệp trung cấp n g hề. 2. Trình độ nghiệp vụ: Được cấp Giấy chứng nhận hoàn thành lớp Tập huấn nhân viên nghiệp vụ đăng kiểm xe cơ giới theo mẫu quy định tại Phụ l ục 1 của Thông tư này về những nội dung sau: a) Nắm vững các văn bản quy định, quy trình kiểm tra, h ướng dẫn n g hiệp vụ liên quan đ ế n công tác kiểm định xe cơ giới; b) S ử dụng thành thạo các chương trình phần mềm phục vụ công tác đăng kiểm: Chương tr ì nh quản lý kiểm định xe cơ giới; chương trình tra cứu từ xa, tr a cứu phương tiện nhập khẩu và sản xuất lắp ráp; chương trình cảnh báo các phương tiện không được ki ể m định, phương t iện không đạt tiêu chuẩn an toàn kỹ thuật và bảo vệ môi trường; các chương trình tra c ứu kiểu loại phương tiện. 3. Trình độ tiếng Anh: Tối thiểu trình độ A hoặc tương đương."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "kiện đăng kiểm viên xe cơ g iới 1. Trình độ chuyên môn: Tốt nghiệp đại học chuyên ngành cơ khí phương tiện giao thông cơ gi ớ i đường bộ; trong chương trình đào tạo phải có các nội dung sau: Lý thuyết ô tô, cấu tạo ô tô, kết cấu tính toán ô tô, bảo dưỡng kỹ thuật ô tô, động cơ đốt trong và điện ô tô. 2. Kinh nghiệm công tác: Làm việc trực tiếp theo ngành nghề đào tạo quy định tại khoản 1 Điều này ít nhất 02 năm tại các cơ sở sửa chữa, bảo dưỡng, sản xuất, lắp ráp ô tô hoặc ít nhất 03 năm tại Trung tâm đăng kiểm. 3. Trình độ nghiệp vụ: Được cấp Giấy chứng nhận hoàn thành lớp Tập huấn nghiệp vụ đăng kiểm xe cơ giới theo mẫu quy định tại Phụ lục 2 của Thông tư này về những nội dung sau: a) Nắm vững các văn bản quy định, tiêu chuẩn, quy chuẩn kỹ thuật, hướng dẫn nghiệp vụ và thực hiện thành thạo các quy t rì nh kiểm tra trên d ây chuyền kiểm định; b) Sử dụng thành thạo các chương trình phần mềm phục vụ công tác đăng kiểm: Chương trình Quản lý kiểm định xe cơ giới; chương trình đánh gi á kết quả kiểm tra; chương trình tra cứu từ xa, tra cứu phương tiện nhập khẩu và sản xuất lắp ráp; chương tr ì nh cảnh báo các phương tiện không được kiểm định, phương tiện không đạt tiêu chuẩn an toàn kỹ thuật và bảo vệ môi trường; các chương trình tr a cứu kiểu loại phư ơn g tiện. 4. Trình độ tiếng Anh: Tối thiểu trình độ A hoặc tương đương. 5. Được Cục trư ở ng Cục Đăng kiểm Việt Nam công nhận, cấp Giấy chứng nhận đăng kiểm viên xe cơ giới theo mẫu quy định tại Phụ lục 3 và Thẻ đăng kiểm viên xe cơ giới theo mẫu quy định tại Phụ lục 4 của Thông tư n à y."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 7.1",
+      "change": "added",
+      "to": "kiện đăng kiểm viên xe cơ gi ớ i bậc cao 1. Trình độ chuyên môn : Tốt nghiệp đại học chuyên ngành cơ khí phương tiện giao thông cơ giới đường bộ; trong chương trình đào tạo phải có các nội dung sau: Lý thuyết ô tô, c ấ u tạo ô tô, kết c ấ u tính toán ô tô, bảo dưỡng kỹ thuật ô tô, động cơ đốt trong và điện ô tô. 2. Kinh nghiệm công tác: Có th"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 27/2013/TT-BGTVT Hà Nội, ngày 24 tháng 09 năm 2013 THÔNG TƯ QUY ĐỊNH VỀ TIÊU CHUẨN, NHIỆM VỤ VÀ QUYỀN HẠN ĐỐI VỚI LÃNH ĐẠO, NHÂN VIÊN TRUNG TÂM ĐĂNG KIỂM PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ Căn cứ Luật Giao thông đường bộ ngày 13 tháng 11 năm 2008; Căn cứ Nghị định số 107/2012/NĐ-CP ngày 20 tháng 12 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Theo đề nghị của Vụ trưởng Vụ Tổ chức cán bộ và Cục trưởng Cục Đăng kiểm Việt Nam; Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư quy định về tiêu chuẩn, nhiệm vụ và quyền hạn đối với lãnh đạo, nhân viên Trung tâm đăng kiểm phương tiện giao thông cơ giới đường bộ. Chương 1. QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Thông tư này quy định về tiêu chuẩn, nhiệm vụ và quy ề n hạn đ ố i với lãnh đạo, nhâ n viên tại Trung tâm đ ă ng kiểm phươn g tiện ..."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "base": "1155_QĐ_UBND_original",
+  "revised": "1155_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "thủ tục hành chính, Hệ thống thông tin giải quyết thủ tục hành chính tỉnh theo đúng quy định (chậm nhất sau 03 ngày làm việc kể từ ngày ký ban hành) ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "vận tải có trách nhiệm: Cập nhật, không công khai danh mục thủ tục hành chính tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "có hiệu lực thi hành kể từ ngày 05 tháng 10 năm 2024 ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "Ủy ban nhân dân tỉnh, Giám đốc Sở Giao thông vận tải và các tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./. KT. CHỦ TỊCH PHÓ CHỦ TỊCH Lê Tấn Hổ DANH MỤC THỦ TỤC HÀNH CHÍNH ĐƯỢC BÃI BỎ TRONG LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI (Ban hành kèm theo Quyết định số: 1155/QĐ-UBND ngày 23 tháng 8 năm 2024 của Chủ tịch UBND tỉnh Phú Yên) TT Số hồ sơ TTHC Thủ tục hành chính Tên VBQPPL quy định nội dung bãi bỏ Ghi chú 1 1.002889 Công bố đưa trạm dừng nghỉ vào khai thác Thông tư số 09/2024/TT-BGTVT ngày 05/4/2024 của Bộ trưởng Bộ Giao thông vận tải ban hành sửa đổi 01:2024 QCVN 43:2012/BGTVT - Quy chuẩn kỹ thuật quốc gia về Trạm dừng nghỉ đường bộ Được công bố tại Quyết định số 902/QĐ-UBND ngày 27/4/2016 của Chủ tịch UBND tỉnh 2 1.002883 Công bố lại đưa trạm dừng nghỉ vào khai thác"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH PHÚ YÊN ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 1155/QĐ-UBND Phú Yên, ngày 23 tháng 8 năm 2024 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ DANH MỤC THỦ TỤC HÀNH CHÍNH ĐƯỢC BÃI BỎ TRONG LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH PHÚ YÊN Căn cứ Luật Tổ chức Chính quyền địa phương ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 92/2017/NĐ-CP ngày 07 tháng 8 năm 2017 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Thông tư số 02/2017/TT-VPCP ngày 31 tháng 10 năm 2017 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ hướng dẫn nghiệp vụ về kiểm soát thủ tục hành chính; Căn cứ Quyết định..."
+    }
+  ]
+}

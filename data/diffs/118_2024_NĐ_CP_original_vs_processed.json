@@ -1,0 +1,54 @@
+{
+  "base": "118_2024_NĐ_CP_original",
+  "revised": "118_2024_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "4"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 151.1",
+      "change": "added",
+      "to": "sự năm 2019 ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "giáo dục tại trường giáo dưỡng. 2. Cơ quan quản lý thi hành án hình sự, Cơ quan thi hành án hình sự, Cơ quan được giao một số nhiệm vụ thi hành án hình sự. 3. Cơ quan, tổ chức và cá nhân khác có liên quan."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "hiện các chế độ, chính sách đối với phạm nhân, học sinh 1. Kinh phí bảo đảm cho việc đầu tư, xây dựng cơ sở vật chất, mua sắm trang thiết bị, phương tiện phục vụ tổ chức quản lý và thực hiện chế độ khám sức khỏe định kỳ, khám bệnh, chữa bệnh, chăm sóc y tế, phục hồi chức năng, phòng chống dịch bệnh, tổ chức cai nghiện ma túy, điều trị HIV/AIDS; giáo dục pháp luật, giáo dục công dân, dạy văn hóa, dạy nghề, phổ biến thời sự, chính sách, pháp luật, tư vấn tâm lý, hỗ trợ thủ tục pháp lý, hoạt động văn hóa, văn nghệ, thể dục, thể thao, vui chơi giải trí và xây dựng, bố trí các buồng chữa bệnh đối với phạm nhân, học sinh do ngân sách nhà nước cấp. 2. Cơ sở giam giữ phạm nhân được trích từ kết quả lao động của phạm nhân và tiếp nhận sự ủng hộ kinh phí của các tổ chức, cá nhân trong nước để hỗ trợ đầu tư cho cơ sở vật chất và thực hiện các chế độ đối với phạm nhân. Việc quản lý, sử dụng kinh phí thực hiện theo quy định của pháp luật về ngân sách nhà nước và quy định của pháp luật khác có liên quan. Chương II CƠ CẤU TỔ CHỨC CỦA TRẠI GIAM"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "thống tổ chức, biên chế và hoạt động của trại giam; quyết định việc thành lập, giải thể, sáp nhập, quản lý trại giam, phân trại giam trong trại giam; ban hành danh mục, tiêu chuẩn, định mức xây dựng các hạng mục công trình trại giam, hệ thống kiểm soát an ninh của trại giam thuộc Bộ Công an quản lý. 2. Bộ trưởng Bộ Quốc phòng chịu trách nhiệm quản lý hệ thống tổ chức, biên chế và hoạt động của trại giam; quyết định việc thành lập, giải thể, sáp nhập, quản lý trại giam, phân trại giam trong trại giam; ban hành danh mục, tiêu chuẩn, định mức xây dựng các hạng mục công trình trại giam, hệ thống kiểm soát an ninh của trại giam thuộc Bộ Quốc phòng quản lý."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "thị, Phó Giám thị, Trưởng phân trại, Phó Trưởng phân trại, Đội trưởng, Phó Đội trưởng; sĩ quan, quân nhân chuyên nghiệp, hạ sĩ quan; chiến sĩ và công nhân Công an, công nhân viên Quốc phòng. 2. Giám thị, Phó Giám thị, Trưởng phân trại, Phó Trưởng phân trại, Đội trưởng, Phó Đội trưởng phải là người có trình độ đại học cảnh sát, đại học an ninh hoặc cử nhân luật trở lên và bảo đảm các tiêu chuẩn khác theo quy định của Bộ Công an, Bộ Quốc phòng."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "quản lý, giam giữ, giáo dục cải tạo phạm nhân theo đúng đường lối của Đảng, chính sách pháp luật của Nhà nước. Phân trại giam gồm: a) Khu giam giữ Khu giam giữ thuộc phân trại giam, gồm: Khu giam giữ đối với phạm nhân có mức án phạt tù trên 15 năm, tù chung thân, phạm nhân thuộc trường hợp tái phạm nguy hiểm; Khu giam giữ đối với phạm nhân có mức án phạt tù từ 15 năm trở xuống; phạm nhân có mức án phạt tù trên 15 năm đã được giảm thời hạn chấp hành án phạt tù và thời hạn chấp hành án phạt tù còn lại dưới 15 năm; phạm nhân thuộc trường hợp tái phạm nguy hiểm, đã chấp hành một phần hai thời hạn chấp hành án phạt tù và đã được giảm thời hạn chấp hành án phạt tù. b) Nhà giam Nhà giam chung: Mỗi buồng giam giam giữ không quá 80 phạm nhân; Nhà giam riêng: Mỗi buồng giam giam giữ không quá 08 phạm nhân; Nhà kỷ luật: Mỗi buồng giam giam giữ không quá 02 phạm nhân bị kỷ luật. c) Các công trình phục vụ, gồm: Công trình phục vụ lao động, học tập, sinh hoạt, chăm sóc y tế; giáo dục"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 118/2024/NĐ-CP Hà Nội, ngày 30 tháng 9 năm 2024 NGHỊ ĐỊNH QUY ĐỊNH CHI TIẾT THI HÀNH MỘT SỐ ĐIỀU CỦA LUẬT THI HÀNH ÁN HÌNH SỰ Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Thi hành án hình sự ngày 14 tháng 6 năm 2019; Căn cứ Bộ luật Lao động ngày 20 tháng 11 năm 2019; Căn cứ Luật Xử lý vi phạm hành chính ngày 20 tháng 6 năm 2012; Luật sửa đổi, bổ sung một số điều của Luật Xử lý vi phạm hành chính ngày 13 tháng 11 năm 2020; Căn cứ Luật Giáo dục nghề nghiệp ngày 27 tháng 11 năm 2014; Theo đề nghị của Bộ trưởng Bộ Công an; Chính phủ ban hành Nghị định quy định chi tiết thi hành một số điều của Luật Thi hành án hình sự . Chương I QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định chi tiết khoản 4 Điều 17, Điều..."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "base": "56_2019_NĐ_CP_original",
+  "revised": "56_2019_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "phê duyệt, công bố, thực hiện, đánh giá và điều chỉnh các quy hoạch có tính chất kỹ thuật, chuyên ngành được quy định tại khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "hoạch và cơ quan lập quy hoạch 1. Cơ quan tổ chức lập quy hoạch là Bộ Giao thông vận tải. 2. Cơ quan lập quy hoạch là cơ quan chuyên môn trực thuộc Bộ Giao thông vận tải được giao trách nhiệm lập các quy hoạch có tính chất kỹ thuật, chuyên ngành trong lĩnh vực giao thông vận tải."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "nhân tham gia lập, thẩm định, phê duyệt, công bố, tổ chức thực hiện, đánh giá và điều chỉnh liên quan đến quy hoạch có tính chất kỹ thuật, chuyên ngành trong lĩnh vực giao thông vận tải (sau đây gọi là quy hoạch)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "chuyên môn đối với tổ chức tư vấn lập quy hoạch 1. Tổ chức tư vấn lập quy hoạch phải có các chuyên gia tư vấn đáp ứng điều kiện quy định tại khoản 2, khoản 3 Điều này. 2. Chuyên gia tư vấn là chủ nhiệm dự án quy hoạch phải có kinh nghiệm là chủ nhiệm dự án quy hoạch tối thiểu tương đương cùng cấp hoặc đã chủ trì thực hiện tối thiểu 02 quy hoạch cấp thấp hơn hoặc trực tiếp tham gia lập ít nhất 03 quy hoạch trong cùng lĩnh vực. 3. Chuyên gia tư vấn tham gia lập quy hoạch phải có bằng đại học trở lên thuộc cùng lĩnh vực với quy hoạch cần lập, đã có 03 năm kinh nghiệm chuyên môn trong công việc đảm nhận."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "quy hoạch Chi phí lập, thẩm định, phê duyệt, công bố, đánh giá và điều chỉnh quy hoạch được sử dụng từ nguồn kinh phí thường xuyên theo quy định của pháp luật về ngân sách nhà nước hoặc các nguồn vốn hợp pháp khác. Chương II LẬP QUY HOẠCH Mục 1. TỔ CHỨC LẬP QUY HOẠCH"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "tổ chức lập quy hoạch 1. Quyết định cơ quan lập quy hoạch. 2. Thẩm định và phê duyệt nhiệm vụ lập quy hoạch. 3. Lấy ý kiến các cơ quan, tổ chức, cá nhân có liên quan. 4. Trình Thủ tướng Chính phủ phê duyệt quy hoạch hoặc quyết định phê duyệt quy hoạch theo thẩm quyền."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 7.1",
+      "change": "added",
+      "to": "lập quy hoạch 1. Chủ trì, phối hợp với các cơ quan, tổ chức liên quan xây dựng và trình nhiệm vụ lập quy hoạch; gửi hồ sơ trình thẩm định nhiệm vụ lập quy hoạch tới cơ quan, tổ chức liên quan để tổ chức thẩm định. 2. Lựa chọn tổ chức tư vấn lập quy hoạch theo quy định. 3. Tổ chức triển khai lập quy hoạch theo nhiệm vụ quy hoạch được duyệt. 4. Cung cấp đầy đủ tài liệu, cơ sở vật chất theo quy định cho Hội đồng thẩm định và các cơ quan có liên quan khi tham gia ý kiến, thẩm định phê duyệt quy hoạch."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 8.1",
+      "change": "added",
+      "to": "tư vấn lập quy hoạch 1. Chịu trách nhiệm về nội dung theo hợp đồng, bao gồm cả số lượng, thời gian thực hiện, tính chính xác và chất lượng của sản phẩm quy hoạch. 2. Phối hợp với các cơ quan, tổ chức, cá nhân có liên quan trong quá trình lập quy hoạch."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 9.1",
+      "change": "added",
+      "to": "quá 03 tháng. 2. Thời hạn lập quy hoạch theo nhiệm vụ lập quy hoạch được duyệt. 3. Thời hạn xây dựng nhiệm vụ lập quy hoạch và thời hạn lập quy hoạch quy định tại khoản 1 và 2 Điều này không bao gồm thời gian thẩm định, phê duyệt nhiệm vụ lập quy hoạch và thời gian thẩm định, phê duyệt quy hoạch. Mục 2. NHIỆM VỤ LẬP QUY HOẠCH"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 10.1",
+      "change": "added",
+      "to": "quy hoạch 1. Căn cứ xây dựng nhiệm vụ lập quy hoạch: a) Quy hoạch ngành quốc gia, quy hoạch vùng và quy hoạch tỉnh có liên quan; b) Các văn bản quy phạm pháp luật có liên quan; c) Báo cáo rà soát, đánh giá thực hiện quy hoạch thời kỳ trước. 2. Nội dung nhiệm vụ lập quy hoạch: a) Căn cứ lập quy hoạch; b) Quan điểm, mục tiêu lập quy hoạch; c) Phạm vi, đối tượng, thời kỳ quy hoạch; d) Xác định các nhiệm vụ trọng tâm của quy hoạch; đ) Dự báo triển vọng và nhu cầu phát triển trong kỳ quy hoạch; e) Yêu cầu về nội dung, phương pháp lập quy hoạch; g) Yêu cầu và nhiệm vụ đánh giá môi trường chiến lược; h) Yêu cầu về sản phẩm quy hoạch (thành phần, số lượng, tiêu chuẩn, quy cách hồ sơ); i) Thời hạn lập quy hoạch, kế hoạch lập quy hoạch và trách nh"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 56/2019/NĐ-CP Hà Nội, ngày 24 tháng 6 năm 2019 NGHỊ ĐỊNH QUY ĐỊNH CHI TIẾT THI HÀNH MỘT SỐ ĐIỀU LIÊN QUAN ĐẾN LĨNH VỰC GIAO THÔNG VẬN TẢI TRONG LUẬT SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA 37 LUẬT CÓ LIÊN QUAN ĐẾN QUY HOẠCH Căn cứ Luật tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Căn cứ Luật Sửa đổi, bổ sung một số điều của 37 luật có liên quan đến quy hoạch ngày 20 tháng 11 năm 2018; Theo đề nghị của Bộ trưởng Bộ Giao thông vận tải; Chính phủ ban hành Nghị định quy định chi tiết thi hành một số điều liên quan đến lĩnh vực giao thông vận tải trong Luật Sửa đổi, bổ sung một số điều của 37 luật có liên quan đến quy hoạch . Chương I QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định chi tiết về việc lập, thẩm định, phê duyệt, công bố, thực hiện, đánh giá và điều chỉnh các quy hoạch có tính chất kỹ thuật, chuyên ngành được quy định tại khoản 2 Điều 1, khoản 6 Điều 2, ..."
+    }
+  ]
+}

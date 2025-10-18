@@ -1,0 +1,30 @@
+{
+  "base": "144_2018_NĐ_CP_original",
+  "revised": "144_2018_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "đa phương thức quốc tế 1. Doanh nghiệp, hợp tác xã, doanh nghiệp nước ngoài đầu tư tại Việt Nam quy định tại khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "tham gia vào hoạt động vận tải đa phương thức phải đáp ứng các điều kiện kinh doanh theo quy định của pháp luật tương ứng với mỗi phương thức vận tải.\". 2."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "tải đa phương thức quốc tế trực tiếp tại Bộ Giao thông vận tải hoặc qua đường bưu chính hoặc gửi bằng hình thức phù hợp khác. Hồ sơ bao gồm: a) Đơn đề nghị cấp Giấy phép kinh doanh vận tải đa phương thức quốc tế theo mẫu quy định tại Phụ lục I ban hành kèm theo Nghị định này; b) Bản sao Giấy chứng nhận đăng ký kinh doanh vận tải đa phương thức quốc tế hoặc giấy tờ tương đương do Cơ quan có thẩm quyền nước đó cấp và đã được hợp pháp hóa lãnh sự; c) Hợp đồng bảo hiểm trách nhiệm nghề nghiệp vận tải đa phương thức hoặc có bảo lãnh tương đương. 3. Trường hợp hồ sơ đề nghị cấp Giấy phép kinh doanh vận tải đa phương thức quốc tế chưa đầy đủ theo quy định, trong thời hạn 03 (ba) ngày l"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 144/2018/NĐ-CP Hà Nội, ngày 16 tháng 10 năm 2018 NGHỊ ĐỊNH SỬA ĐỔI, BỔ SUNG CÁC NGHỊ ĐỊNH VỀ VẬN TẢI ĐA PHƯƠNG THỨC Căn cứ Luật tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Căn cứ Bộ luật hàng hải Việt Nam ngày 25 tháng 11 năm 2015; Căn cứ Luật giao thông đường bộ ngày 13 tháng 11 năm 2008; Căn cứ Luật hàng không dân dụng Việt Nam ngày 29 tháng 6 năm 2006; Luật sửa đổi, bổ sung một số điều Luật hàng không dân dụng Việt Nam ngày 21 tháng 11 năm 2014; Căn cứ Luật giao thông đường thủy nội địa ngày 15 tháng 6 năm 2004; Luật sửa đổi, bổ sung một số điều của Luật giao thông đường thủy nội địa ngày 17 tháng 6 năm 2014; Căn cứ Luật đường sắt ngày 16 tháng 6 năm 2017; Căn cứ Luật doanh nghiệp ngày 26 tháng 11 năm 2014; Căn cứ Luật hợp tác xã ngày 20 tháng 11 năm 2012; Căn cứ Luật đầu tư ngày 26 tháng 11 năm 2014; Luật sửa đổi, bổ sung Điều 6 và Phụ lục 4 về Danh mục ngành, nghề..."
+    }
+  ]
+}

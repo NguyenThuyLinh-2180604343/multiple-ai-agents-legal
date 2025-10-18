@@ -1,0 +1,48 @@
+{
+  "base": "28_2022_TT_BGTVT_original",
+  "revised": "28_2022_TT_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "tượng áp dụng 1. Phạm vi điều chỉnh a) Thông tư này quy định về các hoạt động: tạo lập, cập nhật, quản lý, duy trì, kết nối, chia sẻ, sử dụng và đảm bảo an toàn thông tin dữ liệu đăng kiểm phương tiện giao thông vận tải thuộc phạm vi quản lý của Bộ Giao thông vận tải; b) Thông tư này không điều chỉnh đối với dữ liệu về tàu bay. 2. Đối tượng áp dụng a) Cơ quan, tổ chức, cá nhân tạo lập, cập nhật, quản lý, duy trì, kết nối, chia sẻ, sử dụng dữ liệu đăng kiểm phương tiện giao thông vận tải; b) Cơ quan, tổ chức, cá nhân được chia sẻ, kết nối dữ liệu đăng kiểm phương tiện giao thông vận tải; c) Các tổ chức, cá nhân khác có liên quan đến hoạt động kết nối, chia sẻ, sử dụng dữ liệu đăng kiểm phương tiện giao thông vận tải."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau: 1. Phương tiện giao thông vận tải (sau đây gọi là phương tiện) bao gồm phương tiện giao thông cơ giới đường bộ, xe máy chuyên dùng, tàu biển, phương tiện thủy nội địa, phương tiện giao thông đường sắt. 2. Nền tảng tích hợp, chia sẻ dữ liệu Bộ Giao thông vận tải là nền tảng phục vụ việc kết nối, chia sẻ dữ liệu các hệ thống thông tin, cơ sở dữ liệu trong nội bộ Bộ Giao thông vận tải và giữa Bộ Giao thông vận tải với các bộ, ngành, địa phương. 3. Cơ quan quản lý dữ liệu đăng kiểm phương tiện là Cục Đăng kiểm Việt Nam."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "bảo an toàn thông tin dữ liệu đăng kiểm phương tiện 1. Tuân thủ các quy định về bảo vệ bí mật nhà nước; các quy định về bảo đảm an toàn thông tin mạng, các quy định về bảo đảm an toàn hệ thống thông tin theo cấp độ. 2. Quản lý kết nối và chia sẻ dữ liệu tuân thủ theo quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 7.1",
+      "change": "added",
+      "to": "định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ quy định quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước. 3. Bảo đảm sự đầy đủ, chính xác của dữ liệu nhằm phục vụ công tác quản lý, sử dụng dữ liệu đăng kiểm phương tiện. 4. Phù hợp với Khung Kiến trúc Chính phủ điện tử Việt Nam, Kiến trúc Chính phủ điện tử Bộ Giao thông vận tải. 5. Tuân thủ các quy định về bảo mật thông tin; các quy định về quyền sở hữu trí tuệ liên quan đến dữ liệu; quyền riêng tư của tổ chức, cá nhân. 6. Tuân thủ các quy định, hướng dẫn kỹ thuật về trao đổi dữ liệu, ứng dụng công nghệ thông tin trong cơ quan nhà nước. Chương II TẠO LẬP, CẬP NHẬT, TÍCH HỢP DỮ LIỆU ĐĂNG KIỂM PHƯƠNG TIỆN"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "sở dữ liệu đăng kiểm phương tiện 1. Cơ sở dữ liệu đăng kiểm phương tiện là tập hợp các dữ liệu có liên quan đến phương tiện được tạo lập trong quá trình thực hiện các thủ tục kiểm định, kiểm tra, chứng nhận an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ, xe máy chuyên dùng, tàu biển, phương tiện thủy nội địa, phương tiện giao thông đường sắt. 2. Thông tin tối thiểu trong cơ sở dữ liệu đăng kiểm phương tiện bao gồm: a) Thông tin về phương tiện giao thông cơ giới đường bộ quy định tại Phụ lục I ban hành kèm theo Thông tư này; b) Thông tin về xe máy chuyên dùng quy định tại Phụ lục II ban hành kèm theo Thông tư này; c) Thông tin về tàu biển quy định tại Phụ lục III ban hành kèm theo Thông tư này; d) Thông tin về phương tiện thủy nội địa quy định tại Phụ lục IV ban hành kèm theo Thông tư này; đ) Thông tin về phương tiện giao thông đường sắt quy định tại Phụ lục V ban hành kèm theo Thông tư này."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "lập, cập nhật, tích hợp dữ liệu đăng kiểm phương tiện 1. Các đơn vị kiểm định, kiểm tra, chứng nhận an toàn kỹ thuật và bảo vệ môi trường cho phương tiện thực hiện tạo lập, cập nhật dữ liệu sau khi hoàn thành công tác kiểm định, kiểm tra, cấp giấy chứng nhận, hồ sơ đăn"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 28/2022/TT-BGTVT Hà Nội, ngày 29 tháng 11 năm 2022 THÔNG TƯ QUY ĐỊNH VỀ QUẢN LÝ, DUY TRÌ, CHIA SẺ VÀ ĐẢM BẢO AN TOÀN THÔNG TIN DỮ LIỆU ĐĂNG KIỂM PHƯƠNG TIỆN GIAO THÔNG VẬN TẢI Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Căn cứ Luật Tiếp cận thông tin ngày 06 tháng 4 năm 2016; Căn cứ Nghị định số 85/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về bảo đảm an toàn hệ thống thông tin theo cấp độ; Căn cứ Nghị định số 47/2020/NĐ-CP ngày 09 tháng 4 năm 2020 của Chính phủ quy định quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước. Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Theo đề nghị của Gi..."
+    }
+  ]
+}

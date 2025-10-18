@@ -1,0 +1,48 @@
+{
+  "base": "110_2025_NĐ_CP_original",
+  "revised": "110_2025_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "chi tiết"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 43.1",
+      "change": "added",
+      "to": "Cơ sở dữ liệu về phòng, chống bạo lực gia đình; trách nhiệm, quyền hạn của cơ quan, tổ chức, cá nhân trong việc thu thập, tạo lập, cập nhật, kết nối, chia sẻ, quản lý, khai thác, sử dụng Cơ sở dữ liệu về phòng, chống bạo lực gia đình."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "với các cơ quan nhà nước có thẩm quyền trong việc thu thập, tạo lập, cập nhật, kết nối, chia sẻ, quản lý thông tin, dữ liệu về nội dung quản lý nhà nước về phòng, chống bạo lực gia đình trong Cơ sở dữ liệu về phòng, chống bạo lực gia đình; các cơ quan, tổ chức, cá nhân khai thác, sử dụng Cơ sở dữ liệu về phòng, chống bạo lực gia đình."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "phòng, chống bạo lực gia đình là tập hợp thông tin về nội dung quản lý nhà nước về phòng, chống bạo lực gia đình theo quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 46.1",
+      "change": "added",
+      "to": "Phòng, chống bạo lực gia đình . 2. Thông tin về nội dung quản lý nhà nước về phòng, chống bạo lực gia đình được thu thập, tạo lập, cập nhật, kết nối, chia sẻ trong quá trình triển khai hoạt động quản lý nhà nước về phòng, chống bạo lực gia đình ở trung ương và địa phương. 3. Việc thu thập, tạo lập, cập nhật, kết nối, chia sẻ, quản lý, khai thác, sử dụng Cơ sở dữ liệu về phòng, chống bạo lực gia đình được thực hiện thống nhất trên toàn quốc thông qua phần mềm quản lý Cơ sở dữ liệu về phòng, chống bạo lực gia đình nhằm: a) Phục vụ yêu cầu quản lý nhà nước, xây dựng chính sách về phòng, chống bạo lực gia đình; b) Cung cấp thông tin, dữ liệu phục vụ việc bảo vệ, hỗ trợ người bị bạo lực gia đình; ngăn chặn hành vi bạo lực gia đình; xử lý vi phạm pháp luật về phòng, chống bạo lực gia đình; c) Rút ngắn thời gian và giảm nguồn lực thực hiện quy trình thu thập, báo cáo thông tin, dữ liệu về phòng, chống bạo lực gia đình, kịp thời cung cấp thông tin, bằng chứng phục vụ nhu cầu quản lý, nghiên cứu, đánh giá hiệu quả chính sách, nâng cao độ tin cậy của thông tin, dữ liệu về phòng, chống bạo lực gia đình; d) Đơn giản hóa thủ tục hành chính, đẩy mạnh phân cấp, phân quyền trong việc thu thập, tạo lập, cập nhật, kết nối, chia sẻ, quản lý, khai thác, sử dụng thông tin trong Cơ sở dữ liệu về phòng, chống bạo lực gia đình, cung cấp dịch vụ công trực tuyến về phòng, chống bạo lực gia đình, phục vụ nhu cầu tiếp cận thông tin của cơ quan, tổ chức, cá nhân theo quy định của pháp luật. 4. Thông tin trong Cơ sở dữ liệu về phòng, chống bạo lực gia đình được cơ quan nhà nước có thẩm quyền cung cấp có giá trị pháp lý được xác định như sau: a) Thông tin trong Cơ sở dữ liệu về phòng, chống bạo lực gia đình được cơ quan có thẩm quyền cung cấp dưới dạng thông điệp dữ liệu có giá trị pháp lý theo quy định của pháp luật về giao dịch điện tử; b) Thông tin trong Cơ sở dữ liệu về phòng, chống bạo lực gia đình được kết nối, chia sẻ với các cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, Trung tâm dữ liệu quốc gia, cơ sở dữ liệu, hệ thống thông tin khác của cơ quan nhà nước thông qua Nền tảng chia sẻ, điều phối dữ liệu, Nền tảng tích hợp, chia sẻ dữ liệu quốc gia, Trục liên thông văn bản quốc gia, Nền tảng tích hợp, chia sẻ dữ liệu cấp bộ, cấp tỉnh, mạng Internet, mạng máy tính, hệ thống thông tin, được thể hiện dưới các hình thức thông điệp dữ liệu có giá trị pháp lý theo quy định của pháp luật về giao dịch điện tử; c) Thông tin trong Cơ sở dữ liệu về phòng, chống bạo lực gia đình là cơ sở để cơ quan nhà nước có thẩm quyền xem xét áp dụng các biện pháp ngăn chặn, bảo vệ, hỗ trợ người bị bạo lực gia đình, xử lý hành vi vi phạm pháp luật trong phòng, chống bạo lực gia đình; d) Thông tin trong Cơ sở dữ liệu về phòng, chống bạo lực gia đình được cơ quan nhà nước có thẩm quyền cung cấp qua Cổng Thông tin về phòng, chống bạo lực gia đình ở trung ương, địa phương có giá trị nghiên cứu, học tập, tham khảo."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "thác, sử dụng Cơ sở dữ liệu về phòng, chống bạo lực gia đình 1. Cơ sở dữ liệu về p"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 110/2025/NĐ-CP Hà Nội, ngày 21 tháng 5 năm 2025 NGHỊ ĐỊNH QUY ĐỊNH CƠ SỞ DỮ LIỆU VỀ PHÒNG, CHỐNG BẠO LỰC GIA ĐÌNH Căn cứ Luật Tổ chức Chính phủ ngày 18 tháng 02 năm 2025; Căn cứ Luật Phòng, chống bạo lực gia đình ngày 14 tháng 11 năm 2022; Căn cứ Luật Căn cước ngày 21 tháng 11 năm 2023; Căn cứ Luật Dữ liệu ngày 30 tháng 11 năm 2024; Căn cứ Luật Giao dịch điện tử ngày 22 tháng 6 năm 2023; Căn cứ Luật An ninh mạng ngày 12 tháng 6 năm 2018; Căn cứ Luật Tiếp cận thông tin ngày 06 tháng 4 năm 2016; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Theo đề nghị của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch; Chính phủ ban hành Nghị định quy định Cơ sở dữ liệu về phòng, chống bạo lực gia đình . Chương I QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định chi tiết Điều 43 của Luật Phòng, chống ..."
+    }
+  ]
+}

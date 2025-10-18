@@ -1,0 +1,30 @@
+{
+  "base": "1784_QĐ_UBND_1_original",
+  "revised": "1784_QĐ_UBND_1_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "Quyết định này danh mục 02 thủ tục hành chính bãi bỏ trong lĩnh vực đường bộ thuộc thẩm quyền giải quyết của Sở Giao thông vận tải (có Phụ lục kèm theo)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "hiệu lực thi hành kể từ ngày 05/10/2024. Bãi bỏ các nội dung công bố đối với các thủ tục hành chính đã được công bố tại số thứ tự 32, 33 mục II Phụ lục kèm theo Quyết định số 305/QĐ-UBND ngày 02/02/2024 của Chủ tịch UBND tỉnh Nam Định."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "MỤC THỦ TỤC HÀNH CHÍNH BÃI BỎ TRONG LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI (Kèm theo Quyết định số: 1784/QĐ-UBND ngày 21 tháng 8 năm 2024 của Chủ tịch UBND tỉnh Nam Định) TT Tên thủ tục hành chính Căn cứ pháp lý 1 Công bố đưa trạm dừng nghỉ vào khai thác Thông tư số 09/2024/TT-BGTVT ngày 05/4/2024 của Bộ Giao thông vận tải ban hành sửa đổi 01:2024 QCVN 43:2012/BGTVT - Quy chuẩn kỹ thuật quốc gia về Trạm dừng nghỉ đường bộ. 2 Công bố lại đưa trạm dừng nghỉ vào khai thác"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH NAM ĐỊNH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 1784/QĐ-UBND Nam Định, ngày 21 tháng 8 năm 2024 QUYẾT ĐỊNH V/V CÔNG BỐ DANH MỤC THỦ TỤC HÀNH CHÍNH BÃI BỎ TRONG LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH NAM ĐỊNH Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính; Căn cứ Nghị định số 92/2017/NĐ-CP ngày 07 tháng 8 năm 2017 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Thông tư số 02/2017/TT-VPCP ngày 31 tháng 10 năm 2017 của Văn phòng Chính phủ hướng dẫn nghiệp vụ về kiểm soát thủ tục hành chính; Căn cứ Quyết định số 1009/QĐ-BGTVT ngày..."
+    }
+  ]
+}

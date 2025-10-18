@@ -1,0 +1,24 @@
+{
+  "base": "1954_QĐ_UBND_original",
+  "revised": "1954_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "định Bãi bỏ toàn bộ Quyết định số 61/2016/QĐ-UBND ngày 10 tháng 12 năm 2016 của y ban nhân dân Thành phố Hồ Chí Minh về việc ban hành Quy chế quản lý và xử lý vật tư thu hồi từ các công trình hạ tầng giao thông đường bộ, đường thuỷ nội địa và công viên cây xanh do Thành phố Hồ Chí Minh quản lý."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "DÂN KT. CHỦ TỊCH PHÓ CHỦ TỊCH Bùi Xuân Cường"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 1954/QĐ-UBND Thành phố Hồ Chí Minh, ngày 03 tháng 10 năm 2025 QUYẾT ĐỊNH VỀ VIỆC BÃI BỎ QUYẾT ĐỊNH SỐ 61/2016/QĐ-UBND NGÀY 10 THÁNG 12 NĂM 2016 CỦA ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH VỀ VIỆC BAN HÀNH QUY CHẾ QUẢN LÝ VÀ XỬ LÝ VẬT TƯ THU HỒI TỪ CÁC CÔNG TRÌNH HẠ TẦNG GIAO THÔNG ĐƯỜNG BỘ, ĐƯỜNG THUỶ NỘI ĐỊA VÀ CÔNG VIÊN CÂY XANH DO THÀNH PHỐ HỒ CHÍ MINH QUẢN LÝ ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH Căn cứ Luật Tổ chức Chính quyền địa phương ngày 16 tháng 6 năm 2025; Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 19 tháng 02 năm 2025; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật ban hành văn bản quy phạm pháp luật ngày 25 tháng 6 năm 2025; Căn cứ Nghị định số 78/2025/NĐ-CP ngày 01 tháng 4 năm 2025 của Chính phủ quy định chi tiết một số điều và biện pháp để tổ chức, hướng dẫn thi hành Luật Ban hành văn bản quy phạm pháp luật; Căn cứ ..."
+    }
+  ]
+}

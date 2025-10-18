@@ -1,0 +1,30 @@
+{
+  "base": "2371_QĐ_UBND_original",
+  "revised": "2371_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "trí, chức năng Trung tâm Đăng kiểm phương tiện giao thông tỉnh Nam Định (gọi tắt là Trung tâm) là đơn vị sự nghiệp công lập tự bảo đảm chi thường xuyên, trực thuộc Sở Giao thông vận tải tỉnh Nam Định. Trung tâm có chức năng thực hiện công tác đăng kiểm chất lượng, an toàn kỹ thuật và bảo vệ môi trường các loại phương tiện: Phương tiện vận tải cơ giới đường bộ, phương tiện vận tải thủy nội địa, xe máy và thiết bị chuyên dùng gắn trên ô tô. Trung tâm có tư cách pháp nhân, có con dấu, trụ sở và tài khoản riêng tại Kho bạc Nhà nước và Ngân hàng theo quy định của pháp luật."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "TÂM ĐĂNG KIỂM PHƯƠNG TIỆN GIAO THÔNG TỈNH NAM ĐỊNH, TRỰC THUỘC SỞ GIAO THÔNG VẬN TẢI TỈNH NAM ĐỊNH (Kèm theo Quyết định số: 2371/QĐ-UBND ngày 19/12/2022 của Chủ tịch UBND tỉnh Nam Định)"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "các văn bản quy phạm pháp luật, quy trình, quy phạm, định mức kinh tế kỹ thuật liên quan đến hoạt động đăng kiểm. 2. Chủ trì, phối hợp trong việc thông tin tuyên truyền, phổ biến giáo dục pháp luật về đăng kiểm. 3. Thực hiện công tác kiểm định chất lượng an toàn kỹ thuật và bảo vệ môi trường xe cơ giới, bao gồm: a) Kiểm định và cấp giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường xe cơ giới, xe máy chuyên dùng, thiết bị chuyên dùng gắn trên ô tô; b) Giám định trạng thái kỹ thuật xe cơ giới theo yêu của cơ quan nhà nước hoặc chủ phương tiện; c) Nghiệm thu cải tạo các phương tiện xe cơ giới được cải tạo; d) Thu lệ phí cấp giấy chứng nhận, thu dịch vụ kiểm định, thu phí sử dụng đường bộ theo quy định của pháp luật. 4. Thực hiện công tác kiểm định chất lượng an toàn kỹ thuật và bảo vệ môi trường phương tiện thủy, bao gồm: a) Kiểm tra và cấp giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường phương tiện thủy nội địa cho phương tiện trong đóng mới, hoán cải, sửa chữa phục hồi; b) Kiểm tra và cấp giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường phương tiện thủy nội địa cho phương tiện trong quá trình hoạt động; c) Đo đạc xác định trọng tải toàn phần và dung tích của phương tiện; d) Đo đạc xác định mạn khô và vạch dấu mớn nước an toàn của phương tiện; đ) Sao và thẩm định mẫu định hình; thẩm định thiết kế thi công, thiết kế hoàn công cho phương tiện; e) Thu lệ phí cấp giấy chứng nhận, thu dịch vụ kiểm định theo q"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH NAM ĐỊNH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 2371/QĐ-UBND Nam Định, ngày 19 tháng 12 năm 2022 QUYẾT ĐỊNH VỀ VIỆC BAN HÀNH QUY ĐỊNH CHỨC NĂNG, NHIỆM VỤ, QUYỀN HẠN VÀ CƠ CẤU TỔ CHỨC CỦA TRUNG TÂM ĐĂNG KIỂM PHƯƠNG TIỆN GIAO THÔNG TỈNH NAM ĐỊNH, TRỰC THUỘC SỞ GIAO THÔNG VẬN TẢI TỈNH NAM ĐỊNH CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH NAM ĐỊNH Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Căn cứ Nghị định số 139/2018/NĐ-CP ngày 08/10/2018 của Chính phủ quy định về kinh doanh dịch vụ kiểm định xe cơ giới; Căn cứ Nghị định số 120/2020/NĐ-CP ngày 07/10/2020 của Chính phủ quy định về thành lập, tổ chức lại, giải thể đơn vị sự nghiệp công lập; Căn cứ Thông tư số 48/2015/TT-BGTVT ngày 22/9/2015 của Bộ trưởng Bộ Giao thông vận tải quy định về đăng kiểm phương tiện thủy nội địa; Thông tư số 26..."
+    }
+  ]
+}

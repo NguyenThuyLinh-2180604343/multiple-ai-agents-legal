@@ -1,0 +1,30 @@
+{
+  "base": "27_VBHN_BGTVT_original",
+  "revised": "27_VBHN_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "chỉnh Thông tư này quy định về việc kiểm tra, thử nghiệm và cấp giấy chứng nhận chất lượng, an toàn kỹ thuật và bảo vệ môi trường cho linh kiện, thiết bị, tổng thành, phương tiện giao thông đường sắt sản xuất, lắp ráp, nhập khẩu, hoán cải, phục hồi và trong quá trình khai thác trên hệ thống đường sắt quốc gia, đường sắt đô thị, đường sắt chuyên dùng có nối ray với đường sắt quốc gia và đường sắt chuyên dùng không nối ray với đường sắt quốc gia có đi qua khu dân cư, giao cắt với đường bộ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "dụng Thông tư này áp dụng đối với tổ chức, cá nhân có liên quan đến nhập khẩu, sản xuất, lắp ráp, hoán cải, phục hồi và khai thác phương tiện giao thông đường sắt sử dụng trên các hệ thống đường sắt và các tổ chức liên quan đến quản lý, kiểm tra, thử nghiệm, cấp giấy chứng nhận chất lượng, an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông đường sắt quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau: 1. Cơ sở thiết kế là tổ chức có tư cách pháp nhân, có đăng ký kinh doanh theo quy định hiện hành. 2. Cơ sở sản xuất là doanh nghiệp sản xuất, lắp ráp, hoán cải, phục hồi, sửa chữa, bảo dưỡng phương tiện, thiết bị giao thông đường sắt. 3. Toa xe đường sắt đô thị là phương tiện chuyên chở hành khách vận hành trên đường sắt đô thị. 4. 4 Phương tiện chuyên dùng di chuyển trên đường sắt là phương tiện dùng để vận chuyển người, vật tư, thiết bị phục vụ cho các mục đích: cứu viện; cứu hộ tai nạn giao thông đường sắt; kiểm tra, thi công, bảo trì, sửa chữa công trình đường sắt. 5. Thiết bị của phương tiện giao thông đường sắt (sau đây gọi tắt là thiết bị) bao gồm van hãm, bộ móc nối đỡ đấm, máy nén, bộ tiếp điện, thiết bị tín hiệu đuôi tàu, thiết bị ghi tốc độ và dữ liệu đoàn tàu. 6. Tổng thành của phương tiện giao thông đường sắt (sau đây gọi tắt là tổng thành) bao gồm giá chuyển hướng, động cơ diesel, máy phát điện chính (trên đầu máy), động cơ điện kéo, bộ biến đổi điện, bộ truyền động thủy lực. 7. Hệ thống của phương tiện giao thông đường sắt (sau đây gọi tắt là hệ thống) bao gồm hệ thống hãm, hệ thống điện sức kéo, hệ thống cấp điện toa xe, hệ thống điều hòa không khí, hệ thống truyền động 5 . 8. Linh kiện của phương tiện giao"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 27/VBHN-BGTVT Hà Nội, ngày 28 tháng 06 năm 2022 THÔNG TƯ QUY ĐỊNH VỀ VIỆC KIỂM TRA CHẤT LƯỢNG, AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG PHƯƠNG TIỆN GIAO THÔNG ĐƯỜNG SẮT Thông tư số 29/2018/TT-BGTVT ngày 14 tháng 5 năm 2018 của Bộ trưởng Bộ Giao thông vận tải quy định về việc kiểm tra chất lượng, an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông đường sắt, có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2018 được sửa đổi, bổ sung bởi: Thông tư số 32/2020/TT-BGTVT ngày 14 tháng 12 năm 2020 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của Thông tư số 29/2018/TT-BGTVT ngày 14 tháng 5 năm 2018 của Bộ trưởng Bộ Giao thông vận tải quy định về việc kiểm tra chất lượng, an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông đường sắt và Thông tư số 31/2018/TT-BGTVT ngày 15 tháng 5 năm 2018 của Bộ trưởng Bộ Giao thông vận tải quy định về..."
+    }
+  ]
+}

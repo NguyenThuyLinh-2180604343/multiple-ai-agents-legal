@@ -1,0 +1,54 @@
+{
+  "base": "383_KH_UBND_original",
+  "revised": "383_KH_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section General.1",
+      "change": "added",
+      "to": "ỦY BAN NHÂN DÂN TỈNH LÀO CAI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 383/KH-UBND Lào Cai, ngày 30 tháng 8 năm 2024 KẾ HOẠCH TRIỂN KHAI CHỈ THỊ SỐ 23/CT-TTG NGÀY 26/7/2024 CỦA THỦ TƯỚNG CHÍNH PHỦ VỀ TĂNG CƯỜNG CÔNG TÁC BẢO ĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG ĐỐI VỚI HOẠT ĐỘNG KINH DOANH VẬN TẢI ĐƯỜNG BỘ TRONG TÌNH HÌNH MỚI Thực hiện Chỉ thị số 23/CT-TTg ngày 26/7/2024 của Thủ tướng Chính phủ về tăng cường công tác đảm bảo trật tự, an toàn giao thông đối với hoạt động vận tải đường bộ trong tình hình mới (sau đây viết tắt là Chỉ thị số 23/CT-TTg); Nhằm tăng cường công tác đảm bảo trật tự, an toàn giao thông, siết chặt quản lý hoạt động kinh doanh vận tải trên địa bàn tỉnh, từ đó góp phần kiềm chế, kéo giảm tai nạn giao thông, Ủy ban nhân dân tỉnh ban hành Kế hoạch triển khai thực hiện Chỉ thị số 23/CT-TTg của Thủ tướng Chính phủ,"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "thị số 23/CT-TTg là nội dung công tác trọng tâm phải được triển khai thực hiện thường xuyên, liên tục, được tiến hành đồng bộ, lồng ghép với các chuyên đề công tác lớn khác có liên quan, được cụ thể hóa phù hợp với tình hình thực tiễn"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "giao. 2. Thiết lập trật tự, kỷ cương trong chấp hành pháp luật trong hoạt động kinh doanh vận tải đường bộ của các tổ chức, cá nhân có liên quan; tăng cường công tác quản lý nhà nước trong hoạt động kinh doanh vận"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "tốt nhu cầu đi lại của hành khách. 3. Triển khai đồng bộ, quyết liệt, toàn diện, hiệu quả các giải pháp bảo đảm trật tự an toàn giao thông trong hoạt động kinh doanh vận tải đường bộ, giảm thiểu tai nạn giao thông, trọng tâm là bảo đảm an ninh, an toàn sức khỏe, tính mạng, tài sản của nhân dân. 4. Tăng cường ứng dụng khoa học công nghệ trong công tác quản lý hoạt động kinh doanh vận tải đường bộ; triển khai đồng bộ các giải pháp nhằm hoàn thiện cơ sở dữ liệu quốc gia về xử phạt vi phạm hành chính, dữ liệu phương tiện, giấy phép lái xe, đăng kiểm phương tiện, khám sức khỏe,.. II. NHIỆM VỤ VÀ GIẢI PHÁP TRỌNG TÂM 1. Tập trung triển khai thực hiện nghiêm túc, có hiệu quả các chủ trương, chỉ đạo của Đảng, Chính phủ trong công tác bảo đảm TTATGT [1] . Các sở, ban, ngành, địa phương, Mặt trận Tổ quốc và các tổ chức chính trị - xã hội phải cụ thể hóa các chủ trương, chỉ đạo nói trên thành các chương trình, hành động cụ thể, đồng thời đề ra các giải pháp triển khai đảm bảo TTATGT phù hợp tình hình mới; Lập danh mục xây dựng văn bản quy phạm pháp luật của HĐND, UBND tỉnh Lào Cai và chuẩn bị nguồn lực để triển khai thực hiện Luật Đường bộ, Luật Trật tự, an toàn giao thông đường bộ khi có"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_5.1",
+      "change": "added",
+      "to": "thức, trách nhiệm của tổ chức, cá nhân trong việc chấp hành pháp luật về trật tự, an toàn giao thông đường bộ. 2. Tăng cường công tác tuyên truyền, phổ biến kiến thức pháp luật về trật tự an toàn giao thông, trong hoạt động kinh doanh vận tải"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_6.1",
+      "change": "added",
+      "to": "Luật Trật tự, an toàn giao thông đường bộ, Luật Đường bộ, văn bản quy phạm pháp luật liên quan đến hoạt động kinh doanh vận tải đường bộ; phổ biến các tình huống gây tai nạn giao thông hoặc bài học kinh nghiệm phòng tránh tai nạn giao thông trong hoạt động kinh doanh vận tải đường bộ; đa dạng hóa các hình thức tuyên truyền thông qua phương tiện thông tin đại chúng, mạng xã hội, hệ thống loa truyền thanh cơ sở, Hội nghị tập huấn,.. 3. Siết chặt công tác quản lý nhà nước trong hoạt động kinh doanh vận tải đường bộ, đào tạo, sát hạch cấp giấy phép lái xe, khám sức khỏe đối với lái xe. Đẩy mạnh công tác thanh tra, kiểm tra và xử lý nghiêm theo"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_7.1",
+      "change": "added",
+      "to": "công nghệ, khai thác và chia sẻ cơ sở dữ liệu trong hoạt động kinh doanh vận tải, để phục vụ công tác quản lý nhà nước theo chức năng nhiệm vụ. 4. Thực hiện đồng bộ quy hoạch hạ tầng giao thông gắn với quy hoạch phát triển kinh tế - xã hội của ngành, lĩnh vực, địa phương; tổ chức quy hoạch các bến xe, các điểm trung chuyển hành khách, hàng hóa hợp lý, phù hợp với thực tế cơ sở hạ tầng của tỉnh; nâng cao chất lượng, đẩy nhanh tiến độ, xây dựng các công trình hạ tầng giao thông, các dự án đầu tư kết cấu hạ tầng giao thông trên địa bàn tỉnh; tổ chức giao thông khoa học, hợp lý, đồng bộ, có sự kết nối giữa các phương thức vận tải với nhau (đường bộ, đường thủy, đường sắt, hàng không). 5. Tổ chức rà soát về tổ chức giao thông, kết cấu hạ tầng giao thông tại các tuyến đường bộ trên địa bàn toàn tỉnh; kịp thời thực hiện công tác bảo vệ hành lang an toàn giao thô"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH LÀO CAI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 383/KH-UBND Lào Cai, ngày 30 tháng 8 năm 2024 KẾ HOẠCH TRIỂN KHAI CHỈ THỊ SỐ 23/CT-TTG NGÀY 26/7/2024 CỦA THỦ TƯỚNG CHÍNH PHỦ VỀ TĂNG CƯỜNG CÔNG TÁC BẢO ĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG ĐỐI VỚI HOẠT ĐỘNG KINH DOANH VẬN TẢI ĐƯỜNG BỘ TRONG TÌNH HÌNH MỚI Thực hiện Chỉ thị số 23/CT-TTg ngày 26/7/2024 của Thủ tướng Chính phủ về tăng cường công tác đảm bảo trật tự, an toàn giao thông đối với hoạt động vận tải đường bộ trong tình hình mới (sau đây viết tắt là Chỉ thị số 23/CT-TTg); Nhằm tăng cường công tác đảm bảo trật tự, an toàn giao thông, siết chặt quản lý hoạt động kinh doanh vận tải trên địa bàn tỉnh, từ đó góp phần kiềm chế, kéo giảm tai nạn giao thông, Ủy ban nhân dân tỉnh ban hành Kế hoạch triển khai thực hiện Chỉ thị số 23/CT-TTg của Thủ tướng Chính phủ, cụ thể như sau: I. MỤC ĐÍCH, YÊU CẦU 1. Quán triệt, triển khai thực hiện có hiệu quả Chỉ thị số ..."
+    }
+  ]
+}

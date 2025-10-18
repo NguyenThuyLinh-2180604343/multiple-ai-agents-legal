@@ -1,0 +1,48 @@
+{
+  "base": "16_VBHN_BGTVT_original",
+  "revised": "16_VBHN_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "xóa Giấy chứng nhận đăng ký phương tiện giao thông đường sắt (sau đây gọi là Giấy chứng nhận đăng ký) hoạt động trên đường sắt quốc gia, đường sắt chuyên dùng, đường sắt đô thị và việc di chuyển phương tiện giao thông đường sắt (sau đây gọi là phương tiện) trong trường hợp đặc biệt."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "liên quan đến việc cấp, cấp lại, thu hồi, xóa Giấy chứng nhận đăng ký và di chuyển phương tiện trong trường hợp đặc biệt."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "như sau: 1. [4] Phương tiện chuyên dùng di chuyển trên đường sắt là phương tiện dùng để vận chuyển người, vật tư, thiết bị phục vụ cho các mục đích: cứu viện; cứu hộ tai nạn giao thông đường sắt; kiểm tra thi công, bảo trì, sửa chữa công trình đường sắt. 2. Thay đổi tính năng sử dụng hoặc thay đổi các thông số kỹ thuật chủ yếu của phương tiện giao thông đường sắt là việc thay đổi động cơ khác kiểu loại, thay đổi công suất động cơ, thay đổi kiểu truyền động, thay đổi khổ đường đối với đầu máy; thay đổi tính năng sử dụng, thay đổi tải trọng, thay đổi khổ đường đối với toa xe; thay đổi tính năng sử dụng, thay đổi khổ đường đối với phương tiện chuyên dùng; thay đổi kiểu loại, công suất động cơ, kiểu truyền động đối với toa xe động lực đường sắt đô thị. Chương II ĐĂNG KÝ PHƯƠNG TIỆN Mục 1. QUY ĐỊNH VỀ CẤP, CẤP LẠI, THU HỒI, XÓA GIẤY CHỨNG NHẬN ĐĂNG KÝ"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "nhà nước có thẩm quyền cấp Giấy chứng nhận đăng ký cho những phương tiện được nhập khẩu, sản xuất, lắp ráp trong nước trước khi đưa ra khai thác, vận dụng trên đường sắt theo đề nghị của chủ sở hữu. 2. Cấp lại Giấy chứng nhận đăng ký là việc cơ quan nhà nước có thẩm quyền cấp Giấy chứng nhận đăng ký mới thay cho Giấy chứng nhận đăng ký cũ cho phương tiện theo đề nghị của chủ sở hữu trong các trường hợp sau đây: Các trường hợp quy định tại Khoản 2, Khoản 3"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 31.1",
+      "change": "added",
+      "to": "nhà nước có thẩm quyền cấp cho chủ sở hữu phương tiện theo mẫu quy định tại Phụ lục 5 của Thông tư này. Trường hợp cấp lại trên Giấy chứng nhận đăng ký được đóng thêm dấu \"Cấp lại lần 1, Cấp lại lần 2....\"."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "nhận đăng ký 1. Đơn đề nghị cấp Giấy chứng nhận đăng ký của chủ sở hữu phương tiện theo mẫu quy định tại Phụ lục 1 của Thông tư này. 2. [5] Các giấy tờ hợp pháp của phương tiện bao gồm: a) Chứng từ chứng minh đã nộp lệ phí trước bạ (nếu có); b) Hợp đồng mua bán, cho, tặng; quyết định điều chuyển phương tiện. Đối với giấy tờ của phương tiện bằng tiếng nước ngoài thì phải nộp kèm theo bản dịch tiếng Việt đã được công chứng dịch thuật; hóa đơn bán hàng của tổ chức phát hành hóa đơn bán hàng nếu phương tiện bán ra đã chuyển qua nhiều tổ chức, cá nhân thì khi làm thủ tục cấp Giấy chứng nhận đăng ký chỉ cần hóa đơn bán hàng của tổ chức, cá nhân bán cuối"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 16/VBHN-BGTVT Hà Nội, ngày 24 tháng 8 năm 2021 THÔNG TƯ QUY ĐỊNH VỀ ĐĂNG KÝ PHƯƠNG TIỆN GIAO THÔNG ĐƯỜNG SẮT, DI CHUYỂN PHƯƠNG TIỆN GIAO THÔNG ĐƯỜNG SẮT TRONG TRƯỜNG HỢP ĐẶC BIỆT Thông tư số 21/2018/TT-BGTVT ngày 27 tháng 4 năm 2018 của Bộ trưởng Bộ Giao thông vận tải quy định về đăng ký phương tiện giao thông đường sắt, di chuyển phương tiện giao thông đường sắt trong trường hợp đặc biệt có hiệu lực kể từ ngày 01 tháng 7 năm 2018 được sửa đổi, bổ sung bởi: Thông tư số 24/2020/TT-BGTVT ngày 13 tháng 10 năm 2020 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của các Thông tư quy định về chế độ báo cáo định kỳ trong lĩnh vực đường sắt có hiệu lực kể từ ngày 01 tháng 12 năm 2020 [2] . Thông tư 13/2021/TT-BGTVT ngày 26 tháng 7 năm 2021 của Bộ trưởng Bộ Giao thông vận tải việc sửa đổi, bổ sung một số điều của Thông tư số 21/2018/ TT-BGTVT n..."
+    }
+  ]
+}

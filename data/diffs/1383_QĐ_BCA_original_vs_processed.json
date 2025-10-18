@@ -1,0 +1,30 @@
+{
+  "base": "1383_QĐ_BCA_original",
+  "revised": "1383_QĐ_BCA_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "Quyết định này danh mục thủ tục hành chính được sửa đổi, bổ sung trong lĩnh vực đăng ký, quản lý phương phương tiện giao thông cơ giới, xe máy chuyên dùng; cấp phép hoạt động phương tiện giao thông thông minh thuộc thẩm quyền giải quyết của Bộ Công an (có danh mục, nội dung cụ thể kèm theo)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "hiệu lực thi hành kể từ ngày 01/03/2025 và theo tiến độ triển khai của Kế hoạch 556/KH-BCA ngày 30/11/2024 của Bộ Công an. Quyết định này bãi bỏ và thay thế: Quyết định 9093/QĐ ngày 13/12/2024 của Bộ trưởng Bộ Công an về việc công bố thủ tục hành chính được sửa đổi, bổ sung trong lĩnh vực đăng ký, quản lý phương tiện giao thông cơ giới, xe máy chuyên dùng thuộc thẩm quyền giải quyết của Bộ Công an; Quyết định 2609/QĐ-BCA-C08 ngày 20/04/2021 của Bộ trưởng Bộ Công an về việc công bố thủ tục hành chính được sửa đổi, bổ sung trong lĩnh vực đăng ký, quản lý phương tiện giao thông đường bộ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "TRONG LĨNH VỰC ĐĂNG KÝ, QUẢN LÝ PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI, XE MÁY CHUYÊN DÙNG; CẤP PHÉP HOẠT ĐỘNG ĐỐI VỚI PHƯƠNG TIỆN GIAO THÔNG THÔNG MINH THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA BỘ CÔNG AN (Ban hành kèm theo Quyết định số 1383 /QĐ-BCA ngày 28 / 02 / 2025 của Bộ trưởng Bộ Công an) STT TÊN THỦ TỤC HÀNH CHÍNH TÊN VĂN BẢN QUY PHẠM ĐƯỢC SỬA ĐỔI, BỔ SUNG CƠ QUAN THỰC HIỆN GHI CHÚ I Thủ tục: Cấp mới chứng nhận đăng ký xe, biển số xe A Đăng ký xe lần đầu trực tuyến toàn trình đối với xe sản xuất lắp ráp trong nước thực hiện tại cấp tỉnh, cấp xã - Thông tư số 79/2024/TT-BCA ngày 15/11/2024 của Bộ trưởng Bộ Công an quy định về cấp, thu hồi chứng nhận đăng ký, biển số xe cơ giới, xe máy chuyên dùng. - Thông tư số 13/2025/TT-BCA ngày 28/02/2025 của Bộ trưởng Bộ Công an sửa đổi, bổ sung một số điều của các thông tư quy định về trật tự, an toàn giao thông đường bộ, đường sắt và đường thủy nội địa. Thực hiện tại cấp tỉnh, cấp xã B Đăng ký xe lần đầu trực tuyến toàn trình đối với xe nhập khẩu thực hiện tại cấp tỉnh, cấp xã - Thông tư số 79/2024/TT-BCA ngày 15/11/2024 của Bộ trưởng Bộ Công an quy định về cấp, thu hồi chứng nhận đăng ký, biển số xe cơ giới, xe máy chuyên dùng. - Thông tư số 13/2025/TT-BCA ngày 28/02/2025 của Bộ trưởng Bộ Công an sửa đổi, bổ sung một số điều của các thông tư quy định về trật tự, an toàn giao thông đường bộ, đường sắt và đường thủy nội địa. Thực hiện tại cấp tỉnh, cấp xã C Đăng ký, cấp biển số xe lần đầu thực hiện bằng dịch vụ công một phần hoặc trực tiếp thực hiện tại cấp trung ương, cấp tỉnh, cấp xã - Thông"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ CÔNG AN ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 1383/QĐ-BCA Hà Nội, ngày 28 tháng 02 năm 2025 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ DANH MỤC THỦ TỤC HÀNH CHÍNH ĐƯỢC SỬA ĐỔI, BỔ SUNG TRONG LĨNH VỰC ĐĂNG KÝ, QUẢN LÝ PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI, XE MÁY CHUYÊN DÙNG; CẤP PHÉP HOẠT ĐỘNG PHƯƠNG TIỆN GIAO THÔNG THÔNG MINH THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA BỘ CÔNG AN BỘ TRƯỞNG BỘ CÔNG AN Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính; Căn cứ Nghị định số 48/2013/NĐ-CP ngày 14 tháng 5 năm 2013 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Nghị định số 92/2017/NĐ-CP ngày 07 tháng 8 năm 2017 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Nghị định số 01/2018/NĐ-CP ngày 06 tháng 8 năm 2018 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu t..."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "base": "67_KH_BYT_original",
+  "revised": "67_KH_BYT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section General.1",
+      "change": "added",
+      "to": "BỘ Y TẾ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 67/KH-BYT Hà Nội, ngày 18 tháng 01 năm 2023 KẾ HOẠCH ĐẢM BẢO TRẬT TỰ, AN TOÀN GIAO THÔNG TRONG DỊP TẾT NGUYÊN ĐÁN QUÝ MÃO VÀ LỄ HỘI XUÂN 2023 Thực hiện Công điện số 1174/CĐ-TTg ngày 19/12/2022 của Thủ tướng Chính phủ về bảo đảm trật tự, an toàn giao thông trong dịp Tết Dương lịch, Tết Nguyên đán Quý Mão và Lễ hội Xuân 2023, Bộ Y tế xây dựng Kế hoạch bảo đảm trật tự, an toàn giao thông trong dịp Tết Nguyên đán Quý Mão và Lễ hội"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "khám, chữa bệnh liên quan đến trật tự, an toàn giao thông trong dịp Tết Nguyên đán Quý Mão và Lễ hội Xuân 2023; Tổ chức thăm hỏi, động viên nạn nhân bị TNGT điều trị tại cơ sở y tế trên địa bàn trong dịp Tết Nguyên đán Quý Mão. 2. Đảm bảo công tác An toàn thực phẩm trong dịp Tết Nguyên đán Quý Mão và Lễ hội Xuân 2023. 3. Đảm bảo công tác an toàn, phòng, chống dịch Covid-19 và các dịch bệnh khác trên các chuyến bay, đoàn tầu và tại các khu dịch vụ của Cảng Hàng không, nhà ga, bến xe. II. YÊU CẦU 1. Chỉ đạo và tổ chức triển khai thực hiện quyết liệt, đồng bộ các giải pháp trên toàn quốc, từ cấp trung ương đến các cấp địa phương ngay từ tháng đầu, quý đầu năm 2023. 2. Bệnh viện, Viện có giường bệnh trực thuộc Bộ, Y tế Ngành; Sở Y tế các tỉnh, thành phố trực thuộc trung ương xây dựng kế hoạch"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "của đơn vị, địa phương, đảm bảo tiết kiệm, tránh hình thức. 3. Phổ biến, quán triệt nhiệm vụ đến từng cán bộ, công chức, viên chức và người lao động; tuyệt đối tuân thủ pháp luật về TTATGT;"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "thi công vụ. III. NỘI DUNG VÀ TỔ CHỨC THỰC HIỆN 1. Đảm bảo đáp ứng kịp thời công tác cấp cứu, sơ cấp cứu, khám, chữa bệnh liên quan đến trật tự, an toàn giao thông trong dịp Tết Nguyên đán Quý Mão và Lễ hội Xuân 2023; Tổ chức thăm hỏi, động viên nạn nhân bị TNGT điều trị tại cơ sở y tế trên địa bàn trong dịp Tết Nguyên đán Quý Mão: - Bệnh viện, Viện có giường bệnh trực thuộc Bộ, Y tế Ngành; Sở Y tế và cơ sở khám bệnh, chữa bệnh trong cả nước Xây dựng kế hoạch, tăng cường lực lượng, phương tiện, trang thiết bị y tế, thuốc chữa bệnh, máu, chế phẩm để bảo đảm khả năng cao nhất trong việc cứu chữa nạn nhân TNGT, giảm thiểu thiệt hại về người trong trường hợp xảy ra TNGT. - Cơ sở khám bệnh, chữa bệnh trong cả nước Căn cứ số liệu hằng năm để có phương án dự trù phương tiện, trang thiết bị y tế, thuốc chữa bệnh và máu, chế phẩm, bảo đảm khả năng cao nhất trong việc cứu chữa nạn nhân TNGT, giảm thiểu thiệt hại về người trong trường hợp xảy ra TNGT. - Tổ chức sơ cứu, cấp cứu cho người tham gia giao thông bị tai nạn theo Quy chế cấp cứu, hồi sức tích cực và chống độc ban hành kèm theo Quyết định số 01/2008/QĐ-BYT ngày 21/01/2008 của Bộ trưởng Bộ Y tế và"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_5.1",
+      "change": "added",
+      "to": "chức và hoạt động cấp cứu tai nạn giao thông trên đường bộ cao tốc”; - Thực hiện xét nghiệm nồng độ cồn trong máu theo Điều 3, Thông tư số 26/2014/TTLT-BYT-BCA của Bộ trưởng Bộ Y tế và"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_6.1",
+      "change": "added",
+      "to": "khiển phương tiện giao thông cơ giới đường bộ” khi tiếp nhận người tham gia giao thông bị TNGT đến các cơ sở khám bệnh, chữa bệnh. - Tổ chức thăm hỏi và đón Tết cho người bệnh còn điều trị tại bệnh viện trong dịp Tết; 2. Đảm bảo công tác An toàn thực phẩm trong dịp Tết Nguyên đán Quý Mão và Lễ hội Xuân 2023. 3. Đảm bảo công tác an toàn, phòng, chống dịch Covid-19 và các dịch bệnh khác trên các chuyến bay, đoàn tầu và tại các khu dịch vụ của Cảng Hàng không, nhà ga, bến xe. IV. TỔ CHỨC THỰC HIỆN VÀ KINH PHÍ THỰC HIỆN 1. Cục Quản lý Khám, chữa bệnh; Cục Y tế dự phòng;"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_7.1",
+      "change": "added",
+      "to": "kế hoạch triển khai thực hiện; tổng hợp và báo cáo kết quả về Bộ Y tế. 2. Bệnh viện, Viện có giường bệnh trực thuộc Bộ, Y tế Ngành: - Xây dựng kế hoạch, tăng cường lực lượng, phương tiện, trang thiết bị y tế, thuốc chữa bệnh, máu, chế phẩm, thường trực cấp cứu"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_8.1",
+      "change": "added",
+      "to": "giảm thiểu thiệt hại về người trong trường hợp xảy ra TNGT; - Các đơn vị có các đội trực cấp cứu ngoại viện báo"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_9.1",
+      "change": "added",
+      "to": "ương: - Chỉ đạo, hướng dẫn các cơ sở khám bệnh, chữa bệnh"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_10.1",
+      "change": "added",
+      "to": "hiệu quả; - Đầu mối tổng hợp báo cáo của các đơn vị và gửi về Bộ Y tế theo hướng dẫn cụ thể của các Cục chức năng (Cục Quản lý Khám, chữa bệnh; Cục Y tế dự phòng; Cục An toàn thực phẩm). 4. Các cơ sở khám bệnh, chữa bệnh; Trung tâm cấp"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ Y TẾ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 67/KH-BYT Hà Nội, ngày 18 tháng 01 năm 2023 KẾ HOẠCH ĐẢM BẢO TRẬT TỰ, AN TOÀN GIAO THÔNG TRONG DỊP TẾT NGUYÊN ĐÁN QUÝ MÃO VÀ LỄ HỘI XUÂN 2023 Thực hiện Công điện số 1174/CĐ-TTg ngày 19/12/2022 của Thủ tướng Chính phủ về bảo đảm trật tự, an toàn giao thông trong dịp Tết Dương lịch, Tết Nguyên đán Quý Mão và Lễ hội Xuân 2023, Bộ Y tế xây dựng Kế hoạch bảo đảm trật tự, an toàn giao thông trong dịp Tết Nguyên đán Quý Mão và Lễ hội Xuân 2023, cụ thể như sau: I. MỤC TIÊU 1. Đảm bảo đáp ứng kịp thời công tác sơ cấp cứu, khám, chữa bệnh liên quan đến trật tự, an toàn giao thông trong dịp Tết Nguyên đán Quý Mão và Lễ hội Xuân 2023; Tổ chức thăm hỏi, động viên nạn nhân bị TNGT điều trị tại cơ sở y tế trên địa bàn trong dịp Tết Nguyên đán Quý Mão. 2. Đảm bảo công tác An toàn thực phẩm trong dịp Tết Nguyên đán Quý Mão và Lễ hội Xuân 2023. 3. Đảm bảo công tác an toàn, phòng, chống dịch ..."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "base": "10_VBHN_BCA_original",
+  "revised": "10_VBHN_BCA_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "quyết tai nạn giao thông đường thủy nội địa (sau đây gọi chung là tai nạn giao thông) của lực lượng [2] Cảnh sát giao thông."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "nhiệm vụ điều tra, giải quyết tai nạn giao thông; tuần tra, kiểm soát, xử lý vi phạm hành chính về giao thông đường thủy nội địa (sau đây gọi chung là cán bộ Cảnh sát giao thông). 3. Sĩ quan, hạ sĩ quan Công an nhân dân có liên quan. 4. Cơ quan, tổ chức, cá nhân có liên quan đến hoạt động điều tra, giải quyết tai nạn giao thông."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "giải quyết tai nạn giao thông 1. Tất cả các vụ tai nạn giao thông xảy ra phải được điều tra, giải quyết nhanh chóng, kịp thời, chính xác, khách quan, toàn diện; các cơ quan, đơn vị tiếp nhận, xử lý tin báo về tai nạn giao thông phải khẩn trương cử cán bộ đến hiện trường để giải quyết theo quy định Thông tư này và các quy định khác của pháp luật có liên quan. 2. Lực lượng Cảnh sát giao thông phải phối hợp chặt chẽ với các lực lượng khác trong Công an nhân dân khi điều tra, giải quyết vụ tai nạn giao thông bảo đảm tập trung, thống nhất theo chỉ đạo của Thủ trưởng Công an các cấp. Cơ quan, đơn vị, cá nhân cấp dưới chịu sự hướng dẫn, chỉ đạo nghiệp vụ điều tra, giải quyết tai nạn giao thông của cấp trên; cá nhân chịu trách nhiệm trước Thủ trưởng đơn vị và trước pháp luật về hành vi, quyết định của mình. 3. Không được lợi dụng, lạm dụng công tác điều tra, giải quyết tai nạn giao thông để xâm phạm lợi ích của Nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "Cảnh sát giao thông làm nhiệm vụ điều tra, giải quyết tai nạn giao thông 1. Có trình độ đại học An ninh, đại học Cảnh sát hoặc cử nhân luật trở lên. Trường hợp tốt nghiệp đại học các trường ngoài ngành Công an đã học nghiệp vụ An ninh, Cảnh sát theo quy định. 2. Có thời gian công tác trong lực lượng Cảnh sát giao thông từ 06 tháng trở lên. 3. Đã được tập huấn, bồi dưỡng nghiệp vụ điều tra, giải quyết tai nạn giao thông. Chương II QUY ĐỊNH CỤ THỂ Mục 1. TỔ CHỨC TIẾP NHẬN, XỬ LÝ TIN BÁO VÀ GIẢI QUYẾT BAN ĐẦU"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "vị Cảnh sát giao thông có trách nhiệm tiếp nhận tin báo: a) [3] (được bãi bỏ) b) [4] Phòng Cảnh sát giao thông; c) Cục Cảnh sát giao thông. 2. Các cơ quan, đơn vị nói trên phải tổ chức trực ban tiếp nhận đầy đủ các tin báo về tai nạn giao thông đường thủy nội địa. Địa điểm tiếp nhận tin báo về tai nạn giao thông phải đặt ở nơi thuận tiện, có biển ghi tên cơ quan, số điện thoại, có cán bộ, chiến sĩ trực 24/24 giờ và thông báo rộng rãi để mọi người biết. 3. Tiếp nhận tin báo tại trụ sở đơn vị Cán bộ nhận tin báo về vụ tai nạn giao thông phải hỏi rõ và ghi vào Sổ theo dõi tai nạn giao thông đường thủy nội địa theo mẫu số 01/TNĐT ban hành theo Thông tư này, các thông tin sau: a) Họ tên, địa chỉ, số điện thoại của người báo tin (nếu có); b) Thời gian nhận tin báo, địa điểm xảy ra vụ tai nạn giao thông ghi rõ trên sông, kênh, rạch, đầm, hồ, vụng, vịnh thuộc địa phận thôn (làng, ấp, bản), xã (phường, thị trấn), huyện (q"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ CÔNG AN -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 10/VBHN-BCA Hà Nội, ngày 26 tháng 4 năm 2025 THÔNG TƯ QUY ĐỊNH QUY TRÌNH ĐIỀU TRA, GIẢI QUYẾT TAI NẠN GIAO THÔNG ĐƯỜNG THỦY NỘI ĐỊA CỦA LỰC LƯỢNG CẢNH SÁT GIAO THÔNG Thông tư số 64/2020/TT-BCA ngày 19 tháng 6 năm 2020 của Bộ trưởng Bộ Công an quy định quy trình điều tra, giải quyết tai nạn giao thông đường thủy nội địa của lực lượng Cảnh sát giao thông, có hiệu lực kể từ ngày 01 tháng 01 năm 2021, được sửa đổi, bổ sung bởi: Thông tư số 13/2025/TT-BCA ngày 28 tháng 02 năm 2025 của Bộ trưởng Bộ Công an sửa đổi, bổ sung một số điều của các thông tư quy định về trật tự, an toàn giao thông đường bộ, đường sắt và đường thủy nội địa, có hiệu lực kể từ ngày 01 tháng 3 năm 2025. Căn cứ Luật Xử lý vi phạm hành chính ngày 20 tháng 6 năm 2012; Căn cứ Luật Giao thông đường thủy nội địa ngày 15 tháng 6 năm 2004 (Luật sửa đổi, bổ sung một số điều của Luật Giao thông đường thủy nội đị..."
+    }
+  ]
+}

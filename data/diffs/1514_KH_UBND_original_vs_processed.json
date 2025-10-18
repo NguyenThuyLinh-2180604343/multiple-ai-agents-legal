@@ -1,0 +1,60 @@
+{
+  "base": "1514_KH_UBND_original",
+  "revised": "1514_KH_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section General.1",
+      "change": "added",
+      "to": "ỦY BAN NHÂN DÂN TỈNH QUẢNG NAM ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 1514/KH-UBND Quảng Nam, ngày 17 tháng 3 năm 2023 KẾ HOẠCH NĂM AN TOÀN GIAO THÔNG 2023 Thực hiện Kế hoạch số 506/KH-UBATGTQG ngày 29/12/2022 của Ủy ban An toàn giao thông Quốc gia về Năm An toàn giao thông 2023; Quyết định số 773/QĐ-UBND ngày 24/3/2021 của UBND tỉnh phê duyệt Kế hoạch hành động thực hiện Chiến lược đảm bảo trật tự, an toàn giao thông (ATGT) đường bộ năm 2021-2030 và tầm nhìn đến năm 2045 trên địa bàn tỉnh Quảng Nam; UBND tỉnh Quảng Nam xây dựng Kế hoạch Năm An toàn giao thông 2023 với chủ đề “Thượng tôn pháp luật để xây dựng văn hóa giao thông an toàn” ,"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "hành pháp luật và xây dựng văn hóa giao thông an toàn. 2. Toàn tỉnh phấn đấu giảm tai nạn giao thông (TNGT) từ 5-10% cả về số vụ, số người chết và số người bị thương so với năm 2022. 3. Không để xảy ra ùn tắc giao thông trên các trục giao thông chính, các đầu mối giao thông trọng điểm. II. YÊU CẦU 1. Chỉ đạo và tổ chức triển khai thực hiện quyết liệt, đồng bộ các giải pháp từ tỉnh đến cấp huyện, cấp xã ngay từ tháng đầu, quý đầu và cả năm 2023. 2. Các Sở, Ban, ngành, đoàn thể có lãnh đạo là thành viên Ban An toàn giao thông tỉnh, UBND các huyện, thị xã, thành phố xây dựng kế hoạch hoạt động và bố trí ngân sách phù hợp chức năng,"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "đến từng cán bộ, công chức, viên chức và người lao động, tuyệt đối tuân thủ pháp luật về trật tự, an toàn giao thông (TTATGT), từng bước xây dựng văn hóa giao thông an toàn; gắn trách nhiệm của cá nhân người đứng đầu với kết quả thực"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "các cơ quan, đơn vị thực thi công vụ. 4. Tăng cường ứng dụng khoa học công nghệ trong công tác bảo đảm TTATGT, trước hết là chú trọng ứng dụng công nghệ thông tin và khoa học dữ liệu trong quản lý điều hành vận tải; điều khiển giao thông; tuyên truyền an toàn giao thông; giám sát, phát hiện và xử lý vi phạm về TTATGT. 5. Công tác tuyên truyền phải thực hiện thường xuyên, sâu rộng với nội dung, hình thức phù hợp theo từng đối"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_5.1",
+      "change": "added",
+      "to": "trên, các cơ quan thành viên của Ban An toàn giao thông tỉnh, UBND các huyện, thị xã, thành phố cần tập trung thực hiện tốt các nhóm nhiệm vụ trọng tâm sau: 1. Nâng cao hiệu lực, hiệu quả công tác lãnh đạo, chỉ đạo, trước hết là tăng cường kiểm tra, đôn đốc việc thực hiện Kết luận số 45-KL/TW ngày 01/2/2019 của Ban Bí thư Trung ương về tiếp tục đẩy mạnh thực hiện có hiệu quả Chỉ thị số 18-CT/TW ngày 04/9/2012 của Ban Bí thư Trung ương khóa XI về tăng cường sự lãnh đạo của Đảng đối với công tác bảo đảm TTATGT đường bộ, đường sắt, đường thủy nội địa. Tiếp tục kiện toàn chức"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_6.1",
+      "change": "added",
+      "to": "hình mới. 2. Áp dụng kịp thời, hiệu quả các thành tựu của cuộc cách mạng công nghiệp lần thứ tư vào thực tiễn; lồng"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_7.1",
+      "change": "added",
+      "to": "vùng, quy hoạch sử dụng đất, quy hoạch xây dựng đô thị, nông thôn và các quy hoạch chuyên ngành về giao thông vận tải; đẩy nhanh tiến độ đầu tư, phát triển hệ thống vận tải công cộng trong đô thị và liên tỉnh. 3. Đổi mới công tác tuyên truyền, phổ biến, giáo dục pháp luật về bảo đảm TTATGT theo hướng lấy thay đổi hành vi làm tiêu chí đánh giá kết quả; đẩy mạnh tuyên truyền trên mạng xã hội và hạ tầng"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_8.1",
+      "change": "added",
+      "to": "trình, kế hoạch và hoạt động của cơ quan, đơn vị, nhà trường, doanh nghiệp vận tải. Kiên trì xây dựng văn hoá giao thông an toàn đối với tổ chức, cá nhân trong quá trình xây dựng, thực thi pháp luật, cung ứng hạ tầng, phương tiện, dịch vụ vận tải và tham gia giao thông. 4. Tăng cường công tác thanh tra, kiểm tra, tuần tra kiểm soát, xử lý nghiêm các vi phạm về TT ATGT, đảm bảo nghiêm minh, kịp thời và hiệu quả; trọng tâm xử lý các hành vi vi phạm là nguyên nhân xảy ra tai nạn giao thông và các vi phạm về kết cấu hạ tầng giao thông, tổ chức giao thông. Thông qua công tác thanh tra, kiểm tra, tuần tra kiểm soát,... chú trọng phát hiện, kiến nghị khắc phục những bất cập, vướng mắc về hạ tầng giao thông, tổ chức giao thông. Kiên quyết, điều tra, xử lý những tổ chức, cá nhân không tiếp thu khắc phục những kiến nghị chính đáng hoặc không kịp khắc phục để xảy ra tai nạn giao thông. 5. Siết chặt quản lý về công tác đào tạo, sát hạch, cấp giấy phép lái xe, đăng ký, đăng kiểm theo hướng công khai, minh bạch, đảm bảo thuận tiện phục vụ tốt cho nhân dân; tăng cường công tác thanh tra, kiểm tra công tác đào tạo, sát hạch, cấp giấy phép lái xe, đăng kiểm tại các c"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH QUẢNG NAM ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 1514/KH-UBND Quảng Nam, ngày 17 tháng 3 năm 2023 KẾ HOẠCH NĂM AN TOÀN GIAO THÔNG 2023 Thực hiện Kế hoạch số 506/KH-UBATGTQG ngày 29/12/2022 của Ủy ban An toàn giao thông Quốc gia về Năm An toàn giao thông 2023; Quyết định số 773/QĐ-UBND ngày 24/3/2021 của UBND tỉnh phê duyệt Kế hoạch hành động thực hiện Chiến lược đảm bảo trật tự, an toàn giao thông (ATGT) đường bộ năm 2021-2030 và tầm nhìn đến năm 2045 trên địa bàn tỉnh Quảng Nam; UBND tỉnh Quảng Nam xây dựng Kế hoạch Năm An toàn giao thông 2023 với chủ đề “Thượng tôn pháp luật để xây dựng văn hóa giao thông an toàn” , cụ thể như sau: I. MỤC TIÊU 1. Nâng cao ý thức tự giác chấp hành pháp luật và xây dựng văn hóa giao thông an toàn. 2. Toàn tỉnh phấn đấu giảm tai nạn giao thông (TNGT) từ 5-10% cả về số vụ, số người chết và số người bị thương so với năm 2022. 3. Không để xảy ra ùn tắc giao thông trên các t..."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "base": "156_2024_NĐ_CP_original",
+  "revised": "156_2024_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 38.1",
+      "change": "added",
+      "to": "giá biển số xe, bao gồm biển số xe đưa ra đấu giá, giá khởi điểm, tiền đặt trước, bước giá, tiền bán hồ sơ, hình thức, phương thức, trình tự, thủ tục đấu giá biển số xe, quyền và nghĩa vụ của người trúng đấu giá biển số xe, thu, nộp, xử lý tiền đặt trước, hoàn tiền trúng đấu giá."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "được lựa chọn để đấu giá biển số xe. 3. Tổ chức, cá nhân tham gia đấu giá. 4. Cơ quan, tổ chức, cá nhân khác có liên quan."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "như sau: 1. Người tham gia đấu giá là tổ chức, cá nhân Việt Nam đăng ký tham gia đấu giá thông qua việc nộp hồ sơ tham gia đấu giá hợp lệ và tiền đặt trước cho tổ chức hành nghề đấu giá tài sản theo quy định của Nghị định này và quy định khác của pháp luật có liên quan. 2. Người trúng đấu giá là người tham gia đấu giá trực tuyến biển số xe có mức trả giá cao nhất so với giá khởi điểm hoặc bằng giá khởi điểm theo quy định tại Nghị định này. 3. Cuộc đấu giá biển số xe là toàn bộ quá trình đấu giá đối với một biển số xe. 4. Phiên đấu giá biển số xe bao gồm các cuộc đấu giá biển số xe được tổ chức thực hiện trong kế hoạch tổ chức đấu giá đã được phê duyệt. 5. Tiền trúng đấu giá là số tiền mà người trúng đấu giá nộp để được cấp quyền sử dụng biển số xe thông qua việc được cấp Quyết định xác nhận biển số xe trúng đấu giá. 6. Hệ thống quản lý đấu giá biển số xe của Bộ Công an là một tập hợp các trang thiết bị phần cứng, phần mềm, hạ tầng và đường truyền được thiết kế chuyên biệt để phục vụ công tác quản lý đấu giá biển số xe. 7. Hệ thống đăng ký, quản lý xe là tập hợp các trang thiết bị phần cứng, phần mềm, cơ sở dữ liệu, thiết bị mạng, thiết bị bảo mật và các thiết bị khác được kết nối từ Bộ Công an đến Công an các đơn vị, địa phương để sản xuất, truyền nhận, thu thập, xử lý, lưu trữ và trao đổi thông tin số, phục vụ cho một hoặc nhiều hoạt động nghiệp vụ đăng ký xe."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "đấu giá 1. Hình thức đấu giá là đấu giá trực tuyến. 2. Phương thức đấu giá là phương thức trả giá lên."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "giá 1. Biển số xe đưa ra đấu giá là biển số xe ô tô, xe mô tô, xe gắn máy được quy định tại điểm c và điểm d khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 36.1",
+      "change": "added",
+      "to": "xe đưa ra đấu giá tại mỗi phiên đấu giá, bao gồm biển số xe của các tỉnh, thành phố trực thuộc trung ương, đang trong Hệ thống đăng ký, quản lý xe của Bộ Công an và bổ sung số lượng biển số xe cho Công an các tỉnh, thành phố trực thuộc trung ương trong trường hợp hết biển số xe để đăng ký khi chưa đến phiên đấu giá tiếp theo."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "biển số xe đưa ra đấu giá 1. Giá khởi điểm của một biển số xe ô tô đưa ra đấu giá là 40 (bốn mươi) triệu đồng, ba năm tăng một lần tính từ ngày 01 tháng 01 năm 2025, mỗi lần tăng 5 (năm) triệu đồng. 2. Giá khởi điểm của một biển số xe mô tô, xe gắn máy đưa ra đấu giá là 5 (năm) triệu đồng, ba năm tăng một lần tính từ ngày 01 tháng 01 năm 2025, mỗi lần tăng 1 (một) triệu đồng. 3. Giá khởi điểm của biển số xe có định dạng AAAAA (A>4), ABCDE (A<B<C<D<E, A>4) đưa ra đấu giá lại sau lần thứ hai là 500 (năm trăm) triệu đồng đối với biển số xe ô tô và 50 (năm mươi) triệu đồng đối với biển số xe mô tô, xe gắn máy."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 7.1",
+      "change": "added",
+      "to": "giá 1. Tiền đặt trước bằng giá khởi điểm của một biển số xe đưa ra đấu giá. Tiền đặt trước được gửi vào một tài khoản thanh toán riêng của tổ chức hành nghề đấu giá tài sản mở tại ngân hàng kể từ ngày niêm yết việc đấu giá tài sản đến trước ngày mở cuộc đấu giá 02 ngày. Trường hợp trúng đấu giá, tiền đặt trước được chuyển vào tài khoản chuyên thu của Bộ Công an để nộp vào ngân sách nhà nước theo quy định. 2. Bước giá đối với đấu giá biển số xe ô tô là 5 (năm) triệu đồng;"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 156/2024/NĐ-CP Hà Nội, ngày 10 tháng 12 năm 2024 NGHỊ ĐỊNH QUY ĐỊNH VỀ ĐẤU GIÁ BIỂN SỐ XE Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Bộ luật Dân sự ngày 24 tháng 11 năm 2015; Căn cứ Luật Trật tự, an toàn giao thông đường bộ ngày 27 tháng 6 năm 2024; Căn cứ Luật Đấu giá tài sản ngày 17 tháng 11 năm 2016; Luật sửa đổi, bổ sung một số điều của Luật Đấu giá tài sản ngày 27 tháng 6 năm 2024; Căn cứ Luật Quản lý, sử dụng tài sản công ngày 21 tháng 6 năm 2017; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Luật An ninh mạng ngày 12 tháng 6 năm 2018; Chính phủ ban hành Nghị định quy định về đấu giá biển số xe. Chương I QUY ĐỊNH CHUNG Điều 1. Phạm vi điề..."
+    }
+  ]
+}

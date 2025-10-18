@@ -1,0 +1,36 @@
+{
+  "base": "68_2024_NĐ_CP_original",
+  "revised": "68_2024_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "thực chữ ký số chuyên dùng công vụ; việc cung cấp, quản lý, sử dụng chữ ký số chuyên dùng công vụ, chứng thư chữ ký số chuyên dùng công vụ và dịch vụ chứng thực chữ ký số chuyên dùng công vụ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "tổ chức chính trị; tổ chức chính trị - xã hội; đơn vị sự nghiệp công lập. 2. Cán bộ, công chức, viên chức, người làm việc trong lực lượng vũ trang nhân dân và người làm việc trong tổ chức cơ yếu. 3. Các cơ quan, tổ chức, cá nhân khác liên quan đến hoạt động cung cấp, quản lý, sử dụng chữ ký số chuyên dùng công vụ, chứng thư chữ ký số chuyên dùng công vụ và dịch vụ chứng thực chữ ký số chuyên dùng công vụ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "như sau: 1. Khóa bí mật là một khóa trong cặp khóa thuộc hệ thống mật mã không đối xứng, được dùng để tạo chữ ký số. 2. Khóa công khai là một khóa trong cặp khóa thuộc hệ thống mật mã không đối xứng, được dùng để kiểm tra chữ ký số tạo bởi khóa bí mật tương ứng trong cặp khóa. 3. Thuê bao là cơ quan, tổ chức, cá nhân được cấp chứng thư chữ ký số chuyên dùng công vụ, chấp nhận chứng thư chữ ký số chuyên dùng công vụ và giữ khóa bí mật tương ứng với khóa công khai ghi trên chứng thư chữ ký số chuyên dùng công vụ được phát hành đó. 4. Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng công vụ là Cục Chứng thực số và Bảo mật thông tin trực thuộc Ban Cơ yếu Chính phủ. 5. Thiết bị lưu khóa bí mật là thiết bị vật lý chuyên dụng chứa khóa bí mật của thuê bao. 6. Cơ quan, tổ chức quản lý trực tiếp là cơ quan, tổ chức có tư cách pháp nhân, có con dấu riêng trực tiếp quản lý thuê bao sử dụng dịch vụ chứng thực chữ ký số chuyên dùng công vụ. 7. Yêu cầu chứng thực là các yêu cầu cấp mới, gia hạn, thay đổi nội dung thông tin, thu hồi chứng thư chữ ký số chuyên dùng công vụ và khôi phục thiết bị lưu khóa bí mật. 8. Hệ thống thông tin đăng ký, quản lý yêu cầu chứng thực là hệ thống điện tử hỗ trợ đăng ký, quản lý dịch vụ chứng thực chữ ký số chuyên dùng công vụ trên môi trường mạng. 9. CSCA - Country Signing Certification Authority là thành phần của Hệ thống chứng thực chữ ký số chuyên dùng công vụ phục vụ cấp chứng thư chữ ký số để phát hành hộ chiếu và thẻ căn cước có gắn chíp điện tử. 10. DS - Document Signer là thành phần ký số dữ liệu chíp trong hệ thống cá thể hóa của cơ quan phát hành hộ chiếu và thẻ căn cước có gắn chíp điện tử. 11. IS - Inspection System là các hệ thống thiết bị phần cứng, phần mềm phục vụ kiểm tra hộ chiếu và thẻ căn cước có gắn chíp điện tử. 12. CVCA - Country Verifying Certification Authourity là thành phần của Hệ thống chứng thực chữ ký số chuyên dùng công vụ phục vụ cấp chứng thư chữ ký số để kiểm tra hộ chiếu và thẻ căn cước có gắn chíp điện tử. 13. DVCA - Document Verifier Certification Authourity là thành phần trung gian của CVCA để cấp chứng thư chữ ký số chuyên dùng công vụ cho IS. 14. Thiết bị HSM - Hardware Security Module là thiết bị lưu khóa bí mật tập trung của các thuê bao. 15. PKI Token là thiết bị lưu khóa bí mật và chứng thư chữ ký số của tùng thuê bao. 16. SIM PKI là thiết bị thẻ SIM điện thoại có chức năng lưu khóa bí mật của thuê bao phục vụ ký số thông điệp dữ liệu trên thiết bị di động. 17. Giải pháp ký số tập trung là giải pháp ký số không sử dụng thiết bị phần cứng (PKI Token, SIM PKI), trong đó khóa bí mật của các thuê bao được lưu giữ tập trung trên thiết bị HSM của Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng công vụ. 18. CRL - Certificate Revocation List là danh sách chứng thư chữ ký số chuyên dùng công vụ bị thu hồi. 19. OCSP - Online Certifícate Status Protocol là dịch vụ kiểm tra, cho phép xác định trạng thái hiện thời của chứng thư chữ ký số chuyên dùng công vụ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "cầu chứng thực, thiết bị lưu khóa bí mật 1. Gửi, nhận văn bản yêu cầu chứng thực giữa cơ quan, tổ chức quản lý trực tiếp và Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng công vụ được thực hiện bằng văn bản điện tử đã ký số theo quy định của pháp luật về công tác văn thư qua Hệ thống thông tin đăng ký, quản lý yêu cầu chứng thực hoặc Trục liên thông văn bản quốc gia. 2. Gửi, nhận thiết bị lưu khóa bí mật giữa thuê bao, cơ quan, tổ chức quản lý trực tiếp, Tổ chứ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 68/2024/NĐ-CP Hà Nội, ngày 25 tháng 6 năm 2024 NGHỊ ĐỊNH QUY ĐỊNH VỀ CHỮ KÝ SỐ CHUYÊN DÙNG CÔNG VỤ Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Cơ yếu ngày 26 tháng 11 năm 2011; Căn cứ Luật Giao dịch điện tử ngày 22 tháng 6 năm 2023; Theo đề nghị của Bộ trưởng Bộ Quốc phòng; Chính phủ ban hành Nghị định quy định về chữ ký số chuyên dùng công vụ. Chương I QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định chi tiết về dịch vụ chứng thực chữ ký số chuyên dùng công vụ; việc cung cấp, quản lý, sử dụng chữ ký số chuyên dùng công vụ, chứng thư chữ ký số chuyên dùng công vụ và dịch vụ chứng thực chữ ký số chuyên dùng công vụ. Điều 2. Đối tượng áp dụng 1. Các cơ quan, tổ chức thuộc các cơ quan nhà nước; tổ chức chính t..."
+    }
+  ]
+}

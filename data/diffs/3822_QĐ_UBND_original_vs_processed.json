@@ -1,0 +1,30 @@
+{
+  "base": "3822_QĐ_UBND_original",
+  "revised": "3822_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "đường bộ trên địa bàn tỉnh Hà Tĩnh (có bảng xếp loại đường bộ kèm theo)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "ban, ngành, địa phương, đơn vị liên quan áp dụng để xác định cước vận tải đường bộ trên các tuyến đường tỉnh."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "ỦY BAN NHÂN DÂN CHỦ TỊCH Võ Trọng Hải BẢNG XẾP LOẠI ĐƯỜNG TỈNH ĐỂ TÍNH CƯỚC VẬN TẢI ĐƯỜNG BỘ TRÊN ĐỊA BÀN TỈNH HÀ TĨNH (Kèm theo Quyết định số 3822/QĐ-UBND ngày 23/11/2021 của UBND tỉnh Hà Tĩnh) STT Tên đường Từ Km đến Km Chiều dài (km) Loại 1 Loại 2 Loại 3 Loại 4 Loại 5 Loại 6 Khác Ghi chú 1 ĐT. 546 Km0+00-19+700 17,30 Km 0+00 - km 5+400 5,40 5,40 Km5+400-Km 8+300 2,90 2,90 Km8+300-Km 10+700 2,30 2,30 Trùng với QL 8B Km 10+700-Km 19+700 9,00 9,00 2 ĐT.547 Km0+00-Km118+930 80,53 Km0+00-Km3 5+980 35,98 35,98 Km35+980-Km41+980 5,40 5,40 Trùng với QL 281 Km41+980-Km44+280 2,90 2,90 Km44+280-Km 77+280 33,00 33,00 Trùng với QL 15B Km77+280-Km89+730 12,45 12,45 Km89+730-Km106+930 17,20 17,20 Tuyến chưa thông Km106+930-Km118+930 12,00 12,00 3 ĐT. 548 Km0+00-Km20+370 19,40 Km0+00-Km9+600 9,60 9,60 Km9+600-Km11+00 1,40 1,40 Km11+00-Km11+970 0,97 0,97 Tr ù ng với QL 1A Km11+970-Km20+370 8,40 8,40 4 ĐT.550 Km0+00-Km27+600 15,20 Km0+00-Km5+700 5,70 5,70 Km5+700-Km 12+100 6,40 6,40 Trùng với đường Ngô Quyền Km12+100-Km15+500 3,40 3,40 Trùng với QL.1 Km15+500-Km18+100 2,60 2,60 Trùng với đường Vũ Quang Km18+100-Km27+600 9,50 9,50 5 ĐT.551 K m 0+00 -Km44+800 44,40 Km0+00-Km12+00 12,00 12,00 Km12+00-Km14+400 0,40 0,40 Trùng với QL 1A Km12+400-Km44+800 32,40 32,40 6 ĐT.552 Km0+00-Km28+200 21,10 Km0+00-Km3+800 3,80 3,80 Km3+800-Km6+00 2,20 2,20 Km6+00-Km6+400 0,40 0,4 Trùng với QL 15 Km6+400-Km7+500 1,10 1,1 Trùng với QL8 Km7+500-Km15+300 7,80 7,80 Km15+300-Km20+900 5,60 5,6 Trùng với QL 281 Km20+900-Km28+200 7,30 7,30 7 ĐT.553 Km0+00-Km85+210 78,26 Km0+00-Km6+930 6,93 6,93 Km6+930-Km10+530 3,60 3,6 Trùng đường tránh QL 1A Km10+530-Km15+130 4,60 4,60 Km15+130-Km17+530 2,40 2,4 Trùng Q18C Km17+530-Km55+530 38,00 38 Chưa thông tuyến Km55+530-Km58+280 2,75 2,75 Km58+280-Km59+230 0,95 0,95 Trùng QL 15 Km59+230-Km73+580 14,35 14,35 Km73+580-Km85+210 11,63 11,63 Đang XDCB 8 ĐT.554 Km0+00-Km121+00 97,10 Km0+00-Km10+900 10,90 10,90 Km10+900-Km11+400 0,50 0,5 Trùng Q1 281 Km11+400-Km33+800 22,40 22,40 Km33+800-Km39+600 5,80 5,8 Chưa thông tuyến Km39+600-Km63+100 23,50 23,5 Trùng Q1 8C Km63+100-Km91+100 28,00 28 Chưa thông tuyến Km91+100-Km103+100 12,00 12,00 Km103+00-Km113+00 10,00 10,00 Km113+00-Km118+00 5,00 5,00 Km118+00-Km121+00 3,00 3,00 9 ĐT.555 Km0+00-Km24+850 22,95 Km0+00-Km8+300 8,30 8,30 Km8+300-Km10+200 1,90 1,9 Trùng QL1 Km10+200-Km16+800 6,60 6,60 Km16+800-Km24+850 8,05 8,05"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH HÀ TĨNH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 3822/QĐ-UBND Hà Tĩnh, ngày 23 tháng 11 năm 2021 QUYẾT ĐỊNH VỀ VIỆC XẾP LOẠI ĐƯỜNG TỈNH ĐỂ XÁC ĐỊNH CƯỚC VẬN TẢI ĐƯỜNG BỘ TRÊN ĐỊA BÀN TỈNH HÀ TĨNH ỦY BAN NHÂN DÂN TỈNH Căn cứ Luật Tổ chức chính quyền địa phương ngày 16/9/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Căn cứ Luật Giao thông đường bộ ngày 13/11/2008; Căn cứ Quyết định số 32/2005/QĐ-BGTVT ngày 17/6/2005 của Bộ GTVT ban hành Quy định về xếp loại đường để xác định cước vận tải đường bộ; Căn cứ Quyết định số 1984/QĐ-UBND ngày 16/6/2020 của UBND tỉnh về việc phê duyệt bổ sung, điều chỉnh phân cấp hệ thống đường tỉnh trên địa bàn tỉnh Hà Tĩnh; Xét đề nghị của Giám đốc Sở Giao thông vận tải tại Tờ trình số 4109/TTr-SGTVT ngày 17/11/2021. QUYẾT ĐỊNH: Điều 1. Xếp loại đường đường tỉnh để xác định cước vận tải đường b..."
+    }
+  ]
+}

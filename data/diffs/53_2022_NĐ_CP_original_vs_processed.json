@@ -1,0 +1,42 @@
+{
+  "base": "53_2022_NĐ_CP_original",
+  "revised": "53_2022_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "a, b, c, d, đ, g, i, k, l khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 36.1",
+      "change": "added",
+      "to": "ninh mạng; đánh giá điều kiện an ninh mạng; kiểm tra an ninh mạng; giám sát an ninh mạng; ứng phó, khắc phục sự cố an ninh mạng; sử dụng mật mã để bảo vệ thông tin mạng; yêu cầu xóa bỏ thông tin trái pháp luật hoặc thông tin sai sự thật trên không gian mạng xâm phạm an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân; thu thập dữ liệu điện tử liên quan đến hoạt động xâm phạm an ninh quốc gia, trật tự, an toàn xã hội, quyền và lợi ích hợp pháp của cơ quan, tổ chức, cá nhân trên không gian mạng; đình chỉ, tạm đình chỉ hoặc yêu cầu ngừng hoạt động của hệ thống thông tin, thu hồi tên miền. 2. Căn cứ, trình tự, thủ tục xác lập và công tác phối hợp giữa các bộ, ngành chức năng có liên quan trong thẩm định, đánh giá, kiểm tra, giám sát, ứng phó, khắc phục sự cố an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia. 3. Điều kiện an ninh mạng đối với hệ thống thông tin quan trọng về an ninh quốc gia. 4. Nội dung triển khai hoạt động bảo vệ an ninh mạng trong cơ quan nhà nước, tổ chức chính trị ở trung ương và địa phương. 5. Trình tự, thủ tục kiểm tra an ninh mạng đối với hệ thống thông tin của cơ quan, tổ chức, cá nhân không thuộc Danh mục hệ thống thông tin quan trọng về an ninh quốc gia theo các trường hợp được quy định tại khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 24.1",
+      "change": "added",
+      "to": "phòng đại diện tại Việt Nam đối với các doanh nghiệp được quy định tại khoản 3"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 26.1",
+      "change": "added",
+      "to": "bảo vệ an ninh mạng, phòng ngừa, xử lý hành vi xâm phạm an ninh mạng trong trường hợp nội dung quản lý nhà nước liên quan đến phạm vi quản lý của nhiều bộ, ngành."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "như sau: 1. Dữ liệu về thông tin cá nhân là dữ liệu về thông tin dưới dạng ký hiệu, chữ viết, chữ số, hình ảnh, âm thanh hoặc dạng tương tự để xác định danh tính một cá nhân. 2. Người sử dụng dịch vụ là tổ chức, cá nhân tham gia sử dụng dịch vụ trên không gian mạng. 3. Người sử dụng dịch vụ tại Việt Nam là tổ chức, cá nhân sử dụng không gian mạng trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam. 4. Dữ liệu về mối quan hệ của người sử dụng dịch vụ là dữ liệu về thông tin dưới dạng ký hiệu, chữ viết, chữ số, hình ảnh, âm thanh hoặc dạng tương tự phản ánh, xác định mối quan hệ của người sử dụng dịch vụ với người khác trên không gian mạng. 5. Dữ liệu do người sử dụng dịch vụ tại Việt Nam tạo ra là dữ liệu về thông tin dưới dạng ký hiệu, chữ viết, chữ số, hình ảnh, âm thanh hoặc dạng tương tự phản ánh quá trình tham gia, hoạt động, sử dụng không gian mạng của người sử dụng dịch vụ và các thông tin về thiết bị, dịch vụ mạng sử dụng để kết nối với không gian mạng trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam. 6. Dịch vụ trên mạng viễn thông là dịch vụ viễn thông, dịch vụ ứng dụng viễn thông theo quy định của pháp luật. 7. Dịch vụ trên mạng Internet là dịch vụ Internet và dịch vụ cung cấp nội dung trên nền internet theo quy định của pháp luật. 8. Dịch vụ gia tăng trên không gian mạng là dịch vụ viễn thông giá trị gia tăng theo quy định của pháp luật. 9. Lực lượng chuyên trách bảo vệ an ninh mạng bao gồm: a) Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao thuộc Bộ Công an; b) Cục Bảo vệ an ninh Quân đội, Tổng cục Chính trị và Bộ Tư lệnh Tác chiến không gian mạng thuộc Bộ Quốc phòng. 10. Chủ quản hệ thống thông tin quan trọng về an ninh quốc gia là cơ quan, tổ chức có thẩm quyền quản lý trực tiếp đối với hệ thống thông tin quan trọng về an ninh quốc gia, gồm những trường hợp sau: a) Bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; b) Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương; c) Các tổ chức chính trị ở Trung ương; d) Cấp có thẩm quyền quyết định đầu tư dự án xây dựng, thiết lập, nâng cấp, mở rộng hệ thống thông tin quan trọng về an ninh quốc gia. 11. Doanh nghiệp trong nước là doanh nghiệp được thành lập hoặ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 53/2022/NĐ-CP Hà Nội, ngày 15 tháng 8 năm 2022 NGHỊ ĐỊNH QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT AN NINH MẠNG Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật An ninh quốc gia ngày 03 tháng 12 năm 2004; Căn cứ Luật An ninh mạng ngày 12 tháng 6 năm 2018; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Theo đề nghị của Bộ trưởng Bộ Công an; Chính phủ ban hành Nghị định quy định chi tiết một số điều của Luật An ninh mạng . Chương I QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định chi tiết điểm a, b, c, d, đ, g, i, k, l khoản 1 Điều 5, khoản 4 Điều 10, khoản 5 Điều 12 , khoản 1 Điều 23, khoản 7 Điều 24, khoản 2, 4 Điều 26, khoản 5 Điều 36 Luật An ninh mạng , gồm các nội dung sau: 1. Các biện pháp bảo vệ..."
+    }
+  ]
+}

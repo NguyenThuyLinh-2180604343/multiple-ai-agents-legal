@@ -1,0 +1,30 @@
+{
+  "base": "15_VBHN_BTC_original",
+  "revised": "15_VBHN_BTC_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "tượng áp dụng Tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài khi được cơ quan công an cấp giấy đăng ký và biển số phương tiện giao thông cơ giới đường bộ thì phải nộp lệ phí cấp giấy đăng ký và biển số theo quy định tại Thông tư này. Thông tư này không áp dụng đối với xe chuyên dùng có tham gia giao thông đường bộ (do cơ quan giao thông cấp giấy đăng ký) và xe cơ giới của quân đội sử dụng vào mục đích quốc phòng."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "phí Các trường hợp sau đây được miễn nộp lệ phí cấp giấy đăng ký và biển số phương tiện giao thông: 1. Cơ quan đại diện ngoại giao, cơ quan lãnh sự, cơ quan đại diện của tổ chức quốc tế thuộc hệ thống liên hợp quốc. 2. Viên chức ngoại giao, viên chức lãnh sự, nhân viên hành chính kỹ thuật của cơ quan đại diện ngoại giao và cơ quan lãnh sự nước ngoài, thành viên các tổ chức quốc tế thuộc hệ thống Liên hợp quốc và thành viên của gia đình họ không phải là công dân Việt Nam hoặc không thường trú tại Việt Nam được Bộ Ngoại giao Việt Nam hoặc cơ quan ngoại vụ địa phương được Bộ Ngoại giao ủy quyền cấp chứng minh thư ngoại giao hoặc chứng minh thư công vụ. Trường hợp này khi đăng ký phương tiện giao thông, người đăng ký phải xuất trình với cơ quan đăng ký chứng minh thư ngoại giao (màu đỏ) hoặc chứng minh thư công vụ (màu vàng) theo quy định của Bộ Ngoại giao. 3. Tổ chức, cá nhân nước ngoài khác (cơ quan đại diện của tổ chức quốc tế liên chính phủ ngoài hệ thống liên hợp quốc, cơ quan đại diện của tổ chức phi chính phủ, các đoàn của tổ chức quốc tế, thành viên của cơ quan và tổ chức khác) không thuộc đối tượng nêu tại khoản 1 và khoản 2 Điều này, nhưng được miễn nộp hoặc không phải nộp lệ phí cấp giấy đăng ký và biển số theo điều ước quốc tế mà Việt Nam ký kết hoặc tham gia. Trường hợp này tổ chức, cá nhân phải cung cấp cho cơ quan đăng ký: - Đơn đề nghị miễn nộp lệ phí cấp giấy đăng ký và biển số, có ký tên, ghi rõ họ tên và đóng dấu (nếu là tổ chức). - Bản sao hiệp định hoặc thỏa thuận giữa Chính phủ Việt Nam với Chính phủ nước ngoài bằng tiếng Việt Nam (có xác nhận của Công chứng nhà nước hoặc ký tên, ghi rõ họ tên và đóng dấu xác nhận của chủ chương trình, dự án)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "thích từ ngữ Trong Thông tư này một số từ ngữ được hiểu như sau: 1. Phương tiện giao thông cơ giới đường bộ, gồm: Xe ô tô, máy kéo và các loại xe được cấp biển tương tự như ô tô (gọi chung ô tô); xe máy. Trong đó: - Xe ô tô dưới 10 chỗ ngồi (kể cả lái xe) là xe ô tô con chở người, không bao gồm xe lam. - Xe máy, gồm: xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy và các loại xe tương tự, kể cả xe cơ giới dùng cho người tàn tật. 2. Các thành phố, thị xã quy định tại Thông tư này được xác định theo địa giới hành chính nhà nước, cụ thể như sau: - Thành phố Hà Nội, thành phố Hồ Chí Minh và các thành phố trực thuộc trung ương khác bao gồm tất cả các quận, huyện trực thuộc thành phố không phân biệt nội thành hay ngoại thành, đô thị hay nông thôn. - Thành phố trực thuộc tỉnh, các thị xã bao gồm tất cả các phường, xã thuộc thành phố, thị xã không phân biệt là phường nội thành, nội thị hay xã ngoại thành, ngoại thị. 3. Cấp mới giấy đăng ký và biển số chỉ áp dụng đối với các phương tiện giao thông đăng ký lần đầu tại Việt"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ TÀI CHÍNH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 15/VBHN-BTC Hà Nội, ngày 04 tháng 06 năm 2015 THÔNG TƯ [1] QUY ĐỊNH CHẾ ĐỘ THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG LỆ PHÍ CẤP GIẤY ĐĂNG KÝ VÀ BIỂN SỐ PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ Thông tư số 127/2013/TT-BTC ngày 06 tháng 9 năm 2013 quy định chế độ thu, nộp, quản lý và sử dụng lệ phí cấp giấy đăng ký và biển số phương tiện giao thông cơ giới đường bộ, có hiệu lực kể từ ngày 01 tháng 11 năm 2013, được sửa đổi, bổ sung bởi: Thông tư số 53/2015/TT-BTC ngày 21 tháng 4 năm 2015 sửa đổi, bổ sung Thông tư số 127/2013/TT-BTC ngày 06 tháng 9 năm 2013 quy định chế độ thu, nộp, quản lý và sử dụng lệ phí cấp giấy đăng ký và biển số phương tiện giao thông cơ giới đường bộ, có hiệu lực kể từ ngày 06 tháng 6 năm 2015. Căn cứ Luật giao thông đường bộ ngày 13/11/2008; Căn cứ Pháp lệnh phí và lệ phí ngày 28/8/2001; Căn cứ Nghị định số 57/2002/NĐ-CP ngày 03/6/2002 và Nghị định số 2..."
+    }
+  ]
+}

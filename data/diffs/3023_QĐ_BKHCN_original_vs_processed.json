@@ -1,0 +1,30 @@
+{
+  "base": "3023_QĐ_BKHCN_original",
+  "revised": "3023_QĐ_BKHCN_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "bố 15 Tiêu chuẩn quốc gia (TCVN) sau đây: 1. TCVN 13892-1:2023 Phương tiện giao thông đường sắt - Phương pháp đo và sai số kích thước toa xe hàng - Phần 1: Nguyên tắc đo 2. TCVN 13892-2:2023 Phương tiện giao thông đường sắt - Phương pháp đo và sai số kích thước toa xe hàng - Phần 2: Toa xe hàng có giá chuyển hướng 3. TCVN 13892-3:2023 Phương tiện giao thông đường sắt - Phương pháp đo và sai số kích thước toa xe hàng - Phần 3: Toa xe hàng có 2 bộ trục bánh 4. TCVN 13892-4:2023 Phương tiện giao thông đường sắt - Phương pháp đo và sai số kích thước toa xe hàng - Phần 4: Giá chuyển hướng có 2 bộ trục bánh 5. TCVN 13892-5:2023 Phương tiện giao thông đường sắt - Phương pháp đo và sai số kích thước toa xe hàng - Phần 5: Giá chuyển hướng có 3 bộ trục bánh 6. TCVN 13892-6:2023 Phương tiện giao thông đường sắt - Phương pháp đo và sai số kích thước toa xe hàng - Phần 6: Toa xe hàng đa nguyên và ghép giá chuyển hướng 7. TCVN 13893:2023 Ứng dụng đường sắt - Phương pháp thử phối hợp cho các hệ thống điện kéo 8. TCVN 13894-1:2023 Ứng dụng đường sắt - Hệ thống hãm của tàu tốc độ cao - Phần 1: Yêu cầu và định nghĩa 9. TCVN 13894-2:2023 Ứng dụng đường sắt - Hệ thống hãm của tàu tốc độ cao - Phần 2: Phương pháp thử nghiệm 10. TCVN 13895-1:2023 Ứng dụng đường sắt - Đĩa hãm trên phương tiện đường sắt - Phần 1: Đĩa hãm ép nóng hoặc ép nguội lên trục xe hoặc trục dẫn hướng, các yêu cầu về kích thước và chất lượng 11. TCVN 13895-2:2023 Ứng dụng đường sắt - Đĩa hãm trên phương tiện đường sắt - Phần 2: Đĩa hãm lắp trên bánh xe, các yêu cầu về kích thước và chất lượng 12. TCVN 13895-3:2023 Ứng dụng đường sắt - Đĩa hãm trên phương tiện đường sắt - Phần 3: Đĩa hãm, tính năng của đĩa và liên kết ma sát, phân loại 13. TCVN 13896:2023 Ứng dụng đường sắt - Hệ thống hãm - Thiết bị chuyển đổi rỗng - tải 14. TCVN 13897:2023 Ứng dụng đường sắt - Hệ thống cảnh báo hành khách - Các yêu cầu của hệ thống 15. TCVN 13898:2023 Ứng dụng đường sắt - Hệ thống cửa thân xe"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "định này có hiệu lực thi hành kể từ ngày ký."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "cục trưởng Tổng cục Tiêu chuẩn Đo lường Chất lượng và các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Quyết định này./. Nơi nhận: - Như"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ KHOA HỌC VÀ CÔNG NGHỆ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 3023/QĐ-BKHCN Hà Nội, ngày 15 tháng 12 năm 2023 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ TIÊU CHUẨN QUỐC GIA BỘ TRƯỞNG BỘ KHOA HỌC VÀ CÔNG NGHỆ Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006; Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ; Căn cứ Nghị định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ; Căn cứ Nghị định số 28/2023/NĐ-CP ngày 02 tháng 6 năm 2023 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ; Trên cơ sở đề nghị của Bộ Giao thông vận tải tại Công văn số 12404/BGTVT-KHCN&MT ngày 02 tháng 1..."
+    }
+  ]
+}

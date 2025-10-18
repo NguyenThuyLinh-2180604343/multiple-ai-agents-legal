@@ -1,0 +1,30 @@
+{
+  "base": "675_QĐ_UBND_original",
+  "revised": "675_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "bố xếp loại 18 tuyến đường tỉnh với tổng chiều dài 390,0 km để xác định cước vận tải đường bộ, cụ thể như sau: - Đường loại 2: 44,7 km; - Đường loại 3: 122,0 km; - Đường loại 4: 107,4 km; - Đường loại 5: 115,9 km. (Có biểu chi tiết xếp loại các tuyến đường tỉnh kèm theo)"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "đường để xác định cước vận tải đường bộ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "DÂN KT. CHỦ TỊCH PHÓ CHỦ TỊCH Lại Thanh Sơn PHÂN LOẠI ĐƯỜNG TỈNH ĐỂ XÁC ĐỊNH CƯỚC VẬN TẢI ĐƯỜNG BỘ (Kèm theo Quyết định số 675/QĐ-UBND ngày 31/07/2020 của UBND tỉnh Bắc Giang) STT Tên đường Địa danh Đoạn tính Từ Km đến Km Chiều dài (km) Đường loại 1 Đường loại 2 Đường loại 3 Đường loại 4 Đường loại 5 Đường loại 6 Ghi chú Km - Điểm đầu Km - Điểm cuối 1 ĐT.242 Km0 - Bố Hạ, Yên Thế Km6 - Đèo Cà,Yên Thế Km0 - Km6 6,00 6,00 Cấp bậc D1 2 ĐT.248 Km0 - Phong Vân, Lục Ngạn Km26 - Sa Lý, Lục Ngạn Km0 - Km26 26,00 26,00 Cấp bậc D2 3 ĐT.288 Km0 - Bến Gầm, Việt Yên Km19 +500 - Gia Tư, Hiệp Hoà Km0 - Km19+500 19,50 + Km0 - Bến Gầm, Việt Yên Km5+500 - Danh Thắng, Hiệp Hoà Km0 - Km5+500 5,50 Cấp bậc D2 + Km5+500 - Danh Thắng, Hiệp Hoà Km10+500 - Thắng, Hiệp Hoà Km5+500 - Km10+500 5,00 Cấp bậc B1 + Km10+500 - Thắng, Hiệp Hoà Km19 +500 - Gia Tư, Hiệp Hoà Km10+500 - Km19+500 9,00 Cấp bậc C1 4 ĐT.289 Km0 - Chũ, Lục Ngạn Km9+700 - Khuôn Thần, Lục Ngạn Km0 - Km9+700 9,70 9,70 Cấp bậc D2 5 ĐT.290 Km0 - Kép Hạ, Lục Ngạn Km15 - Cống Lầu, Lục Ngạn Km0 - Km15 15,00 15,00 Cấp bậc C2 6 ĐT.291 Km0 - Yên Định, Sơn Động Km25 - Đồng Rì, Sơn Động Km0 - Km25 25,00 + Km0 - Yên Định, Sơn Động Km17 - Thanh Sơn, Sơn Động Km0 - Km17 17,00 Cấp bậc D2 + Km17 - Thanh Sơn, Sơn Động Km25 - Đồng Rì, Sơn Động Km17 - Km25 8,00 Cấp bậc C2 7 ĐT.292 Km0 - Kép, Lạng Giang Km19 - TT Cầu Gồ, Yên Thế Km0 - Km19+00 19,00 + Km0 - Kép, Lạng Giang Km8 - Nghĩa Hưng, Lạng Giang Km0 - Km8 8,00 Cấp bậc D2 + Km8 - Nghĩa Hưng, Lạng Giang Km19 - TT Cầu Gồ, Yên thế Km8 - Km19 11,00 Cấp bậc D1 8 ĐT.293 Km0 - Hùng Vương, TP Bắc Giang Km86+400 - Hạ My, Sơn Động Km0 - Km86+00 86,40 + Km0 - Hùng Vương, TP Bắc Giang Km8 - Tân An, Yên Dũng Km0 - Km8 8,00 Cấp bậc B1 + Km8 - Tân An, Yên Dũng Km73 - Thanh Sơn, Sơn Động Km8 - Km73 65,00 Cấp bậc B2 + Km73 - Thanh Sơn, Sơn Động Km86+00 - Hạ My, Sơn Động Km 73- Km86 13,40 Cấp bậc B1 9 ĐT.294 Km0 - Tân Sỏi, Yên Thế Km15 - Cầu Ca, Phúc Sơn, Tân Yên Km0 - Km15 15,00 + Km0 - Tân Sỏi, Yên Thế Km7 - TT Nhã Nam, Tân Yên Km0- Km7 7,00 Cấp bậc D2 + Km7 - TT Nhã Nam, Tân Yên Km15 - Cầu Ca, Phúc Sơn, Tân Yên Km7- Km15 8,00 Cấp bậc D1 10 ĐT.295 Km0 - Đồi Ngô, Lục Nam Km70+500 - Đông Xuyên, Hiệp Hoà Km0 - Km70+500 70,50 + Km0 - Đồi Ngô, Lục Nam Km5 - Tam Dị, Lục Nam Km0 - Km5 5,00 Cấp bậc C1 + Km5 - Tam Dị, Lục Nam Km10 - Bảo Lộc, Lục Nam Km5 - Km10 5,00 Cấp bậc D2 + Km10 - Bảo Lộc, Lục Nam Km17 - Vôi, Lạng Giang Km10 - Km17 7,00 Cấp bậc D1 + Km17 -Vôi, Lạng Giang Km32 - Bến Tuần, Lạng Giang Km17 - Km32 15,00 Cấp bậc C1 + Km32 -Bến Tuần, Lạng Giang Km42+500 - Song Vân, Tân Yên Km32- Km42+500 10,50 Cấp bậc D1 + Km42+500 - Song Vân, Tân Yên Km53 - Thắng, Hiệp Hòa Km42+500 - Km53 10,50 Cấp bậc C1 + Km53 - Thắng, Hiệp Hòa Km70+500 - Đông Xuyên, Hiệp Hoà Km53- Km70+500 17,50 Cấp bậc B2 11 ĐT.295B Km0 - Tân Xuyên, Lạng Giang Km23+300 - Đáp Cầu, Việt Yên Km0 - Km23+300 23,30 + Km0 - Tân Xuyên, Lạng Giang Km5 - Xương Giang, TP Bắc Giang Km0-Km5 5,00 Cấp bậc D1 + Km5 - Xương Giang, TP Bắc Giang Km11 - Tân Mỹ, TP Bắc Giang Km5-Km11 6,00 Cấp bậc A2 + Km11 - Tân Mỹ, TP Bắc Giang Km23+300 - Đáp Cầu, Việt Yên Km11- Km23+300 1"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH BẮC GIANG ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 675/QĐ-UBND Bắc Giang, ngày 31 tháng 7 năm 2020 QUYẾT ĐỊNH VỀ VIỆC XẾP LOẠI ĐƯỜNG ĐỂ XÁC ĐỊNH CƯỚC VẬN TẢI ĐƯỜNG BỘ ỦY BAN NHÂN DÂN TỈNH BẮC GIANG Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Căn cứ Quyết định số 32/2005/QĐ-BGTVT ngày 17/6/2005 của Bộ Giao thông vận tải về việc ban hành quy định về xếp loại đường để xác định cước vận tải đường bộ; Theo đề nghị của Sở Giao thông vận tải tại Tờ trình số 91/TTr-SGTVT ngày 23/7/2020. QUYẾT ĐỊNH: Điều 1. Công bố xếp loại 18 tuyến đường tỉnh với tổng chiều dài 390,0 km để xác định cước vận tải đường bộ, cụ thể như sau: - Đường loại 2: 44,7 km; - Đường loại 3: 122,0 km; - Đường loại 4: 107,4 km; - Đường loại 5: 115,9 km. (Có biểu chi tiết xếp loại các tuyến đường tỉnh kèm theo) Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký và ..."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "base": "21_2023_TT_BGTVT_original",
+  "revised": "21_2023_TT_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "chỉnh và đối tượng áp dụng 1. Thông tư này quy định về thủ tục cấp giấy chứng nhận chất lượng an toàn kỹ thuật liên quan đến kiểm tra, kiểm định, nhập khẩu, thiết kế, sản xuất, hoán cải và khai thác sử dụng đối với các thiết bị xếp dỡ, nồi hơi, thiết bị áp lực sử dụng trong giao thông vận tải theo quy định của pháp luật, bao gồm: a) Thiết bị xếp dỡ được lắp đặt, sử dụng trên phương tiện giao thông vận tải đường bộ, đường sắt; thiết bị xếp dỡ chuyên dùng trong cảng hàng không, cảng thủy, cơ sở đóng mới, sửa chữa tàu thủy, phương tiện đường sắt; b) Nồi hơi, thiết bị áp lực được lắp đặt, sử dụng trên phương tiện giao thông vận tải đường bộ, đường sắt. 2. Thông tư này không áp dụng cho các thiết bị xếp dỡ, nồi hơi, thiết bị áp lực (sau đây gọi là thiết bị) khai thác sử dụng trên tàu biển, phương tiện thủy nội địa, công trình trên biển phục vụ thăm dò, khai thác dầu khí, hệ thống đường ống dẫn dầu, khí đốt trên biển, thiết bị phục vụ vào mục đích quốc phòng, an ninh, tàu cá. 3. Thông tư này áp dụng đối với các cơ quan, tổ chức, cá nhân liên quan đến kiểm tra, kiểm định, nhập khẩu, thiết kế, sản xuất, hoán cải, thử nghiệm và khai thác sử dụng các thiết bị quy định tại khoản 1 Điều này.”. 2. Sửa đổi, bổ sung"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "ngữ Trong Thông tư này các từ ngữ dưới đây được hiểu như sau: 1. Sản phẩm cùng kiểu là các thiết bị có cùng nhãn hiệu, thiết kế, thông số kỹ thuật và được sản xuất trên cùng một dây chuyền công nghệ. 2. Cơ sở sản xuất là tổ chức, cá nhân sản xuất, hoán cải thiết bị. 3. Cơ sở thiết kế là tổ chức, cá nhân hành nghề kinh doanh dịch vụ thiết kế thiết bị theo quy định của pháp luật. 4. Cơ sở thử nghiệm là phòng thử, phòng thí nghiệm hoạt động trong lĩnh vực thử nghiệm vật liệu, thiết bị theo quy định của pháp luật. 5. Tổ chức hoạt động kiểm định kỹ thuật an toàn lao động (sau đây gọi tắt là Tổ chức kiểm định) là tổ chức được cấp giấy chứng nhận đủ điều kiện hoạt động kiểm định kỹ thuật an toàn lao động theo quy định tại Nghị định số 44/2016/NĐ-CP ngày 15 tháng 5 năm 2016 của Chính phủ quy định chi tiết một số điều của Luật An toàn, vệ sinh lao động về hoạt động kiểm định kỹ thuật an toàn lao động, huấn luyện an toàn, vệ sinh lao động và quan trắc môi trường lao động và Nghị định số 140/2018/NĐ-CP ngày"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 21/2023/TT-BGTVT Hà Nội, ngày 30 tháng 06 năm 2023 THÔNG TƯ SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 35/2011/TT-BGTVT NGÀY 06 THÁNG 5 NĂM 2011 CỦA BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI QUY ĐỊNH VỀ THỦ TỤC CẤP GIẤY CHỨNG NHẬN CHẤT LƯỢNG AN TOÀN KỸ THUẬT THIẾT BỊ XẾP DỠ, NỒI HƠI, THIẾT BỊ ÁP LỰC SỬ DỤNG TRONG GIAO THÔNG VẬN TẢI Căn cứ Luật Chất lượng sản phẩm, hàng hóa ngày 21 tháng 11 năm 2007; Căn cứ Luật An toàn, vệ sinh lao động ngày 25 tháng 6 năm 2015; Căn cứ Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều của Luật Chất lượng sản phẩm, hàng hóa; Nghị định số 74/2018/NĐ-CP ngày 15 tháng 5 năm 2018 sửa đổi, bổ sung một số điều của Nghị định số 132/2008/NĐ-CP ngày 31 tháng 12 năm 2008 của Chính phủ quy định chi tiết thi hành một số điều của Luật Chất lượng sản phẩm, hàng hóa; Nghị định số 154/2018..."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "base": "146_QĐ_UBND_original",
+  "revised": "146_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "loại đường bộ các tuyến đường để tính giá cước vận chuyển (có bảng phân loại chi tiết đính kèm)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "DÂN KT. CHỦ TỊCH PHÓ CHỦ TỊCH Bùi Minh Thạnh PHỤ LỤC I BẢNG PHÂN LOẠI ĐƯỜNG TÍNH CƯỚC ĐƯỜNG BỘ CÁC TUYẾN ĐƯỜNG TỈNH TRÊN ĐỊA BÀN TỈNH BÌNH DƯƠNG (Kèm theo Quyết định số 146/QĐ-UBND ngày 21 tháng 01 năm 2025 của UBND tỉnh) STT Tên đường Điểm đầu Điểm cuối Chiều dài (Km) PHÂN LOẠI GHI CHÚ Loại 1 Loại 2 Loại 3 Loại 4 Loại 5 Loại 6 I Đường tỉnh 1 ĐT.741 Ngã 4 Sở Sao (Km0+000) Bàu Trư - ranh Bình Dương và Bình Phước (Km49+670) 49,670 x 2 ĐT.742 Đại lộ Bình Dương (Km0+000) Giáp ĐT747a (Km23+820) - Đoạn 1 Đại lộ Bình Dương (Km0+000) Km11+300 11,300 x - Đoạn 2 Km11+300 Giáp ĐT747a (Km23+870) 12,570 x 3 ĐT.743a Ngã tư Chợ Đình (Km0+000) Tân Vạn (Km26+750) 26,750 x 4 ĐT.743b Ngã 3 Vườn Tràm (Km0+000) Khu công nghiệp Bình Chiểu (Km4+980) 4,980 x 5 ĐT.743c Ngã 3 cầu Ông Bố (Km0+000) Ngã 3 Đông Tân (Km4+670) 4,670 x 6 ĐT.744 - Đoạn 1 Đại lộ Bình Dương (Km0+000) Ngã 3 Kiểm Lâm (Km50+190) 50,190 x - Đoạn 2 Ngã 3 Kiểm Lâm (Km50+190) Ngã 3 Minh Hòa (Km67+462) 17,272 x 7 ĐT.746 - Đoạn 1 Ngã 3 Bình Quới (Km0+000) Dốc Cấy Quéo (Km13+700) 13,700 x - Đoạn 2 Dốc Cấy Quéo (Km13+700) Hội Nghĩa (Km73+350) 59,650 x 8 ĐT.747a - Đoạn 1 Cầu Ông Tiếp (Km0+000) Cầu Rạch Tre (Km12+698) 12,698 x - Đoạn 2 Cầu Rạch Tre (Km12+698) Ngã 3 Cổng Xanh (Km31+280) 18,582 x 9 ĐT.747b Ngã 3 Tân Ba (Km0+000) Hội Nghĩa (Km16+828) 16,828 x 10 ĐT.748 Ngã 4 Phú Thứ (Km0+000) Ngã 3 Giáng Hương 37,000 x 11 ĐT.749a Cầu Quan (Km0+000) Ngã 3 Minh Thạnh (Km38+700) 45,100 x 12 ĐT.749b Cầu Bà Và (Km0+000) Lòng hồ Dầu Tiếng (Km21+000) 21,000 x 13 ĐT.750 Ngã 3 Bến Trám - Giáp ĐT741 (Km0+000) Ngã 4 Làng Mười (Km42+000) 42,000 x 14 ĐT.741b Ngã 3 Bố Lá (Km0+000) Ngã 3 Bàu Bàng 12,200 x 15 ĐT.741c Giáp ĐT.741B và Quốc lộ 13 tại Tượng đài chiến thắng Bàu Bàng Giáp đường ĐH.07 Minh Thành - An Long, xã Minh Thành, huyện Chơn Thành, tỉnh Bình Phước 17,088 x 16 ĐT.749c Bàu Bàng Ngã 3 Đòn Gánh x 17 ĐT.749d Ngã 3 Long Tân Ngã 4 Chú Thai 19,485 x II Đường khác 1 Mỹ Phước - Tân Vạn Ngã 3 Tân Vạn Quốc lộ 13 46,650 x 2 Đường dẫn vào cầu Thới An Quốc lộ 13 cầu Thới An 1,000 x 3 Đường vào cầu Thủ Biên ĐT.746 cầu Thủ Biên 0.37 x PHỤ LỤC II BẢNG PHÂN LOẠI ĐƯỜNG TÍNH CƯỚC ĐƯỜNG BỘ TRÊN ĐỊA BÀN THÀNH PHỐ THỦ DẦU MỘT (Kèm theo Quyết định số 146/QĐ-UBND ngày 21 tháng 01 năm 2025 của UBND tỉnh) STT Tên đường Điểm đầu Điểm cuối Chiều dài (Km) Phân loại Ghi chú Loại 1 Loại 2 Loại 3 Loại 4 Loại 5 Loại 6 1 CMT8 Đại lộ Bình Dương (ngã 3 mũi tàu) Ranh Thuận An 5,510 x 2 Đường 30/4 Phú Lợi Nguyễn Tri Phương 2,002 x 3 Đường Lò Chén Giao lộ CMT8 Giao lộ Bàu Bàng 0,860 x 4 Phan Đình Giót Giao lộ Thích Quãng Đức Giao lộ CMT8 0,641 x 5 Lý Thường Kiệt Giao lộ CMT8 Giao lộ Nguyễn Thái Học 0,813 x 6 Nguyễn An Ninh Giao lộ CMT8 Giao lộ Lý Thường Kiệt 0,198 x 7 Hùng Vương Giao lộ CMT8 Giao lộ Trần Hưng Đạo 0,410 x 8 Thích Quãng Đức Giao lộ CMT8 Giao lộ đường 30/4 1,819 x 9 Trần Tử Bình Giao lộ Lý Thường Kiệt Giao lộ CMT8 0,343 x 10 Tú Xương Giao lộ CMT8 Giao lộ Nguyễn Văn Tiết 0,094 x 11 Thầy giáo Chương CMT8 Hùng Vương 0,079 x 12 Nguyễn Trãi Giao lộ CMT8 Hùng Vương 0,125 x 13 Nguyễn Du Giao lộ CMT8 Giao lộ BS Yersin 0,138 x 14 Quang Trung Ngã 6 Cổng UBND TP 0,098 x 15 Trần Hưng Đạo Ngã 6 Lê Lợi 0,210 x 16 BS Yersin Đại lộ Bình Dương Ngã 6 1,428 x 17 Nguyễn Đình Chiểu Giao lộ Trần Hưng Đạo Võ Thành Long 0,228 x 18 Nguyễn Văn Tiết Đại lộ Bình Dương Miếu tử trận 1,276 x 19 Bạch Đằng Cầu Thầy Năng Cổng trường ĐH Ngô Quyền (SQKTCB) 1,741 x 20 Ngô Tùng Châu Giao lộ Nguyễn Thá"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH BÌNH DƯƠNG ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 146/QĐ-UBND Bình Dương, ngày 21 tháng 01 năm 2025 QUYẾT ĐỊNH VỀ VIỆC PHÂN LOẠI ĐƯỜNG ĐỂ TÍNH GIÁ CƯỚC ĐƯỜNG BỘ TRÊN ĐỊA BÀN TỈNH ỦY BAN NHÂN DÂN TỈNH Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Tổ chức chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Thực hiện Quyết định 3956/QĐ-UBND ngày 31/12/2024 của Ủy ban nhân dân tỉnh điều chỉnh phân công công tác của Phó Chủ tịch Ủy ban nhân dân tỉnh Bình Dương khóa X, nhiệm kỳ 2021-2026; Theo đề nghị của Giám đốc Sở Giao thông vận tải tại Tờ trình số 5778/TTr-SGTVT ngày 31/12/2024. QUYẾT ĐỊNH: Điều 1. Ban hành bảng phân loại đường bộ các tuyến đường để tính giá cước vận chuyển (có bảng phân loại chi tiết đính kèm). Điều 2. Chánh Văn phòng Ủy ban nhân dân tỉnh; Giám đốc: Sở Giao thông vận tải, Sở Xây dựng, Sở Tài chính; Chủ tịch..."
+    }
+  ]
+}

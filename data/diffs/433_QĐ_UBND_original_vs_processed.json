@@ -1,0 +1,36 @@
+{
+  "base": "433_QĐ_UBND_original",
+  "revised": "433_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "chức niêm yết công khai thực hiện đầy đủ nội dung, quy trình giải quyết các thủ tục hành chính theo đúng quy định pháp luật. 2. Tham mưu Chủ tịch Ủy ban nhân dân tỉnh ban hành Quyết định phê duyệt quy trình nội bộ giải quyết thủ tục hành chính theo quy định, phù hợp với nội dung cụ thể của từng thủ tục hành chính trong lĩnh vực giao thông vận tải theo Phần II Quyết định số 421/QĐ-BGTVT ngày 11/4/2024 của Bộ trưởng Bộ Giao thông vận tải; hoàn thành trong thời hạn 10 ngày làm việc kể từ ngày Quyết định này có hiệu lực thi hành để xây dựng quy trình điện tử theo quy định tại khoản 4"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "mục thủ tục hành chính được công bố tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 8.1",
+      "change": "added",
+      "to": "phòng Chính phủ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "TẢI THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH NINH THUẬN (Ban hành kèm theo Quyết định số 433/QĐ-UBND ngày 22/4/2024 của Chủ tịch Ủy ban nhân dân tỉnh Ninh Thuận) TT Tên thủ tục hành chính Thời gian giải quyết Cơ quan thực hiện Phí, lệ phí Căn cứ pháp lý 1 Cấp Giấy phép vận chuyển hàng hóa nguy hiểm. 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng theo quy định. UBND tỉnh Không có Quyết định số 421/QĐ-BGTVT ngày 11/4/2024 của Bộ trưởng Bộ Giao thông vận tải 2 Điều chỉnh thông tin trên Giấy phép vận chuyển hàng hóa nguy hiểm khi có sự thay đổi liên quan đến nội dung của Giấy phép. 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng theo quy định. UBND tỉnh Không có -Như trên- 3 Cấp lại Giấy phép vận chuyển hàng hóa nguy hiểm do bị mất, bị hỏng. 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng theo quy định. UBND tỉnh Không có -Như trên-"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH NINH THUẬN ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 433/QĐ-UBND Ninh Thuận, ngày 22 tháng 4 năm 2024 QUYẾT ĐỊNH V/V CÔNG BỐ DANH MỤC THỦ TỤC HÀNH CHÍNH TRONG LĨNH VỰC GIAO THÔNG VẬN TẢI THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH NINH THUẬN CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH NINH THUẬN Căn cứ Luật Tổ chức Chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08/6/2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 48/2013/NĐ-CP ngày 14/5/2013 và Nghị định số 92/2017/NĐ-CP ngày 07/8/2017 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; ..."
+    }
+  ]
+}

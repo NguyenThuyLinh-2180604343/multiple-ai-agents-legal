@@ -1,0 +1,36 @@
+{
+  "base": "70_2015_TT_BGTVT_original",
+  "revised": "70_2015_TT_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "chỉnh 1. Thông tư này quy định về kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ (sau đây gọi chung là xe cơ giới). 2. Thông tư này không áp dụng đối với: a) Xe mô tô, xe gắn máy, máy kéo và các loại xe tương tự; b) Xe cơ giới của quân đội, công an sử dụng vào mục đích quốc phòng, an ninh."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "dụng Thông tư này áp dụng đối với tổ chức, cá nhân có liên quan đến hoạt động kiểm định an toàn kỹ thuật và bảo vệ môi trường xe cơ giới (sau đây viết tắt là ATKT và BVMT)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau: 1. Kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ (sau đây gọi tắt là kiểm định) là việc thực hiện kiểm tra, đánh giá tình trạng ATKT và BVMT của xe cơ giới theo các tiêu chuẩn, quy chuẩn, quy định. 2. Giấy Chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ (sau đây gọi tắt là Giấy chứng nhận kiểm định) là chứng chỉ xác nhận xe cơ giới đã được kiểm định và thỏa mãn các tiêu chuẩn, quy chuẩn, quy định về chất lượng ATKT và BVMT. 3. Tem kiểm định an toàn kỹ thuật và bảo vệ môi trường xe cơ giới (sau đây gọi tắt là Tem kiểm định) là biểu trưng cấp cho xe cơ giới đã được cấp Giấy chứng nhận kiểm định và được phép tham gia giao thông đường bộ theo thời hạn ghi trên Tem kiểm định trong lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam và các nước mà Việt Nam đã ký Hiệp định công nhận lẫn nhau về Giấy chứng nhận kiểm định. 4. Xe cơ giới nguyên thủy là xe cơ giới không có sự thay đổi cấu tạo, hình dáng, bố trí, nguyên lý làm việc, thông số, đặc tính kỹ thuật của toàn bộ các hệ thống, tổng thành so với thiết kế của nhà sản xuất. 5. Phiếu lập Hồ sơ phương tiện là bản ghi các thông tin hành chính, thông số kỹ thuật của xe cơ giới nguyên thủy và cập nhật những thay đổi trong suốt quá trình sử dụng. 6. Phiếu kiểm định là bản ghi nhận kết quả và ảnh chụp xe cơ giới của mỗi lần kiểm định. 7. Ấn chỉ kiểm định là phôi của: Giấy chứng nhận kiểm định, Tem kiểm định và Phiếu lập Hồ sơ phương tiện. 8. Đơn vị đăng kiểm xe cơ giới (sau đây gọi tắt là Đơn vị đăng kiểm) là tổ chức có đủ điều kiện theo quy định và được cấp Giấy chứng nhận hoạt động kiểm định xe cơ giới. 9. Hồ sơ phương tiện gồm Phiếu lập Hồ sơ phương tiện và các giấy tờ liên quan để quản lý về hành chính, thông số kỹ thuật khi kiểm tra lần đầu và những thay đổi trong suốt quá trình sử dụng xe cơ giới. 10. Hồ sơ kiểm định gồm các giấy tờ ghi nhận kết quả của mỗi lần kiểm định, cấp Giấy chứng nhận kiểm định. 11. Chủ xe gồm chủ xe cơ giới, lái xe hoặc người đưa xe cơ giới đến kiểm định. 12. Chương trình Quản lý kiểm định là Hệ thống phần mềm do Cục Đăng kiểm Việt Nam xây dựng phục vụ việc quản lý thông tin hành chính, thông số kỹ thuật và kết quả kiểm định của xe cơ giới sử dụng tại các Đơn vị đăng kiểm và Cục Đăng kiểm Việt Nam. 13. Tài liệu kỹ thuật là các tài liệu của nhà sản xuất, giấy chứng nhận của cơ quan có thẩm quyền, sổ tay thông số kỹ thuật, tiêu chuẩn, quy chuẩn kỹ thuật hoặc các ấn phẩm kỹ thuật khác đã được phát hành và có nguồn gốc rõ ràng."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "được thực hiện trong kiểm định xe cơ giới 1. Kiểm định không đủ nội dung, không đúng quy trình, quy định, từ chối kiểm định cho xe cơ giới khi không có lý do chính đáng. 2. Kiểm định khi thiết bị kiểm định không bảo đảm độ chính xác; khi việc nối mạng truyền kết quả kiểm tra của thiết bị kiểm định bị hư hỏng; kiểm định ngoài dây chuyền, ngoài đơn vị sai quy định. 3. Bố trí người thực hiện công việc kiểm định không đúng với quy định. 4. Yêu cầu chủ xe đưa xe đi sửa chữa, bảo dưỡng tại các cơ sở sửa chữa, bảo dưỡng chỉ định. 5. Thu phí, lệ phí sai quy định; có hành vi tiêu cực, sách nhiễu và nhận tiền hoặc quà biếu dưới mọi hình thức. 6. Kiểm định và cấp Giấy chứng nhận kiểm định cho xe cơ giới hết niên hạn sử dụng; kiểm định khi đã có văn bản đề nghị không kiểm định của cơ quan quản lý nhà nước có thẩm quyền hoặc xe có vi phạm đã cảnh báo trên Chương trình Quản lý kiểm định. 7. Lập hồ sơ cho xe cơ giới,"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 70/2015/TT-BGTVT Hà Nội, ngày 09 tháng 11 năm 2015 THÔNG TƯ QUY ĐỊNH VỀ KIỂM ĐỊNH AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ Căn cứ Luật Giao thông đường bộ ngày 13 tháng 11 năm 2008; Căn cứ Luật Chất lượng sản phẩm, hàng hóa ngày 21 tháng 11 năm 2007; Căn cứ Nghị định số 107/2012/NĐ-CP ngày 20 tháng 12 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Theo đề nghị của Vụ trưởng Vụ Khoa học - Công nghệ và Cục trưởng Cục Đăng kiểm Việt Nam, Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư quy định về kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ. Chương I QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh 1. Thông tư này quy định về kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ (sau đ..."
+    }
+  ]
+}

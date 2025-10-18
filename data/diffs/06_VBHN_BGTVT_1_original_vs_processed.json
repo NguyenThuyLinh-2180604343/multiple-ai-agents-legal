@@ -1,0 +1,36 @@
+{
+  "base": "06_VBHN_BGTVT_1_original",
+  "revised": "06_VBHN_BGTVT_1_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "đường bộ; công bố tải trọng, khổ giới hạn của quốc lộ; lưu hành xe quá tải trọng, xe quá khổ giới hạn, xe bánh xích trên đường bộ; vận chuyển hàng siêu trường, siêu trọng và giới hạn xếp hàng hóa trên phương tiện giao thông đường bộ khi tham gia giao thông trên đường bộ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "quan đến công bố tải trọng, khổ giới hạn của quốc lộ; lưu hành xe quá tải trọng, xe quá khổ giới hạn, xe bánh xích trên đường bộ; vận chuyển hàng siêu trường, siêu trọng và giới hạn xếp hàng hóa trên phương tiện giao thông đường bộ khi tham gia giao thông trên đường bộ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "như sau: 1. Tổng trọng lượng của xe gồm trọng lượng bản thân xe cộng với trọng lượng hàng hóa xếp trên xe (nếu có). 2. Tải trọng trục xe là tổng trọng lượng của xe phân bố trên mỗi trục xe (trục đơn, cụm trục kép, cụm trục ba). 3. Kích thước tối đa cho phép của phương tiện giao thông cơ giới đường bộ là kích thước bao ngoài giới hạn về chiều rộng, chiều cao, chiều dài của xe kể cả hàng hóa xếp trên xe (nếu có) được phép tham gia giao thông trên đường bộ. 4. Xe bánh xích là loại xe máy chuyên dùng tự hành di chuyển bằng bánh xích, khi tham gia giao thông trên đường bộ, răng bánh xích có thể gây hư hỏng mặt đường, lề đường. 5. Tổ hợp xe với rơ moóc hoặc sơ mi rơ moóc là một xe kéo một rơ moóc hoặc sự kết hợp một xe đầu kéo với một sơ mi rơ moóc. 6. Hàng không thể tháo rời (chia nhỏ) là hàng dạng kiện còn nguyên kẹp chì, niêm phong của cơ quan Hải quan, An ninh, Quốc phòng hoặc là tổ hợp cấu kiện, thiết bị máy móc nếu tháo rời, chia nhỏ sẽ bị hư hỏng hoặc thay đổi công năng. 7. Chủ phương tiện là tổ chức, cá nhân đứng tên đăng ký phương tiện. Chương II QUY ĐỊNH VỀ TẢI TRỌNG, KHỔ GIỚI HẠN CỦA ĐƯỜNG BỘ; CÔNG BỐ TẢI TRỌNG, KHỔ GIỚI HẠN CỦA QUỐC LỘ"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "thác của cầu và đường để đảm bảo tuổi thọ công trình theo thiết kế. 2. Khả năng chịu tải khai thác của cầu được xác định theo hồ sơ thiết kế cầu và tình trạng kỹ thuật thực tế của cầu, được cơ quan có thẩm quyền công bố hoặc được thể hiện bằng biển báo hiệu “hạn chế trọng lượng xe”. 3. Khả năng chịu tải khai thác của đường được xác định theo hồ sơ thiết kế mặt đường và tình trạng kỹ thuật thực tế của đường, được cơ quan có thẩm quyền côn"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------- Số: 06/VBHN-BGTVT Hà Nội, ngày 07 tháng 02 năm 2014 THÔNG TƯ QUY ĐỊNH VỀ TẢI TRỌNG, KHỔ GIỚI HẠN CỦA ĐƯỜNG BỘ; LƯU HÀNH XE QUÁ TẢI TRỌNG, XE QUÁ KHỔ GIỚI HẠN, XE BÁNH XÍCH TRÊN ĐƯỜNG BỘ; VẬN CHUYỂN HÀNG SIÊU TRƯỜNG, SIÊU TRỌNG; GIỚI HẠN XẾP HÀNG HÓA TRÊN PHƯƠNG TIỆN GIAO THÔNG ĐƯỜNG BỘ KHI THAM GIA GIAO THÔNG TRÊN ĐƯỜNG BỘ Thông tư số 07/2010/TT-BGTVT ngày 11 tháng 02 năm 2010 của Bộ trưởng Bộ Giao thông vận tải quy định về tải trọng, khổ giới hạn của đường bộ; lưu hành xe quá tải trọng, xe quá khổ giới hạn, xe bánh xích trên đường bộ; vận chuyển hàng siêu trường, siêu trọng; giới hạn xếp hàng hóa trên phương tiện giao thông đường bộ khi tham gia giao thông trên đường bộ, có hiệu lực kể từ ngày 29 tháng 4 năm 2010 được sửa đổi, bổ sung bởi: Thông tư số 03/2011/TT-BGTVT ngày 22 tháng 02 năm 2011 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung Thông tư số..."
+    }
+  ]
+}

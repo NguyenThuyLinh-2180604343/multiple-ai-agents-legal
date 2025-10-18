@@ -1,0 +1,36 @@
+{
+  "base": "239_2016_TT_BTC_original",
+  "revised": "239_2016_TT_BTC_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "tra chất lượng an toàn kỹ thuật và bảo vệ môi trường đối với các loại phương tiện giao thông cơ giới đường bộ, xe máy chuyên dùng, linh kiện trong sản xuất, lắp ráp và nhập khẩu."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "kiểm thực hiện việc thử nghiệm, kiểm tra chịu trách nhiệm thanh toán cho Cơ quan đăng kiểm giá dịch vụ theo quy định tại Thông tư này. 2. Cơ quan đăng kiểm: bao gồm các Trung tâm thử nghiệm hoặc các Đội kiểm tra chất lượng xe cơ giới trực thuộc Cục Đăng kiểm Việt Nam thực hiện việc thử nghiệm, kiểm tra . 3. Tổ chức , cá nhân khác có liên quan."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "kiểm tra 1. Giá dịch vụ thử nghiệm, kiểm tra chất lượng an toàn kỹ thuật và bảo vệ môi trường đối với các loại phương tiện giao thông cơ giới đường bộ, xe máy chuyên dùng, linh kiện trong sản xuất, lắp ráp và nhập khẩu thực hiện theo quy định tại Biểu giá dịch vụ kèm theo Thông tư này. Giá dịch vụ quy định tại Thông tư này đã gồm thuế giá trị gia tăng nhưng không bao gồm lệ phí cấp Giấy chứng nhận thẩm định thiết kế xe cơ giới, xe máy chuyên dùng (trong sản xuất, lắp ráp hoặc cải tạo); Giấy chứng nhận chất lượng an toàn kỹ thuật và bảo vệ môi trường cấp cho linh kiện, thiết bị, xe cơ giới, xe máy chuyên dùng (bao gồm cả xe cải tạo), xe bốn bánh có gắn động cơ, xe đạp có gắn động cơ phụ trợ (bao gồm cả xe đạp điện và xe đạp máy) theo quy định của Bộ Tài chính và chi phí ăn ở, đi lại, thông tin liên lạc để phục vụ công tác kiểm tra ở những nơi cách xa trụ sở Cơ quan đăng kiểm trên 100 km. Chi phí ăn ở, đi lại, thông tin liên lạc để phục vụ công tác kiểm tra ở những nơi cách xa trụ sở Cơ quan đăng kiểm trên 100 km (nếu có) thực hiện theo quy định hiện hành của Bộ Tài chính về chế độ công tác phí đối với các cơ quan nhà nước và đơn vị sự nghiệp công lập. 2. Khi thu tiền dịch vụ, Cơ quan đăng kiểm sử dụng hóa đơn cung ứng dịch vụ theo quy định tại Nghị định số 51/2010/NĐ-CP ngày 14 tháng 5 năm 2010 của Chính phủ quy định về hóa đơn bán hàng hóa, cung ứng dịch vụ; Nghị định số 04/2014/NĐ-CP ngày 17 tháng 01 năm 2014 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 51/2010/NĐ-CP ngày 14 tháng 5 năm 2010 của Chính phủ quy định về hóa đơn bán hàng hóa, cung ứng dịch vụ; Thông tư số 39/2014/TT-BTC ngày 31 tháng 3 năm 2014 của Bộ trưởng Bộ Tài chính hướng dẫn thi hành Nghị định số 51/2010/NĐ-CP ngày 14 tháng 5 năm 2010 và Nghị định số 04/2014/NĐ-CP ngày 17 tháng 01 năm 2014 của Chính phủ quy định về hóa đơn bán hàng hóa, cung ứng dịch vụ và văn bản thay thế hoặc văn bản đã được sửa đổi, bổ sung (nếu có). Cơ quan đăng kiểm có nghĩa vụ công khai thông tin và niêm yết giá dịch vụ, nộp thuế đối với số tiền thu được và có quyền quản lý, sử dụng số tiền còn lại sau khi đã nộp thuế theo quy định của pháp luật."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "tháng 01 năm 2017 và thay thế Thông tư số 114/2013/TT-BTC ngày 20/8/2013 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí kiểm định an toàn kỹ thuật và chất lượng linh kiện, xe cơ giới và các loại thiết bị, xe máy chuyên dùng và Thông tư số 132/2014/TT-BTC ngày 20/9/2014 của Bộ trưởng Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí kiểm định chất lượng an toàn kỹ thuật đối với xe đạp điện; phí kiểm định an toàn kỹ thuật và bảo vệ môi trường đối với xe mô tô ba bánh và các loại xe tương tự đang lưu hành. 2. Trong quá trình thực hiện, nếu có vướng mắc, đề nghị các cơ quan, tổ chức, cá nhân phản ánh kịp thời về Bộ Tài"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ TÀI CHÍNH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 239/2016/TT-BTC Hà Nội, ngày 11 tháng 11 năm 2016 THÔNG TƯ QUY ĐỊNH VỀ GIÁ DỊCH VỤ THỬ NGHIỆM, KIỂM TRA CHẤT LƯỢNG AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG ĐỐI VỚI CÁC LOẠI PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ, XE MÁY CHUYÊN DÙNG, LINH KIỆN TRONG SẢN XUẤT, LẮP RÁP VÀ NHẬP KHẨU Căn cứ Luật Giao thông đường bộ số 23/2008/QH12 ngày 13 tháng 11 năm 2008; Căn cứ Luật Giá số 11/2012/QH13 ngày 20 tháng 6 năm 2012; Căn cứ Luật Phí và lệ phí số 97/2015/QH13 ngày 25 tháng 11 năm 2015; Căn cứ Nghị định số 177/2013/NĐ-CP ngày 14 tháng 11 năm 2013 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Giá và Nghị định số 149/2016/NĐ-CP ngày 11 tháng 11 năm 2016 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 177/2013/NĐ-CP ngày 14 tháng 11 năm 2013; Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, quyền..."
+    }
+  ]
+}

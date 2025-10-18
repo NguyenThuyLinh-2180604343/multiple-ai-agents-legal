@@ -1,0 +1,84 @@
+{
+  "base": "09_CT_UBND_original",
+  "revised": "09_CT_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section General.1",
+      "change": "added",
+      "to": "ỦY BAN NHÂN DÂN THÀNH PHỐ HUẾ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 09/CT-UBND Huế, ngày 20 tháng 6 năm 2025 CHỈ THỊ VỀ VIỆC TĂNG CƯỜNG CÔNG TÁC BẢO ĐẢM CHẤT LƯỢNG, AN TOÀN GIAO THÔNG, AN TOÀN LAO ĐỘNG VÀ VỆ SINH MÔI TRƯỜNG TRONG QUÁ TRÌNH THI CÔNG XÂY DỰNG KẾT CẤU HẠ TẦNG GIAO THÔNG TRÊN ĐỊA BÀN THÀNH PHỐ Thực hiện Công điện số 15/CĐ-BXD ngày 11/5/2025 của Bộ Xây dựng về việc tăng cường công tác bảo đảm chất lượng, an toàn giao thông (ATGT), an toàn lao động (ATLĐ) và vệ sinh môi trường (VSMT) trong quá trình thi công xây dựng kết cấu hạ tầng giao thông; nhằm đảm bảo an toàn tuyệt đối cho người, thiết bị thi công và nhân dân khu vực dự án, thực"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "Sở, ban, ngành, các phường, xã, các chủ đầu tư thực hiện những nội dung như sau: I. TĂNG CƯỜNG CÔNG TÁC BẢO ĐẢM CHẤT LƯỢNG, ATGT, ATLĐ VÀ VSMT TRONG THI CÔNG XÂY DỰNG: 1. Công tác bảo đảm chất lượng - Về công tác khảo sát, thiết kế:"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "thiết kế, đảm bảo đầy đủ số liệu khảo sát địa hình, địa chất, thủy văn, mỏ vật"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "có điều kiện địa chất phức tạp; giám sát chặt chẽ thực hiện khảo sát, phê duyệt báo cáo kết quả khảo sát, kiểm soát chất lượng hồ sơ, nghiệm thu trước khi"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_5.1",
+      "change": "added",
+      "to": "lượng công tác khảo sát, thiết kế, lập tổng mức đầu tư, dự toán xây dựng công trình. Đặc biệt, khi khảo sát điều tra các mỏ vật liệu, bãi đổ thải phải khảo sát kỹ lưỡng về vị trí, trữ lượng, chất lượng, khả năng cung ứng, đường vận"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_6.1",
+      "change": "added",
+      "to": "án. - Nghiêm cấm các hành vi: thông đồng, móc ngoặc để hợp thức hóa hồ sơ thủ tục, làm sai lệch hồ sơ, kết quả công việc, tăng khống khối lượng; lợi dụng chức vụ, quyền hạn để chèn ép, nhũng nhiễu, gây khó khăn cho các đơn vị để thu lợi cá nhân; áp đặt chỉ định mỏ vật liệu, chỉ định nguồn gốc, xuất xứ, gửi nhà thầu, nhà thầu phụ, nhà thầu cung cấp hàng hóa, vật tư, vật liệu cho dự án. - Tăng cường hơn nữa công tác kiểm tra, đôn đốc các chủ thể thực hiện các biện pháp nâng cao chất lượng công trình, đảm bảo ATGT, ATLĐ và VSMT trong quá trình thiết kế, thi công theo đúng quy chuẩn, tiêu chuẩn, biện pháp thi công đã được chấp thuận, tuân thủ hồ sơ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_7.1",
+      "change": "added",
+      "to": "sung khi cần thiết và xử lý nghiêm các tổ chức, cá nhân vi phạm. - Tăng cường công tác quản lý hồ sơ nghiệm thu; trình tự thủ tục, hồ sơ pháp lý trong quá trình thi công; chỉ đạo các đơn vị tham gia thực hiện dự án đẩy nhanh việc lập, trình hồ nghiệm thu,"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_8.1",
+      "change": "added",
+      "to": "chất lượng, nguồn gốc xuất xứ của vật liệu, vật tư, thiết bị, công tác đổ thải đảm bảo đáp ứng các yêu cầu của hồ sơ thiết kế, chỉ dẫn kỹ thuật của dự án. - Kiểm soát, theo dõi chặt chẽ công tác thí nghiệm kiểm tra chất lượng trong quá trình thi công, đảm bảo phòng thí nghiệm hợp chuẩn, thí nghiệm viên đủ điều kiện năng lực thực hiện công việc, kết quả thí nghiệm đảm bảo chính xác, khách quan, minh bạch. - Kiểm tra, chấp thuận kế hoạch, biện pháp kiểm tra, kiểm soát chất lượng vật liệu, cấu kiện, sản phẩm xây dựng,"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_9.1",
+      "change": "added",
+      "to": "công xây dựng phải được kiểm định kỹ thuật an toàn. - Thường xuyên theo dõi, kiểm"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_10.1",
+      "change": "added",
+      "to": "hiện nghiêm túc việc bảo hành công trình tuân thủ hợp đồng đã ký kết, trường hợp có những hư hỏng, khiếm khuyết, phải tiến hành kiểm tra, phân tích, đánh giá, xác định nguyên nhân hư hỏng, đề xuất giải pháp xử lý nhằm duy trì điều kiện khai thác bình thường, đảm bảo tuyệt đối an toàn. Giải pháp sửa chữa, khắc phục phải được Chủ đầu tư/Ban QLDA chấp thuận và đảm bảo đáp ứng các tiêu chuẩn kỹ thuật của dự án, đảm bảo khả năng chịu lực, tuổi thọ công trình; quá trình sửa"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_11.1",
+      "change": "added",
+      "to": "bảo đảm an toàn giao thông - Giao thông trong công trường phải được điều phối và kiểm soát để đảm bảo an toàn khi máy, thiết bị thi công"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_12.1",
+      "change": "added",
+      "to": "đường đang khai thác, phải thiết lập hệ thống kiểm soát và điều phối an toàn giao thông và người lao động bắt buộc phải mặc áo phản quang; thường xuyên kiểm tra để đảm bảo công việc đào, đắp đất không làm ảnh hưởng đến các công trình, các hệ thống hạ tầng kỹ thuật, đường giao thông ở trong khu vực thi công và khu vực lân cận. - Tăng cường kiểm tra, kịp thời phát hiện, có biện pháp cảnh báo, kiến nghị khắc phục các bất cập có nguy cơ xảy ra tai nạn giao thông (TNGT); tổ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN THÀNH PHỐ HUẾ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 09/CT-UBND Huế, ngày 20 tháng 6 năm 2025 CHỈ THỊ VỀ VIỆC TĂNG CƯỜNG CÔNG TÁC BẢO ĐẢM CHẤT LƯỢNG, AN TOÀN GIAO THÔNG, AN TOÀN LAO ĐỘNG VÀ VỆ SINH MÔI TRƯỜNG TRONG QUÁ TRÌNH THI CÔNG XÂY DỰNG KẾT CẤU HẠ TẦNG GIAO THÔNG TRÊN ĐỊA BÀN THÀNH PHỐ Thực hiện Công điện số 15/CĐ-BXD ngày 11/5/2025 của Bộ Xây dựng về việc tăng cường công tác bảo đảm chất lượng, an toàn giao thông (ATGT), an toàn lao động (ATLĐ) và vệ sinh môi trường (VSMT) trong quá trình thi công xây dựng kết cấu hạ tầng giao thông; nhằm đảm bảo an toàn tuyệt đối cho người, thiết bị thi công và nhân dân khu vực dự án, thực hiện nghiêm các quy định của pháp luật, Chủ tịch UBND thành phố Huế yêu cầu các Sở, ban, ngành, các phường, xã, các chủ đầu tư thực hiện những nội dung như sau: I. TĂNG CƯỜNG CÔNG TÁC BẢO ĐẢM CHẤT LƯỢNG, ATGT, ATLĐ VÀ VSMT TRONG THI CÔNG XÂY DỰNG: 1. Công tác bảo đảm chất lượ..."
+    }
+  ]
+}

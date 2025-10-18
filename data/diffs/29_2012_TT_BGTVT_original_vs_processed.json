@@ -1,0 +1,36 @@
+{
+  "base": "29_2012_TT_BGTVT_original",
+  "revised": "29_2012_TT_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "phương tiện giao thông cơ giới đường bộ (sau đây gọi tắt là xe cơ giới) đã có biển số đăng ký hoặc đã qua sử dụng được phép nhập khẩu. 2. Thông tư này không áp dụng đối với các xe cơ giới sau đây: a) Mô tô, xe gắn máy; b) Xe cơ giới được cải tạo để sử dụng vào mục đích quốc phòng, an ninh của Bộ Quốc phòng, Bộ Công an."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "dụng Thông tư này áp dụng đối với tổ chức, cá nhân có liên quan đến hoạt động cải tạo xe cơ giới."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau: 1. Xe cơ giới là các loại phương tiện giao thông cơ giới hoạt động trên đường bộ (trừ mô tô, xe gắn máy) được định nghĩa tại Tiêu chuẩn Việt Nam TCVN 7271 - Phương tiện giao thông đường bộ - Ô tô - Phân loại theo mục đích sử dụng, kể cả ô tô sát-xi. 2. Tổng thành là động cơ, khung, buồng lái, thân xe hoặc thùng chở hàng, thiết bị chuyên dùng lắp trên xe. 3. Hệ thống là hệ thống truyền lực, hệ thống chuyển động, hệ thống treo, hệ thống phanh, hệ thống lái, hệ thống nhiên liệu, hệ thống điện, hệ thống đèn chiếu sáng và tín hiệu. 4. Cải tạo xe cơ giới là việc thay đổi cấu tạo, hình dáng, bố trí, nguyên lý làm việc, thông số, đặc tính kỹ thuật của một phần hoặc toàn bộ hệ thống, tổng thành của xe cơ giới. Trường hợp thay thế hệ thống, tổng thành bằng hệ thống, tổng thành khác cùng kiểu loại, của cùng Hãng sản xuất (cùng mã phụ tùng) thì không coi là cải tạo. 5. Xe cơ giới nguyên thủy là xe cơ giới không có sự thay đổi cấu tạo, hình dáng, bố trí, nguyên lý làm việc, thông số, đặc tính kỹ thuật của toàn bộ các hệ thống, tổng thành so với ban đầu của Hãng sản xuất. 6. Xe ô tô chở người là xe ô tô có kết cấu và trang bị dùng để chở người và hành lý mang theo. 7. Cơ quan thẩm định thiết kế là các Sở Giao thông vận tải, Cục Đăng kiểm Việt Nam. 8. Cơ sở thiết kế là tổ chức hành nghề kinh doanh dịch vụ thiết kế xe cơ giới. 9. Cơ sở thi công cải tạo là tổ chức hành nghề thi công cải tạo xe cơ giới có đủ điều kiện theo quy định. 10. Thẩm định thiết kế là việc xem xét, kiểm tra, đối chiếu các nội dung hồ sơ thiết kế cải tạo xe cơ giới thỏa mãn các tiêu chuẩn, quy chuẩn kỹ thuật, quy định có liên quan. 11. Nghiệm thu xe cơ giới cải tạo là việc kiểm tra, đánh giá xe cơ giới đã được thi công cải tạo theo hồ sơ thiết kế đã được thẩm định đảm bảo các yêu cầu về chất lượng an toàn kỹ thuật và bảo vệ môi trường."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "khi cải tạo xe cơ giới Xe cơ giới sau khi cải tạo phải thỏa mãn các tiêu chuẩn, quy chuẩn kỹ thuật, quy định, đáp ứng các yêu cầu về chất lượng an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới khi tham gia giao thông và phải đảm bảo tuân thủ các quy định sau đây: 1. Không được cải tạo thay đổi mục đích sử dụng (công dụng) đối với xe cơ giới đã có thời gian sử dụng trên 15 năm, kể từ năm sản xuất của ô tô đến thời điểm thẩm định thiết kế cải tạo. 2. Không được cải tạo ô tô chuyên dùng nhập khẩu trong thời gian 05 năm và ô tô tải đông lạnh nhập khẩu trong thời gian 03 năm, kể từ ngày được cấp biển số đăng ký. 3. Không được cải tạo các xe ô tô khác thành xe ô tô chở khách (ô tô chở người). 4. Không được cải tạo ô tô chở người thành ô tô tải các loại, trừ trường hợp cải tạo ô tô chở người từ 16 chỗ trở xuống (kể cả chỗ người lái) thành ô tô tải VAN. 5. Không được cải tạo ô tô đầu kéo thành ô tô tải (trừ ô tô tải chuyên dùng). 6. Không được cải tạo thay đổi kích cỡ lốp, số trục và vết bánh xe của ô tô. 7. Không được cải tạo thay đổi chiều dài cơ sở ô tô tải, kể cả khi cải tạo ô tô tải thành ô tô tải loại khác và ngược lại (trừ ô tô tải chuyên dùng và trường hợp cải tạo trở lại thành xe cơ giới nguyên thủy). 8. Không được cải tạo tăng kích thước dài, rộng, cao của thùng chở hàng ô tô tải (trừ ô tô tải chuyên dùng). Trường hợp cải tạo lắp đặt thành thùng kín, thêm khung mui che mưa, nắng bảo vệ hàng hóa, thì chiều cao toàn bộ của xe cơ giới sau cải tạo phải thỏa mãn Quy chuẩn kỹ thuật quốc gia QCVN 09: 2011/BGTVT - Quy chuẩn kỹ thuật quốc gia về chất lượng an toàn kỹ thuật và bảo vệ môi trường đối với ô tô. 9. Không được cải tạo tăng kích thước dài, rộng, cao của thùng chở hàng ô tô tải tự đổ. Nếu cải tạo giảm kích thước thùng chở hàng phải đảm bảo thể tích chứa hàng của thùng chở hàng ô tô sau cải tạo thỏa mãn công thức sau:"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------- Số: 29/2012/TT-BGTVT Hà Nội, ngày 31 tháng 07 năm 2012 THÔNG TƯ QUY ĐỊNH VỀ CẢI TẠO PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ Căn cứ Luật Giao thông đường bộ ngày 13 tháng 11 năm 2008; Căn cứ Nghị định số 51/2008/NĐ-CP ngày 22 tháng 04 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Xét đề nghị của Vụ trưởng Vụ Khoa học - Công nghệ; Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư quy định về cải tạo phương tiện giao thông cơ giới đường bộ, Chương 1. QUY ĐỊNH CHUNG Điều 1. Phạm vi áp dụng 1. Thông tư này quy định về việc cải tạo phương tiện giao thông cơ giới đường bộ (sau đây gọi tắt là xe cơ giới) đã có biển số đăng ký hoặc đã qua sử dụng được phép nhập khẩu. 2. Thông tư này không áp dụng đối với các xe cơ giới sau đây: a) Mô tô, xe gắn máy; b) Xe cơ giới được cải tạo để sử dụng vào mục đích quốc ..."
+    }
+  ]
+}

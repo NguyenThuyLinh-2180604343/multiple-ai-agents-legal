@@ -1,0 +1,54 @@
+{
+  "base": "137_2024_NĐ_CP_original",
+  "revised": "137_2024_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "quan nhà nước và hệ thống thông tin phục vụ giao dịch điện tử bao gồm chuyển đổi hình thức giữa văn bản giấy và thông điệp dữ liệu; hoạt động của cơ quan nhà nước trên môi trường điện tử; hệ thống thông tin phục vụ giao dịch điện tử; trách nhiệm của chủ quản nền tảng số trung gian phục vụ giao dịch điện tử quy mô lớn, rất lớn và tiêu chí tín nhiệm mạng của hệ thống thông tin phục vụ giao dịch điện tử."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "nhân tham gia trực tiếp hoặc có liên quan đến giao dịch điện tử của cơ quan nhà nước và hệ thống thông tin phục vụ giao dịch điện tử."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "như sau: 1. Quản trị nội bộ trên môi trường điện tử là việc cơ quan nhà nước thực hiện một phần hoặc toàn bộ hoạt động quản trị nội bộ theo chức năng, nhiệm vụ bằng phương tiện điện tử. 2. Chỉ đạo, điều hành trên môi trường điện tử là việc cơ quan nhà nước thực hiện một phần hoặc toàn bộ hoạt động chỉ đạo, điều hành theo chức năng, nhiệm vụ bằng phương tiện điện tử. 3. Giám sát, kiểm tra trên môi trường điện tử là việc cơ quan nhà nước có thẩm quyền thực hiện một phần hoặc toàn bộ hoạt động giám sát, kiểm tra trong lĩnh vực, địa bàn thuộc phạm vi nhiệm vụ, quyền hạn được phân công bằng phương tiện điện tử. 4. Hệ thống quản lý văn bản và điều hành là hệ thống thông tin được xây dựng với chức năng chính là quản lý, xử lý văn bản và hồ sơ công việc, hỗ trợ chỉ đạo, điều hành, tác nghiệp và theo dõi tình hình thực hiện nhiệm vụ trong cơ quan nhà nước trên môi trường điện tử. 5. Hệ thống thông tin phục vụ chỉ đạo, điều hành của cơ quan nhà nước là hệ thống thông tin được xây dựng để thu thập, tạo lập, tổng hợp, phân tích, lưu trữ, kết nối, chia sẻ, cung cấp thông tin và dữ liệu hỗ trợ lãnh đạo, quản lý trong quá trình quản trị nội bộ và ra quyết định dựa trên dữ liệu số. Chương II CHUYỂN ĐỔI HÌNH THỨC GIỮA VĂN BẢN GIẤY VÀ THÔNG ĐIỆP DỮ LIỆU"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "văn bản giấy sang thông điệp dữ liệu Thông điệp dữ liệu được chuyển đổi từ văn bản giấy phải đáp ứng đủ các yêu cầu quy định tại khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 12.1",
+      "change": "added",
+      "to": "điện tử , hệ thống thông tin phục vụ chuyển đổi phải có tính năng ký số."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 25.1",
+      "change": "added",
+      "to": "45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 thực hiện theo quy định tại điểm a khoản này. 2. Yêu cầu về hệ thống thông tin phục vụ chuyển đổi từ văn bản giấy sang thông điệp dữ liệu phải bảo đảm các tính năng sau: a) Chuyển đổi toàn vẹn nội dung từ văn bản giấy sang thông điệp dữ liệu; b) Tạo ký hiệu riêng và các thông tin khác trên thông điệp dữ liệu theo quy định tại khoản 1 Điều này; c) Lưu trữ thông điệp dữ liệu; d) Bảo đảm an toàn thông tin mạng, an ninh mạng theo quy định của pháp luật; đ) Trường hợp chuyển đổi thông điệp dữ liệu từ văn bản giấy theo quy định tại điểm d khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "thông điệp dữ liệu sang văn bản giấy Văn bản giấy được"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 137/2024/NĐ-CP Hà Nội, ngày 23 tháng 10 năm 2024 NGHỊ ĐỊNH QUY ĐỊNH VỀ GIAO DỊCH ĐIỆN TỬ CỦA CƠ QUAN NHÀ NƯỚC VÀ HỆ THỐNG THÔNG TIN PHỤC VỤ GIAO DỊCH ĐIỆN TỬ Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Giao dịch điện tử ngày 22 tháng 6 năm 2023; Theo đề nghị của Bộ trưởng Bộ Thông tin và Truyền thông; Chính phủ ban hành Nghị định quy định về giao dịch điện tử của cơ quan nhà nước và hệ thống thông tin phục vụ giao dịch điện tử. Chương I NHỮNG QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định về giao dịch điện tử của cơ quan nhà nước và hệ thống thông tin phục vụ giao dịch điện tử bao gồm chuyển đổi hình thức giữa văn bản giấy và thông điệp dữ liệu; hoạt động của cơ quan nhà nước trên môi trường điện tử; ..."
+    }
+  ]
+}

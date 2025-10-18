@@ -1,0 +1,24 @@
+{
+  "base": "3887_QĐ_BKHCN_original",
+  "revised": "3887_QĐ_BKHCN_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "đây: 1. TCVN 8606-1:2017 ISO 15500-1:2015 Phương tiện giao thông đường bộ - Bộ phận của hệ thống nhiên liệu khí thiên nhiên nén (CNG) - Phần 1: Yêu cầu chung và định nghĩa. 2. TCVN 8606-2:2017 ISO 15500-2:2016 Phương tiện giao thông đường bộ - Bộ phận của hệ thống nhiên liệu khí thiên nhiên nén (CNG) - Phần 2: Đặc tính kỹ thuật và phương pháp thử chung. 3. TCVN 8606-3:2017 ISO 15500-3:2012 WITH AMENDMENT 1:2016 Phương tiện giao thông đường bộ - Bộ phận của hệ thống nhiên liệu khí thiên nhiên nén (CNG) - Phần 3: Van kiểm tra. 4. TCVN 8606-4:2017 ISO 15500-4:2012 WITH AMENDMENT 1:2016 Phương tiện giao thông đường bộ - Bộ phận của hệ thống nhiên liệu khí thiên nhiên nén (CNG) - Phần 4: Van tay. 5. TCVN 8606-5:2017 ISO 15500-5:2012 Phương tiện giao thông đường bộ - Bộ phận của hệ thống nhiên liệu khí thiên nhiên nén (CNG) - Phần 5: Van tay của xy lanh. 6. TCVN 8606-6:2017 -ISO 15500-6:2012 Phương tiện giao thông đường bộ - Bộ phận của hệ thống nhiên liệu khí thiên nhiên nén (CNG) - Phần 6: Van tự động. 7. TCVN 8606-7:2017 ISO 15500-7:2015 Phương tiện giao thông đường bộ - Bộ phận của hệ thống nhiên liệu khí thiên nhiên nén (CNG) - Phần 7: Vòi phun khí. 8. TCVN 8606-8:2017 ISO 15500-8:2015 Phương tiện giao thông đường bộ - Bộ phận của hệ thống nhiên liệu khí thiên nhiên nén (CNG) - Phần 8: Áp kế. 9. TCVN 8606-9:2017 ISO 15500-9:2012 WITH AMENDMENT 1:2016 Phương tiện giao thông đường bộ - Bộ phận của hệ thống nhiên liệu khí thiên nhiên nén (CNG) - Phần 9: Bộ điều áp. 10. TCVN 8606-10:2017 ISO 15500-10:2015 Phương tiện giao thông đường bộ - Bộ phận của hệ thống nhiên liệu khí thiên nhiên nén (CNG) - Phần 10: Bộ điều chỉnh lưu lượng khí. 11. TCVN 8606-11:2017 ISO 15500-11:2015 Phương tiện giao thông đường bộ - Bộ phận của hệ thống nhiên liệu khí thiên nhiên nén (CNG) - Phần 11: Bộ trộn nhiên liệu khí- không khí. 12. TCVN 8606-12:2017 ISO 15500-12:2015 Phương tiện giao thông đường bộ - Bộ phận của hệ thống nhiên liệu khí thiên nhiên nén (CNG) - Phần 12: Van an toàn. 13. TCVN 8606-13:2017 ISO 15500-13:2012 WITH AMENDMENT 1:2016 Phương tiện giao thông đường bộ - Bộ phận của hệ thống nhiên liệu khí thiên nhiên nén (CNG) - Phần 13: Thiết bị an toàn. 14. TCVN 8606-14:2017 ISO 15500-14:2012 WITH AMENDMENT 1:2016 Phương tiện giao thông đường bộ - Bộ phận của hệ thống nhiên liệu khí thiên nhiên nén (CNG) - Phần 14: Van quá dòng. 15. TCVN 8606-15:2017 ISO 15500-15:2015 Phương tiện giao thông đường bộ - Bộ phận của hệ thống nhiên liệu khí thiên nhiên nén (CNG) - Phần 15: Hộp gom khí và ống mềm thông hơi."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "kể từ ngày ký./. Nơi nhận: - Vụ PC; - Lưu: VT, TĐC. KT. BỘ TRƯỞNG THỨ TRƯỞNG Trần Văn Tùng"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ KHOA HỌC VÀ CÔNG NGHỆ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 3887/QĐ-BKHCN Hà Nội, ngày 29 tháng 12 năm 2017 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ TIÊU CHUẨN QUỐC GIA BỘ TRƯỞNG BỘ KHOA HỌC VÀ CÔNG NGHỆ Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29/6/2006; Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01/8/2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ; Căn cứ Nghị định số 95/2017/NĐ-CP ngày 16/8/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ; Xét đề nghị của Tổng cục trưởng Tổng cục Tiêu chuẩn Đo lường Chất lượng, QUYẾT ĐỊNH: Điều 1. Công bố 15 Tiêu chuẩn quốc gia sau đây: 1. TCVN 8606-1:2017 ISO 15500-1:2015 Phương tiện giao thông đường bộ - Bộ phận của hệ thống nhiên liệu khí thiên nhiên nén (CNG) - Phần 1: Yêu cầu chung và định nghĩa. 2. TCVN 8606-2:2017 ISO 15500-2:2016 Phương tiện giao thông đường bộ - Bộ phậ..."
+    }
+  ]
+}

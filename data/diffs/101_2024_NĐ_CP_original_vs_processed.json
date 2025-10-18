@@ -1,0 +1,54 @@
+{
+  "base": "101_2024_NĐ_CP_original",
+  "revised": "101_2024_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "điều chỉnh 1. Nghị định này quy định chi tiết và hướng dẫn thi hành Luật Đất đai về điều tra cơ bản đất đai; đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và Hệ thống thông tin quốc gia về đất đai, gồm: khoản 4"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 135.1",
+      "change": "added",
+      "to": "10"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 181.1",
+      "change": "added",
+      "to": "đ, i và k khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 223.1",
+      "change": "added",
+      "to": "Việc đăng ký thế chấp quyền sử dụng đất, tài sản gắn liền với đất được thực hiện theo quy định của pháp luật về đăng ký biện pháp bảo đảm."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "áp dụng 1. Cơ quan nhà nước được giao thực hiện quyền hạn và trách nhiệm đại diện chủ sở hữu toàn dân về đất đai, thực hiện nhiệm vụ thống nhất quản lý nhà nước về đất đai. 2. Người sử dụng đất, người được giao quản lý đất theo quy định của Luật Đất đai . 3. Các đối tượng khác có liên quan đến việc quản lý, sử dụng đất. Chương II ĐIỀU TRA CƠ BẢN VỀ ĐẤT ĐAI Mục 1. ĐO ĐẠC LẬP BẢN ĐỒ ĐỊA CHÍNH"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "tắc, mục đích đo đạc lập bản đồ địa chính 1. Việc đo đạc lập bản đồ địa chính phải đảm bảo các nguyên tắc sau: a) Đảm bảo thống nhất trong hệ quy chiếu và hệ tọa độ quốc gia VN-2000; b) Phản ánh trung thực, khách quan hiện trạng sử dụng đất, hiện trạng quản lý đất và ghi nhận tình trạng pháp lý của thửa đất tại thời điểm đo đạc; c) Ưu tiên ứng dụng công nghệ mới đảm bảo hiệu quả kinh tế, phù hợp với khu vực đo đạc và quy định kỹ thuật về đo đạc lập bản đồ địa chính; d) Bản đồ địa chính sau khi được phê duyệt phải đưa vào sử dụng cho công tác quản lý đất đai. 2. Bản đồ địa chính được lập để sử dụng cho các mục đích sau: a) Đăng ký đất đai, tài sản gắn liền với đất, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất, lập hồ sơ địa chính và xây dựng cơ sở dữ liệu đất đai; b) Thống kê, kiểm kê đất đai; lập quy hoạch, kế hoạch sử dụng đất; giao đất, cho thuê đất, chuyển mục đích sử dụng đất, thu hồi đất; trưng dụng đất; bồi thường, hỗ trợ, tái định cư khi Nhà nước thu hồi đất; điều tra, đánh giá đất đai; c) Thanh tra, kiểm tra, giám sát việc quản lý, sử dụng đất; xử lý vi phạm pháp luật đất đai và giải quyết khiếu nại, tố cáo, tranh chấp đất đai; d) Các mục đích quản lý đất đai khác theo quy định của pháp luật."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "dung và hoạt động đo đạc lập bản đồ địa chính 1. Nội dung chính của bản đồ địa chính gồm: a) Thửa đất: Ranh giới thửa đất, loại đất, số thứ tự thửa đất, diện tích thửa đất; b) Các yếu tố khác liên quan đến nội dung bản đồ địa chính bao gồm: Khung bản đồ; điểm khống chế tọa độ, độ cao; mốc địa giới và đường địa giới đơn vị hành chính các cấp; các đối tượng chiếm đất không tạo thành thửa đất; nhà ở và công trình xây dựng khác; địa vật, công trình có ý nghĩa định hướng cao; mốc giới quy hoạch; chỉ giới hành lang bảo vệ an toàn các công trình theo quy định của pháp luật; ghi chú thuyết minh; dáng đất hoặc điểm ghi chú độ cao (nếu có). 2. Hoạt động đo đạc lập bản đồ địa chính gồm: a) Đo đạc lập mới bản đồ địa chính đối với khu vực chưa có bản đồ địa chính gắn với hệ quy chiếu và hệ tọa độ quốc gia; b) Đo đạc lập lại bản đồ địa chính đối với khu vực đã có bản đồ địa chính nhưng đã thay đổi ranh giới của 75% thửa đất trở lên khi thực hiện dồn điền, đổi thửa; khu vực chỉ có bản đồ địa chính dạng giấy đã rách nát, hư hỏng không thể khôi phục và không thể sử dụng để số hóa; khu vực đã có bản đồ địa chính được lập bằng phương pháp ảnh hàng không, phương pháp bàn đạc bằng máy kinh vĩ quang cơ có tỷ lệ bản đồ nhỏ hơn so với tỷ lệ bản đồ cần đo vẽ theo quy định; khu vực đã thực hiện quy hoạch sử dụng đất để hình thành các khu trung tâm hành chính, khu đô thị, khu dân cư, khu kinh tế, khu công nghệ cao, khu công nghiệp, khu chế xuất, cụm công nghiệp; c) Đo đạc bổ sung bản đồ địa chính thực hiện đối với khu vực đã có bản đồ địa chính nhưng chưa đo vẽ khép kín ph"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 101/2024/NĐ-CP Hà Nội, ngày 29 tháng 7 năm 2024 NGHỊ ĐỊNH QUY ĐỊNH VỀ ĐIỀU TRA CƠ BẢN ĐẤT ĐAI; ĐĂNG KÝ, CẤP GIẤY CHỨNG NHẬN QUYỀN SỬ DỤNG ĐẤT, QUYỀN SỞ HỮU TÀI SẢN GẮN LIỀN VỚI ĐẤT VÀ HỆ THỐNG THÔNG TIN ĐẤT ĐAI Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Đất đai ngày 18 tháng 01 năm 2024; Luật sửa đổi, bổ sung một số điều của Luật Đất đai số 31/2024/QH15, Luật Nhà ở số 27/2023/QH15, Luật Kinh doanh bất động sản số 29/2023/QH15 và Luật Các tổ chức tín dụng số 32/2024/QH15 ngày 29 tháng 6 năm 2024; Theo đề nghị của Bộ trưởng Bộ Tài nguyên và Môi trường; Chính phủ ban hành Nghị định quy định về điều tra cơ bản đất đai; đăng ký, cấp Giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và Hệ thống thông tin ..."
+    }
+  ]
+}

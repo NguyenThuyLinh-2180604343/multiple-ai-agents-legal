@@ -1,0 +1,60 @@
+{
+  "base": "103_2024_NĐ_CP_original",
+  "revised": "103_2024_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "chỉnh Nghị định này quy định về: 1. Tiền sử dụng đất (bao gồm tính, thu, nộp, miễn, giảm tiền sử dụng đất; xử lý kinh phí bồi thường, hỗ trợ, tái định cư; ghi nợ tiền sử dụng đất) quy định tại điểm a khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 153.1",
+      "change": "added",
+      "to": "hợp: a) Nhà nước cho thuê đất (bao gồm cả đất có mặt nước). b) Nhà nước cho phép chuyển mục đích sử dụng đất sang loại đất thuộc trường hợp Nhà nước cho thuê đất và phải nộp tiền thuê đất. c) Nhà nước cho thuê đất để xây dựng công trình ngầm trong lòng đất có mục đích kinh doanh mà công trình này không phải là phần ngầm của công trình xây dựng trên mặt đất; đất xây dựng công trình trên mặt đất phục vụ cho việc vận hành, khai thác, sử dụng công trình ngầm quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 216.1",
+      "change": "added",
+      "to": "hạn sử dụng đất, điều chỉnh thời hạn sử dụng đất, điều chỉnh quyết định cho thuê đất, điều chỉnh quy hoạch chi tiết, cho phép chuyển hình thức sử dụng đất, cho phép sử dụng đất kết hợp đa mục đích theo quy định của pháp luật thuộc trường hợp phải nộp tiền thuê đất theo quy định. 3. Tiền nộp bổ sung (tiền sử dụng đất tăng thêm, tiền thuê đất tăng thêm) đối với trường hợp được Nhà nước giao đất, cho thuê đất, cho phép chuyển mục đích sử dụng đất, công nhận quyền sử dụng đất, nhận chuyển nhượng quyền sử dụng đất để thực hiện dự án đầu tư mà không đưa đất vào sử dụng, chậm tiến độ sử dụng đất quy định tại khoản 8"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "dụng 1. Cơ quan nhà nước thực hiện việc quản lý, tính, thu tiền sử dụng đất, tiền thuê đất. 2. Người sử dụng đất theo quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "tính tiền sử dụng đất 1. Diện tích tính tiền sử dụng đất đối với trường hợp được giao, được chuyển mục đích sử dụng đất, được điều chỉnh quy hoạch chi tiết, được chuyển hình thức sử dụng đất là diện tích đất có thu tiền sử dụng đất ghi trên quyết định giao đất, cho phép chuyển mục đích sử dụng đất, điều chỉnh quyết định giao đất, điều chỉnh quy hoạch chi tiết, chuyển hình thức sử dụng đất của cơ quan nhà nước có thẩm quyền. 2. Diện tích tính tiền sử dụng đất đối với trường hợp công nhận quyền sử dụng đất là diện tích đất được công nhận ghi trên Phiếu chuyển thông tin để xác định nghĩa vụ tài chính về đất đai (sau đây gọi là Phiếu chuyển thông tin) do cơ quan có chức năng quản lý đất đai chuyển đến cơ quan thuế theo quy định tại Nghị định của Chính phủ về điều tra cơ bản đất đai; đăng ký, cấp giấy chứng nhận quyền sử dụng đất, quyền sở hữu tài sản gắn liền với đất và hệ thống thông tin đất đai (sau đây gọi là Nghị định về cấp giấy chứng nhận). Việc xác định hạn mức giao đất ở, hạn mức công nhận đất ở của hộ gia đình, cá nhân được thực hiện theo quy định tại các"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "tiền sử dụng đất 1. Diện tích đất tính tiền sử dụng đất theo quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "quy định tại các"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 141.1",
+      "change": "added",
+      "to": "định chi tiết thi hành một số điều của Luật Đất đai , Nghị định về cấp giấy chứng nhận. 3. Diện tích tính tiền sử dụng đất theo quy định tại kho"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 103/2024/NĐ-CP Hà Nội, ngày 30 tháng 7 năm 2024 NGHỊ ĐỊNH QUY ĐỊNH VỀ TIỀN SỬ DỤNG ĐẤT, TIỀN THUÊ ĐẤT Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015, Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Đất đai ngày 18 tháng 01 năm 2024; Theo đề nghị của Bộ trưởng Bộ Tài chính; Chính phủ ban hành Nghị định quy định về tiền sử dụng đất, tiền thuê đất. Chương I QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định về: 1. Tiền sử dụng đất (bao gồm tính, thu, nộp, miễn, giảm tiền sử dụng đất; xử lý kinh phí bồi thường, hỗ trợ, tái định cư; ghi nợ tiền sử dụng đất) quy định tại điểm a khoản 1 Điều 153 Luật Đất đai trong các trường hợp: a) Nhà nước giao đất có thu tiền sử dụng đất. b) Nhà nước cho phép chuyển mục đích sử dụng đất sang loại đất thuộc trường hợp Nhà nước gi..."
+    }
+  ]
+}

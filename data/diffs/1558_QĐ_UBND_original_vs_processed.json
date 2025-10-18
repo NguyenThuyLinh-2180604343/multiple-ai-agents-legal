@@ -1,0 +1,36 @@
+{
+  "base": "1558_QĐ_UBND_original",
+  "revised": "1558_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "mục thủ tục hành chính sửa đổi, bổ sung, bãi bỏ lĩnh vực đường bộ trên địa bàn thành phố Hải Phòng (có danh mục cụ thể kèm theo)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "tổ chức thực hiện việc công khai Danh mục và nội dung thủ tục hành chính được sửa đổi, bổ sung lĩnh vực đường bộ trên địa bàn thành phố Hải Phòng; xây dựng quy trình nội bộ, quy trình điện tử giải quyết thủ tục hành chính và cập nhật trên Hệ thống thông tin giải quyết thủ tục hành chính thành phố và Dịch vụ công trực tuyến thành phố theo quy định."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "từ ngày 01/6/2024. Thủ tục hành chính có số thứ tự 1, 2, 3, 4, 5, 6, 8, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55 phần I. Lĩnh vực Đường bộ mục B và Thủ tục hành chính có số thứ tự 1,2 phần III. Lĩnh vực Đường bộ Mục E được ban hành kèm theo Quyết định số 1431/QĐ-UBND ngày 23/5/2022 của Chủ tịch Ủy ban nhân dân thành phố về việc công bố Danh mục thủ tục hành chính thuộc lĩnh vực giao thông vận tải trên địa bàn thành phố Hải Phòng hết hiệu lực thi hành kể từ ngày Quyết định này có hiệu lực."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "ĐƯỢC SỬA ĐỔI, BỔ SUNG, BÃI BỎ LĨNH VỰC ĐƯỜNG BỘ TRÊN ĐỊA BÀN THÀNH PHỐ HẢI PHÒNG (52 TTHC) (Kèm theo Quyết định số: 1558/QĐ-UBND ngày 17/5/2024 của Chủ tịch UBND thành phố) I. DANH MỤC THỦ TỤC HÀNH CHÍNH ĐƯỢC SỬA ĐỔI, BỔ SUNG LĨNH VỰC ĐƯỜNG BỘ (51 TTHC) TT Mã số hồ sơ TTHC Tên TTHC Thời hạn giải quyết Địa điểm thực hiện (Ghi rõ cơ quan tiếp nhận hồ sơ giải quyết TTHC của tổ chức, cá nhân) Phí/lệ phí (nếu có) (Nếu không có ghi rõ là “Không quy định”) Cách thức thực hiện ngoài nộp hồ sơ, trả kết quả trực tiếp Căn cứ pháp lý Dịch vụ công trực tuyến Dịch vụ bưu chính công ích (Ghi rõ tiếp nhận hoặc trả kết hoặc cả hai) 1 2.001002 Cấp Giấy phép lái xe quốc tế 05 ngày làm việc Sở Giao thông vận tải - Trực tuyến: 115.000 đồng; - Trực tiếp: 135.000 đồng Toàn trình Tiếp nhận và trả kết quả - Thông tư số 29/2015/TT-BGTVT Quy định về cấp, sử dụng giấy phép lái xe quốc tế; - Thông tư 01/2021/TT-BGTVT ; - Thông tư số 37/2023/TT-BTC ; - Thông tư số 05/2024/TT-BGTVT ngày 31/3/2024 của Bộ trưởng Bộ Giao thông vận tải 2 1.002300 Cấp lại Giấy phép lái xe quốc tế 05 ngày làm việc Sở Giao thông vận tải -"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN THÀNH PHỐ HẢI PHÒNG ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 1558/QĐ-UBND Hải Phòng, ngày 17 tháng 5 năm 2024 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ DANH MỤC THỦ TỤC HÀNH CHÍNH ĐƯỢC SỬA ĐỔI, BỔ SUNG, BÃI BỎ LĨNH VỰC ĐƯỜNG BỘ TRÊN ĐỊA BÀN THÀNH PHỐ HẢI PHÒNG CHỦ TỊCH ỦY BAN NHÂN DÂN THÀNH PHỐ HẢI PHÒNG Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Căn cứ các Nghị định của Chính phủ: Số 63/2010/NĐ-CP ngày 08/6/2010 về kiểm soát thủ tục hành chính; số 48/2013/NĐ-CP ngày 14/5/2013 và số 92/2017/NĐ-CP ngày 07/8/2017 sửa đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành chính; số 61/2018/NĐ-CP ngày 23/4/2018 về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; số 107/2021/NĐ-CP ngày 06/12/2021 sửa đổi, bổ sung một số điều của Nghị định s..."
+    }
+  ]
+}

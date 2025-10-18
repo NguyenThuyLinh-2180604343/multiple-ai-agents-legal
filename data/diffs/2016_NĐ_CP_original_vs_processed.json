@@ -1,0 +1,30 @@
+{
+  "base": "2016_NĐ_CP_original",
+  "revised": "2016_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "giáo viên dạy thực hành lái xe cho giáo viên thuộc các cơ sở đào tạo do địa phương quản lý hoặc các cá nhân. \". 3. Sửa đổi, bổ sung"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "a khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 9.1",
+      "change": "added",
+      "to": "dạy thực hành lái xe 1. Hồ sơ cấp Giấy chứng nhận giáo viên dạy thực hành lái xe bao gồm: a) Đơn đề nghị theo mẫu quy định tại Phụ lục IV kèm theo Nghị định này; b) Bằng tốt nghiệp trung cấp trở lên (bản sao kèm bản chính để đối chiếu hoặc bản sao có chứng thực hoặc bản sao được chứng thực điện tử từ bản chính ); c) Chứng chỉ nghiệp vụ sư phạm (bản sao kèm bản chính để đối chiếu hoặc bản sao có chứng thực hoặc bản sao được chứng thực điện tử từ bản chính ); d) 01 ảnh màu cỡ 3 cm x 4 cm nền màu xanh, kiểu thẻ căn cước, được chụp trong thời gian không quá 06 tháng. Trường hợp giấy tờ quy định tại điểm b, điểm c khoản này đã được tích hợp vào tài khoản định danh điện tử thì việc xuất trình, kiểm tra có thể thực hiện thông qua tài khoản định danh điện tử . 2. Trình tự thực hiện a) Cá nhân có nhu cầu cấp Giấy chứng nhận giáo viên dạy thực hành lái xe lần đầu lập"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 41/202 4 /NĐ-CP Hà Nội, ngày 16 tháng 4 năm 20 24 NGHỊ ĐỊNH SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA CÁC NGHỊ ĐỊNH LIÊN QUAN ĐẾN QUẢN LÝ HOẠT ĐỘNG VẬN TẢI BẰNG XE Ô TÔ, DỊCH VỤ ĐÀO TẠO LÁI XE Ô TÔ VÀ DỊCH VỤ SÁT HẠCH LÁI XE Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Giao thông đường bộ ngày 13 tháng 11 năm 2008; Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Theo đề nghị của Bộ trưởng Bộ Giao thông vận tải; Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của các Nghị định liên quan đến quản lý hoạt động vận tải bằng xe ô tô, đào tạo lái xe ô tô và dịch vụ sát hạch lái xe. Điều 1. Sửa đổi, bổ sung một số điều của Nghị định số 65/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định điều kiện kinh doanh..."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "base": "14_2025_TT_BXD_original",
+  "revised": "14_2025_TT_BXD_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "chỉnh Thông tư này quy định về đào tạo lái xe; bồi dưỡng, kiểm tra, cấp, cấp lại chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ; tiêu chuẩn của cơ sở đào tạo người điều khiển xe máy chuyên dùng thực hiện bồi dưỡng, kiểm tra, cấp chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ và tiêu chuẩn của cơ sở đào tạo lái xe mô tô."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "dụng 1. Thông tư này áp dụng đối với tổ chức, cá nhân có liên quan tới đào tạo lái xe; bồi dưỡng, kiểm tra, cấp, cấp lại chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ và tiêu chuẩn của cơ sở đào tạo người điều khiển xe máy chuyên dùng thực hiện bồi dưỡng, kiểm tra, cấp chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ. 2. Thông tư này không áp dụng đối với cơ sở đào tạo lái xe, tổ chức đào tạo lái xe; cấp, cấp lại chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ cho lực lượng quân đội, công an làm nhiệm vụ quốc phòng, an ninh."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau: 1. Thời gian lái xe an toàn là thời gian người có giấy phép lái xe còn hiệu lực, không để xảy ra tai nạn giao thông đường bộ gây hậu quả nghiêm trọng hoặc rất nghiêm trọng hoặc đặc biệt nghiêm trọng theo quy định của Bộ Công an về thống kê, tổng hợp, xây dựng, quản lý, khai thác, sử dụng cơ sở dữ liệu về tai nạn giao thông đường bộ. 2. Dữ liệu DAT là tập hợp các thông tin về định danh và quá trình học thực hành lái xe trên đường của học viên, được truyền từ thiết bị DAT lắp trên xe ô tô tập lái để tập lái xe trên đường về máy chủ của cơ sở đào tạo lái xe. 3. Dữ liệu quản lý DAT là tập hợp các thông tin về định danh và quá trình học thực hành lái xe trên đường của học viên, được truyền từ máy chủ của cơ sở đào tạo lái xe về máy chủ của Cục Đường bộ Việt Nam. 4. Thời gian học lái xe ban đêm là thời gian được tính từ 18 giờ ngày hôm trước đến 05 giờ sáng ngày hôm sau. 5. Hệ thống thông tin về đào tạo lái xe, chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ là tập hợp phần cứng, phần mềm hệ thống, phần mềm ứng dụng, cơ sở dữ liệu và đường truyền phục vụ công tác quản lý thông tin về đào tạo lái xe, chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ, bao gồm: Hệ thống thông tin quản lý, giám sát đào tạo lái xe và Hệ thống thông tin chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ. 6. Hệ thống thông tin quản lý, giám sát đào tạo lái xe gồm: a) Hệ thống thông tin quản lý, giám sát đào tạo lái xe tại cơ sở đào tạo lái xe phục vụ công tác quản lý, giám sát quá trình đào tạo lái xe của các khóa học, học viên; b) Hệ thống thông tin quản lý, giám sát đào tạo lái xe tại Sở Xây dựng phục vụ công tác tiếp nhận dữ liệu về đào tạo lái xe do cơ sở đào tạo lái xe cung cấp; quản lý, giám sát kết quả đào tạo lái xe của các khóa học, học viên; c) Hệ thống thông tin quản lý, giám sát đào tạo lái xe tại Cục Đường bộ Việt Nam phục vụ công tác tiếp nhận dữ liệu về: cơ sở đào tạo lái xe, giáo viên dạy lái xe, xe tập lái và học viên được cấp giấy xác nhận hoàn thành khóa đào tạo lái xe do Sở Xây dựng cung cấp; dữ liệu quản lý DAT do cơ sở đào tạo lái xe cung cấp để phục vụ công tác tổng hợp, báo cáo của Cục Đường bộ Việt Nam, công tác quản lý của các Sở Xây dựng và chia sẻ dữ liệu cho cơ quan có thẩm quyền theo quy định. 7. Hệ thống thông tin chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ gồm Hệ thống thông tin chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ tại Cục Đường bộ Việt Nam, Hệ thống thông tin chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ tại Sở Xây dựng và Hệ thống thông tin chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ tại cơ sở bồi dưỡng kiến thức pháp luật về giao thông đường bộ. 8. Cơ sở bồi dưỡng kiến thức pháp luật về giao thông đường bộ là cơ sở đào tạo lái xe ô tô hoặc cơ sở đào"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ XÂY DỰNG ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 14/2025/TT-BXD Hà Nội, ngày 30 tháng 6 năm 2025 THÔNG TƯ QUY ĐỊNH VỀ ĐÀO TẠO LÁI XE; BỒI DƯỠNG, KIỂM TRA, CẤP CHỨNG CHỈ BỒI DƯỠNG KIẾN THỨC PHÁP LUẬT VỀ GIAO THÔNG ĐƯỜNG BỘ Căn cứ Luật Trật tự, an toàn giao thông đường bộ ngày 27 tháng 6 năm 2024; Căn cứ Nghị quyết số 190/2025/QH15 ngày 19 tháng 02 năm 2025 của Quốc hội về xử lý một số vấn đề liên quan đến sắp xếp tổ chức bộ máy nhà nước; Căn cứ Nghị định số 160/2024/NĐ-CP ngày 18 tháng 12 năm 2024 của Chính phủ quy định về hoạt động đào tạo và sát hạch lái xe; Căn cứ Nghị định số 33/2025/NĐ-CP ngày 25 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng; Theo đề nghị của Vụ trưởng Vụ Vận tải và An toàn giao thông và Cục trưởng Cục Đường bộ Việt Nam, Bộ trưởng Bộ Xây dựng ban hành Thông tư quy định về đào tạo lái xe; bồi dưỡng, kiểm tra, cấp chứng chỉ bồi dưỡng kiến ..."
+    }
+  ]
+}

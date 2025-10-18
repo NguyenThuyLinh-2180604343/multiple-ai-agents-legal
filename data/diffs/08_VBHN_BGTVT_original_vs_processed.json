@@ -1,0 +1,48 @@
+{
+  "base": "08_VBHN_BGTVT_original",
+  "revised": "08_VBHN_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "chỉnh 1. Thông tư này quy định về đăng kiểm phương tiện thủy nội địa và việc tổ chức thực hiện đăng kiểm cho các phương tiện thủy nội địa. 2. Thông tư này không áp dụng đối với: a) Phương tiện thủy nội địa làm nhiệm vụ quốc phòng, an ninh, tàu cá; b) Phương tiện thủy nội địa không có động cơ trọng tải toàn phần đến 15 tấn hoặc có sức chở đến 12 người; c) Phương tiện thủy nội địa có động cơ công suất máy chính dưới 5 sức ngựa và có sức chở dưới 5 người; d) Bè."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "dụng Thông tư này áp dụng đối với tổ chức, cá nhân liên quan đến hoạt động đăng kiểm phương tiện thủy nội địa."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau: 1. Sản phẩm công nghiệp sử dụng cho phương tiện thủy nội địa (sau đây gọi tắt là sản phẩm công nghiệp) gồm: Vật liệu, máy móc và các trang thiết bị được sử dụng trong đóng mới, hoán cải, sửa chữa phục hồi lắp đặt trên phương tiện thủy nội địa. 2. Tem kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện thủy nội địa (sau đây gọi tắt là Tem kiểm định) là biểu trưng cấp cho phương tiện thủy nội địa đã được cơ quan đăng kiểm chứng nhận đạt tiêu chuẩn chất lượng an toàn kỹ thuật và bảo vệ môi trường. 3. Hồ sơ thiết kế gồm: Hồ sơ thiết kế đóng mới, hoán cải, sửa đổi đối với phương tiện đóng mới, hoán cải, sửa chữa phục hồi và nhập khẩu; thiết kế lập hồ sơ đối với phương tiện nhập khẩu, phương tiện đã đóng mà không có sự giám sát của đăng kiểm; thiết kế sản phẩm công nghiệp; thiết kế mẫu định hình; thiết kế chuyển đổi tàu biển thành phương tiện thủy nội địa. 4. Tài liệu hướng dẫn gồm: Thông báo ổn định cho thuyền trưởng, Kế hoạch ứng cứu ô nhiễm dầu của tàu, Kế hoạch ứng cứu ô nhiễm của tàu do chở các chất lỏng độc hại. 5. Sao và thẩm định mẫu định hình là sao và thẩm định thiết kế trên cơ sở thiết kế mẫu định hình đã được thẩm định. Chương II ĐĂNG KIỂM PHƯƠNG TIỆN"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "chuẩn kỹ thuật, tiêu chuẩn kỹ thuật quy định tại Phụ lục I của Thông tư này."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "giá chất lượng, an toàn kỹ thuật và bảo vệ môi trường của phương tiện và sản phẩm công nghiệp Công tác đăng kiểm quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "kiểm tra phương tiện 1. Các loại hình kiểm tra phương tiện bao gồm: a) Kiểm tra lần đầu, bao gồm: kiểm tra phương tiện khi đóng mới, phương tiện nhập khẩu, phương tiện đăng ký hành chính lần đầu; b) Kiểm tra chu kỳ, bao gồm: kiểm tra định kỳ; kiểm tra hàng năm; kiểm tra trên đà; kiểm tra trung gian; c) Kiểm tra bất thường theo quy định tại hệ thống quy phạm, các quy chuẩn kỹ thuật, tiêu chuẩn kỹ thuật quy định tại Phụ lục I của Thông tư này. 2. Nội dung và thời hạn các loại hình kiểm tra được"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 08/VBHN-BGTVT Hà Nội, ngày 22 tháng 3 năm 2021 THÔNG TƯ QUY ĐỊNH VỀ ĐĂNG KIỂM PHƯƠNG TIỆN THỦY NỘI ĐỊA Thông tư số 48/2015/TT-BGTVT ngày 22 tháng 9 năm 2015 của Bộ trưởng Bộ Giao thông vận tải quy định về đăng kiểm phương tiện nội địa, có hiệu lực kể từ ngày 01 tháng 01 năm 2016, được sửa đổi, bổ sung bởi: Thông tư số 26/2020/TT-BGTVT ngày 16 tháng 10 năm 2020 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của các Thông tư quy định về chế độ báo cáo định kỳ trong lĩnh vực đăng kiểm, có hiệu lực kể từ ngày 15 tháng 12 năm 2020. Căn cứ Luật Giao thông đường thủy nội địa ngày 15 tháng 6 năm 2004; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Giao thông đường thủy nội địa ngày 17 tháng 6 năm 2014; Căn cứ Luật Chất lượng sản phẩm, hàng hóa ngày 21 tháng 11 năm 2007; Căn cứ Nghị định số 107/2012/NĐ-CP ngày 20 tháng 12 năm 2012 của Chính phủ ..."
+    }
+  ]
+}

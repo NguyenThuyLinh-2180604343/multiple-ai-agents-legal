@@ -1,0 +1,66 @@
+{
+  "base": "08_KH_UBND_original",
+  "revised": "08_KH_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section General.1",
+      "change": "added",
+      "to": "ỦY BAN NHÂN DÂN TỈNH BÌNH ĐỊNH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 08/KH-UBND Bình Định, ngày 18 tháng 01 năm 2023 KẾ HOẠCH NĂM AN TOÀN GIAO THÔNG 2023 TRÊN ĐỊA BÀN TỈNH Thực hiện Kế hoạch số 506/KH-UBATGTQG ngày 29/12/2022 của Ủy ban An toàn giao thông Quốc gia về Năm An toàn giao thông 2023; UBND tỉnh Bình Định xây dựng Kế hoạch Năm An toàn giao thông 2023 tại tỉnh Bình Định với chủ đề “Thượng tôn pháp luật để xây dựng văn hóa giao thông an toàn” với nội dung sau: I. MỤC ĐÍCH 1. Nâng cao hiệu quả quản lý nhà nước trong hoạt động bảo đảm trật tự ATGT; nâng cao ý thức trách nhiệm, tính chuyên nghiệp, đạo đức nghề nghiệp của người thực thi công vụ trong lĩnh vực bảo đảm trật tự ATGT. 2. Nâng cao nhận thức và ý thức tự giác chấp hành pháp luật của người tham gia giao thông, xây dựng văn hóa giao thông an toàn trong mọi tầng lớp nhân dân, nhất là người điều khiển mô tô, xe máy, doanh nghiệp và lái xe vận tải khách. 3. Giảm tai nạn giao thông từ 5-10% trên cả 3 tiêu chí về số vụ, số người chết, số người bị thương so với năm 2022. Hạn chế thấp nhất tai nạn giao thông đặc biệt nghiêm trọng, không để ùn tắc giao thông kéo dài. 4. Phòng ngừa không để xảy ra tình trạng tụ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "trên các trục giao thông chính, các đầu mối giao thông trọng điểm và không để xảy"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "quyết liệt, đồng bộ các giải pháp trên toàn tỉnh, từ cấp tỉnh đến các huyện, thị xã, thành phố, xã, phường, thị trấn ngay từ tháng đầu, quý đầu và cả năm 2023. 2. Các Sở, ban, ngành, đoàn thể có Lãnh đạo là thành viên Ban An toàn giao tỉnh và Ban ATGT các huyện, thị xã, thành phố trong"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "và điều kiện thực tiễn của đơn vị, địa phương, đảm bảo tiết kiệm, tránh hình thức. 3. Phổ biến, quán triệt nhiệm vụ đến từng cán bộ, công chức, viên chức và người lao động, từng bước xây dựng văn hóa giao thông an toàn; gắn trách nhiệm của cá nhân người đứng đầu với kết quả thực hiện"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_5.1",
+      "change": "added",
+      "to": "động chuyên đề theo hướng dẫn, chỉ đạo của Trung ương phù hợp với điều kiện thực tiễn của địa phương đến tận xã, phường, thị trấn, thôn, làng, xóm... đồng bộ các giải pháp, không phô trương hình thức và triệt để tiết kiệm. 5. Tăng cường ứng dụng khoa học công nghệ trong công tác bảo đảm trật tự ATGT, trước hết là chú trọng ứng dụng công nghệ thông tin và khoa học dữ liệu trong quản lý điều hành vận tải, điều khiển giao thông, tuyên truyền an toàn giao thông; giám sát, phát hiện và xử lý vi phạm về"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_6.1",
+      "change": "added",
+      "to": "ngành, tổ chức, đoàn thể của tỉnh và UBND các huyện, thị xã, thành phố cần gắn chặt công tác bảo đảm trật tự ATGT với công tác phòng, chống dịch COVID-19, tập"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_7.1",
+      "change": "added",
+      "to": "đồng bộ, thường xuyên các giải pháp bảo đảm trật tự ATGT tại Chỉ thị số 17-CT/TU ngày 25/11/2016 của Ban Thường vụ Tỉnh ủy Bình Định (Khóa XIX) và Kết luận số 45-KL/TW ngày 01/2/2019 của Ban Bí thư Trung ương Đảng khóa XII về tiếp tục đẩy mạnh thực hiện có hiệu quả Chỉ thị số 18-CT/TW ngày 04/9/2012 của Ban Bí thư Trung ương Đảng về tăng cường sự lãnh đạo của Đảng đối với công tác bảo đảm trật tự ATGT đường bộ, đường sắt, đường thủy nội địa trên địa bàn tỉnh; Quyết định số 1406/QĐ-UBND ngày 01/5/2022 về ban hành Kế hoạch thực hiện Nghị quyết số 48/NQ-CP ngày 05/04/2022 của Chính phủ về tăng cường bảo đảm trật tự ATGT và chống ùn tắc giao thông giai đoạn 2022 - 2025 trên địa bàn tỉnh; các Nghị quyết, Chỉ thị, Công điện chỉ đạo của Chính phủ, Ủy ban ATGT Quốc gia và các văn bản triển khai thực hiện của tỉnh trong công tác bảo đảm trật tự ATGT trên địa bàn tỉnh. 2. Xây dựng, hoàn thiện thể chế, cơ chế,"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_8.1",
+      "change": "added",
+      "to": "ATGT, nhằm áp dụng kịp thời, hiệu quả các thành tựu của cuộc cách mạng công"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_9.1",
+      "change": "added",
+      "to": "các quy hoạch của tỉnh, quy hoạch sử dụng đất, xây dựng đô thị, nông thôn và các quy hoạch chuyên ngành về giao thông vận tải. 3. Bảo đảm tiến độ, chất lượng các dự án đầu tư kết cấu hạ tầng giao thông trọng điểm; tổ chức giao thông khoa học, hợp lý; bảo trì, sửa chữa kết cấu hạ tầng giao thông gắn với rà soát, xử lý dứt điểm các điểm đen, điểm tiềm ẩn tai nạn giao thông; xóa bỏ lối đi tự mở trái phép qua đường sắt; ngăn ngừa, xử lý hoạt động lấn chiếm tuyến luồng hàng hải, đường thủy nội địa; bảo vệ an toàn tĩnh không đường tiếp cận và khu bay cảng hàng không. 4. Nâng cao chất lượng a"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH BÌNH ĐỊNH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 08/KH-UBND Bình Định, ngày 18 tháng 01 năm 2023 KẾ HOẠCH NĂM AN TOÀN GIAO THÔNG 2023 TRÊN ĐỊA BÀN TỈNH Thực hiện Kế hoạch số 506/KH-UBATGTQG ngày 29/12/2022 của Ủy ban An toàn giao thông Quốc gia về Năm An toàn giao thông 2023; UBND tỉnh Bình Định xây dựng Kế hoạch Năm An toàn giao thông 2023 tại tỉnh Bình Định với chủ đề “Thượng tôn pháp luật để xây dựng văn hóa giao thông an toàn” với nội dung sau: I. MỤC ĐÍCH 1. Nâng cao hiệu quả quản lý nhà nước trong hoạt động bảo đảm trật tự ATGT; nâng cao ý thức trách nhiệm, tính chuyên nghiệp, đạo đức nghề nghiệp của người thực thi công vụ trong lĩnh vực bảo đảm trật tự ATGT. 2. Nâng cao nhận thức và ý thức tự giác chấp hành pháp luật của người tham gia giao thông, xây dựng văn hóa giao thông an toàn trong mọi tầng lớp nhân dân, nhất là người điều khiển mô tô, xe máy, doanh nghiệp và lái xe vận tải khách. 3...."
+    }
+  ]
+}

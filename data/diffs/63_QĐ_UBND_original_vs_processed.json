@@ -1,0 +1,24 @@
+{
+  "base": "63_QĐ_UBND_original",
+  "revised": "63_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "tải: a. Chủ trì, phối hợp với Sở Tài chính và UBND các huyện, thị xã kiểm tra, soát xét kỹ danh mục các tuyến đường xã, trục chính xã đủ điều kiện hỗ trợ theo Quyết định số 94/2020/QĐ-UBND ngày 28/12/2020 của UBND tỉnh; báo cáo, đề xuất UBND tỉnh xem xét, quyết định. b. Chủ trì, phối hợp các ngành hướng dẫn, kiểm tra việc thực hiện của các địa phương theo quy định hiện hành; báo cáo định kỳ hàng Quý cho UBND tỉnh để chỉ đạo thực hiện."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "bố trí kế hoạch vốn theo cơ cấu nguồn vốn được UBND tỉnh thông qua; chỉ đạo UBND cấp xã (Chủ đầu tư đối với các công trình tại địa phương) tổ chức thực hiện theo đúng quy định trong công tác đầu tư xây dựng về huy động, quản lý và sử dụng các khoản đóng góp của các tổ chức, cá nhân để triển khai xây dựng Bê tông hóa đường giao thông nông thôn năm 2024 ở địa phương đảm bảo theo kế hoạch phê duyệt tại"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH BÌNH ĐỊNH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 63/QĐ-UBND Bình Định, ngày 05 tháng 01 năm 2024 QUYẾT ĐỊNH PHÊ DUYỆT KẾ HOẠCH BÊ TÔNG HÓA GIAO THÔNG NÔNG THÔN NĂM 2024 TRÊN ĐỊA BÀN TỈNH CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Căn cứ Luật sửa đổi bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức Chính quyền địa phương ngày 22/11/2019; Căn cứ Quyết định số 94/2020/QĐ-UBND ngày 28/12/2020 của UBND tỉnh về ban hành Chương trình bê tông hóa giao thông nông thôn, giai đoạn 2021 - 2025 trên địa bàn tỉnh; Căn cứ Quyết định số 1377/QĐ-UBND ngày 15/4/2021 của UBND tỉnh về ban hành thiết kế mẫu mặt đường bê tông xi măng để thực hiện Chương trình bê tông hóa giao thông nông thôn, giai đoạn 2021 - 2025 trên địa bàn tỉnh, Xét đề nghị của Sở Giao thông vận tải tại Văn bản số 88/TTr-SGTVT ngày 29/12/2023, QUYẾT ĐỊNH: Điều 1. Phê duyệt Kế hoạch triển khai..."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "base": "08_CĐ_BGTVT_original",
+  "revised": "08_CĐ_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section General.1",
+      "change": "added",
+      "to": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 08/CĐ-BGTVT Hà Nội, ngày 08 tháng 07 năm 2021 CÔNG ĐIỆN VỀ VIỆC ÁP DỤNG CÁC BIỆN PHÁP KHẨN CẤP TRONG PHÒNG, CHỐNG DỊCH COVID-19 CỦA NGÀNH GIAO THÔNG VẬN TẢI BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI điện: - Tổng cục Đường bộ Việt Nam; - Cục Đường sắt Việt Nam; - Cục Hàng không Việt Nam; - Cục Hàng hải Việt Nam; - Cục Đường thủy nội địa Việt Nam; - Cục Y tế giao thông vận tải; - Sở Giao thông vận tải các tỉnh, thành phố trực thuộc Trung ương; - Sở Giao thông vận tải và Xây dựng Lào Cai. Thực hiện Công điện số 914/CĐ-TTg ngày 06 tháng 7 năm 2021 của Thủ tướng Chính phủ về việc tăng cường các biện pháp bảo đảm an toàn phòng, chống dịch Covid-19 để"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "trực tuyến với thành phố Hồ Chí Minh và 07 tỉnh vùng kinh tế trọng điểm phía Nam về công tác phòng, chống dịch Covid-19 (Thông báo số 177/TB-VPCP ngày 06"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "hiện nghiêm các nội dung sau đây: 1 . Trên cơ sở chức năng,"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "phủ tại Thông báo kết luận số 177/TB-VPCP ngày 06 tháng 7 năm 2021 nêu trên. 2 . Tiếp tục thực hiện nghiêm chỉ đạo của Bộ Chính trị, Ban Bí thư, Chính phủ, Thủ tướng Chính phủ, Ban Chỉ đạo quốc gia phòng, chống dịch Covid-19, Ban Chỉ đạo phòng, chống dịch"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_5.1",
+      "change": "added",
+      "to": "với tinh thần chủ động, quyết liệt, mạnh mẽ, thực chất và hiệu quả nhằm thực"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_6.1",
+      "change": "added",
+      "to": "hiện, cách ly, khoanh vùng dập dịch, điều trị tích cực. Đặc biệt lưu ý thực"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_7.1",
+      "change": "added",
+      "to": "bên ngoài, lỏng lẻo bên trong; phải tổ chức tốt việc cung cấp lương thực, thực phẩm và nhu yếu phẩm cho người dân trong khu vực phong tỏa, cách ly y tế, giãn cách xã hội. Áp dụng các biện pháp phòng chống dịch bắt buộc đối với tất cả"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_8.1",
+      "change": "added",
+      "to": "khiển, người phục vụ, hành khách trên phương tiện vận chuyển hành khách, hàng hóa khi từ thành phố Hồ Chí Minh đi các tỉnh/thành phố khác hoặc từ tỉnh/thành phố khác đến thành phố Hồ Chí Minh bắt buộc phải có Giấy xét nghiệm âm tính với"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_9.1",
+      "change": "added",
+      "to": "phương tiện vận chuyển người dân đi, đến bệnh viện, trung tâm y tế trong trường hợp cấp thiết nhưng phải được theo dõi, kiểm soát y tế và thực hiện các biện pháp phòng chống dịch. Các trường hợp vận chuyển lương thực, thực phẩm, nhu yếu phẩm cần thiết, nguyên vật liệu sản xuất, xe đưa đón cán bộ, nhà quản lý, chuyên gia, công nhân... làm việc tại các cơ quan, xí nghiệp, nhà máy, khu công nghiệp khi đi lại hàng ngày giữa thành phố Hồ Chí Minh đến các tỉnh lân cận và ngược lại (bao gồm cả người điều khiển, người phục vụ trên phương tiện) được phép hoạt động trên cơ sở tuân"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_10.1",
+      "change": "added",
+      "to": "thời phải được sự chấp thuận của Ủy ban nhân dân tỉnh, thành phố lân cận; hàng ngày thực hiện khai báo y tế bằng mã QR Code theo"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_11.1",
+      "change": "added",
+      "to": "phương tiện đi/đến thành phố Hồ Chí Minh và các địa phương liên quan: Tổng cục Đường bộ Việt Nam chủ trì, phối hợp với các cơ quan, đơn vị của Bộ Công an, Ủy ban nhân dân thành phố Hồ Chí Minh, các tỉnh Đông Nam Bộ, Tây Nam Bộ và các tỉnh giáp ranh với thành phố Hồ Chí Minh để tổ chức phân luồng giao thông, quy định thời gian cụ thể, rõ ràng cho phương tiện giao thông để không gây ra tình trạng ách tắc, bảo đảm duy trì ổn định vận tải hàng hóa và hành khách, đáp ứng"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_12.1",
+      "change": "added",
+      "to": "nghiệp, đơn vị vận tải, bến xe, bến tàu, bến phà, nhà ga, cảng hàng không, sân bay, chủ phương tiện chịu trách nhiệm trực tiếp kiểm tra, đôn đốc và triển khai"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_13.1",
+      "change": "added",
+      "to": "tại đơn vị mình quản lý. 6 . Tăng cường hơn nữa công tác tuyên truyền, vận động người dân, doanh nghiệp đồng tình ủng hộ, chia sẻ, tích cực và tự giác hợp tác, thực hiện các biện pháp phòng, chống dịch, nhất là việc thực hiện các biện pháp mạnh khi cần thiết về phong tỏa, giãn cách, cách ly. 7 . Các cơ quan, đơn vị"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_14.1",
+      "change": "added",
+      "to": "mắc trong công tác phòng, chống dịch và phát triển kinh tế - xã hội tại thành phố Hồ Chí Minh và 07 tỉnh vùng kinh tế trọng điểm phía Nam theo tinh thần “3 không: Không nói không, không nói khó, không nói có mà không làm”. 8 . Trong trường hợp thành phố Hồ Chí Minh và các địa phương khác trong vùng phải tiến hành phong tỏa, giãn cách, cách ly trên diện rộng, Tổng cục Đường bộ Việt Nam phải có kịch b"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 08/CĐ-BGTVT Hà Nội, ngày 08 tháng 07 năm 2021 CÔNG ĐIỆN VỀ VIỆC ÁP DỤNG CÁC BIỆN PHÁP KHẨN CẤP TRONG PHÒNG, CHỐNG DỊCH COVID-19 CỦA NGÀNH GIAO THÔNG VẬN TẢI BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI điện: - Tổng cục Đường bộ Việt Nam; - Cục Đường sắt Việt Nam; - Cục Hàng không Việt Nam; - Cục Hàng hải Việt Nam; - Cục Đường thủy nội địa Việt Nam; - Cục Y tế giao thông vận tải; - Sở Giao thông vận tải các tỉnh, thành phố trực thuộc Trung ương; - Sở Giao thông vận tải và Xây dựng Lào Cai. Thực hiện Công điện số 914/CĐ-TTg ngày 06 tháng 7 năm 2021 của Thủ tướng Chính phủ về việc tăng cường các biện pháp bảo đảm an toàn phòng, chống dịch Covid-19 để thực hiện mục tiêu kép, kết luận của Thủ tướng Phạm Minh chính tại cuộc họp trực tuyến với thành phố Hồ Chí Minh và 07 tỉnh vùng kinh tế trọng điểm phía Nam về công tác phòng, chống dịch Covid-19 (Thông báo số 177/TB-VPCP ngày 06 ..."
+    }
+  ]
+}

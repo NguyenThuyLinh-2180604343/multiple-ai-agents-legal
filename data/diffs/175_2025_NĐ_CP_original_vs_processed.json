@@ -1,0 +1,36 @@
+{
+  "base": "175_2025_NĐ_CP_original",
+  "revised": "175_2025_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "điều của Nghị định số 10/2022/NĐ-CP ngày 15 tháng 01 năm 2022 của Chính phủ quy định về lệ phí trước bạ 1. Sửa đổi, bổ sung khoản 6 và khoản 7"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "chuyên dùng, xe máy chuyên dùng) là giá tại Bảng giá tính lệ phí trước bạ do Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương ban hành. a) Giá tính lệ phí trước bạ tại Bảng giá tính lệ phí trước bạ của từng tỉnh, thành phố trực thuộc trung ương được xác định theo nguyên tắc đảm bảo phù hợp với giá chuyển nhượng tài sản trên thị trường tại thời điểm xây dựng Bảng giá tính lệ phí trước bạ. Giá chuyển nhượng tài sản trên thị trường của từng loại ô tô, xe máy (đối với xe ô tô, xe máy là theo kiểu loại xe; đối với xe tải là theo nước sản xuất, nhãn hiệu, khối lượng hàng chuyên chở cho phép tham gia giao thông; đối với xe khách là theo nước sản xuất, nhãn hiệu, số người cho phép chở kể cả lái xe) được căn cứ vào các cơ sở dữ liệu theo quy định tại khoản 2 Điều này. b) Trường hợp phát sinh loại ô tô, xe máy mới mà tại thời điểm nộp tờ khai lệ phí trước bạ chưa có trong Bảng giá tính lệ phí trước bạ thì cơ quan thuế cấp tỉnh căn cứ vào cơ sở dữ liệu theo quy định tại khoản 2 Điều này để quyết định giá tính lệ phí trước bạ của từng loại ô tô, xe máy mới phát sinh trên địa bàn tỉnh (đối với xe ô tô, xe máy là theo kiểu loại xe; đối với xe tải là theo nước sản xuất, nhãn hiệu, khối lượng hàng chuyên chở cho phép tham gia giao thông; đối với xe khách là theo nước sản xuất, nhãn hiệu, số người cho phép chở kể cả lái xe). c) Trường hợp phát sinh ô tô, xe máy có trong Bảng giá tính lệ phí trước bạ mà giá chuyển nhượng ô tô, xe máy trên thị trường tăng hoặc giảm từ 5% trở lên so với giá tại Bảng giá tính lệ phí trước bạ thì cơ quan thuế cấp tỉnh chủ trì, phối hợp với Sở Tài chính tổng hợp, báo cáo Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương trước ngày mùng 5 tháng cuối quý. Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương xem xét, ban hành Quyết định về Bảng giá tính lệ phí trước bạ điều chỉnh, bổ sung trước ngày 25 của tháng cuối quý để áp dụng kể từ ngày đầu của quý tiếp theo. Bảng giá tính lệ phí trước bạ điều chỉnh, bổ sung được ban hành theo quy định về ban hành Bảng giá tính lệ phí trước bạ quy định tại điểm a khoản này.”. 3. Sửa đổi, bổ sung khoản 4"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 7.1",
+      "change": "added",
+      "to": "ô tô, các loại xe tương tự xe ô tô (sau đây gọi chung là ô tô) và xe máy quy định tại khoản 6, khoản 7"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 8.1",
+      "change": "added",
+      "to": "phí trước bạ lần thứ 2 trở đi được áp dụng mức thu là 1%.”. 4. Sửa đổi, bổ sung một số điểm và tiêu đề của khoản 5"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 175/2025/NĐ-CP Hà Nội, ngày 30 tháng 6 năm 2025 NGHỊ ĐỊNH SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 10/2022/NĐ-CP NGÀY 15 THÁNG 01 NĂM 2022 CỦA CHÍNH PHỦ QUY ĐỊNH VỀ LỆ PHÍ TRƯỚC BẠ Căn cứ Luật Tổ chức Chính phủ ngày 18 tháng 02 năm 2025; Căn cứ Luật Tổ chức chính quyền địa phương ngày 16 tháng 6 năm 2025; Căn cứ Luật Phí và lệ phí ngày 25 tháng 11 năm 2015; Căn cứ Luật Trật tự, an toàn giao thông đường bộ ngày 27 tháng 6 năm 2024; Căn cứ Luật Đất đai ngày 18 tháng 01 năm 2024; Luật sửa đổi, bổ sung một số điều của Luật Đất đai số 31/2024/QH15, Luật Nhà ở số 27/2023/QH15, Luật Kinh doanh bất động sản số 29/2023/QH15, Luật Các tổ chức tín dụng số 32/2024/QH15 ngày 29 tháng 6 năm 2024; Theo đề nghị của Bộ trưởng Bộ Tài chính; Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của Nghị định số 10/2022/NĐ-CP ngày 15 tháng 01 năm 2022 của Chính phủ quy định về ..."
+    }
+  ]
+}

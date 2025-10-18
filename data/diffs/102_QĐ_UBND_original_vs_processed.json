@@ -1,0 +1,30 @@
+{
+  "base": "102_QĐ_UBND_original",
+  "revised": "102_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "hành chính lĩnh vực đường bộ thuộc phạm vi chức năng quản lý của Sở Giao thông vận tải, gồm: 01 thủ tục thay thế và 03 thủ tục bãi bỏ (do được thay thế). Danh mục thủ tục hành chính được đăng tải trên Cổng thông tin điện tử của Ủy ban nhân dân Thành phố tại https://hochiminhcity.gov.vn/chinhquyen (CÔNG BỐ TTHC, THỦ TỤC HÀNH CHÍNH, Công bố thủ tục hành chính)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "có hiệu lực thi hành kể từ ngày ký."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "TỤC HÀNH CHÍNH LĨNH VỰC ĐƯỜNG BỘ THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ CỦA SỞ GIAO THÔNG VẬN TẢI (Ban hành kèm theo Quyết định số 102/QĐ-UBND ngày 09 tháng 01 năm 2025 của Chủ tịch Ủy ban nhân dân Thành phố) A. DANH MỤC THỦ TỤC HÀNH CHÍNH THAY THẾ TT Tên thủ tục hành chính Thời hạn giải quyết Địa điểm thực hiện Phí, lệ phí Căn cứ pháp lý 1 Cấp giấy phép thi công công trình trên đường bộ đang khai thác Trong thời hạn 07 ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định. - Sở Giao thông vận tải, - Ủy ban nhân dân cấp huyện, - Ủy ban nhân dân cấp xã; Không - Thông tư số 41/2024/TT-BGTVT ngày 15 tháng 11 năm 2024 của Bộ trưởng Bộ Giao thông vận tải quy định về quản lý, vận hành, khai thác và bảo trì kết cấu hạ tầng đường bộ. - Quyết định 1501/QĐ-BGTVT ngày 09 tháng 12 năm 2024 của Bộ trưởng Bộ Giao thông vận tải về việc công bố thủ tục hành chính được sửa đổi, bổ sung, thay thế, bãi bỏ trong lĩnh vực đường bộ thuộc phạm vi chức năng quản lý của Bộ Giao thông vận tải. B. DANH MỤC THỦ TỤC HÀNH CHÍNH BÃI BỎ (DO ĐƯỢC THAY THẾ) TT Tên thủ tục hành chính Quyết định công bố danh mục thủ tục hành chính Tên VBQPPL quy định nội dung bãi bỏ 1 Cấp giấy phép thi công xây dựng công trình thiết yếu trong phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ ( thẩm quyền của Sở Giao thông vận tải ) Quyết định số 1282/QĐ-UBND ngày 06 tháng 04 năm 2023 của Chủ tịch Ủy ban nhân dân Thành phố về việc công bố thủ tục hành chính lĩnh vực đường bộ thuộc phạm vi chức năng quản lý của Sở Giao thông vận tải. Thông tư số 41/2024/TT BGTVT ngày 15 tháng 11 năm 2024 của Bộ trưởng Bộ Giao thông vận tải quy định về quản lý, vận hành, khai thác và bảo trì kết cấu hạ tầng đường bộ. 2 Cấp giấy phép thi công xây dựng công trình thiết yếu trong phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ ( thẩm quyền của các Ban quản lý ) Quyết định số 453/QĐ-UBND ngày 31 tháng 01 năm 2019 của Chủ tịch Ủy ban nhân dân Thành phố về việc công bố thủ tục hành chính đặc thù trong lĩnh vực đường bộ thuộc phạm vi chức năng quản lý của Sở Giao thông vận tải ( thứ tự B.3 ). 3 Cấp giấy phép thi công xây dựng công trình thiết yếu trong phạm vi bảo vệ kết cấu hạ tầng giao thông đường bộ ( thẩm quyền của Ủy ban nhân dân quận – huyện ) Quyết định số 453/QĐ-UBND ngày 31 tháng 01 năm 2019 của Chủ tịch Ủy ban nhân dân Thành phố về việc công bố thủ tục hành chính đặc thù trong lĩnh vực đường bộ thuộc phạm vi chức năng quản lý của Sở Giao thông vận tải (thứ tự C.3 )."
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 102/QĐ-UBND Thành phố Hồ Chí Minh, ngày 09 tháng 01 năm 2025 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ DANH MỤC THỦ TỤC HÀNH CHÍNH LĨNH VỰC ĐƯỜNG BỘ THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ CỦA SỞ GIAO THÔNG VẬN TẢI CHỦ TỊCH ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015; Luật sửa đổi bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 92/2017/NĐ-CP ngày 07 tháng 8 năm 2017 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Thông tư số 02/2017/TT-VPCP ngày 31 tháng 10 năm 2017 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ hướng dẫn nghiệp vụ về kiểm soát thủ tục hành chính..."
+    }
+  ]
+}

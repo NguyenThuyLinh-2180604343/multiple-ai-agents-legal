@@ -1,0 +1,54 @@
+{
+  "doc_id": "4561_QĐ_BGTVT",
+  "meta": {
+    "url": "https://thuvienphapluat.vn/van-ban/Giao-thong-Van-tai/Quyet-dinh-4561-QD-BGTVT-dinh-chinh-thong-tu-kiem-dinh-an-toan-ky-thuat-bao-ve-moi-truong-301613.aspx",
+    "crawl_time": "2025-10-15T12:21:15.011658",
+    "number": "4561/QĐ-BGTVT",
+    "field": "Giao thông",
+    "issue_date": "24/12/2015",
+    "agency": "BỘ GIAO THÔNG VẬN TẢI QUY ĐỊNH VỀ KIỂM ĐỊNH AN TOÀN KỸ THUẬT VÀ BẢO VỆ",
+    "content": "BỘ\r\n  GIAO THÔNG VẬN TẢI ------- CỘNG\r\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số:\r\n  4561/QĐ-BGTVT Hà\r\n  Nội, ngày 24 tháng 12 năm 2015 QUYẾT ĐỊNH VỀ VIỆC ĐÍNH CHÍNH THÔNG TƯ SỐ 70/2015/TT-BGTVT NGÀY 09/11/2015 CỦA BỘ\r\nTRƯỞNG BỘ GIAO THÔNG VẬN TẢI QUY ĐỊNH VỀ KIỂM ĐỊNH AN TOÀN KỸ THUẬT VÀ BẢO VỆ\r\nMÔI TRƯỜNG PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI Căn cứ Luật Ban hành văn b ả n quy phạm pháp luật ngày 03 tháng 6 năm 2008; Căn cứ Nghị định số 107/2012/NĐ-CP ngày 20 tháng 12 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn\r\nvà cơ cấu tổ chức của Bộ Giao thông vận tải; Theo đề nghị của Vụ trưởng Vụ Khoa\r\nhọc - Công nghệ, QUYẾT ĐỊNH: Điều 1. Đính chính trang nội dung 2 của Mẫu Giấy chứng\r\nnhận kiểm định tại Phụ lục VI ban hành kèm theo Thông tư số 70/2015/TT-BGTVT ngày 09 tháng 11 năm 2015 của Bộ trưởng Bộ Giao thông vận tải quy định về kiểm\r\nđịnh an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường\r\nbộ như sau: Thêm cụm từ “Chiều dài cơ sở/ V ết bánh xe (Whee l base/Whee l tread …………. ) / …………………. ( mm) ” vào hàng thứ nhất ngay sau Mục 2. THÔNG\r\nS Ố KỸ THUẬT (SPECIFICATIONS) . Điều 2. Quyết định này có hiệu lực kể từ ngày 01 tháng 01 năm 2016 và là một bộ phận\r\nkhông th ể tách rời của Thông tư số 70/2015/TT-BGTVT ngày\r\n09 tháng 11 năm 2015 của Bộ trưởng Bộ Giao thông vận tải./. KT.\r\n  BỘ TRƯỞNG THỨ TRƯỞNG Lê Đình Thọ"
+  },
+  "structure": {
+    "articles": [
+      {
+        "article": "Điều 1",
+        "title": "Đính chính trang nội dung 2 của Mẫu Giấy chứng",
+        "clauses": [
+          {
+            "no": "1",
+            "text": "nhận kiểm định tại Phụ lục VI ban hành kèm theo Thông tư số 70/2015/TT-BGTVT ngày 09 tháng 11 năm 2015 của Bộ trưởng Bộ Giao thông vận tải quy định về kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ như sau: Thêm cụm từ “Chiều dài cơ sở/ V ết bánh xe (Whee l base/Whee l tread …………. ) / …………………. ( mm) ” vào hàng thứ nhất ngay sau Mục 2. THÔNG S Ố KỸ THUẬT (SPECIFICATIONS) .",
+            "points": []
+          }
+        ]
+      },
+      {
+        "article": "Điều 2",
+        "title": "Quyết định này có hiệu lực kể từ ngày 01 tháng 01 năm 2016 và là một bộ phận",
+        "clauses": [
+          {
+            "no": "1",
+            "text": "không th ể tách rời của Thông tư số 70/2015/TT-BGTVT ngày 09 tháng 11 năm 2015 của Bộ trưởng Bộ Giao thông vận tải./. KT. BỘ TRƯỞNG THỨ TRƯỞNG Lê Đình Thọ",
+            "points": []
+          }
+        ]
+      }
+    ],
+    "strategy_used": "dieu",
+    "validation": {
+      "status": "warning",
+      "issues": [
+        "Low content preservation: 40.10%"
+      ],
+      "stats": {
+        "original_length": 1419,
+        "segmented_length": 569,
+        "preservation_ratio": 0.4009866102889359,
+        "total_articles": 2,
+        "total_clauses": 2,
+        "total_points": 0
+      }
+    },
+    "document_type": "law"
+  }
+}

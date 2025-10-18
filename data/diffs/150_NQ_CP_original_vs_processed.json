@@ -1,0 +1,24 @@
+{
+  "base": "150_NQ_CP_original",
+  "revised": "150_NQ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "hành khách qua biên giới bằng phương tiện giao thông đường bộ (CBTP) đã ký ngày 13 tháng 10 năm 2017 tại Singapore dịp Hội nghị Bộ trưởng Giao thông vận tải các nước ASEAN (ATM) lần thứ 23."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "liên quan tổ chức triển khai thực hiện Hiệp định CBTP."
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 150/NQ-CP Hà Nội, ngày 02 tháng 12 năm 2021 NGHỊ QUYẾT VỀ VIỆC PHÊ DUYỆT HIỆP ĐỊNH KHUNG ASEAN VỀ TẠO THUẬN LỢI VẬN TẢI HÀNH KHÁCH QUA BIÊN GIỚI BẰNG PHƯƠNG TIỆN GIAO THÔNG ĐƯỜNG BỘ (CBTP) CHÍNH PHỦ Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Điều ước quốc tế ngày 09 tháng 4 năm 2016; Xét đề nghị của Bộ trưởng Bộ Giao thông vận tải tại Tờ trình số 11104/TTr-BGTVT ngày 21 tháng 10 năm 2021, QUYẾT NGHỊ: Điều 1. Phê duyệt Hiệp định khung ASEAN về tạo thuận lợi vận tải hành khách qua biên giới bằng phương tiện giao thông đường bộ (CBTP) đã ký ngày 13 tháng 10 năm 2017 tại Singapore dịp Hội nghị Bộ trưởng Giao thông vận tải các nước ASEAN (ATM) lần thứ 23. Điều 2. Bộ Giao thông vận tải chủ trì, phối hợp với các Bộ, cơ quan liê..."
+    }
+  ]
+}

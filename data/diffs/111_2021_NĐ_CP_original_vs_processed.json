@@ -1,0 +1,48 @@
+{
+  "base": "111_2021_NĐ_CP_original",
+  "revised": "111_2021_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "chỉnh 1. Nghị định này quy định nội dung, cách ghi và quản lý nhà nước về nhãn đối với hàng hóa lưu thông tại Việt Nam, hàng hóa xuất khẩu, nhập khẩu. 2. Những loại hàng hóa sau đây không thuộc phạm vi điều chỉnh của Nghị định này: a) Bất động sản; b) Hàng hóa tạm nhập tái xuất; hàng hóa quá cảnh, hàng hóa chuyển khẩu; hàng hóa trung chuyển; hàng hóa nhập khẩu gửi kho ngoại quan để xuất khẩu sang nước thứ ba; c) Hành lý của người xuất cảnh, nhập cảnh; tài sản di chuyển; d) Hàng hóa bị tịch thu bán đấu giá; đ) Hàng hóa là thực phẩm tươi, sống, thực phẩm chế biến không có bao bì và bán trực tiếp cho người tiêu dùng; e) Hàng hóa là nhiên liệu, nguyên liệu (nông sản, thủy sản, khoáng sản), phế liệu (trong sản xuất, kinh doanh), vật liệu xây dựng không có bao bì và được bán trực tiếp cho người tiêu dùng; g) Hàng hóa là xăng dầu, khí (LPG, CNG, LNG) chất lỏng, không có bao bì thương phẩm đựng trong container, xi tec; h) Hàng hóa đã qua sử dụng; i) Hàng hóa thuộc lĩnh vực an ninh, quốc phòng; hàng hóa là chất phóng xạ, hàng hóa sử dụng trong trường hợp khẩn cấp nhằm khắc phục thiên tai, dịch bệnh; phương tiện giao thông đường sắt, đường thủy, đường không. 3. Trường hợp điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam là thành viên có quy định khác với quy định của Nghị định này thì áp dụng quy định của điều ước quốc tế đó.”; 2. Sửa đổi, bổ sung"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "dụng Nghị định này áp dụng đối với tổ chức, cá nhân sản xuất, kinh doanh hàng hóa tại Việt Nam; tổ chức, cá nhân xuất khẩu, nhập khẩu hàng hóa; cơ quan nhà nước; tổ chức, cá nhân liên quan.”; 3. Sửa đổi, bổ sung khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 7.1",
+      "change": "added",
+      "to": "trình bày nhãn hàng hóa 1. Những nội dung bắt buộc phải thể hiện trên nhãn hàng hóa lưu thông tại thị trường Việt Nam phải ghi bằng tiếng Việt, trừ hàng hóa xuất khẩu không tiêu thụ trong nước và trừ trường hợp quy định tại khoản 4 Điều này.”; 4. Sửa đổi, bổ sung khoản 4"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 9.1",
+      "change": "added",
+      "to": "ghi nhãn hàng hóa 4. Tổ chức, cá nhân nhập khẩu hàng hóa vào Việt Nam phải ghi nhãn theo quy định về nội dung bắt buộc thể hiện trên nhãn hàng hóa nhập khẩu tại Nghị định này.”; 5. Sửa đổi, bổ sung"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 10.1",
+      "change": "added",
+      "to": "buộc thể hiện trên nhãn hàng hóa 1. Nhãn hàng hóa của các loại hàng hóa đang lưu thông tại Việt Nam bắt buộc phải thể hiện các nội dung sau bằng tiếng Việt: a) Tên hàng hóa; b) Tên và địa chỉ của tổ chức, cá nhân chịu trách nhiệm về hàng hóa; c) Xuất xứ hàng hóa. Trường hợp không xác định được xuất xứ thì ghi nơi thực hiện công đoạn cuối cùng để hoàn thiện hàng hóa theo quy định tại khoản 3"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 15.1",
+      "change": "added",
+      "to": "của tổ chức, cá nhân sản xuất hoặc tổ chức, cá nhân chịu trách nhiệm về hàng hóa ở nước ngoài. c1) Trư"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 111/2021/NĐ-CP Hà Nội, ngày 09 tháng 12 năm 2021 NGHỊ ĐỊNH SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU NGHỊ ĐỊNH SỐ 43/2017/NĐ-CP NGÀY 14 THÁNG 4 NĂM 2017 CỦA CHÍNH PHỦ VỀ NHÃN HÀNG HÓA Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015, Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Chất lượng sản phẩm, hàng hóa ngày 21 tháng 11 năm 2007; Căn cứ Luật Thương mại ngày 14 tháng 6 năm 2005; Căn cứ Luật Bảo vệ quyền lợi người tiêu dùng ngày 17 tháng 11 năm 2010; Theo đề nghị của Bộ trưởng Bộ Khoa học và Công nghệ; Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều Nghị định số 43/2017/NĐ-CP ngày 14 tháng 4 năm 2017 của Chính phủ về nhãn hàng hóa. Điều 1. Sửa đổi, bổ sung một số điều Nghị định số 43/2017/NĐ-CP ngày 14 tháng 4 năm 2017 của Chính phủ về nhãn hàng hóa như sau: 1. Sửa đổi, bổ ..."
+    }
+  ]
+}

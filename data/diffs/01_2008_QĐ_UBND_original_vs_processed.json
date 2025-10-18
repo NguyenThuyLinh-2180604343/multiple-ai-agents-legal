@@ -1,0 +1,30 @@
+{
+  "base": "01_2008_QĐ_UBND_original",
+  "revised": "01_2008_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "tải; ô tô khách đi vào các tuyến đường cấm có thời hạn trong trường hợp cần thiết. - Chỉ đạo các lực lượng tuần tra kiểm soát giao thông kịp thời phát hiện và xử lý nghiêm các trường hợp vi phạm."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "phố Vinh: - Lắp đặt đầy đủ hệ thống biển báo cấm trên tất cả các tuyến đường theo quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "hiệu lực sau 10 ngày kể từ ngày ký và thay thế Quyết định số 2079/QĐ-UB ngày 12/8/1995 và Quyết định số 3144/QĐ-UB ngày 02/8/2007 của UBND tỉnh. Chánh văn phòng UBND tỉnh; Giám đốc Sở Giao thông Vận tải, Giám đốc Công an tỉnh, Chủ tịch UBND thành phố Vinh và các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Quyết định này./. TM. UỶ BAN NHÂN DÂN KT. CHỦ TỊCH PHÓ CHỦ TỊCH Hồ Đức Phớc"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "UỶ BAN NHÂN DÂN TỈNH NGHỆ AN ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc --------- Số: 01/2008/QĐ-UBND Vinh, ngày 07 tháng 01 năm 2008 QUYẾT ĐỊNH VỀ VIỆC CẤM PHƯƠNG TIỆN GIAO THÔNG HOẠT ĐỘNG TRÊN MỘT SỐ TUYẾN ĐƯỜNG THUỘC ĐỊA BÀN THÀNH PHỐ. UỶ BAN NHÂN DÂN TỈNH NGHỆ AN Căn cứ Luật Tổ chức HĐND và UBND ngày 26/11/2003; Căn cứ Luật Giao thông đường bộ, ngày 29/06/2001; Căn cứ Nghị quyết số 32/2007/NQ-CP ngày 29/6/2007 của Chính phủ về một số giải pháp kiềm chế tai nạn giao thông và ùn tắc giao thông; Xét đề nghị của Ban An toàn giao thông tỉnh tại Công văn số 122/QTGT ngày 24/12/2007, QUYẾT ĐỊNH: Điều 1. Cấm một số phương tiện giao thông hoạt động trên các tuyến đường thuộc địa bàn thành phố Vinh, cụ thể như sau: 1. Cấm ô tô tải và ô tô khách (trừ xe hợp đồng đưa đón cán bộ, công nhân viên, học sinh, sinh viên, lực lượng vũ trang; xe phục vụ tang lễ, phục vụ đám cưới, xe công vụ, xe tham quan du lịch) hoạt động trên các tuyến đường: Cao Lỗ,..."
+    }
+  ]
+}

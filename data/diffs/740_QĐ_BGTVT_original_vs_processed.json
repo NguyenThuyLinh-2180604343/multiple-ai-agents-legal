@@ -1,0 +1,36 @@
+{
+  "base": "740_QĐ_BGTVT_original",
+  "revised": "740_QĐ_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "Bộ Giao thông vận tải quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Khu Quản lý đường bộ I trực thuộc Cục Đường bộ Việt Nam: 1. Sửa đổi khoản 10"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "Bình, Hưng Yên, Hải Dương, Hải Phòng, Quảng Ninh, Bắc Ninh, Bắc Giang, Lạng Sơn, Cao Bằng, Bắc Kạn, Thái Nguyên, Vĩnh Phúc, Phú Thọ, Tuyên Quang, Hà Giang, Yên Bái, Lào Cai, Lai Châu, Điện Biên, Sơn La, Hòa Bình; - Cổng thông tin điện tử Bộ GTVT; - Lưu: VT, TCCB (TA). BỘ TRƯỞNG Nguyễn Văn Thắng"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "đường bộ. 4. Phòng Quản lý, tổ chức giao thông đường bộ.”. 3. Sửa đổi khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "bộ 1 tiếp tục duy trì hoạt động theo quy định hiện hành cho đến khi cơ quan có thẩm quyền hoàn thành việc sắp xếp đối với đơn vị này.”."
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 740/QĐ-BGTVT Hà Nội, ngày 17 tháng 6 năm 2024 QUYẾT ĐỊNH VỀ VIỆC SỬA ĐỔI MỘT SỐ ĐIỀU CỦA QUYẾT ĐỊNH SỐ 1255/QĐ-BGTVT NGÀY 28/9/2022 CỦA BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI QUY ĐỊNH CHỨC NĂNG, NHIỆM VỤ, QUYỀN HẠN VÀ CƠ CẤU TỔ CHỨC CỦA KHU QUẢN LÝ ĐƯỜNG BỘ I TRỰC THUỘC CỤC ĐƯỜNG BỘ VIỆT NAM BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24/8/2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Căn cứ Nghị định số 123/2016/NĐ-CP ngày 01/9/2016 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các bộ, cơ quan ngang bộ; Nghị định số 101/2020/NĐ-CP ngày 28/8/2020 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 123/2016/NĐ-CP ; Căn cứ Nghị định số 03/2024/NĐ-CP ngày 11/01/2024 của Chính phủ quy định về cơ quan thực hiện chức năng thanh tra chuyên ngành và ho..."
+    }
+  ]
+}

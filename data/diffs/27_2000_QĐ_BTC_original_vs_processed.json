@@ -1,0 +1,42 @@
+{
+  "base": "27_2000_QĐ_BTC_original",
+  "revised": "27_2000_QĐ_BTC_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "quan Đăng kiểm thuộc Bộ Giao thông vận tải hoặc Sở Giao thông vận tải tỉnh, thành phố trực thuộc Trung ương cấp giấy chứng nhận kiểm định kỹ thuật và chất lượng thiết bị, phương tiện giao thông vận tải đường bộ, đường sắt, đường biển, đường thuỷ nội địa, giàn khoan, phương tiện nổi và các thiết bị bảo đảm an toàn giao thông vận tải quy định tại Quyết định số 75/TTg ngày 03/02/1997 của Thủ tướng Chính phủ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "phí theo mức thu quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "thuộc Bộ Giao thông vận tải hoặc Sở Giao thông vận tải tỉnh, thành phố thực hiện thu và quản lý lệ phí cấp giấy chứng nhận kiểm định kỹ thuật và chất lượng thiết bị, phương tiện giao thông vận tải theo Thông tư số 54/1999/TT-BTC ngày 10/5/1999 của Bộ Tài chính hướng dẫn thực hiện Nghị định số 04/1999/NĐ-CP ngày 30/1/1999 của Chính phủ về phí, lệ phí thuộc ngân sách nhà nước."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "hiệu lực thi hành sau 15 ngày kể từ ngày ký; Bãi bỏ các quy định về thu lệ phí cấp giấy chứng nhận kiểm định kỹ thuật và chất lượng thiết bị, phương tiện giao thông vận tải trái với quy định tại Quyết định này."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "thuộc đối tượng phải nộp lệ phí, cơ quan kiểm định được Bộ giao thông vận tải giao nhiệm vụ tổ chức lệ phí cấp giấy chứng nhận kiểm định kỹ thuật và chất lượng thiết bị, phương tiện giao thông vận tải và các cơ quan liên quan chịu trách nhiệm thi hành Quyết định này. Phạm Văn Trọng (Đã ký) BIỂU MỨC THU LỆ PHÍ CẤP GIẤY PHÉP ĐĂNG KIỂM (Ban hành kèm theo Quyết định số 27/2000/QĐ-BTC ngày 24 tháng 2 năm 2000 của Bộ trưởng Bộ Tài chính) TT Nội dung các khoản thu Mức thu (đồng/giấy) 1 Giấy chứng nhận cấp theo quy định của công ước quốc tế hoặc theo tiêu chuẩn, quy phạm Việt Nam cho tàu biển, công trình biển 50.000 2 Giấy chứng nhận cấp cho phương tiện thuỷ nội địa 20.000 3 Giấy chứng nhận bảo đảm chất lượng và an toàn cấp cho thiết bị nâng, nồi hơi, bình chịu áp lực, container, vật liệu, máy móc, thiết bị đặt lên tàu thuỷ, dàn khoan, các phương tiện giao thông vận tải khác. 40.000 4 Giấy chứng nhận bảo đảm kỹ thuật, chất lượng và an toàn cấp cho phương tiện cơ giới đường bộ, xe, máy thi công. 20.000 5 Giấy chứng nhận kiểm chuẩn phương tiện, thiết bị kiểm định của các trạm đăng kiểm phương tiện cơ giới đường bộ, phương tiện, thiết bị kiểm tra và thử nghiệm. 100.000 6 Giấy chứng nhận thợ hàn, đăng kiểm viên 10.000"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ TÀI CHÍNH ******** CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ******** Số: 27/2000/QĐ-BTC Hà Nội, ngày 24 tháng 2 năm 2000 QUYẾT ĐỊNH CỦA BỘ TÀI CHÍNH SỐ 27/2000/QĐ-BTC NGÀY 24 THÁNG 2 NĂM 2000 VỀ VIỆC BAN HÀNH MỨC THU LỆ PHÍ CẤP GIẤY CHỨNG NHẬN KIỂM ĐỊNH KỸ THUẬT VÀ CHẤT LƯỢNG THIẾT BỊ, PHƯƠNG TIỆN GIAO THÔNG VẬN TẢI BỘ TRƯỞNG BỘ TÀI CHÍNH Căn cứ Nghị định số 15/CP ngày 2/3/1993 của Chính phủ về nhiệm vụ, quyền hạn và trách nhiệm quản lý Nhà nước của Bộ, cơ quan ngang Bộ; Căn cứ Nghị định số 178/CP ngày 28/10/1994 của Chính phủ nhiệm vụ, quyền hạn và tổ chức bộ máy Bộ Tài chính; Căn cứ Nghị định số 04/1999/NĐ-CP ngày 30/1/1999 của Chính phủ về phí, lệ phí thuộc ngân sách Nhà nước; Sau khi có ý kiến của Bộ Giao thông vận tải (Công văn số 363/GTVT-TCKT ngày 15/2/2000) và theo đề nghị của Tổng cục trưởng Tổng cục Thuế, QUYẾT ĐỊNH Điều 1. Ban hành kèm theo quyết định này biểu thuế mức thu lệ phí cấp giấy chứng nhận kiểm định kỹ thuật và chất lượ..."
+    }
+  ]
+}

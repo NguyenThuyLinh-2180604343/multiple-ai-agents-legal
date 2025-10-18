@@ -1,0 +1,36 @@
+{
+  "base": "53_2024_TT_BGTVT_original",
+  "revised": "53_2024_TT_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "chỉnh Thông tư quy định về phân loại phương tiện giao thông đường bộ và dấu hiệu nhận biết xe cơ giới sử dụng năng lượng sạch, năng lượng xanh, thân thiện môi trường."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "dụng Thông tư này áp dụng đối với các tổ chức, cá nhân có liên quan đến phân loại phương tiện giao thông đường bộ, dấu hiệu nhận biết xe cơ giới sử dụng năng lượng sạch, năng lượng xanh, thân thiện môi trường."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "ngữ Trong Thông tư này, các cụm từ dưới đây được hiểu như sau: 1. Hệ thống truyền động điện (Electric powertrain) là hệ thống bao gồm một hoặc nhiều: thiết bị tích trữ điện năng (ắc quy, pin, bánh đà điện cơ hoặc siêu tụ); thiết bị ổn định điện năng; thiết bị điện được sử dụng để chuyển đổi điện năng tích trữ thành cơ năng truyền tới các bánh xe làm nguồn động lực cho xe chuyển động; 2. Xe thuần điện (PEV - Pure electric vehicle hoặc BEV - Battery electric vehicle) là xe cơ giới sử dụng hệ thống truyền động điện; 3. Xe điện dùng pin nhiên liệu thuần túy (PFCEV - Pure fuel cell electric vehicle hoặc FCEV - Fuel cell electric vehicle) là xe cơ giới điện sử dụng pin nhiên liệu thuần túy, trong đó hệ thống pin nhiên liệu là nguồn năng lượng duy nhất trên xe cho hệ thống động lực của xe; 4. Hệ thống truyền động hybrid điện (Hybrid electric powertrain) là hệ truyền động tiêu thụ năng lượng từ cả hai nguồn năng lượng được tích trữ trên xe, gồm nhiên liệu và thiết bị tích trữ điện năng; 5. Xe hybrid điện (HEV - Hybrid electric vehicle) là xe cơ giới được dẫn động bằng hệ thống truyền động hybrid điện (bao gồm cả xe sử dụng nhiên liệu tiêu thụ chỉ để nạp điện cho thiết bị tích trữ điện năng), gồm có: a) Xe hybrid điện nhẹ (MHEV - Mild hybrid electric vehicle) là xe hybrid điện; động cơ (mô-tơ) điện có chức năng hỗ trợ động cơ đốt trong khởi động, hỗ trợ tăng tốc, phanh tái tạo và cung cấp năng lượng cho hệ thống phụ trợ. Xe không có khả năng nạp điện được từ nguồn điện bên ngoài; b) Xe hybrid điện hoàn toàn (FHEV- Full hybrid electric vehicle hoặc SHEV - Strong hybrid electric vehicle) là xe hybrid điện có khả năng di chuyển hoàn toàn chỉ bằng năng lượng điện trong những điều kiện nhất định (như bắt đầu di chuyển từ trạng thái đứng yên, di chuyển ở tốc độ thấp...). Xe không có khả năng nạp điện được từ nguồn điện bên ngoài; c) Xe hybrid nạp điện ngoài (PHEV - Plug-in hybrid electric vehicle) là xe hybrid điện có khả năng nạp điện được từ nguồn điện bên ngoài. Chương II PHÂN LOẠI PHƯƠNG TIỆN GIAO THÔNG ĐƯỜNG BỘ THEO MỤC ĐÍCH SỬ DỤNG"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 34.1",
+      "change": "added",
+      "to": "cấu và trang bị chủ yếu dùng để chở người, hành lý mang theo. Ô tô chở người cũng có thể kéo theo một rơ moóc. Các loại ô tô chở người gồm: Ô tô chở người đến 08 chỗ (không kể chỗ của người lái xe) gồm các loại quy định tại Phụ lục I ban hành kèm theo Thông tư này; Ô tô chở người trên 08 chỗ (không kể chỗ của người lái xe) gồm các loại quy định tại Phụ lục II ban hành kèm theo Thông tư này; Ô tô chở người chuyên dùng là ô tô chở người có đặc điểm khác với đặc điểm của các loại ô tô chở người nêu trên, có kết cấu và trang bị để chở người trong điều kiện đặc biệt hoặc chở người với sự sắp xếp đặc biệt, gồm các loại quy định tại Phụ lục III ban hành kèm theo Thông tư này; b) Ô tô chở hàng là các loại ô tô có kết cấu và trang bị chủ yếu dùng để chở hàng. Ô tô chở hàng có thể bố trí tối đa hai hàng ghế và chở không quá 06 người kể cả người lái trong cabin. Ô tô chở hàng cũng có thể kéo theo một rơ moóc. Các loại ô tô chở hàng gồm: Ô tô tải thông dụng gồm các loại quy định tại Phụ lục IV ban hành kèm theo Thông tư này; Ô tô tải chuyên dùng bao gồm các loại ô tô chở hàng có kết cấu và trang bị để chở hàng hóa cần sự sắp xếp đặc biệt gồm các loại quy định tại Phụ lục V ban hành kèm theo Thông tư này; c) Ô tô chuyên dùng là các loại ô tô có kết cấu và trang bị để thực hiện một chức năng, công dụng đặc biệt khác với các loại ô tô nêu tại điểm a và"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 53/2024/TT-BGTVT Hà Nội, ngày 15 tháng 11 năm 2024 THÔNG TƯ QUY ĐỊNH VỀ PHÂN LOẠI PHƯƠNG TIỆN GIAO THÔNG ĐƯỜNG BỘ VÀ DẤU HIỆU NHẬN BIẾT XE CƠ GIỚI SỬ DỤNG NĂNG LƯỢNG SẠCH, NĂNG LƯỢNG XANH, THÂN THIỆN MÔI TRƯỜNG Căn cứ Luật Trật tự, an toàn giao thông đường bộ ngày 27 tháng 6 năm 2024; Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Theo đề nghị của Vụ trưởng Vụ Khoa học - Công nghệ và Môi trường và Cục trưởng Cục Đăng kiểm Việt Nam; Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư quy định về phân loại phương tiện giao thông đường bộ và dấu hiệu nhận biết xe cơ giới sử dụng năng lượng sạch, năng lượng xanh, thân thiện môi trường. Chương I QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Thông tư quy định về phân loại phương tiện giao thông đường bộ và dấ..."
+    }
+  ]
+}

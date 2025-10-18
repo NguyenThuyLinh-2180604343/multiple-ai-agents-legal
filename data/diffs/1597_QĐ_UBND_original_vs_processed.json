@@ -1,0 +1,30 @@
+{
+  "base": "1597_QĐ_UBND_original",
+  "revised": "1597_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "Quyết định này danh mục thủ tục hành chính bị bãi bỏ (02 TTHC cấp tỉnh) trong lĩnh vực đường bộ, thuộc thẩm quyền giải quyết của Sở Giao thông vận tải tỉnh Hòa Bình. (Có Phụ lục chi tiết kèm theo)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "có hiệu lực thi hành kể từ ngày 05/10/2024."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "MỤC TTHC BỊ BÃI BỎ TRONG LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH HÒA BÌNH (kèm theo Quyết định số: 1597/QĐ-UBND ngày 20 tháng 8 năm 2024 của Chủ tịch UBND tỉnh Hòa Bình) Bãi bỏ 02 TTHC cấp tỉnh (số thứ tự 34, 35) công bố tại Quyết định số 2969/QĐ-UBND ngày 20/12/2023 của Chủ tịch UBND tỉnh Hòa Bình về việc công bố danh mục TTHC ban hành mới, TTHC sửa đổi căn cứ pháp lý và phê duyệt quy trình nội bộ thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết TTHC lĩnh vực Đường bộ thuộc phạm vi chức năng quản lý của Sở Giao thông vận tải tỉnh Hòa Bình. STT Tên TTHC/Mã TTHC Tên TTHC Căn cứ pháp lý đề nghị bãi bỏ 1 1.002889.000.00.00.H28 Công bố đưa trạm dừng nghỉ vào khai thác Thông tư số 09/2024/TT-BGTVT ngày 05/4/2024 của Bộ trưởng Bộ Giao thông vận tải ban hành sửa đổi 01:2024 QCVN 43:2012/BGTVT - Quy chuẩn kỹ thuật quốc gia về Trạm dừng nghỉ đường bộ 2 1.002883.000.00.00.H28 Công bố lại đưa trạm dừng nghỉ vào khai thác"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH HOÀ BÌNH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 1597/QĐ-UBND Hoà Bình, ngày 20 tháng 8 năm 2024 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ DANH MỤC THỦ TỤC HÀNH CHÍNH BỊ BÃI BỎ TRONG LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH HÒA BÌNH CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH HOÀ BÌNH Căn cứ Luật Tổ chức Chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức Chính quyền địa phương ngày 22/11/2019; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08/6/2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 92/2017/NĐ-CP ngày 07/8/2017 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Thông tư số 02/2017/TT-VPCP ngày 31/10/2017 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ hướng dẫn về nghiệp vụ kiểm soát thủ tục hành chính; Căn cứ Quyết định số 1009/QĐ-BGTVT ngày 14/8/2024 của ..."
+    }
+  ]
+}

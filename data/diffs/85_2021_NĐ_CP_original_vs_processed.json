@@ -1,0 +1,60 @@
+{
+  "base": "85_2021_NĐ_CP_original",
+  "revised": "85_2021_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "và quản lý hoạt động thương mại điện tử. Hoạt động thương mại điện tử thực hiện theo quy định của Nghị định này và pháp luật có liên quan, trừ quy định tại khoản 2 Điều này. 2. Hoạt động thương mại điện tử trong lĩnh vực dịch vụ tài chính, ngân hàng, tín dụng, bảo hiểm, xổ số; mua bán, trao đổi tiền, vàng, ngoại hối và các phương tiện thanh toán khác; dịch vụ đặt cược hoặc trò chơi có thưởng; dịch vụ phân phối, phát hành sản phẩm nội dung thông tin số, dịch vụ phát thanh, truyền hình đã được quy định tại pháp luật chuyên ngành không thuộc phạm vi điều chỉnh của Nghị định này.” 2. Sửa đổi, bổ sung điểm c khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "sau: “c) Thương nhân, tổ chức nước ngoài có hoạt động thương mại điện tử quy định tại Mục 5 Chương IV Nghị định này tại Việt Nam.” 3. Bổ sung khoản 16"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "tử là hoạt động thương mại điện tử theo đó thương nhân, tổ chức cung cấp dịch vụ thương mại điện tử thiết lập website thương mại điện tử để cung cấp môi trường cho thương nhân, tổ chức, cá nhân khác tiến hành hoạt động xúc tiến thương mại, bán hàng hóa hoặc cung ứng dịch vụ. Thương nhân, tổ chức cung cấp dịch vụ thương mại điện tử không bao gồm các thương nhân, tổ chức chỉ thực hiện cung cấp dịch vụ thiết kế website và không tham gia trực tiếp vào hoạt động kinh doanh, điều hành hoặc điều phối các hoạt động trên website đó.” 4. Sửa đổi, bổ sung điểm a khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "sau: “a) Lợi dụng hoạt động thương mại điện tử để kinh doanh theo phương thức đa cấp nhưng chưa được cấp giấy chứng nhận đăng ký hoạt động bán hàng đa cấp theo quy định của pháp luật về quản lý hoạt động kinh doanh theo phương thức đa cấp.” 5. Sửa đổi, bổ sung khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "hiện cơ chế, chính sách, chiến lược, quy hoạch, chương trình phát triển thương mại điện tử và chuyển đổi số trong lĩnh vực thương mại.” 6. Sửa đổi, bổ sung khoản 1, khoản 2 và khoản 5"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 24.1",
+      "change": "added",
+      "to": "cá nhân thiết lập website thương mại điện tử để phục vụ hoạt động xúc tiến thương mại, bán hàng hóa hoặc cung ứng dịch vụ của mình (người sở hữu website thương mại điện tử bán hàng). 2. Các thương nhân, tổ chức cung cấp dịch vụ thương mại điện tử. 5. Các thương nhân, tổ chức cung cấp hạ tầng kỹ thuật, dịch vụ logistics và các dịch vụ hỗ trợ khác cho hoạt động thương mại điện tử.” 7. Sửa đổi, bổ sung khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 25.1",
+      "change": "added",
+      "to": "sau: “1. Website thương mại điện tử bán hàng là website thương mại điện tử do các thương nhân, tổ chức, cá nhân thiết lập để phục vụ hoạt động xúc tiến thương mại, bán hàng hóa hoặc cung ứng dịch vụ của mình.” 8. Sửa đổi, bổ sung một số điểm, khoản tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 26.1",
+      "change": "added",
+      "to": "động t"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 85/2021/NĐ-CP Hà Nội, ngày 25 tháng 9 năm 2021 NGHỊ ĐỊNH SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 52/2013/NĐ-CP NGÀY 16 THÁNG 5 NĂM 2013 CỦA CHÍNH PHỦ VỀ THƯƠNG MẠI ĐIỆN TỬ Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Bộ luật Dân sự ngày 24 tháng 11 năm 2015; Căn cứ Luật Thương mại ngày 14 tháng 6 năm 2005; Căn cứ Luật Giao dịch điện tử ngày 29 tháng 11 năm 2005; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật Bảo vệ quyền lợi người tiêu dùng ngày 17 tháng 11 năm 2010; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Luật An ninh mạng ngày 12 tháng 6 năm 2018; Căn cứ Luật Cạnh tranh ngày 12 tháng 6 năm 2018; Căn cứ Luật Đầu tư ngày 17 tháng 6 năm 2020; Theo đề nghị của Bộ trưởng Bộ Côn..."
+    }
+  ]
+}

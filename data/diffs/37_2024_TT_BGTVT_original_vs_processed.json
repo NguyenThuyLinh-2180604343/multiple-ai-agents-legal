@@ -1,0 +1,42 @@
+{
+  "base": "37_2024_TT_BGTVT_original",
+  "revised": "37_2024_TT_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "vi điều chỉnh 1. Thông tư này quy định tiêu chí giám sát, nghiệm thu kết quả bảo trì tài sản kết cấu hạ tầng giao thông đường thủy nội địa theo chất lượng thực hiện đối với các công tác bảo dưỡng thường xuyên. 2. Thông tư này không áp dụng đối với công tác sửa chữa định kỳ, sửa chữa đột xuất tài sản kết cấu hạ tầng giao thông đường thủy nội địa."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "tượng áp dụng Thông tư này áp dụng đối với các cơ quan, tổ chức, cá nhân có liên quan đến giám sát, nghiệm thu kết quả bảo trì tài sản kết cấu hạ tầng giao thông đường thủy nội địa theo chất lượng thực hiện."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "thông đường thủy nội địa theo chất lượng thực hiện Tiêu chí giám sát, nghiệm thu kết quả bảo trì tài sản kết cấu hạ tầng giao thông đường thủy nội địa theo chất lượng thực hiện được quy định tại Phụ lục 1 ban hành kèm theo Thông tư này."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "theo chất lượng thực hiện 1. Chủ đầu tư hoặc cơ quan, tổ chức được Chủ đầu tư ủy quyền, giao nhiệm vụ hoặc tư vấn giám sát tổ chức thực hiện giám sát kết quả bảo trì tài sản kết cấu hạ tầng giao thông đường thủy nội địa theo chất lượng thực hiện. 2. Giám sát kết quả bảo trì tài sản kết cấu hạ tầng giao thông đường thủy nội địa theo chất lượng thực hiện được thực hiện định kỳ, đột xuất (sau đây gọi tắt là giám sát) gồm các hoạt động sau đây: a) Kiểm tra nội nghiệp: kiểm tra việc ghi chép, lập hồ sơ theo dõi, báo cáo, lưu trữ, cập nhật số liệu của các sổ quy định tại Phụ lục 3 ban hành kèm theo Thông tư này và phần mềm máy tính (nếu có); b) Kiểm tra ngoại nghiệp: kiểm tra bằng trực quan kết quả bảo trì tài sản kết cấu hạ tầng giao thông đường thủy nội địa trên thực tế hiện trường hoặc kiểm tra chất lượng báo hiệu qua hình ảnh kết quả bảo trì tài sản kết cấu hạ tầng giao thông đường thủy nội địa; c) Việc đánh giá giám sát được thực hiện theo Phụ lục 2 ban hành kèm theo Thông tư này. 3. Kết quả giám sát được thực hiện cho từng tiêu chí của mỗi hạng mục công việc của tuyến, đoạn tuyến đường thủy nội địa theo Hợp đồng đã ký kết và được lập thành biên bản theo Mẫu số 6 Phụ lục 3 ban hành kèm theo Thông tư này. 4. Đối với các tồn tại tại hiện trường, khi hoàn thành việc khắc phục, nhà thầu thông báo đến cơ quan, tổ chức quy định tại khoản 1 Điều này để giám sát, xác nhận kết quả khắc phục tồn tại của nhà thầu bằng biên bản. 5. Chi phí giám sát được lập trên cơ sở định mức hoặc lập chi phí đủ thành phần hao phí phục vụ giám sát theo tháng, quý và hoàn thành. Chi phí giám sát được chủ đầu tư phê duyệt trong dự toán bảo trì tài sản kết cấu hạ tầng giao thông đường thủy nội địa theo quy định."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "theo chất lượng thực hiện 1. Chủ đầu tư hoặc cơ quan, tổ chức được Chủ đầu tư ủy quyền, giao nhiệm vụ có trách nhiệm nghiệm thu kết quả bảo trì tài sản kết cấu hạ tầng giao thông đường thủy nội địa theo chất lượng thực hiện. Trường hợp thuê tư vấn giám sát, Chủ đầu tư hoặc cơ quan, tổ chức được Chủ đầu tư ủy quyền, giao nhiệm vụ căn cứ kết quả giám sát của tư vấn giám sát để nghiệm thu. 2. Nghiệm thu kết quả bảo trì tài sản kết cấu hạ tầng giao thông đường thủy nội địa theo chất lượng thực hiện được thực hiện cho mỗi hạng mục công việc của tuyến, đoạn tuyến đường thủy nội địa theo Hợp đồng đã ký kết và được lập thành biên bản theo Mẫu số 7 Phụ lục 3 ban hành kèm theo Thông tư này. 3. Nghiệm thu kết quả bảo trì tài sản kết cấu hạ tầng giao thông đường thủy nội địa theo chất lượng thực hiện được thực hiện theo tháng, quý và nghiệm thu hoàn thành theo t"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 37/2024/TT-BGTVT Hà Nội, ngày 15 tháng 11 năm 2024 THÔNG TƯ QUY ĐỊNH TIÊU CHÍ GIÁM SÁT, NGHIỆM THU KẾT QUẢ BẢO TRÌ TÀI SẢN KẾT CẤU HẠ TẦNG GIAO THÔNG ĐƯỜNG THỦY NỘI ĐỊA THEO CHẤT LƯỢNG THỰC HIỆN Căn cứ Luật Giao thông đường thủy nội địa ngày 15 tháng 6 năm 2004 và Luật sửa đổi, bổ sung một số điều của Luật Giao thông đường thủy nội địa ngày 17 tháng 6 năm 2014; Căn cứ Nghị định số 45/2018/NĐ-CP ngày 13 tháng 3 năm 2018 của Chính phủ quy định việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng giao thông đường thủy nội địa; Căn cứ Nghị định số 06/2021/NĐ-CP ngày 26 tháng 01 năm 2021 của Chính phủ quy định chi tiết một số nội dung về quản lý chất lượng, thi công xây dựng và bảo trì công trình xây dựng; Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận..."
+    }
+  ]
+}

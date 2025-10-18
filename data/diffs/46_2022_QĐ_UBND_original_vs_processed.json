@@ -1,0 +1,30 @@
+{
+  "base": "46_2022_QĐ_UBND_original",
+  "revised": "46_2022_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "định về khu vực bảo vệ; khu vực cấm tập trung đông người, cấm ghi âm, ghi hình, chụp ảnh; khu vực cấm hoặc hoặc hạn chế người và phương tiện giao thông trên địa bàn tỉnh Nghệ An. 2. Các nội dung khác liên quan đến khu vực bảo vệ, khu vực cấm tập trung đông người, cấm ghi âm, ghi hình, chụp ảnh; khu vực cấm hoặc hạn chế người và phương tiện giao thông không được quy định tại Quy định này được thực hiện theo các văn bản pháp luật hiện hành."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "vị, tổ chức, cá nhân người Việt Nam cư trú và hoạt động trên địa bàn tỉnh Nghệ An. 2. Tổ chức, cá nhân người nước ngoài đang cư trú hoặc hoạt động trên địa bàn tỉnh Nghệ An, trừ trường hợp pháp luật Việt Nam hoặc Điều ước quốc tế mà Việt Nam ký kết hoặc tham gia có quy định khác."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "khu vực có giới hạn nhất định, có vị trí quan trọng về chính trị, kinh tế, ngoại giao, khoa học - kỹ thuật, văn hóa, xã hội, quốc phòng, an ninh; khu vực đang xảy ra thiên tai, dịch bệnh, nơi ở, nơi làm việc của các đồng chí lãnh đạo Đảng, Nhà nước, nguyên là lãnh đạo Đảng, Nhà nước trên địa bàn tỉnh Nghệ An hoặc khu vực đang diễn ra các sự kiện chính trị quan trọng do lực lượng Công an, Quân đội và các lực lượng bảo vệ có trách nhiệm quản lý, kiểm soát hoạt động của người, phương tiện nhằm duy trì an ninh trật tự, phòng, chống các hành vi xâm phạm an ninh quốc gia, trật tự an toàn, xã hội. 2. Khu vực cấm tập trung đông người là những khu vực không được tập trung từ 05 người trở lên nhằm mục đích đưa ra những yêu cầu hoặc kiến nghị về các vấn đề có liên quan đến quyền và lợi ích hợp pháp của cá nhân, tổ chức hoặc về những vấn đề có liên quan chung đến đời sống chính"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH NGHỆ AN ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 46/2022/QĐ-UBND Nghệ An, ngày 12 tháng 9 năm 2022 QUYẾT ĐỊNH BAN HÀNH QUY ĐỊNH VỀ KHU VỰC BẢO VỆ; KHU VỰC CẤM TẬP TRUNG ĐÔNG NGƯỜI, CẤM GHI ÂM, GHI HÌNH, CHỤP ẢNH; KHU VỰC CẤM HOẶC HẠN CHẾ NGƯỜI VÀ PHƯƠNG TIỆN GIAO THÔNG TRÊN ĐỊA BÀN TỈNH NGHỆ AN ỦY BAN NHÂN DÂN TỈNH NGHỆ AN Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Căn cứ Luật Cảnh vệ ngày 20/6/2017; Căn cứ Pháp lệnh Bảo vệ công trình quan trọng liên quan đến an ninh quốc gia năm 2007; Căn cứ Pháp lệnh Bảo vệ công trình quốc phòng và khu quân sự năm 1994; Căn cứ các Nghị định của Chính phủ: Nghị định số 38/2005/NĐ-CP ngày 18/3/2005 quy định một số biện pháp đảm bảo trật tự công cộng; Nghị định số 37/2009/NĐ-CP ngày 23/4/2009 của Chính phủ quy định các mục tiêu qu..."
+    }
+  ]
+}

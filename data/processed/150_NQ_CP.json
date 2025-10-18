@@ -1,0 +1,59 @@
+{
+  "doc_id": "150_NQ_CP",
+  "meta": {
+    "url": "https://thuvienphapluat.vn/van-ban/Giao-thong-Van-tai/Nghi-quyet-150-NQ-CP-2021-phe-duyet-Hiep-dinh-khung-ASEAN-van-tai-hanh-khach-qua-bien-gioi-496271.aspx",
+    "crawl_time": "2025-10-15T12:15:43.227933",
+    "number": "150/NQ-CP",
+    "field": "Giao thông",
+    "issue_date": "02/12/2021",
+    "agency": "CHÍNH PHỦ ----",
+    "content": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI\r\n  CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 150/NQ-CP Hà Nội, ngày 02\r\n  tháng 12 năm 2021 NGHỊ QUYẾT VỀ\r\nVIỆC PHÊ DUYỆT HIỆP ĐỊNH KHUNG ASEAN VỀ TẠO THUẬN LỢI VẬN TẢI HÀNH KHÁCH QUA\r\nBIÊN GIỚI BẰNG PHƯƠNG TIỆN GIAO THÔNG ĐƯỜNG BỘ (CBTP) CHÍNH PHỦ Căn cứ Luật Tổ chức\r\nChính phủ ngày 19 tháng 6 năm 2015; Luật sửa\r\nđổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền\r\nđịa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Điều ước\r\nquốc tế ngày 09 tháng 4 năm 2016; Xét đề nghị của Bộ trưởng Bộ Giao thông vận tải\r\ntại Tờ trình số 11104/TTr-BGTVT ngày 21 tháng 10 năm 2021, QUYẾT NGHỊ: Điều 1. Phê duyệt Hiệp định khung ASEAN về tạo thuận lợi vận tải\r\nhành khách qua biên giới bằng phương tiện giao thông đường bộ (CBTP) đã ký ngày\r\n13 tháng 10 năm 2017 tại Singapore dịp Hội nghị Bộ trưởng Giao thông vận tải\r\ncác nước ASEAN (ATM) lần thứ 23. Điều 2. Bộ Giao thông vận tải chủ trì, phối hợp với các Bộ, cơ quan\r\nliên quan tổ chức triển khai thực hiện Hiệp định CBTP. Điều 3. Bộ Ngoại giao hoàn tất thủ tục đối ngoại theo quy định./. Nơi nhận: - Các đồng chí Thành viên Chính phủ; - Các Bộ: GTVT, TP, NG, CA, QP, TC, NNPTNT; - VPCP: PCN Nguyễn Xuân Thành, các Vụ: PL, TH, TGĐ Cổng TTĐT; - Lưu: VT, QHQT(2).đh TM. CHÍNH PHỦ KT. THỦ TƯỚNG PHÓ THỦ TƯỚNG Phạm Bình Minh"
+  },
+  "structure": {
+    "articles": [
+      {
+        "article": "Điều 1",
+        "title": "Phê duyệt Hiệp định khung ASEAN về tạo thuận lợi vận tải",
+        "clauses": [
+          {
+            "no": "1",
+            "text": "hành khách qua biên giới bằng phương tiện giao thông đường bộ (CBTP) đã ký ngày 13 tháng 10 năm 2017 tại Singapore dịp Hội nghị Bộ trưởng Giao thông vận tải các nước ASEAN (ATM) lần thứ 23.",
+            "points": []
+          }
+        ]
+      },
+      {
+        "article": "Điều 2",
+        "title": "Bộ Giao thông vận tải chủ trì, phối hợp với các Bộ, cơ quan",
+        "clauses": [
+          {
+            "no": "1",
+            "text": "liên quan tổ chức triển khai thực hiện Hiệp định CBTP.",
+            "points": []
+          }
+        ]
+      },
+      {
+        "article": "Điều 3",
+        "title": "Bộ Ngoại giao hoàn tất thủ tục đối ngoại theo quy định./. Nơi nhận: - Các đồng chí Thành viên Chính phủ; - Các Bộ: GTVT, TP, NG, CA, QP, TC, NNPTNT; - VPCP: PCN Nguyễn Xuân Thành, các Vụ: PL, TH, TGĐ Cổng TTĐT; - Lưu: VT, QHQT(2).đh TM. CHÍNH PHỦ KT. THỦ TƯỚNG PHÓ THỦ TƯỚNG Phạm Bình Minh",
+        "clauses": []
+      }
+    ],
+    "strategy_used": "dieu",
+    "validation": {
+      "status": "warning",
+      "issues": [
+        "Low content preservation: 18.22%"
+      ],
+      "stats": {
+        "original_length": 1334,
+        "segmented_length": 243,
+        "preservation_ratio": 0.18215892053973012,
+        "total_articles": 3,
+        "total_clauses": 2,
+        "total_points": 0
+      }
+    },
+    "document_type": "law"
+  }
+}

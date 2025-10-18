@@ -1,0 +1,36 @@
+{
+  "base": "991_QĐ_UBND_HC_original",
+  "revised": "991_QĐ_UBND_HC_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "đường bộ trên địa bàn tỉnh Đồng Tháp (Phụ lục kèm theo)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "Giao thông vận tải có trách nhiệm phổ biến, hướng dẫn thực hiện Quyết định này; tổng hợp các vướng mắc phát sinh và tham mưu Uỷ ban nhân dân Tỉnh điều chỉnh xếp loại đường bộ kịp thời, phù hợp với tình hình thực tế. 2. Chủ trì, phối hợp với Uỷ ban nhân dân huyện, thành phố định kỳ hàng năm rà soát, cập nhật tình trạng các tuyến đường bộ trên địa bàn tỉnh, tham mưu Uỷ ban nhân dân Tỉnh công bố kết quả cập nhật, điều chỉnh cho phù hợp."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "Quyết định số 1285/QĐ-UBND-HC ngày 31 tháng 8 năm 2021 của Uỷ ban nhân dân Tỉnh về Xếp loại đường để xác định cước vận tải đường bộ trên địa bàn Tỉnh."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "ĐỊA BÀN TỈNH NĂM 2023 (Phụ lục kèm theo Quyết định số 991/QĐ-UBND-HC ngày 25/09/2023 của Ủy ban nhân dân tỉnh Đồng Tháp) Số TT Tên đường Địa phận Chiều dài (km) Loại đường Bề rộng mặt (m) Bề rộng Nền (m) Mặt đường Cấp đường Điểm đầu Điểm cuối Loại 1 (Rất tốt) Loại 2 (Tốt) Loại 3 (Khá) Loại 4 (Trung bình) Loại 5 (xấu) Loại 6 (Đặc biệt xấu) 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 I ĐƯỜNG TỈNH TỔNG CỘNG 17 TUYẾN 381,37 1 Đường ĐT.841 TP.Hồng Ngự (Giao QL30) (Km0+000) Cửa khẩu Thường Phước (Km23+850) 23,85 - - 23,85 - - - 7,00 9,00 BTN1 C1 2 Đường ĐT.842 TP.Hồng Ngự (Giao tuyến tránh QL30) (Km0+000) Ranh Long An (mố B cầu Tân Phước) (Km26+750) 26,75 - - 26,75 - - - 6,00 9,00 BTN1 C1 3 Đường ĐT.843 Ngã 3 Thanh Bình (Giao QL30) (Km0+000) Cầu Rài (Km48+798) (gồm đoạn trùng ĐT.842 khoảng 3400m, trùng ĐT.844 khoảng 700m) 48,80 - - - 48,80 - - 7,00 9,00 LN2 C2 Cầu Sa Rài (Km48+798) Bến đò Long Sơn Ngọc (Km56+600) 7,80 - - - - 7,80 - 6,00 9,00 LN3 C3 4 Đường ĐT.844 Ngã 3 An long (Km0+000) Ranh Long An (Km47+350) 47,35 - - - - 47,35 - 7,00 9,00 LN3 C3 5 Đường ĐT.845 Ngã 3 Cầu Ngân Hàng (Km0+000) Giao ĐT.844 (Km15+330) 15,33 - - - 15,33 - - 7,00 9,00 LN2 C2 6 Đường ĐT.846 Giao QL30 (Km0+000) Mố B cầu Đường Thét (Km18+511) 18,51 - - - 18,51 - - 7,00 9,00 LN2 C2 Ngã 3 Cầu Ngân Hàng (Km33+000) Bằng Lăng (Km43+300) 10,30 - - 10,30 - - - 7,00 9,00 BTN1 C1 7 Đường ĐT.848 Km7+000 Cầu Rạch Chùa (Km20+483) 13,48 - 13,48 - - - - 9,00 12,00 BTN1 B1 Cầu Rạch Chùa (Km20+483) Ranh tỉnh An Giang, cầu Cái Tàu Thượng (Km30+860) 10,38 - - 10,38 - - - 7,00 9,00 BTN1 C1 8 ĐT.848 đường Vành Đai Tây Bắc Giao ĐT.848 (Km0+000) Giao QL80 (Km7+675) 7,68 - - 7,68 - - - 9,00 12,00 LN2 B2 9 ĐT.849 Giao ĐT.848 (Km0+000) Giao QL80 (Km9+877) 9,88 - 9,88 - - - - 9,00 12,00 BTN1 B1 10 Đường ĐT.850 Phà Sa Đéc (Km0+000) Giao QL30 (Km4+840) 4,84 - - - 4,84 - - 7,00 9,00 LN2 C2 Giao QL30 (Km4+840) Giao đường HCM (Km26+250) 21,41 - - - 21,41 - - 7,00 9,00 LN2 C2 11 Đường ĐT.851 Giao QL80 (Km0+000) Giao QL54 (Km8+355) 8,36 - - 8,36 - - - 9,00 12,00 LN2 B2 12 Đường ĐT.852 Giao ĐT.848 (Km0+000) Giao ĐT.851 (Ngã 3 rẻ quạt) (Km18+200) 18,20 - - - 18,20 - - 6,00 9,00 LN2 C2 13 Đường ĐT.852B Giao ĐT.849 (Km27+500) Cầu 9B (Km33+960) 6,46 - - 6,46 - - - 11,00 12,00 LN2 B2 Cầu 9B (Km33+960) Giao ĐH.64 (Km38+883) 4,92 - 4,92 - - - - 12,00 14,00 LN2 A2 14 Đường ĐT.853 Giao tuyến tránh QL80 (Km0+000) Bến phà Phong Hòa - Ô Môn (19+230) 19,23 - - - 19,23 - - 6,00 9,00 LN2 C2 15 Đường ĐT.854 Giao QL80 (Km0+000) Giao ĐT.908 (Km16+550) 16,55 - - - - 16,55 - 5,50 8,50 LN2 D2 16 Đường ĐT.855 Cầu Huyện Đội (Km0+000) Giao đường ĐT.845 (Km14+900) 14,90 - - - - 14,90 - 3,50 6,50 LN2 D2 17 Đường ĐT.856 Cầu Ông Hoành (Km0+000) Giao ĐT.844 (Km26+400) 26,40 - - - 26,40 - - 7,00 9,00 LN2 C2"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH ĐỒNG THÁP ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 991/QĐ-UBND-HC Đồng Tháp, ngày 25 tháng 9 năm 2023 QUYẾT ĐỊNH XẾP LOẠI ĐƯỜNG ĐỂ XÁC ĐỊNH CƯỚC VẬN TẢI ĐƯỜNG BỘ TRÊN ĐỊA BÀN TỈNH CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH ĐỒNG THÁP Căn cứ Luật Tổ chức Chính quyền địa phương ngày 19 tháng 6 năm 2015 và Luật sửa đổi, bổ sung một số điều của Luật tổ chức Chính phủ và Luật Tổ chức Chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Quyết định số 32/2005/QĐ-BGTVT ngày 17 tháng 6 năm 2005 của Bộ Giao thông vận tải về việc ban hành Quy định về xếp loại đường để xác định cước vận tải đường bộ; Theo đề nghị của Sở Giao thông vận tải tại Tờ trình số 839/TTr-SGTVT- CLCTGT ngày 05 tháng 9 năm 2023. QUYẾT ĐỊNH: Điều 1. Quy định về xếp loại đường để xác định cước vận tải đường bộ trên địa bàn tỉnh Đồng Tháp (Phụ lục kèm theo). Điều 2. 1. Sở Giao thông vận tải có trách nhiệm phổ biến, hướng dẫn thực hiện Quyết định này; tổ..."
+    }
+  ]
+}

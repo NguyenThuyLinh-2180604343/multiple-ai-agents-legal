@@ -1,0 +1,54 @@
+{
+  "base": "07_2025_NĐ_CP_original",
+  "revised": "07_2025_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "số điều của Luật Hộ tịch về đăng ký khai sinh, kết hôn, quản lý và sử dụng Sổ hộ tịch trong giai đoạn Cơ sở dữ liệu hộ tịch điện tử và Cơ sở dữ liệu quốc gia về dân cư chưa được vận hành thống nhất trên cả nước (sau đây gọi là giai đoạn chuyển tiếp); đăng ký khai sinh cho trẻ em bị bỏ rơi, trẻ em chưa xác định được cha, mẹ, trẻ em sinh ra do mang thai hộ; khai sinh, kết hôn, nhận cha, mẹ, con, khai tử tại khu vực biên giới; cấp Giấy xác nhận tình trạng hôn nhân; đăng ký giám sát việc giám hộ, đăng ký chấm dứt giám sát việc giám hộ; đăng ký khai sinh cho trẻ em sinh ra ở nước ngoài chưa được đăng ký khai sinh về cư trú tại Việt Nam; đăng ký kết hôn có yếu tố nước ngoài tại Ủy ban nhân dân cấp huyện; ghi vào sổ hộ tịch việc kết hôn, ly hôn, hủy việc kết hôn của công dân Việt Nam đã được giải quyết tại cơ quan có thẩm quyền nước ngoài; đăng ký lại khai sinh, kết hôn, khai tử; việc bố trí công chức tư pháp - hộ tịch làm công tác hộ tịch chuyên trách và một số biện pháp thi hành Luật Hộ tịch .”. 2. Sửa đổi, bổ sung khoản 1, khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "sau: “a) Chứng thực bản sao từ bản chính các giấy tờ, văn bản do cơ quan, tổ chức có thẩm quyền của Việt Nam; cơ quan, tổ chức có thẩm quyền của nước ngoài; cơ quan, tổ chức có thẩm quyền của Việt Nam liên kết với cơ quan, tổ chức có thẩm quyền của nước ngoài cấp hoặc chứng nhận;”. 2. Sửa đổi, bổ sung khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 36.1",
+      "change": "added",
+      "to": "bản chính hoặc bản sao có chứng thực Giấy chứng minh nhân dân/Thẻ căn cước công dân/Thẻ căn cước/Giấy chứng nhận căn cước hoặc Hộ chiếu, giấy tờ xuất nhập cảnh/giấy tờ có giá trị đi lại quốc tế còn giá trị sử dụng hoặc xuất trình Căn cước điện tử và nộp 01 (một) bộ hồ sơ yêu cầu chứng thực, gồm các giấy tờ sau đây: a) Dự thảo hợp đồng, giao dịch; b) Bản sao kèm xuất trình bản chính để đối chiếu giấy chứng nhận quyền sở hữu, quyền sử dụng hoặc giấy tờ thay thế được pháp luật quy định đối với tài sản mà pháp luật quy định phải đăng ký quyền sở hữu, quyền sử dụng trong trường hợp hợp đồng, giao dịch liên quan đến tài sản đó; trừ trường hợp người lập di chúc đang bị cái chết đe dọa đến tính mạng.”. 3. Thay thế cụm từ “bản chính hoặc bản sao có chứng thực Giấy chứng minh nhân dân hoặc hộ chiếu còn giá trị sử dụng” tại các khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 40.1",
+      "change": "added",
+      "to": "“bản chính hoặc bản sao có chứng thực Giấy chứng minh nhân dân/Thẻ căn cước công dân/Thẻ căn cước/Giấy chứng nhận căn cước/Hộ chiếu/giấy tờ xuất nhập cảnh/giấy tờ có giá trị đi lại quốc tế còn giá trị sử dụng hoặc Căn cước điện tử”. 4. Thay thế cụm từ “Giấy chứng minh nhân dân hoặc Hộ chiếu” tại khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 25.1",
+      "change": "added",
+      "to": "thực bằng cụm từ “Giấy chứng minh nhân dân/Thẻ căn cước công dân/Thẻ căn cước/Căn cước điện tử/Giấy chứng nhận căn cước hoặc Hộ chiếu/giấy tờ xuất nhập cảnh/giấy tờ có giá trị đi lại quốc tế.”."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "sau: “1. Người yêu cầu đăng ký hộ tịch, cấp bản sao trích lục hộ tịch xuất trình bản chính một trong các giấy tờ là hộ chiếu, chứng minh nhân dân, Thẻ căn cước công dân, Thẻ căn cước, Căn cước điện tử, Giấy chứng nhận căn cước hoặc giấy tờ khác có dán ảnh và thông tin cá nhân do cơ quan có thẩm quyền cấp, còn giá trị sử dụng (sau đây gọi là giấy tờ tùy thân) để chứng minh về nhân thân. 2. Người yêu cầu đăng ký khai sinh phải nộp Giấy chứng sinh hoặc giấy tờ thay Giấy chứng sinh theo quy định tại khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 16.1",
+      "change": "added",
+      "to": "phải nộp Giấy báo tử hoặc giấy tờ thay Giấy báo tử theo"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 07/2025/NĐ-CP Hà Nội, ngày 09 tháng 01 năm 2025 NGHỊ ĐỊNH SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA CÁC NGHỊ ĐỊNH TRONG LĨNH VỰC HỘ TỊCH, QUỐC TỊCH, CHỨNG THỰC Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Bộ luật Dân sự ngày 24 tháng 11 năm 2015; Căn cứ Luật Hộ tịch ngày 20 tháng 11 năm 2014; Căn cứ Luật Quốc tịch Việt Nam ngày 13 tháng 11 năm 2008; Luật sửa đổi, bổ sung một số điều của Luật Quốc tịch Việt Nam ngày 24 tháng 6 năm 2014; Theo đề nghị của Bộ trưởng Bộ Tư pháp; Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của các Nghị định trong lĩnh vực hộ tịch, quốc tịch, chứng thực. Điều 1. Sửa đổi, bổ sung một số điều của Nghị định số 23/2015/NĐ-CP ngày 16 tháng 02 năm 2015 của Chính phủ về cấp bản sao từ sổ gốc, chứng..."
+    }
+  ]
+}

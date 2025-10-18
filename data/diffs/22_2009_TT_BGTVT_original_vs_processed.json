@@ -1,0 +1,54 @@
+{
+  "base": "22_2009_TT_BGTVT_original",
+  "revised": "22_2009_TT_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "vi áp dụng 1. Thông tư này quy định về thủ tục kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ (sau đây gọi chung là xe cơ giới). 2. Thông tư này không áp dụng đối với: a) Xe mô tô, xe gắn máy; b) Xe cơ giới của quân đội, công an sử dụng vào mục đích quốc phòng, an ninh."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "tượng áp dụng Thông tư này áp dụng đối với tổ chức, cá nhân có liên quan đến hoạt động kiểm định an toàn kỹ thuật và bảo vệ môi trường xe cơ giới."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau: 1. Kiểm định là việc tiến hành kiểm tra định kỳ, đánh giá tình trạng an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới để chứng nhận xe cơ giới có đủ điều kiện tham gia giao thông. 2. Chu kỳ kiểm định là khoảng thời gian tính bằng tháng giữa hai lần kiểm định. 3. Giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới (sau đây gọi chung là Giấy chứng nhận) là chứng chỉ xác nhận xe cơ giới đã được kiểm tra theo quy định, đủ điều kiện tham gia giao thông trong lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam và các nước mà Việt Nam đã ký điều ước quốc tế công nhận lẫn nhau về kiểm định an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới. 4. Tem kiểm định an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới (sau đây gọi chung là Tem kiểm định) là biểu trưng để lực lượng tuần tra, kiểm soát biết xe cơ giới đã kiểm định và được phép tham gia giao thông đường bộ theo thời hạn ghi trên Tem. 5. Sổ kiểm định an toàn kỹ thuật và bảo vệ môi trường xe cơ giới (sau đây gọi chung là Sổ kiểm định) là lý lịch xe cơ giới để quản lý về kỹ thuật, hành chính và quá trình sử dụng xe. 6. Ấn chỉ kiểm định là phôi của các loại Giấy chứng nhận, Tem kiểm định, Sổ kiểm định. 7. Chứng chỉ kiểm định là các loại ấn chỉ kiểm định đã được đơn vị đăng kiểm xác nhận và cấp cho xe cơ giới. 8. Phiếu kiểm định là bản kết quả kiểm tra xe cơ giới khi tiến hành kiểm định. Chương 2 . KIỂM ĐỊNH XE CƠ GIỚI"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "kiểm định 1. Xe cơ giới được đăng ký và cấp biển số tại địa phương nào thì làm thủ tục kiểm tra lần đầu để cấp Sổ kiểm định tại một trong số các đơn vị đăng kiểm ở địa phương đó. 2. Đối với các lần kiểm định tiếp theo, xe cơ giới có thể được đưa đến bất kỳ đơn vị đăng kiểm nào để kiểm định. 3. Khi xe cơ giới chuyển vùng, chủ xe phải làm thủ tục chuyển Hồ sơ phương tiện về một trong số các đơn vị đăng kiểm tại địa phương đăng ký biển số mới để quản lý kiểm định."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "sơ kiểm định 1. Hồ sơ kiểm tra lần đầu để cấp Sổ kiểm định bao gồm: a) Giấy Đăng ký xe do cơ quan nhà nước có thẩm quyền cấp; b) Giấy chứng nhận bảo hiểm trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực; c) Giấy chứng nhận chất lượng ô tô nhập khẩu hoặc Thông báo miễn kiểm tra chất lượng ô tô nhập khẩu (chỉ áp dụng với xe nhập khẩu); d) Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường xe cơ giới cải tạo (chỉ áp dụng với xe cơ giới cải tạo); đ) Giấy chứng nhận đăng ký kinh doanh vận tải (chỉ áp dụng với xe cơ giới có kinh doanh vận tải). 2. Hồ sơ kiểm định lần tiếp theo gồm: a) Giấy Đăng ký xe do cơ quan nhà nước có thẩm quyền cấp; b) Giấy chứng nhận bảo hiểm trách nhiệm dân sự của chủ xe cơ giới còn hiệu lực; c) Sổ kiểm định; Giấy chứng nhận và Tem kiểm định của lần kiểm định trước đó; d) Giấy chứng nhận đăng ký kinh doanh vận tải (chỉ áp dụng với xe cơ giới có kinh doanh vận tải)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "được kiểm định trên dây chuyền kiểm định. Trường hợp xe cơ giới quá khổ, quá tải, có kết cấu đặc biệt không kiểm tra được trên dây chuyền kiểm định hoặc xe hoạt động tại các vùng đảo, các địa phương thuộc vùng sâu, vùng xa không có điều kiện đưa xe tới đơn vị đăng kiểm thì thực hiện theo hướng dẫn của Cục Đăng kiểm Việt Nam. 2. Nội dung kiểm định được thực hiện theo quy định tại Thông tư số 10/2009/TT-BGTVT ngày 24 tháng 6 năm 2009 của Bộ trưởng Bộ Giao thông vận tải về kiểm tra an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 7.1",
+      "change": "added",
+      "to": "tuân thủ nội dung, quy trình, quy định. 2. Kiểm định khi thiết bị kiểm tra không bảo đảm độ chính xác; khi mạng máy tính nội bộ hư hỏng; kiểm định ngoài dây chuyền khi chưa"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc ------------------- Số: 22/2009/TT-BGTVT Hà Nội, ngày 06 tháng 10 năm 2009 THÔNG TƯ QUY ĐỊNH VỀ THỦ TỤC KIỂM ĐỊNH AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ Căn cứ Luật Giao thông đường bộ ngày 13 tháng 11 năm 2008; Căn cứ Nghị định số 51/2008/NĐ-CP ngày 22 tháng 4 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải ; Bộ trưởng Bộ Giao thông vận tải quy định về thủ tục kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ như sau: Chương 1 . QUY ĐỊNH CHUNG Điều 1. Phạm vi áp dụng 1. Thông tư này quy định về thủ tục kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ (sau đây gọi chung là xe cơ giới). 2. Thông tư này không áp dụng đối với: a) Xe mô tô, xe gắn máy; b) Xe cơ giới của quân đội, công an sử dụng vào ..."
+    }
+  ]
+}

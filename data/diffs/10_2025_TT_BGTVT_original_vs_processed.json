@@ -1,0 +1,36 @@
+{
+  "base": "10_2025_TT_BGTVT_original",
+  "revised": "10_2025_TT_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "thiết bị nâng trên các công trình biển. Mã số đăng ký: QCVN 97:2025/BGTVT."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "lực kể từ ngày 20 tháng 8 năm 2025. 2. Giấy chứng nhận kết quả kiểm định cấp cho thiết bị nâng trước ngày Thông tư này có hiệu lực tiếp tục có giá trị sử dụng đến hết thời hạn của Giấy chứng nhận đó. 3. Thiết bị nâng được chế tạo hoặc lắp đặt trên công trình biển trước ngày Thông tư này có hiệu lực được tiếp tục áp dụng theo quy định tại QCVN 97: 2016/BGTVT ban hành kèm theo Thông tư số 10/2017/TT-BGTVT ngày 04 tháng 04 năm 2017 của Bộ trưởng Bộ Giao thông vận tải. 4. Bãi bỏ Thông tư số 10/2017/TT-BGTVT ngày 04 tháng 04 năm 2017 của Bộ trưởng Bộ Giao thông vận tải ban hành Quy chuẩn kỹ thuật quốc gia về thiết bị nâng trên các công trình biển."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "Chánh Thanh tra Bộ, Vụ trưởng các Vụ, Cục trưởng Cục Đăng kiểm Việt Nam, Thủ trưởng các đơn vị thuộc Bộ Giao thông vận tải, các cơ quan, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./. Nơi nhận: - Văn phòng Chính phủ; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; - UBND các tỉnh, thành phố trực thuộc TW; - Cục Kiểm tra văn bản (Bộ Tư pháp); - Bộ trưởng (để b/c); - Các Thứ trưởng Bộ GTVT; - Công báo; - Cổng Thông tin điện tử Chính phủ; - Cổng Thông tin điện tử Bộ GTVT; - Báo Giao thông, Tạp chí GTVT; - Lưu: VT, KHCN&MT./. KT. BỘ TRƯỞNG THỨ TRƯỞNG Nguyễn Xuân Sang QCVN 97:2025/BGTVT QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ THIẾT BỊ NÂNG TRÊN CÁC CÔNG TRÌNH BIỂN National technical regulation for lifting appliances on offshore units Lời nói đầu Quy chuẩn kỹ thuật quốc gia về thiết bị nâng trên các công trình biển, mã số QCVN 97:2025/BGTVT thay thế cho QCVN 97:2016/BGTVT , do Cục Đăng kiểm Việt Nam biên soạn, Bộ Khoa học và Công nghệ thẩm định, Bộ trưởng Bộ Giao thông vận tải ban hành theo Thông tư số 10/2025/TT-BGTVT ngày 14 tháng 2 năm"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.2025",
+      "change": "added",
+      "to": "MỤC LỤC Lời nói đầu Mục lục I Quy định chung 1.1 Phạm vi điều chỉnh 1.2 Đối tượng áp dụng 1.3 Tài liệu viện dẫn 1.4 Giải thích từ ngữ II Quy định kỹ thuật Chương 1 Quy định chung 1.1 Quy định chung 1.2 Giải thích thuật ngữ 1.3 Hồ sơ kỹ thuật xuất trình Đăng kiểm thẩm định Chương 2 Cần trục 2.1 Phạm vi áp dụng 2.2 Đơn vị và ký hiệu 2.3 Tải trọng 2.4 Kết cấu 2.5 Thiết bị 2.6 Tải định mức 2.7 Các điều kiện quá tải toàn bộ 2.8 Yếu tố tác động đến con người - sức khỏe, độ an toàn và môi trường 2.9 Yêu cầu trong chế tạo 2.10 Công nhận thiết kế Chương 3 Thang máy 3.1 Phạm vi áp dụng 3.2 Đơn vị, ký hiệu và chữ viết tắt 3.3 Vị trí lắp đặt và điều kiện hoạt động của thang máy 3.4 Giếng thang máy 3.5 Phòng máy và phòng pu ly 3.6 Cửa tầng 3.7 Cabin và đối trọng 3.8 Kiểu treo, cáp bù, cơ cấu an toàn và bộ điều chỉnh vượt tốc đối với thang máy điện 3.9 Kiểu treo, phòng chống rơi tự do, sự quá tốc và trôi cabin đối với thang máy thủy lực 3.10 Ray dẫn hướng, giảm chấn và công tắc giới hạn hành trình 3.11 Khoảng cách giữa cabin và vách, giữa cabin và đối trọng 3.12 Máy dẫn động cho thang máy điện 3.13 Máy dẫn động, xy lanh và các thiết bị thủy lực khác đối với thang máy thủy lực 3.14 Thiết bị điện và lắp đặt 3.15 Bảo vệ chống hư hỏng - Điều khiển - Ưu tiên 3.16 Báo hiệu và hướng dẫn sử dụng Chương 4 Kiểm định 4.1 Quy định chung 4.2 Kiểm định các thiết bị nâng 4.3 Kiểm định lần đầu 4.4 Kiểm định hàng năm 4.5 Thử tải 4.6 Chứng nhận, đóng dấu III Quy định quản lý IV Trách nhiệm của các tổ chức, cá nhân V Tổ chức thực hiện QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ THIẾT BỊ NÂNG TRÊN CÁC CÔNG TRÌNH BIỂN National technical regulation for lifting appliances on offshore units I QUY ĐỊNH CHUNG 1.1 Phạm vi điều chỉnh Quy chuẩn này quy định các yêu cầu an toàn kỹ thuật, an toàn lao động về thiết kế, chế tạo, hoán cải, sửa chữa, nhập khẩu, khai thác, các yêu cầu về quản lý, kiểm tra, kiểm định, chứng nhận an toàn kỹ thuật đối với thiết bị nâng trên các công"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 10/2025/TT-BGTVT Hà Nội, ngày 14 tháng 2 năm 2025 THÔNG TƯ BAN HÀNH QUY CHUẨN KỸ THUẬT QUỐC GIA VỀ THIẾT BỊ NÂNG TRÊN CÁC CÔNG TRÌNH BIỂN Căn cứ Luật Dầu khí ngày 14 tháng 11 năm 2022; Căn cứ Bộ luật Hàng hải Việt Nam ngày 25 tháng 11 năm 2015; Căn cứ Luật An toàn, vệ sinh lao động ngày 25 tháng 6 năm 2015; Căn cứ Luật Chất lượng sản phẩm, hàng hóa ngày 21 tháng 11 năm 2007; Căn cứ Luật Tiêu chuẩn và quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006; Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Theo đề nghị của Vụ trưởng Vụ Khoa học - Công nghệ và Môi trường và Cục trưởng Cục Đăng kiểm Việt Nam; Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư ban hành Quy chuẩn kỹ thuật quốc gia về thiết bị nâng trên các công trình biển. Điều 1. Ban hành kèm th..."
+    }
+  ]
+}

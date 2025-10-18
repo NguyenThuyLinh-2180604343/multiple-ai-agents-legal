@@ -1,0 +1,36 @@
+{
+  "base": "12_2025_TT_BXD_original",
+  "revised": "12_2025_TT_BXD_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "chỉnh Thông tư này quy định về tải trọng, khổ giới hạn của đường bộ; lưu hành xe quá khổ giới hạn, xe quá tải trọng, xe bánh xích trên đường bộ; hàng siêu trường, siêu trọng, vận chuyển hàng siêu trường, siêu trọng; xếp hàng hóa trên phương tiện giao thông đường bộ; cấp giấy phép lưu hành cho xe quá tải trọng, xe quá khổ giới hạn, xe bánh xích, xe vận chuyển hàng siêu trường, siêu trọng trên đường bộ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "dụng Thông tư này áp dụng đối với tổ chức, cá nhân liên quan đến: quản lý, công bố tải trọng, khổ giới hạn của đường bộ; lưu hành xe quá khổ giới hạn, xe quá tải trọng, xe bánh xích trên đường bộ, vận chuyển hàng siêu trường, siêu trọng; xếp hàng hóa trên phương tiện giao thông đường bộ; cấp giấy phép lưu hành cho xe quá tải trọng, xe quá khổ giới hạn, xe bánh xích, xe vận chuyển hàng siêu trường, siêu trọng trên đường bộ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau: 1. Khối lượng toàn bộ của xe gồm khối lượng bản thân xe cộng với khối lượng của thiết bị chuyên dùng để hỗ trợ phục vụ vận chuyển hàng siêu trường, siêu trọng được lắp, đặt vào phương tiện theo hướng dẫn của nhà sản xuất (nếu có) cộng với khối lượng của người, hành lý và hàng hóa (bao gồm cả công te nơ; các thiết bị được sử dụng để kê, chèn, chằng buộc hàng hóa) xếp trên xe (nếu có). 2. Tải trọng trục xe là khối lượng toàn bộ của xe phân bố trên mỗi trục xe hoặc cụm trục xe. 3. Kích thước tối đa cho phép của phương tiện giao thông cơ giới đường bộ là kích thước bao ngoài giới hạn về chiều rộng, chiều cao, chiều dài của xe, kể cả hàng hóa xếp trên xe (nếu có) được phép tham gia giao thông trên đường bộ. 4. Xe bánh xích là loại xe máy chuyên dùng tự hành di chuyển bằng bánh xích, khi tham gia giao thông trên đường bộ, răng xích có thể gây hư hỏng mặt đường, lề đường. 5. Tổ hợp xe gồm một xe ô tô kéo một rơ moóc hoặc một xe ô tô đầu kéo kéo một sơ mi rơ moóc hoặc nhiều xe được ghép, nối theo quy định tại khoản 4"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 53.1",
+      "change": "added",
+      "to": "thông để vận chuyển hàng siêu trường, siêu trọng. 6. Hàng không thể chia nhỏ, tháo rời (sau đây viết là hàng không thể tháo rời) là hàng dạng kiện còn nguyên kẹp chì, niêm phong của cơ quan hải quan, an ninh, quốc phòng hoặc là tổ hợp cấu kiện, thiết bị, máy móc nếu tháo rời, chia nhỏ sẽ bị hư hỏng hoặc thay đổi công năng. 7. Đường ngang là đoạn đường bộ giao nhau cùng mức với đường sắt, được cơ quan có thẩm quyền cho phép xây dựng và khai thác. 8. Doanh nghiệp đầu tư xây dựng và quản lý khai thác công trình đường bộ là doanh nghiệp dự án đối tác công tư (PPP) và doanh nghiệp được Nhà nước giao đầu tư xây dựng, quản lý, khai thác công trình đường bộ. 9. Đơn nguyên hàng là 01 kiện hàng còn nguyên kẹp chì, niêm phong của cơ quan hải quan, an ninh, quốc phòng hoặc 01 cấu kiện xây dựng hoặc 01 phương tiện, thiết bị, máy móc nguyên chiếc. 10. Đơn vị vận tải là tổ chức, cá nhân sử dụng phương tiện để vận tải hàng hóa trên đường bộ. 11. Người xếp hàng là tổ chức, cá nhân thực hiện việc xếp hàng hóa trên phương tiện giao thông đường bộ. 12. Người áp tải là cá nhân do người thuê vận tải hoặc chủ hàng sử dụng để thực hiện nhiệm vụ áp tải hàng hóa trong quá trình vận chuyển trên đường bộ. 13. Người thuê vận tải là tổ chức, cá nhân thuê đơn vị kinh doanh vận tải vận chuyển hàng hóa bằng phương tiện giao thông đường bộ. 14. Hàng rời là hàng hóa thông thường không được đóng thùng, đóng bao hoặc đóng gói, khi vận chuyển được chứa trực tiếp bằng thùng chở hàng của xe ô tô tải, xe chuyên dùng, xe ô tô tải chuyên dùng, rơ moóc tải chuyên dùn"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ XÂY DỰNG ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 12/2025/TT-BXD Hà Nội, ngày 30 tháng 6 năm 2025 THÔNG TƯ QUY ĐỊNH VỀ TẢI TRỌNG, KHỔ GIỚI HẠN CỦA ĐƯỜNG BỘ; LƯU HÀNH XE QUÁ KHỔ GIỚI HẠN, XE QUÁ TẢI TRỌNG, XE BÁNH XÍCH TRÊN ĐƯỜNG BỘ; HÀNG SIÊU TRƯỜNG, SIÊU TRỌNG, VẬN CHUYỂN HÀNG SIÊU TRƯỜNG, SIÊU TRỌNG; XẾP HÀNG HÓA TRÊN PHƯƠNG TIỆN GIAO THÔNG ĐƯỜNG BỘ; CẤP GIẤY PHÉP LƯU HÀNH CHO XE QUÁ TẢI TRỌNG, XE QUÁ KHỔ GIỚI HẠN, XE BÁNH XÍCH, XE VẬN CHUYỂN HÀNG SIÊU TRƯỜNG, SIÊU TRỌNG TRÊN ĐƯỜNG BỘ Căn cứ Luật Đường bộ ngày 27 tháng 6 năm 2024; Căn cứ Luật Trật tự, an toàn giao thông đường bộ ngày 27 tháng 6 năm 2024; Căn cứ Nghị định số 33/2025/NĐ-CP ngày 25 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng; Theo đề nghị của Vụ trưởng Vụ Vận tải và An toàn giao thông và Cục trưởng Cục Đường bộ Việt Nam, Bộ trưởng Bộ Xây dựng ban hành Thông tư quy định về tải trọng, khổ giớ..."
+    }
+  ]
+}

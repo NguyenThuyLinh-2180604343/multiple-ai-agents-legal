@@ -1,0 +1,36 @@
+{
+  "base": "66_2024_TT_BGTVT_original",
+  "revised": "66_2024_TT_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "vi điều chỉnh và đối tượng áp dụng 1. Thông tư này quy định mã số, tiêu chuẩn chức danh nghề nghiệp viên chức chuyên ngành quản lý bến xe; quản lý vận tải quá cảnh; kiểm tra tải trọng xe; quản lý, bảo trì công trình giao thông; vận hành, khai thác giao thông công cộng; xét thăng hạng viên chức chuyên ngành quản lý, bảo trì công trình giao thông và vận hành, khai thác giao thông công cộng. 2. Thông tư này áp dụng đối với viên chức chuyên ngành quản lý bến xe; quản lý vận tải quá cảnh; kiểm tra tải trọng xe; quản lý, bảo trì công trình giao thông; vận hành, khai thác giao thông công cộng tại các đơn vị sự nghiệp công lập. 3. Các đơn vị sự nghiệp ngoài công lập và các tổ chức, cá nhân có liên quan được áp dụng Thông tư này."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "số chức danh nghề nghiệp viên chức chuyên ngành 1. Chức danh nghề nghiệp viên chức chuyên ngành quản lý bến xe: a) Quản lý bến xe hạng III Mã số: V.12.24.03 b) Quản lý bến xe hạng IV Mã số: V.12.24.04 2. Chức danh nghề nghiệp viên chức chuyên ngành quản lý vận tải quá cảnh: a) Quản lý vận tải quá cảnh hạng III Mã số: V.12.25.03 b) Quản lý vận tải quá cảnh hạng IV Mã số: V.12.25.04 3. Chức danh nghề nghiệp viên chức chuyên ngành kiểm tra tải trọng xe: a) Kiểm tra tải trọng xe hạng III Mã số: V.12.26.03 b) Kiểm tra tải trọng xe hạng IV Mã số: V.12.26.04 4. Chức danh nghề nghiệp viên chức chuyên ngành quản lý, bảo trì công trình giao thông: a) Quản lý, bảo trì công trình giao thông hạng I Mã số: V.12.61.01 b) Quản lý, bảo trì công trình giao thông hạng II Mã số: V.12.61.02 c) Quản lý, bảo trì công trình giao thông hạng III Mã số: V.12.61.03 d) Quản lý, bảo trì công trình giao thông hạng IV Mã số: V.12.61.04 5. Chức danh nghề nghiệp viên chức chuyên ngành vận hành, khai thác giao thông công cộng: a) Vận hành, khai thác giao thông công cộng hạng I Mã số: V.12.62.01 b) Vận hành, khai thác giao thông công cộng hạng II Mã số: V.12.62.02 c) Vận hành, khai thác giao thông công cộng hạng III Mã số: V.12.62.03 d) Vận hành, khai thác giao thông công cộng hạng IV Mã số: V.12.62.04"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "lối, chính sách của Đảng và Nhà nước, quy định của pháp luật. 2. Trung thực, khách quan, có tinh thần trách nhiệm cao đối với công việc được giao; thực hiện đúng và đầy đủ các nghĩa vụ của viên chức trong hoạt động nghề nghiệp. 3. Có ý thức trau dồi đạo đức, giữ gìn phẩm chất, danh dự, uy tín nghề nghiệp; không lạm dụng vị trí công tác, nhiệm vụ được phân công để trục lợi; đoàn kết, sáng tạo, tự nâng cao trình độ, sẵn sàng tiếp thu, học hỏi kiến thức mới; có ý thức phối hợp, giúp đỡ đồng nghiệp, chia sẻ kinh nghiệm trong công tác; tích cực tham gia thực hiện đề tài khoa học, sáng kiến cải tiến kỹ thuật để phát triển nghề nghiệp và nâng cao trình độ. Chương II TIÊU CHUẨN CHỨC DANH NGHỀ NGHIỆP Mục 1. CHỨC DANH NGHỀ NGHIỆP VIÊN CHỨC CHUYÊN NGÀNH QUẢN LÝ BẾN XE"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "lý bến xe hạng III - Mã số: V.12.24.03 1. Nhiệm vụ: a) Tham gia xây dựng kế hoạch, các quy trình nghiệp vụ cụ thể trong phạm vi nhiệm vụ được phân công; b) Tham gia nghiên cứu, đề xuất chủ trương, chính sách, định hướng, kế hoạch phát triển và ứng dụng khoa học công nghệ trong phạm vi nhiệm vụ được phân công; c) Tham gia thực hiện đề tài, đề án, dự án, chương trình khoa học và công nghệ liên quan đến chức năng, nhiệm vụ của đơn vị sự nghiệp công lập về quản lý bến xe; d) Nghiên cứu giải quyết theo thẩm quyền hoặc tham mưu trình cấp có thẩm quyền giải quyết các vấn đề cụ thể liên quan đến lĩnh vực được phân công"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 66/2024/TT-BGTVT Hà Nội, ngày 31 tháng 12 năm 2024 THÔNG TƯ QUY ĐỊNH MÃ SỐ, TIÊU CHUẨN CHỨC DANH NGHỀ NGHIỆP VIÊN CHỨC CHUYÊN NGÀNH QUẢN LÝ BẾN XE; QUẢN LÝ VẬN TẢI QUÁ CẢNH; KIỂM TRA TẢI TRỌNG XE; QUẢN LÝ, BẢO TRÌ CÔNG TRÌNH GIAO THÔNG; VẬN HÀNH, KHAI THÁC GIAO THÔNG CÔNG CỘNG Căn cứ Luật Viên chức ngày 15 tháng 11 năm 2010; Luật sửa đổi, bổ sung một số điều của Luật Cán bộ, công chức và Luật viên chức ngày 25 tháng 11 năm 2019; Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Căn cứ Nghị định số 115/2020/NĐ-CP ngày 25 tháng 9 năm 2020 của Chính phủ quy định về tuyển dụng, sử dụng và quản lý viên chức; Nghị định số 85/2023/NĐ-CP ngày 07 tháng 12 năm 2023 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 115/2020/NĐ-CP ngày 25 tháng 9 năm 2020..."
+    }
+  ]
+}

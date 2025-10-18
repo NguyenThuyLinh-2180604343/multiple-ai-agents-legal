@@ -1,0 +1,42 @@
+{
+  "base": "232_2025_NĐ_CP_161_original",
+  "revised": "232_2025_NĐ_CP_161_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "vàng, bao gồm: Hoạt động sản xuất, gia công vàng trang sức, mỹ nghệ; hoạt động kinh doanh mua, bán vàng trang sức, mỹ nghệ; hoạt động sản xuất vàng miếng; hoạt động kinh doanh mua, bán vàng miếng; hoạt động xuất khẩu, nhập khẩu vàng và các hoạt động kinh doanh vàng khác, bao gồm cả hoạt động kinh doanh vàng trên tài khoản và hoạt động phái sinh về vàng.” 2. Sửa đổi, bổ sung khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "có đóng chữ, số chỉ khối lượng, chất lượng, có ký mã hiệu của doanh nghiệp và ngân hàng thương mại được Ngân hàng Nhà nước Việt Nam (sau đây được gọi là Ngân hàng Nhà nước) cho phép sản xuất; vàng miếng do Ngân hàng Nhà nước tổ chức sản xuất trong từng thời kỳ.” 3. Sửa đổi, bổ sung khoản 6, 8"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "triệu đồng trong ngày trở lên của một khách hàng phải được thực hiện thông qua tài khoản thanh toán của khách hàng và tài khoản thanh toán của doanh nghiệp kinh doanh vàng mở tại ngân hàng thương mại, chi nhánh ngân hàng nước ngoài.” 5. Bổ sung khoản 5a"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "ngân hàng thương mại quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 11a.1",
+      "change": "added",
+      "to": "miếng 1. Doanh nghiệp được Ngân hàng Nhà nước xem xét cấp Giấy phép sản xuất vàng miếng khi đáp ứng đủ các điều kiện sau: a) Có Giấy phép kinh doanh mua, bán vàng miếng; b) Có vốn điều lệ từ 1.000 tỷ đồng trở lên; c) Không bị xử phạt vi phạm hành chính về hoạt động kinh doanh vàng hoặc bị xử phạt vi phạm hành chính về hoạt động kinh doanh vàng nhưng đã thực hiện xong các biện pháp khắc phục hậu quả theo Quyết định xử phạt vi phạm hành chính, các kiến nghị có thời hạn thực hiện tại Kết luận thanh tra, kiểm tra của cơ quan nhà nước có thẩm quyền (nếu có); d) Có quy định nội bộ quy định về sản xuất vàng miếng bao gồm những nội dung cơ bản như quy trình nhập nguyên liệu; quy trình sản xuất vàng miếng; quy trình giám sát sản xuất; quy trình kiểm soát chất lượng sản phẩm. 2. Ngân hàng thương mại được Ngân hàng Nhà nước xem xét cấp Giấy phép sản xuất vàng miếng khi đáp ứng đủ các điều kiện sau: a) Có Giấy phép kinh doanh mua, bán vàng miếng; b) Có vốn điều lệ từ 50.000 tỷ đồng trở lên; c) Không bị xử phạt vi phạm hành chính về hoạt động kinh doanh vàng hoặc bị xử phạt vi phạm hành chính về hoạt động kinh doanh vàng nhưng đã thực hiện xong các biện pháp khắc phục hậu quả theo Quyết định xử phạt vi phạm hành chính, các kiến nghị có thời hạn thực hiện tại Kết luận thanh tra, kiểm tra của cơ quan nhà nước có thẩm quyền (nếu có); d) Có quy định nội bộ quy định về sản xuất vàng miếng bao gồm những nội dung cơ bản như quy trình nhập nguyên liệu; quy trình sản xuất vàng m"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 232/2025/NĐ-CP Hà Nội, ngày 26 tháng 8 năm 2025 NGHỊ ĐỊNH SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 24/2012/NĐ-CP NGÀY 03 THÁNG 4 NĂM 2012 CỦA CHÍNH PHỦ VỀ QUẢN LÝ HOẠT ĐỘNG KINH DOANH VÀNG Căn cứ Luật Tổ chức Chính phủ số 63/2025/QH15 ; Căn cứ Luật Ngân hàng Nhà nước Việt Nam số 46/2010/QH12 ; Căn cứ Luật Các tổ chức tín dụng số 32/2024/QH15 ; Căn cứ Luật Quản lý ngoại thương số 05/2017/QH14 ; Căn cứ Luật Thương mại số 36/2005/QH11 ; Căn cứ Luật Doanh nghiệp số 59/2020/QH14 được sửa đổi, bổ sung bởi Luật số 76/2025/QH15 ; Căn cứ Luật Đầu tư số 61/2020/QH14 được sửa đổi, bổ sung bởi các Luật số 57/2024/QH15 và Luật số 90/2025/QH15 ; Theo đề nghị của Thống đốc Ngân hàng Nhà nước Việt Nam; Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của Nghị định số 24/2012/NĐ-CP ngày 03 tháng 4 năm 2012 của Chính phủ về quản lý hoạt động kinh doanh vàng. Điều 1. Sửa..."
+    }
+  ]
+}

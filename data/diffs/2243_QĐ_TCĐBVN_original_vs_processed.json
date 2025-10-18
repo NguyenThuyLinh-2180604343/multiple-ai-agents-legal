@@ -1,0 +1,30 @@
+{
+  "base": "2243_QĐ_TCĐBVN_original",
+  "revised": "2243_QĐ_TCĐBVN_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "bố 01 Tiêu chuẩn cơ sở (TCCS) sau đây: TCCS 38 : 2022/TCĐBVN Áo đường mềm - Các yêu cầu và chỉ dẫn thiết kế."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "Khoa học và Công nghệ Giao thông vận tải, cơ quan chủ trì xây dựng tiêu chuẩn, chịu trách nhiệm về nội dung và giải đáp mọi vấn đề liên quan đến nội dung tiêu chuẩn này."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "định này có hiệu lực thi hành kể từ ngày ký./. Nơi nhận: - Bộ GTVT; - Viện KH&CN GTVT; - Các Phó Tổng Cục trưởng; - Các Vụ: QLBT ĐB; ATGT; KHĐT; - Các Cục: QLĐB I, II, III, IV; QLXD ĐB; - Các Ban QLDA 3, 4, 5, 8; - Các Sở Giao thông vận tải; - Trung tâm TT&TT ĐB; - Lưu: VT; KHCN, MT và HTQT. TỔNG CỤC TRƯỞNG Nguyễn Văn Huyện TIÊU CHUẨN CƠ SỞ BỘ GIAO THÔNG VẬN TẢI TỔNG CỤC ĐƯỜNG BỘ VIỆT NAM TCCS 38 : 2022/TCĐBVN ÁO ĐƯỜNG MỀM - CÁC YÊU CẦU VÀ CHỈ DẪN THIẾT KẾ Flexible Pavement Design - Specification and Guidelines Lời nói đầu TCCS 38 : 2022/TCĐBVN do Viện Khoa học và Công nghệ GTVT biên soạn, Bộ Giao thông Vận tải thẩm định và giao Tổng cục Đường bộ Việt Nam công bố. Thông tin liên hệ: Viện Khoa học và Công nghệ GTVT 1252 Đường Láng - Đống Đa - Hà Nội Điện thoại: 024 3766 3977 - 024 3834 7980 Email: [email protected] ; Website: http://itst.gov.vn ÁO ĐƯỜNG MỀM - CÁC YÊU CẦU VÀ CHỈ DẪN THIẾT KẾ Flexible Pavement Design - Specification and Guidelines 1. Phạm vi áp dụng 1.1 Tiêu chuẩn này quy định các yêu cầu về thiết kế cấu tạo kết cấu nền mặt đường và phương pháp kiểm toán chiều dày các lớp vật liệu áo đường đối với kết cấu mặt đường mềm theo phương pháp cơ học. 1.2 Tiêu chuẩn này áp dụng cho kết cấu áo đường mềm trên đường ô tô cao tốc, đường ô tô có cấp hạng thiết kế khác nhau, đường đô thị, đường ô tô chuyên dụng trong cả trường hợp áo đường làm mới và trường hợp nâng cấp, cải tạo áo đường cũ. 2. Tài liệu viện dẫn Các tài liệu viện dẫn sau rất cần thiết cho việc áp dụng tiêu chuẩn này. Đối với các tài liệu viện dẫn ghi năm công bố thì áp dụng phiên bản được nêu. Đối với các tài liệu viện dẫn không ghi năm công bố thì áp dụng phiên bản mới nhất, bao gồm cả các sửa đổi, bổ sung (nếu có). TCVN 4054 - Đường ô tô - Yêu cầu thiết kế TCVN 4199 - Đất xây dựng - Phương pháp xác định sức chống cắt trong phòng thí nghiệm ở máy cắt phẳng TCVN 5729 - Đường ô tô cao tốc - Yêu cầu thiết kế TCVN 8819 - Mặt đường bê tông nhựa nóng - Yêu cầu thi công và nghiệm thu TCVN 8820 - Hỗn hợp bê tông nhựa nóng - Thiết kế theo phương pháp Marshall TCVN 8857 - Lớp kết cấu áo đường ô tô bằng cấp phối thiên nhiên - Vật liệu, thi công và nghiệm thu TCVN 8858 - Móng cấp phối đá dăm và cấp phối thiên nhiên gia cố xi măng trong kết cấu áo đường ô tô - Thi công và nghiệm thu TCVN 8859 - Móng cấp phối đá dăm trong kết cấu áo đường ô tô - Vật liệu, thi công và nghiệm thu TCVN 8861 - Áo đường mềm - Xác định mô đun đàn hồi của nền đất và các lớp kết cấu áo đường bằng phương pháp sử dụng tấm ép cứng TCVN 8862 - Qui trình thí nghiệm xác định cường độ kéo khi ép chẻ của vật liệu hạt liên kết bằng chất kết dính TCVN 8863 - Mặt đường láng nhựa nóng - Thi công và nghiệm thu TCVN 8864 - Mặt đường ô tô - Xác định độ bằng phẳng bằng thước dài 3 m TCVN 8865 - Mặt đường ô tô - Phương pháp đo và đánh giá xác định độ bằng phẳng theo chỉ số độ gồ ghề quốc tế IRI TCVN 8866 - Mặt đường ô tô - Xác định độ nhám mặt đường bằng phương pháp rắc cát - Thử nghiệm TCVN 8867 - Áo đường mềm - Xác định mô đun đàn hồi chung của kết cấu bằng cần đo võng Benkelman. TCVN 8868 - Thí nghiệm xác định sức kháng cắt không cố kết - không thoát nước và"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI TỔNG CỤC ĐƯỜNG BỘ VIỆT NAM ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 2243/QĐ-TCĐBVN Hà Nội, ngày 12 tháng 05 năm 2022 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ TIÊU CHUẨN CƠ SỞ TỔNG CỤC TRƯỞNG TỔNG CỤC ĐƯỜNG BỘ VIỆT NAM Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật số 68/2006/QH11 ; Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01/8/2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ; Nghị định số 78/2018/NĐ-CP ngày 16/5/2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 127/2007/NĐ-CP ; Căn cứ Thông tư số 11/2021/TT-BKHCN ngày 18/11/2021 của Bộ Khoa học và Công nghệ quy định chi tiết xây dựng và áp dụng tiêu chuẩn; Căn cứ Quyết định số 35/2018/QĐ-TTg ngày 14/8/2018 của Thủ tướng Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Tổng cục Đường bộ Việt Nam trực thuộc Bộ Giao thông vận tải; Căn cứ các văn bản của Bộ Giao thông vận tải: s..."
+    }
+  ]
+}

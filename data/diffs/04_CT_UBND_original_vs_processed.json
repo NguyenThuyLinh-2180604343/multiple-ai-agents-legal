@@ -1,0 +1,36 @@
+{
+  "base": "04_CT_UBND_original",
+  "revised": "04_CT_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section General.1",
+      "change": "added",
+      "to": "ỦY BAN NHÂN DÂN TỈNH TRÀ VINH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 04/CT-UBND Trà Vinh, ngày 28 tháng 4 năm 2023 CHỈ THỊ VỀ TĂNG CƯỜNG CÔNG TÁC BẢO ĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG TRÊN ĐỊA BÀN TỈNH TRÀ VINH Thời gian qua, các sở, ban, ngành, đoàn thể tỉnh, chính quyền địa phương các cấp đã chỉ đạo, triển khai thực hiện nghiêm túc, đồng bộ các giải pháp bảo đảm trật tự, an toàn giao thông; qua đó, tình hình trật tự, an toàn giao thông có chuyển biến tích cực, giao thông trong khu vực nội thành, nội thị và trên các quốc lộ, các tuyến trọng điểm được duy trì ổn định; tình hình vận tải được bảo đảm, năng lực vận chuyển và chất lượng dịch vụ được nâng cao. Tuy nhiên, thời gian gần đây, tình hình trật tự, an toàn giao thông còn diễn biến phức tạp, tai nạn giao thông tăng cả 03 tiêu chí về số vụ, số người chết, số người bị thương (cụ thể như: Trong quý I/2023, xảy ra 09 vụ (tăng 03 vụ (50%) so với cùng kỳ), làm chết 08 người (tăng 02 người chết (33,3%) so với cùng kỳ, bị thương 03 người (tăng 01 người bị thương (50%) so với cùng kỳ), thiệt hại tài sản khoảng 68,5 triệu đồng). Nguyên nhân chủ yếu do một số cấp ủy đảng, chính quyền địa phương, các đoàn thể chỉ đạo thực hiện vẫn chưa thực sự quyết liệt, chủ quan, lơ là và thiếu đồng bộ các giải pháp trong công tác bảo đảm trật tự, an toàn giao thông; công tác phối hợp giữa các cấp, ngành, địa phương chưa chặt chẽ; việc thực hiện các văn bản pháp luật có liên quan trong lĩnh vực trật tự, an toàn giao thông từng lúc còn thiếu nghiêm túc; công tác kiểm tra, giám sát, đôn đốc việc triển khai thực hiện còn hình thức, hiệu quả chưa cao; chưa kịp thời phát hiện và xử lý nghiêm các trường hợp vi phạm. Để khắc phục những tồn tại hạn chế nêu trên và phấn đấu trong năm 2023 giảm từ 5 đến 10% cả 3 tiêu chí về số vụ, số người chết và số người bị thương do tai nạn giao thông so với cùng kỳ năm 2022 theo Kế hoạch số 05/KH-BATGT ngày 02/02/2023 của Ban An toàn giao"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "ngành, đoàn thể tỉnh, Chủ tịch Ủy ban nhân dân các huyện, thị xã, thành phố, Chủ tịch Ủy ban nhân dân xã, phường, thị trấn thực hiện nghiêm túc một số nội dung sau: 1. Tiếp tục tổ chức thực hiện nghiêm túc Chỉ thị số 10/CT-TTg ngày 19/4/2023 của Thủ tướng Chính phủ về tăng cường công tác bảo đảm trật tự, an toàn giao thông đường bộ trong tình hình mới; Công điện số 281/CĐ-TTg ngày 20/4/2023 của Thủ tướng Chính phủ về việc bảo đảm trật tự, an toàn giao thông phục vụ nhu cầu đi lại của Nhân dân dịp nghỉ Lễ Giỗ Tổ Hùng Vương, Lễ 30/4 - 01/5 và cao điểm du lịch hè 2023 và ý kiến chỉ đạo của Chủ tịch UBND tỉnh tại Công văn số 1474/UBND- CNXD ngày 23/4/2021 về việc tăng cường xử lý bến thủy nội địa không đảm bảo an toàn cho cầu đường bộ vượt sông và trật tự, an toàn giao thông đường thủy nội địa; Công văn số 4259/UBND-CNXD ngày 20/9/2022 về việc tiếp tục tăng cường thực hiện các giải pháp bảo đảm trật tự, an toàn giao thông trên địa bàn tỉnh; Công văn số 1243/UBND-CNXD ngày 29/3/2023 về việc đẩy mạnh thực hiện một số biện pháp bảo đảm trật tự, an toàn giao thông trên địa bàn tỉnh. 2. Thực hiện nghiêm Kết luận số 45-KL/TW ngày 01/02/2019 của Ban Bí thư về tiếp tục đẩy mạnh thực hiện có hiệu quả Chỉ thị số 18-CT/TW của Ban Bí thư về tăng cường sự lãnh đạo của Đảng đối với công tác bảo đảm trật tự, an toàn giao thông đường bộ, đường sắt, đường thủy nội địa và khắc phục ùn tắc giao thông; tiếp tục tuyên truyền, phổ biến Luật"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "rượu bia, không điều khiển phương tiện giao thông”; nghiêm cấm can thiệp, tác động vào quá trình kiểm tra, xử lý vi phạm trật tự, an toàn giao thông của lực lượng thực thi công vụ. Người đứng đầu đơn vị, địa phương chịu trách nhiệm trước Ủy ban nhân dân tỉnh nếu để cán bộ, công chức, viên chức thuộc quyền quản lý vi phạm pháp luật về giao thông. 3. Công an tỉnh a) Chỉ đạo lực lượng Cảnh sát giao thông và các lực lượng chức năng tăng cường công tác tuần tra, kiểm tra, kiểm soát, xử lý vi phạm trật tự, an toàn giao thông, tập trung xử lý những hành vi vi phạm là nguyên nhân chính dẫn đến các vụ tai nạn giao thông nghiêm trọng. Thực hiện thường xuyên, quyết liệt việc kiểm soát nồng độ cồn, ma túy"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "cầu đường; công tác kiểm tra niên hạn sử dụng, quá hạn đăng kiểm phương tiện giao thông. Đẩy mạnh ứng dụng khoa học công nghệ để đổi mới mạnh mẽ, căn bản phương thức hoạt động tuần tra kiểm soát, xử lý vi phạm. b) Nghiên cứu, tổng hợp, đề xuất; xây dựng, bổ sung hoàn thiện các phương án phòng ngừa, giải quyết ùn tắc giao thông phù hợp với tình h"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH TRÀ VINH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 04/CT-UBND Trà Vinh, ngày 28 tháng 4 năm 2023 CHỈ THỊ VỀ TĂNG CƯỜNG CÔNG TÁC BẢO ĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG TRÊN ĐỊA BÀN TỈNH TRÀ VINH Thời gian qua, các sở, ban, ngành, đoàn thể tỉnh, chính quyền địa phương các cấp đã chỉ đạo, triển khai thực hiện nghiêm túc, đồng bộ các giải pháp bảo đảm trật tự, an toàn giao thông; qua đó, tình hình trật tự, an toàn giao thông có chuyển biến tích cực, giao thông trong khu vực nội thành, nội thị và trên các quốc lộ, các tuyến trọng điểm được duy trì ổn định; tình hình vận tải được bảo đảm, năng lực vận chuyển và chất lượng dịch vụ được nâng cao. Tuy nhiên, thời gian gần đây, tình hình trật tự, an toàn giao thông còn diễn biến phức tạp, tai nạn giao thông tăng cả 03 tiêu chí về số vụ, số người chết, số người bị thương (cụ thể như: Trong quý I/2023, xảy ra 09 vụ (tăng 03 vụ (50%) so với cùng kỳ), làm chết 08 ng..."
+    }
+  ]
+}

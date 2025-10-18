@@ -1,0 +1,42 @@
+{
+  "base": "41_VBHN_BGTVT_1_original",
+  "revised": "41_VBHN_BGTVT_1_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "chỉnh 1. Thông tư này quy định về các biểu mẫu giấy chứng nhận, sổ an toàn kỹ thuật và bảo vệ môi trường cấp cho tàu biển, tàu lặn [3] , ụ nổi, kho chứa nổi, giàn di động, phương tiện thủy nội địa và sản phẩm công nghiệp sử dụng cho phương tiện thủy nội địa. 2. Thông tư này không điều chỉnh đối với tàu biển, tàu lặn [4] , ụ nổi, kho chứa nổi, giàn di động, phương tiện thủy nội địa và sản phẩm công nghiệp sử dụng cho phương tiện thủy nội địa sử dụng vào mục đích quốc phòng, an ninh và tàu cá."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "dụng Thông tư này áp dụng đối với tổ chức, cá nhân có liên quan đến hoạt động thiết kế, chế tạo, đóng mới, sửa chữa, hoán cải, nhập khẩu, sử dụng và thực hiện công tác đăng kiểm về chất lượng an toàn kỹ thuật, bảo vệ môi trường, an toàn lao động đối với tàu biển, tàu lặn [5] , ụ nổi, kho chứa nổi, giàn di động, phương tiện thủy nội địa và sản phẩm công nghiệp sử dụng cho phương tiện thủy nội địa."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "bản quy phạm pháp luật được viện dẫn tại Thông tư này được sửa đổi, bổ sung hoặc được thay thế thì áp dụng các văn bản quy phạm pháp luật sửa đổi, bổ sung hoặc thay thế tương ứng. Chương II CÁC BIỂU MẪU GIẤY CHỨNG NHẬN, SỔ AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "giấy chứng nhận, sổ an toàn kỹ thuật và bảo vệ môi trường theo các quy định của pháp luật Việt Nam 1. Các biểu mẫu giấy chứng nhận, sổ an toàn kỹ thuật và bảo vệ môi trường cấp cho tàu biển, tàu lặn [6] quy định tại Phụ lục I ban hành kèm theo Thông tư này. 2. Các biểu mẫu giấy chứng nhận, sổ an toàn kỹ thuật và bảo vệ môi trường cấp cho ụ nổi, kho chứa nổi, giàn di động quy định tại Phụ lục II ban hành kèm theo Thông tư này. 3. Các biểu mẫu giấy chứng nhận, sổ an toàn kỹ thuật và bảo vệ môi trường cấp cho phương tiện thủy nội địa quy định tại Phụ lục III ban hành kèm theo Thông tư này. 4. Các biểu mẫu giấy chứng nhận cấp cho sản phẩm công nghiệp sử dụng cho phương tiện thủy nội địa quy định tại Phụ lục IV ban hành kèm theo Thông tư này."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường cấp cho tàu biển, kho chứa nổi, giàn di động theo các công ước quốc tế của Tổ chức Hàng hải quốc tế (IMO) và Tổ chức Lao động quốc tế (ILO) 1. Các giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường được cấp theo các công ước quốc tế của IMO và ILO mà Việt Nam là thành viên thì áp dụng các biểu mẫu theo quy định của các công ước quốc tế. 2. Các giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường được cấp theo các công ước quốc tế của IMO và ILO mà Việt Nam chưa là thành viên hoặc công ước không quy định cụ thể mẫu giấy chứng nhận, theo yêu cầu của chủ tàu biển, kho chứa nổi, giàn di động để cung cấp thông tin cho các cơ quan liên quan biết tàu biển, kho chứa nổi, giàn di động đã phù hợp thì áp dụng các biểu mẫu giấy chứng nhận quy định tại Phụ lục V ban hành kèm t"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 41/VBHN-BGTVT Hà Nội, ngày 30 tháng 12 năm 2024 THÔNG TƯ QUY ĐỊNH VỀ CÁC BIỂU MẪU GIẤY CHỨNG NHẬN, SỔ AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG CẤP CHO TÀU BIỂN, TÀU LẶN [1] , Ụ NỔI, KHO CHỨA NỔI, GIÀN DI ĐỘNG, PHƯƠNG TIỆN THỦY NỘI ĐỊA VÀ SẢN PHẨM CÔNG NGHIỆP SỬ DỤNG CHO PHƯƠNG TIỆN THỦY NỘI ĐỊA Thông tư số 20/2022/TT-BGTVT ngày 29 tháng 7 năm 2022 của Bộ trưởng Bộ Giao thông vận tải quy định về các biểu mẫu giấy chứng nhận, sổ an toàn kỹ thuật và bảo vệ môi trường cấp cho tàu biển, ụ nổi, kho chứa nổi, giàn di động, phương tiện thủy nội địa và sản phẩm công nghiệp sử dụng cho phương tiện thủy nội địa, có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2023 được sửa đổi, bổ sung bởi: Thông tư số 26/2024/TT-BGTVT ngày 02 tháng 7 năm 2024 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của Thông tư số 20/2022/TT-BGTVT ngày 29 tháng 7 năm 2022 của Bộ t..."
+    }
+  ]
+}

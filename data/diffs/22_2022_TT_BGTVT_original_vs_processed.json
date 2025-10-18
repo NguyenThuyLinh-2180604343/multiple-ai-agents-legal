@@ -1,0 +1,30 @@
+{
+  "base": "22_2022_TT_BGTVT_original",
+  "revised": "22_2022_TT_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "vi điều chỉnh 1. Thông tư này hướng dẫn một số nội dung trong báo cáo nghiên cứu tiền khả thi, báo cáo nghiên cứu khả thi dự án đầu tư theo phương thức đối tác công tư, loại hợp đồng xây dựng - kinh doanh - chuyển giao (sau đây gọi là hợp đồng BOT) thuộc lĩnh vực giao thông vận tải, bao gồm: chỉ tiêu hiệu quả kinh tế xã hội; khung lợi nhuận trên vốn chủ sở hữu của nhà đầu tư; chỉ số đánh giá chất lượng của công trình, hệ thống cơ sở hạ tầng do doanh nghiệp dự án cung cấp; thời hạn khấu hao công trình, hệ thống cơ sở hạ tầng. 2. Đối với các loại hợp đồng Xây dựng - Chuyển giao - Kinh doanh (BTO), hợp đồng Xây dựng - Sở hữu - Kinh doanh (BOO), hợp đồng Kinh doanh - Quản lý (O&M), hợp đồng Xây dựng - Chuyển giao - Thuê dịch vụ (BTL), hợp đồng Xây dựng - Thuê dịch vụ - Chuyển giao (BLT) và hợp đồng hỗn hợp: quá trình thực hiện căn cứ các quy định tại Thông tư này và các quy định của pháp luật có liên quan để áp dụng các nội dung phù hợp với loại hợp đồng, tính chất đặc thù của từng lĩnh vực, dự án khi lập báo cáo nghiên cứu tiền khả thi, báo cáo nghiên cứu khả thi."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "tượng áp dụng Thông tư này áp dụng đối với các tổ chức, cá nhân có liên quan đến hoạt động lập báo cáo nghiên cứu tiền khả thi, báo cáo nghiên cứu khả thi dự án đầu tư thuộc lĩnh vực giao thông vận tải theo phương thức đối tác công tư, loại hợp đồng BOT. Chương II CHỈ TIÊU HIỆU QUẢ KINH TẾ XÃ HỘI; KHUNG LỢI NHUẬN TRÊN VỐN CHỦ SỞ HỮU CỦA NHÀ ĐẦU TƯ; CHỈ SỐ ĐÁNH GIÁ CHẤT LƯỢNG CÔNG TRÌNH, HỆ THỐNG CƠ SỞ HẠ TẦNG DO DOANH NGHIỆP DỰ ÁN CUNG CẤP VÀ THỜI HẠN KHẤU HAO CÔNG TRÌNH, HỆ THỐNG CƠ SỞ HẠ TẦNG"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "tiêu hiệu quả kinh tế - xã hội 1. Chỉ tiêu hiệu quả kinh tế - xã hội của dự án bao gồm: giá trị hiện tại ròng kinh tế (ENPV); tỷ số lợi ích trên chi phí về kinh tế (BCR); tỷ suất nội hoàn kinh tế (EIRR). Việc tính toán các chỉ tiêu trên thực hiện theo quy định tại Phần IV mẫu số 01 Phụ lục II và Phần IV mẫu số 01 Phụ lục III, Nghị định số 35/2021/NĐ-CP ngày 29 tháng 3 năm 2021 của Chính phủ quy định chi tiết và hướng dẫn thi hành Luật Đầu tư theo phương thức đối tác công tư. 2. Lợi ích kinh tế - xã hội của dự án Lợi ích kinh tế - xã hội của dự án bao gồm các nhóm dưới đây: a) Nhóm lợi ích có thể định lượng và quy đổi được thành tiền, bao gồm: lợi ích do giảm chi phí vận hành phương tiện, lợi ích do tiết kiệm thời gian vận chuyển hàng hoá, hành khách. b) Nhóm lợi ích có thể định lượng nhưng không định giá được, bao gồm: lợi ích do cải thiện về môi trường do giảm thiểu tác động môi trường về khí thải, bụi, tiếng ồn, lợi ích do thúc đẩy tăng trưởng kinh tế, gia tăng việc làm, tăng cường năng lực lưu thông hành khách, hàng hóa, lợi ích do giảm tai nạn giao thông. c) Nhóm lợi ích chỉ có thể định tính, bao gồm: lợi ích do tăng tính kết nối giữa các khu vực, lợi ích do tạo việc làm và cải thiện chất lượng cuộc sống của người dân vùng dự án. d) Đơn vị lập báo cáo nghiên cứu tiền khả thi, báo cáo nghiên cứu khả thi có thể bổ sung các lợi ích khác ngoài các lợi ích nêu tại điểm a, b, c khoản 2 Điều này, đảm bảo phù hợp với loại hợp đồng, tính chất đặc thù của từng lĩnh vực, dự án và các quy định của pháp luật có liên quan. e) Trường hợp không đủ điều kiện xác định các yếu tố lợi ích có thể định lượng và quy đổi được thành tiền để tính toán các chỉ tiêu hiệu quả kinh tế - xã hội của dự án, đơn vị lập báo cáo nghiên cứu tiền khả thi, bá"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 22/2022/TT-BGTVT Hà Nội, ngày 31 tháng 08 năm 2022 THÔNG TƯ HƯỚNG DẪN MỘT SỐ NỘI DUNG TRONG BÁO CÁO NGHIÊN CỨU TIỀN KHẢ THI, BÁO CÁO NGHIÊN CỨU KHẢ THI DỰ ÁN ĐẦU TƯ THEO PHƯƠNG THỨC ĐỐI TÁC CÔNG TƯ, LOẠI HỢP ĐỒNG XÂY DỰNG - KINH DOANH - CHUYỂN GIAO THUỘC LĨNH VỰC GIAO THÔNG VẬN TẢI Căn cứ Luật Đầu tư theo phương thức đối tác công tư ngày 18 tháng 6 năm 2020; Căn cứ Luật Sửa đổi, bổ sung một số điều của Luật Đầu tư công, Luật Đầu tư theo phương thức đối tác công tư, Luật Đầu tư, Luật Nhà ở, Luật Đấu thầu, Luật Điện lực, Luật Doanh nghiệp, Luật Thuế tiêu thụ đặc biệt và Luật Thi hành án dân sự ngày 11 tháng 01 năm 2022; Căn cứ Nghị định số 28/2021/NĐ-CP ngày 26 tháng 3 năm 2021 của Chính phủ quy định cơ chế quản lý tài chính dự án đầu tư theo phương thức đối tác công tư; Căn cứ Nghị định số 35/2021/NĐ-CP ngày 29 tháng 3 năm 2021 của Chính phủ quy định chi ..."
+    }
+  ]
+}

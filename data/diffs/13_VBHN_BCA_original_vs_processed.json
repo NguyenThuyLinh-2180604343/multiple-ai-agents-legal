@@ -1,0 +1,30 @@
+{
+  "base": "13_VBHN_BCA_original",
+  "revised": "13_VBHN_BCA_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "công, phân cấp tuyến, địa bàn tuần tra, kiểm soát; nhiệm vụ, quyền hạn, hình thức, nội dung; trang phục; trang bị, sử dụng phương tiện giao thông, phương tiện, thiết bị kỹ thuật nghiệp vụ, vũ khí, công cụ hỗ trợ và quy trình tuần tra, kiểm soát, xử lý vi phạm hành chính về giao thông đường bộ của Cảnh sát giao thông; huy động lực lượng Cảnh sát khác, Công an xã, phường, thị trấn (sau đây gọi chung là Cảnh sát khác) phối hợp với Cảnh sát giao thông tham gia tuần tra, kiểm soát trật tự, an toàn giao thông đường bộ trong trường hợp cần thiết."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "vụ Cảnh sát giao thông (sau đây gọi chung là cán bộ Cảnh sát giao thông) thực hiện nhiệm vụ tuần tra, kiểm soát, xử lý vi phạm hành chính về giao thông đường bộ (sau đây viết gọn là tuần tra, kiểm soát, xử lý vi phạm). 2. Sĩ quan, hạ sĩ quan nghiệp vụ của lực lượng Cảnh sát khác được huy động phối hợp với Cảnh sát giao thông tham gia tuần tra, kiểm soát trật tự, an toàn giao thông đường bộ. 3. Công an các đơn vị, địa phương. 4. Cơ quan, tổ chức, cá nhân có liên quan đến hoạt động giao thông đường bộ trên lãnh thổ nước Cộng hoà xã hội chủ nghĩa Việt Nam."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "soát, xử lý vi phạm 1. Thực hiện đúng quy định của pháp luật giao thông đường bộ; pháp luật xử lý vi phạm hành chính; Thông tư này và các quy định khác của pháp luật có liên quan. 2. Thực hiện đúng, đầy đủ, có trách nhiệm đối với nhiệm vụ được phân công theo quy định, kế hoạch tuần tra, kiểm soát đã được cấp có thẩm quyền ban hành; thực hiện dân chủ trong công tác bảo đảm trật tự, an toàn giao thông và"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ CÔNG AN -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 13/VBHN-BCA Hà Nội, ngày 25 tháng 07 năm 2024 THÔNG TƯ QUY ĐỊNH NHIỆM VỤ, QUYỀN HẠN, HÌNH THỨC, NỘI DUNG VÀ QUY TRÌNH TUẦN TRA, KIỂM SOÁT, XỬ LÝ VI PHẠM HÀNH CHÍNH VỀ GIAO THÔNG ĐƯỜNG BỘ CỦA CẢNH SÁT GIAO THÔNG Thông tư số 32/2023/TT-BCA ngày 01 tháng 8 năm 2023 của Bộ trưởng Bộ Công an quy định nhiệm vụ, quyền hạn, hình thức, nội dung và quy trình tuần tra, kiểm soát, xử lý vi phạm hành chính về giao thông đường bộ của Cảnh sát giao thông, có hiệu lực kể từ ngày 15 tháng 9 năm 20 23, được sửa đổi, bổ sung bởi: Thông tư số 28/2024/TT-BCA ngày 29 tháng 6 năm 2024 của Bộ trưởng Bộ Công an sửa đổi, bổ sung một số điều của Thông tư số 32/2023/TT-BCA ngày 01 tháng 8 năm 2023 của Bộ trưởng Bộ Công an quy định nhiệm vụ, quyền hạn, hình thức, nội dung và quy trình tuần tra, kiểm soát, xử lý vi phạm hành chính về giao thông đường bộ của Cảnh sát giao thông; Thông tư số 2..."
+    }
+  ]
+}

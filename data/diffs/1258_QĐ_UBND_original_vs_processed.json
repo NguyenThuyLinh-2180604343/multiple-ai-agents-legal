@@ -1,0 +1,36 @@
+{
+  "base": "1258_QĐ_UBND_original",
+  "revised": "1258_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "Quyết định này danh mục 03 thủ tục hành chính (TTHC) được ban hành mới trong lĩnh vực giao thông vận tải thuộc phạm vi chức năng quản lý của Sở Giao thông vận tải tỉnh Thừa Thiên Huế (Có Danh mục TTHC kèm theo) ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "tải có trách nhiệm: 1. Đồng bộ dữ liệu TTHC mới công bố từ Cơ sở dữ liệu quốc gia về TTHC về Cơ sở dữ liệu TTHC của tỉnh Thừa Thiên Huế theo đúng quy định ; Trong thời hạn 10 ngày kể từ ngày Quyết định này có hiệu lực, trình Chủ tịch UBND tỉnh phê duyệt quy trình nội bộ giải quyết các TTHC liên quan, hoàn thành việc cấu hình thủ tục hành chính trên phần mềm hệ thống xử lý dịch vụ công tập trung. 2. Niêm yết, công khai theo quy định các thủ tục hành chính đã được ban hành tại Quyết định này. 3. Triển khai thực hiện giải quyết các TTHC liên quan theo hướng dẫn tại Quyết định này kèm theo các nội dung đã được Bộ Giao thông vận tải công khai trên Cổng dịch vụ công quốc gia ( https://dichvucong.gov.vn/ ) và UBND tỉnh công khai trên Cổng dịch vụ công tỉnh (https://dichvucong.thuathienhue.gov.vn/) theo quy định."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "có hiệu lực thi hành kể từ ngày 15 tháng 5 năm 2024."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "TỤC HÀNH CHÍNH ĐƯỢC BAN HÀNH MỚI TRONG LĨNH VỰC GIAO THÔNG VẬN TẢI THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH THỪA THIÊN HUẾ (Ban hành kèm theo Quyết định số 1258/QĐ-UBND ngày 14 tháng 5 năm 2024 của Chủ tịch UBND tỉnh Thừa Thiên Huế) STT Tên TTHC (Mã số TTHC) Thời hạn giải quyết Địa điểm, cách thức thực hiện Phí, lệ phí (nếu có) Căn cứ pháp lý Cơ quan thực hiện 1 Cấp Giấy phép vận chuyển hàng hóa nguy hiểm (2.002615) 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng theo quy định (trong đó 03 ngày tại Sở Giao thông vận tải; 02 ngày tại UBND tỉnh) - Nộp hồ sơ trực tiếp hoặc qua dịch vụ bưu chính công ích đến Trung tâm Phục vụ hành chính công tỉnh (Số 01 Lê Lai, phường Vĩnh Ninh, thành phố Huế). - Nộp hồ sơ trực tuyến trên Hệ thống thông tin giải quyết TTHC tỉnh ( https://dichvucong.thu athienhue.gov.vn ) hoặc Cổng Dịch vụ công quốc gia (https://dichvucong.gov. vn). Không Nghị định số 34/2024/NĐ-CP ngày 31 tháng 3 năm 2024 của Chính phủ quy định về Danh mục hàng hoá nguy hiểm, vận chuyển hàng hoá nguy hiểm bằng phương tiện giao thông cơ giới đường bộ và phương tiện thủy nội địa UBND tỉnh, Sở GTVT 2 Điều chỉnh thông tin trên Giấy phép vận chuyển hàng hóa nguy hiểm khi có sự thay đổi liên quan đến nội dung của Giấy phép (2.002616) 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng theo quy định (trong đó 02 ngày tại Sở Giao thông vận tải; 01 ngày tại UBND tỉnh) Không UBND tỉnh, Sở GTVT 3 Cấp lại Giấy phép vận chuyển hàng hóa nguy hiểm do bị mất, bị hỏng (2.002617) 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng theo quy định (trong đó 01 ngày tại Sở Giao thông vận tải; 01 ngày tại UBND tỉnh) Không UBND tỉnh, Sở GTVT Ghi"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH THỪA THIÊN HUẾ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 1258/QĐ-UBND Thừa Thiên Huế, ngày 14 tháng 5 năm 2024 QUYẾT ĐỊNH CÔNG BỐ DANH MỤC THỦ TỤC HÀNH CHÍNH ĐƯỢC BAN HÀNH MỚI TRONG LĨNH VỰC GIAO THÔNG VẬN TẢI THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH THỪA THIÊN HUẾ CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015 và Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 48/2013/NĐ-CP ngày 14 tháng 5 năm 2013 và Nghị định số 92/2017/NĐ-CP ngày 07 tháng 8 năm 2017 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Thông tư số 02/2017/TT-VPCP ngày 31 tháng 10 năm 2017 của Bộ trưởng, Chủ nh..."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "base": "228_2025_NĐ_CP_original",
+  "revised": "228_2025_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "hành vi vi phạm hành chính, thời hiệu xử phạt, hình thức xử phạt, mức xử phạt, các biện pháp khắc phục hậu quả, thẩm quyền lập biên bản và thẩm quyền xử phạt vi phạm hành chính trong lĩnh vực kiểm toán độc lập."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "nước và nước ngoài (sau đây gọi là cá nhân, tổ chức) có hành vi vi phạm hành chính trong lĩnh vực kiểm toán độc lập. 2. Tổ chức là đối tượng bị xử phạt vi phạm hành chính trong lĩnh vực kiểm toán độc lập theo quy định của Nghị định này bao gồm: a) Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam; b) Doanh nghiệp được thành lập và hoạt động theo pháp luật Việt Nam; chi nhánh, văn phòng đại diện của doanh nghiệp; doanh nghiệp kiểm toán nước ngoài; chi nhánh, văn phòng đại diện của doanh nghiệp nước ngoài hoạt động tại Việt Nam; c) Tổ chức nghề nghiệp về kiểm toán; cơ sở đào tạo về kiểm toán. 3. Người có thẩm quyền lập biên bản, xử phạt vi phạm hành chính, cơ quan tổ chức, cá nhân khác có liên quan."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "phạm hành chính trong lĩnh vực kiểm toán độc lập là 05 năm. 2. Thời điểm tính thời hiệu xử phạt vi phạm hành chính trong lĩnh vực kiểm toán độc lập được quy định như sau: a) Đối với hành vi vi phạm hành chính trong lĩnh vực kiểm toán đang được thực hiện thì thời hiệu được tính từ ngày người có thẩm quyền thi hành công vụ phát hiện hành vi vi phạm; b) Đối với hành vi vi phạm hành chính đã kết thúc thì thời hiệu được tính từ ngày chấm dứt hành vi vi phạm."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "pháp khắc phục hậu quả sau: a) Buộc mua bảo hiểm trách nhiệm nghề nghiệp hoặc trích lập quỹ dự phòng rủi ro nghề nghiệp theo quy định của pháp luật về kiểm toán độc lập; b) Buộc xây dựng và vận hành hệ thống kiểm soát nội bộ; c) Buộc lập trang thông tin điện tử; cải chính thông tin sai sự thật hoặc gây nhầm lẫn, công bố, cập nhật đầy đủ thông tin; d) Buộc nộp lại số lợi bất hợp pháp có được do thực hiện hàn"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "hành chính trong lĩnh vực kiểm toán độc lập, ngoài việc bị áp dụng hình thức xử phạt quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 228/2025/NĐ-CP Hà Nội, ngày 18 tháng 8 năm 2025 NGHỊ ĐỊNH QUY ĐỊNH XỬ PHẠT VI PHẠM HÀNH CHÍNH TRONG LĨNH VỰC KIỂM TOÁN ĐỘC LẬP Căn cứ Luật Tổ chức Chính phủ số 63/2025/QH15 ; Căn cứ Luật Xử lý vi phạm hành chính số 15/2012/QH13 ; Luật sửa đổi, bổ sung Luật Xử lý vi phạm hành chính số 67/2020/QH14 ; Luật sửa đổi, bổ sung Luật Xử lý vi phạm hành chính số 88/2025/QH15 ; Căn cứ Luật Kiểm toán độc lập số 67/2011/QH12 ; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán, Luật Kế toán, Luật Kiểm toán độc lập, Luật Ngân sách nhà nước, Luật Quản lý, sử dụng tài sản công, Luật Quản lý thuế, Luật Thuế thu nhập cá nhân, Luật Dự trữ quốc gia, Luật Xử lý vi phạm hành chính số 54/2024/QH15 ; Theo đề nghị của Bộ trưởng Bộ Tài chính; Chính phủ ban hành Nghị định quy định xử phạt vi phạm hành chính trong lĩnh vực kiểm toán độc lập. Chương I NHỮNG QUY ĐỊNH CHUNG Điều 1. Phạm vi đi..."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "doc_id": "43_2019_QĐ_UBND",
+  "meta": {
+    "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-43-2019-QD-UBND-bai-bo-Quyet-dinh-927-QD-UBND-tinh-Ha-Nam-441387.aspx",
+    "crawl_time": "2025-10-15T12:19:49.039513",
+    "number": "43/2019/QĐ-UBND",
+    "field": "Giao thông",
+    "issue_date": "19/11/2019",
+    "agency": "ỦY BAN NHÂN",
+    "content": "ỦY BAN NHÂN\r\n  DÂN TỈNH HÀ NAM -------- CỘNG HÒA XÃ\r\n  HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 43/2019/QĐ-UBND Hà Nam, ngày\r\n  19 tháng 11 năm 2019 QUYẾT ĐỊNH VỀ VIỆC BÃI BỎ\r\nQUYẾT ĐỊNH SỐ 917/QĐ-UBND NGÀY 02 THÁNG 8 NĂM 2011 CỦA ỦY BAN NHÂN DÂN TỈNH HÀ\r\nNAM VỀ VIỆC QUY ĐỊNH CHỨC NĂNG, NHIỆM VỤ VÀ CƠ CẤU TỔ CHỨC CỦA TRUNG TÂM ĐĂNG\r\nKIỂM PHƯƠNG TIỆN GIAO THÔNG VẬN TẢI HÀ NAM ỦY BAN NHÂN DÂN TỈNH HÀ NAM Căn cứ Luật Tổ chức chính quyền địa phương\r\nngày 19 tháng 6 năm 2015; Căn cứ Luật Giao thông đường bộ ngày 13 tháng\r\n11 năm 2008; Căn cứ Luật Giao thông đường thủy nội địa\r\nngày 15 tháng 6 năm 2004; Luật sửa đổi, bổ sung Luật Giao thông đường thủy nội\r\nđịa ngày 11 tháng 6 năm 2014; Căn cứ Nghị định số 139/2011/NĐ-CP ngày 22\r\ntháng 9 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số\r\nđiều của Luật Thanh tra; Theo đề nghị của Giám đốc Sở Giao thông vận\r\ntải và Giám đốc Sở Nội vụ. QUYẾT ĐỊNH: Điều 1. Bãi bỏ Quyết\r\nđịnh số 927/QĐ-UBND ngày 02 tháng 8 năm 2011 của Ủy ban nhân dân tỉnh Hà Nam về\r\nviệc quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm\r\nĐăng kiểm phương tiện giao thông vận tải Hà Nam. Điều 2 . Quyết định\r\nnày có hiệu lực thi hành kể từ ngày 01 tháng 12 năm 2019. Điều 3. Chánh Văn\r\nphòng Ủy ban nhân dân tỉnh, Giám đốc các Sở: Giao thông vận tải, Nội vụ; Thủ\r\ntrưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./. TM. ỦY BAN\r\n  NHÂN DÂN CHỦ TỊCH Nguyễn Xuân Đông"
+  },
+  "structure": {
+    "articles": [
+      {
+        "article": "Điều 1",
+        "title": "Bãi bỏ Quyết",
+        "clauses": [
+          {
+            "no": "1",
+            "text": "định số 927/QĐ-UBND ngày 02 tháng 8 năm 2011 của Ủy ban nhân dân tỉnh Hà Nam về việc quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Trung tâm Đăng kiểm phương tiện giao thông vận tải Hà Nam.",
+            "points": []
+          }
+        ]
+      },
+      {
+        "article": "Điều 2",
+        "title": "Quyết định",
+        "clauses": [
+          {
+            "no": "1",
+            "text": "này có hiệu lực thi hành kể từ ngày 01 tháng 12 năm 2019.",
+            "points": []
+          }
+        ]
+      },
+      {
+        "article": "Điều 3",
+        "title": "Chánh Văn",
+        "clauses": [
+          {
+            "no": "1",
+            "text": "phòng Ủy ban nhân dân tỉnh, Giám đốc các Sở: Giao thông vận tải, Nội vụ; Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./. TM. ỦY BAN NHÂN DÂN CHỦ TỊCH Nguyễn Xuân Đông",
+            "points": []
+          }
+        ]
+      }
+    ],
+    "strategy_used": "dieu",
+    "validation": {
+      "status": "warning",
+      "issues": [
+        "Low content preservation: 31.52%"
+      ],
+      "stats": {
+        "original_length": 1456,
+        "segmented_length": 459,
+        "preservation_ratio": 0.31524725274725274,
+        "total_articles": 3,
+        "total_clauses": 3,
+        "total_points": 0
+      }
+    },
+    "document_type": "law"
+  }
+}

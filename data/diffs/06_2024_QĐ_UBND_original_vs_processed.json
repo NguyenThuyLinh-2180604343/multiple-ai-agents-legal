@@ -1,0 +1,30 @@
+{
+  "base": "06_2024_QĐ_UBND_original",
+  "revised": "06_2024_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "này quy định về phân cấp quản lý , khai thác và thực hiện bảo trì hệ thống đường bộ trên địa bàn tỉnh Lâm Đồng."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "này áp dụng với các cơ quan, tổ chức, cá nhân trong và ngoài nước có liên quan đến việc quản lý, khai thác và bảo trì hệ thống đường bộ trên địa bàn tỉnh Lâm Đồng."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "trì hệ thống đường bộ 1. Sở Giao thông vận tải trực tiếp thực hiện công tác quản lý, bảo trì và khai thác các tuyến đường quốc lộ được ủy thác, hệ thống đường tỉnh và một số tuyến đường quan trọng do Ủy ban nhân dân tỉnh giao. 2. Ủy ban nhân dân cấp huyện trực tiếp thực hiện công tác quản lý, bảo trì và khai thác hệ thống đường huyện, đường đô thị, đường xã trên địa bàn do địa phương quản lý theo quy định. 3. Ủy ban nhân dân cấp xã trực tiếp thực hiện quản lý, bảo trì và khai thác các tuyến đường trục thôn, xóm; đường ngõ, xóm và các điểm dân cư tương đương; đường trục chính nội đồng và các tuyến đường công cộng khác trên địa bàn. Ủy ban nhân dân cấp xã tùy theo điều kiện thực tế của địa phương có thể xem xét giao thôn hoặc cộng đồng dân cư nơi tuyến đường đi qua trực tiếp quản lý vận hành và thực hiện bảo trì đường trong nội bộ thôn, buôn, ngõ, xóm và các tuyến đường công cộng khác do mình được giao nhiệm vụ quản lý, bảo trì nhưng phải báo cáo Ủy ban nhân dân cấp huyện quyết định. 4. Cơ quan, tổ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH LÂM ĐỒNG -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 06/2024/QĐ-UBND Lâm Đồng, ngày 18 tháng 01 năm 2024 QUYẾT ĐỊNH BAN HÀNH QUY ĐỊNH VỀ PHÂN CẤP QUẢN LÝ, KHAI THÁC VÀ THỰC HIỆN BẢO TRÌ HỆ THỐNG ĐƯỜNG BỘ TRÊN ĐỊA BÀN TỈNH LÂM ĐỒNG ỦY BAN NHÂN DÂN TỈNH LÂM ĐỒNG Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật ngày 18 tháng 6 năm 2020; Căn cứ Luật Giao thông đường bộ ngày 13 tháng 11 năm 2008; Căn cứ các Nghị định của Chính phủ: số 11/2010/NĐ-CP ngày 24 tháng 02 năm 2010 quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ; số 100/2013/NĐ-CP ngày 03 tháng 9 năm 2013 sửa đổi, bổ sung một số điề..."
+    }
+  ]
+}

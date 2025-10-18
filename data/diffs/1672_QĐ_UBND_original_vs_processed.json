@@ -1,0 +1,30 @@
+{
+  "base": "1672_QĐ_UBND_original",
+  "revised": "1672_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "mục 02 thủ tục hành chính bãi bỏ trong lĩnh vực Đường bộ thuộc thẩm quyền giải quyết của Sở Giao thông vận tải tỉnh Yên Bái."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "kể từ ngày 05/10/2024."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "BÃI BỎ TRONG LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH YÊN BÁI (Ban hành kèm theo Quyết định số 1672/QĐ-UBND ngày 19 tháng 8 năm 2024 của Chủ tịch Ủy ban nhân dân tỉnh Yên Bái) STT Số hồ sơ TTHC Tên thủ tục hành chính Tên VBQPPL quy định việc bãi bỏ thủ tục hành chính 1 1.002889 Công bố đưa trạm dừng nghỉ vào khai thác Thông tư số 09/2024/TT-BGTVT ngày 05/4/2024 của Bộ trưởng Bộ Giao thông vận tải ban hành sửa đổi 01:2024 QCVN 43:2012/BGTVT - Quy chuẩn kỹ thuật Quốc gia về Trạm dừng nghỉ đường bộ 2 1.002883 Công bố lại đưa trạm dừng nghỉ vào khai thác Thông tư số 09/2024/TT-BGTVT ngày 05/4/2024 của Bộ trưởng Bộ Giao thông vận tải ban hành sửa đổi 01:2024 QCVN 43:2012/BGTVT - Quy chuẩn kỹ thuật Quốc gia về Trạm dừng nghỉ đường bộ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH YÊN BÁI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 1672/QĐ-UBND Yên Bái, ngày 19 tháng 8 năm 2024 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ DANH MỤC THỦ TỤC HÀNH CHÍNH BỊ BÃI BỎ TRONG LĨNH VỰC ĐƯỜNG BỘ THUỘC PHẠM VI QUẢN LÝ CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH YÊN BÁI CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH YÊN BÁI Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 92/2017/NĐ-CP ngày 07 tháng 8 năm 2017 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Thông tư số 02/2017/TT-VPCP ngày 31 tháng 10 năm 2017 của Văn phòng Chính phủ, hướng dẫn về nghiệp vụ kiểm soát thủ tục hành chính; Căn cứ Quyết định số 1009/QĐ-BGTV..."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "base": "3254_QĐ_UBND_original",
+  "revised": "3254_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "mục thủ tục hành chính lĩnh vực đường bộ thuộc phạm vi chức năng quản lý của Sở Giao thông vận tải tỉnh Thái Nguyên (có Phụ lục I kèm theo)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "kể từ ngày 01/01/2025. Quyết định này bãi bỏ 09 thủ tục hành chính cấp tỉnh gồm: 02 TTHC (số 07, 08 lĩnh vực đường bộ tại Mục I. TTHC cấp tỉnh) được ban hành tại Quyết định số 2488/QĐ-UBND ngày 14/10/2022 của Chủ tịch UBND tỉnh Thái Nguyên về việc công bố danh mục thủ tục hành chính, danh mục thủ tục hành chính chuẩn hóa năm 2022 thuộc phạm vi chức năng quản lý của Sở Giao thông vận tải tỉnh Thái Nguyên; 06 TTHC (số 26, 27, 28, 33, 34, 35 lĩnh vực đường bộ - Phụ lục I) được ban hành tại Quyết định số 3326/QĐ-UBND ngày 26/12/2023 của Chủ tịch UBND tỉnh Thái Nguyên về việc công bố danh mục thủ tục hành chính lĩnh vực đường bộ thuộc phạm vi chức năng quản lý của Sở Giao thông vận tải tỉnh Thái Nguyên; 01 TTHC (số 01 lĩnh vực đường bộ - Phụ lục I) được ban hành tại Quyết định số 122/QĐ-UBND ngày 17/01/2024 của Chủ tịch UBND tỉnh Thái Nguyên về việc công bố danh mục thủ tục hành chính lĩnh vực đường bộ thuộc phạm vi chức năng quản lý của Sở Giao thông vận tải tỉnh Thái Nguyên."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "HÀNH CHÍNH LĨNH VỰC ĐƯỜNG BỘ THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH THÁI NGUYÊN (Kèm theo Quyết định số 3254/QĐ-UBND ngày 20 tháng 12 năm 2024 của Chủ tịch Ủy ban nhân dân tỉnh Thái Nguyên) I. TTHC dùng chung cấp tỉnh, cấp huyện, cấp xã STT Tên TTHC Thời hạn giải quyết Địa điểm thực hiện Phí, lệ phí (nếu có) Căn cứ pháp lý quy định nội dung sửa đổi, bổ sung Cơ chế giải quyết 1 Cấp giấy phép thi công công trình trên đường bộ đang khai thác Trong thời hạn 07 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ theo quy định - Nơi tiếp nhận hồ sơ và trả kết quả giải quyết TTHC: + Trung tâm Phục vụ hành chính công tỉnh Thái Nguyên. Địa chỉ: số 17, đường Đội Cấn, phường Trưng Vương, thành phố Thái Nguyên, tỉnh Thái Nguyên + Bộ phận tiếp nhận hồ sơ và trả kết quả giải quyết TTHC của UBND cấp huyện + Bộ phận tiếp nhận hồ sơ và trả kết quả giải quyết TTHC của UBND cấp xã Không có Thông tư số 41/2024/TT- BGTVT ngày 15/11/2024 của Bộ trưởng Bộ Giao thông vận tải quy định về quản lý, vận hành, khai thác và bảo trì kết cấu hạ tầng đường bộ Một cửa II. TTHC cấp tỉnh STT Tên TTHC Thời hạn giải quyết Địa điểm thực hiện Phí, lệ phí (nếu có) Căn cứ pháp lý quy định nội dung sửa đổi, bổ sung Cơ chế"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH THÁI NGUYÊN ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 3254/QĐ-UBND Thái Nguyên, ngày 20 tháng 12 năm 2024 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ DANH MỤC THỦ TỤC HÀNH CHÍNH LĨNH VỰC ĐƯỜNG BỘ THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH THÁI NGUYÊN CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH THÁI NGUYÊN Căn cứ Luật Tổ chức chính quyền địa phương năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương năm 2019; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08/6/2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 92/2017/NĐ-CP ngày 07/8/2017 của Chính phủ về sửa đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Nghị định số 107/2021/NĐ-CP ngày 06/12/2021 của Chính phủ về ..."
+    }
+  ]
+}

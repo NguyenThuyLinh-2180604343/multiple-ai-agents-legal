@@ -1,0 +1,24 @@
+{
+  "base": "2231_QĐ_TCĐBVN_original",
+  "revised": "2231_QĐ_TCĐBVN_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "bố 02 Tiêu chuẩn cơ sở (TCCS) sau đây: TCCS 39 : 2022/TCĐBVN Thiết kế mặt đường bê tông xi măng thông thường có khe nối trong xây dựng công trình giao thông. TCCS 40 : 2022/TCĐBVN Thi công và nghiệm thu mặt đường bê tông xi măng trong xây dựng công trình giao thông."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "Bộ GTVT; - Các Phó Tổng Cục trưởng; - Các Vụ: QLBT ĐB; ATGT; KHĐT; - Các Cục: QLĐB I, II, III , IV; QLXD ĐB; - Các Ban QLDA 3, 4, 5, 8; - Các Sở Giao thông vận tải; - Trung tâm TT&TT ĐB; - Lưu: VT; KHCN, MT và HTQT. TỔNG CỤC TRƯỞNG Nguyễn Văn Huyện TIÊU CHUẨN CƠ SỞ BỘ GIAO THÔNG VẬN TẢI TỔNG CỤC ĐƯỜNG B Ộ VI Ệ T NAM TCCS 39 : 2022/TCĐBVN THIẾT KẾ MẶT ĐƯỜNG BÊ TÔNG XI MĂNG THÔNG THƯỜNG CÓ KHE NỐI TRONG XÂY DỰNG CÔNG TRÌNH GIAO THÔNG Specifications for Design of Jointed Plain Cement Concrete Pavement for Highway Lời nói đầu TCCS 39 : 2022/TCĐBVN xây dựng trên cơ sở tham khảo Quyết định số 3230/QĐ-BGTVT ngày 14/12/2012 của Bộ Giao thông vận tải. TCCS 39 : 2022/TCĐBVN do Tổng cục Đường bộ Việt Nam biên soạn, Bộ Giao thông vận tải thẩm định và giao Tổng cục Đường bộ Việt Nam công b ố . Thông tin liên hệ: Tổng cục Đường bộ Việt Nam. Vụ Khoa học công nghệ, Môi trường và Hợp tác quốc tế. Điện thoại: 024.38571647; Email: [email protected] ; Website: https://www.drvn.gov.vn THIẾT KẾ MẶT ĐƯỜNG BÊ TÔNG XI MĂNG THÔNG THƯỜNG CÓ KHE NỐI TRONG XÂY DỰNG CÔNG TRÌNH GIAO THÔNG Specifications for Design of Jointed Plain Cement Concrete Pavement for Highway 1 Phạm vi áp dụng 1.1 Tiêu chuẩn này quy định các yêu cầu và cung cấp các chỉ dẫn cần thiết để thiết kế kết cấu mặt đường bê tông xi măng (BTXM) thông thường có khe nối: trên các đường ô tô làm mới có cấp hạng khác nhau (bao gồm cả đường cao tốc); thiết kế mặt đường BTXM thông thường có khe nối trên các kết cấu mặt đường mềm. 1.2 Tiêu chuẩn này không áp dụng cho việc thiết kế sửa chữa mặt đường BTXM và thiết kế nâng cấp, cải tạo mặt đường BTXM cũ. 2 Tài liệu viện dẫn Các tài liệu viện dẫn sau rất cần thiết cho việc áp dụng tiêu chuẩn này. Đối với các tài liệu viện dẫn ghi năm ban hành thì áp dụng bản được nêu. Đối với các tài liệu viện dẫn không ghi năm ban hành thì áp dụng phiên bản mới nhất, bao gồm cả các sửa đổi, bổ sung (nếu có). TCVN 3105 ÷ TCVN 3120 Bê tông nặng - Các phương pháp xác định chỉ tiêu cơ lý TCVN 4054 Đường ô tô - Yêu cầu thiết kế TCVN 5729 Đường ô tô cao tốc - Yêu cầu thiết kế TCVN 7957 Thoát nước - Mạng lưới và công trình bên ngoài - Tiêu chuẩn thiết kế TCVN 8819 Mặt đường bê tông nhựa nóng - Yêu cầu thi công và nghiệm thu TCVN 8858 Móng cấp phối đá dăm và cấp phối thiên nhiên gia cố xi măng trong kết cấu áo đường ôtô - Thi công và nghiệm thu TCVN 8859 Móng cấp phối đá dăm trong kết cấu áo đường ôtô - Vật liệu, thi công và nghiệm thu TCVN 8860 Bê tông nhựa và phương pháp thử TCVN 8862 Xác định cường độ kéo khi ép ch ẻ của vật liệu hạt liên kết bằng các chất kết dính TCVN 8864 Độ bằng ph ẳ ng mặt đường bằng thước dài 3 mét - Tiêu chuẩn thử nghiệm TCVN 8865 Mặt đường ô tô - Phương pháp đo và đánh giá xác định độ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI TỔNG CỤC ĐƯỜNG BỘ VIỆT NAM ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 2231/QĐ-TCĐBVN Hà Nội, ngày 11 tháng 5 năm 2022 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ TIÊU CHUẨN CƠ SỞ TỔNG CỤC TRƯỞNG TỔNG CỤC ĐƯỜNG BỘ VIỆT NAM Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật s ố 68/2006/QH11 ; Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01/8/2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ; Nghị định số 78/2018/NĐ-CP ngày 16/5/2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 127/2007/NĐ-CP ; Căn cứ Thông tư số 11/2021/TT-BKHCN ngày 18/11/2021 của Bộ Khoa học và Công nghệ quy định chi tiết xây dựng và áp dụng tiêu chuẩn; Căn cứ Quyết định số 35/2018/QĐ-TTg ngày 14/8/2018 của Thủ tướng Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Tổng cục Đường bộ Việt Nam trực thuộc Bộ Giao thông vận tải; Căn cứ văn bản s ố 3154/BGTVT-KHCN ngày 01/4/2022 c..."
+    }
+  ]
+}

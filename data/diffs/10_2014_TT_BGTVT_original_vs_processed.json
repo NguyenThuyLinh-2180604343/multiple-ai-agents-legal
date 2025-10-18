@@ -1,0 +1,48 @@
+{
+  "base": "10_2014_TT_BGTVT_original",
+  "revised": "10_2014_TT_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "Các hạng mục kiểm tra thuộc phần gầm của ô tô chở người từ 16 chỗ (kể cả chỗ người lái) trở lên, ô tô tải (kể cả ô tô tải chuyên dùng) và ô tô đầu kéo có khối lượng toàn bộ cho phép tham gia giao thông từ 10.000 kg trở lên đã sản xuất trên 7 năm phải do Đăng kiểm viên xe cơ giới bậc cao kiểm tra. Lộ trình áp dụng khoản này thực hiện từ ngày 01 tháng 7 năm 2015. 4. Xe cơ giới vào kiểm định phải được chụp ảnh, cụ thể như sau: a) Chụp ảnh tổng thể xe và ảnh biển số đăng ký của xe cơ giới trên dây chuyền kiểm định để in trên Phiếu kiểm định. b) Chụp ảnh xe cơ giới để in trên Giấy chứng nhận. Ảnh chụp ở góc chéo khoảng 45 độ từ phía sau bên phải theo chiều tiến của xe; Ảnh chụp rõ nét (độ phân giải tối thiểu 300dpi), thể hiện được tổng thể xe và biển số xe, phần ảnh xe cơ giới chiếm tối thiểu 75% diện tích của ảnh.” 2. Sửa đổi điểm a và điểm b khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 8.1",
+      "change": "added",
+      "to": "Tổ chức, cá nhân đưa xe cơ giới và các giấy tờ theo quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "thuộc đối tượng phải lắp thiết bị giám sát hành trình của xe, Đơn vị đăng kiểm hướng dẫn chủ xe ghi các nội dung trong Tờ khai theo mẫu quy định tại Phụ lục VII ban hành kèm theo Thông tư này. b) Đơn vị đăng kiểm tiếp nhận, kiểm tra, đối chiếu hồ sơ với dữ liệu trên Chương trình Quản lý kiểm định. Nếu không đầy đủ hoặc không hợp lệ thì hướng dẫn chủ xe hoàn thiện lại; nếu đầy đủ, hợp lệ thì thu phí, kiểm định, chụp ảnh phương tiện, chụp ảnh khoang hành khách (đối với ô tô khách) và kiểm tra thiết bị giám sát hành trình của xe qua website quản lý thiết bị với những xe thuộc đối tượng phải lắp thiết bị giám sát hành trình.” 3. Sửa đổi khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 9.1",
+      "change": "added",
+      "to": "Xe cơ giới kiểm định đạt tiêu chuẩn quy định được cấp Giấy chứng nhận kiểm định và Tem kiểm định theo mẫu quy định tại Phụ lục III của Thông tư này. Giấy chứng nhận kiểm định, Tem kiểm định phải có cùng một seri, có nội dung phù hợp với Hồ sơ phương tiện và được in trên phôi do Cục Đăng kiểm Việt Nam thống nhất phát hành. Đối với xe ô tô lắp thiết bị chấm điểm sử dụng trong Trung tâm sát hạch lái xe, xe ô tô tải sử dụng trong các nhà ga, cảng, khu khai thác khoáng sản, lâm nghiệp (không có nhu cầu tham gia giao thông đường bộ); xe cơ giới quá khổ, quá tải hoạt động trong phạm vi hẹp, không tham gia giao thông đường bộ thì chỉ cấp Giấy chứng nhận kiểm định và không cấp Tem kiểm định. Trong mục “Ghi chú” trên Giấy chứng nhận kiểm định có ghi dòng chữ: “Xe cơ giới hoạt động trong phạm vi hẹp, không tham gia giao thông đường bộ”.” 4. Bổ sung điểm d và điểm đ vào sau điểm c khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 12.1",
+      "change": "added",
+      "to": "Bản in kết quả kiểm tra thiết bị giám sát hành trình thông qua website. đ) Bản in ảnh chụp trong khoang hành khách của ô tô khách.” 5. Bổ sung khoản 7 vào sau khoản 6"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 16.1",
+      "change": "added",
+      "to": "Trang bị camera IP để giám sát hoạt động kiểm định trên dây chuyền. Hình ảnh quay từ camera phải được truyền tới màn hình đặt tại phòng chờ của chủ xe và truyền về Cục Đăng kiểm Việt Nam. Hình ảnh quay từ camera phải được lưu trữ tại Đơn vị đăng kiểm tối thiểu 30 ngày, kể từ ngày kiểm định.” 6. Sửa đổi Phụ lục III ban hành kèm theo Thông tư số 56/2012/TT-BGTVT bằng Phụ lục III ban hành kèm theo Thông tư này. 7. Bổ sung Phụ lục VII vào Thông tư số 56/2012/TT-BGTVT tương ứng Phụ lục IV ban hành kèm theo Thông tư này."
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------- Số: 10/2014/TT-BGTVT Hà Nội, ngày 23 tháng 04 năm 2014 THÔNG TƯ SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 56/2012/TT-BGTVT NGÀY 27/12/2012 CỦA BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI QUY ĐỊNH VỀ KIỂM ĐỊNH AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ VÀ THÔNG TƯ SỐ 10/2009/TT-BGTVT NGÀY 24/6/2009 CỦA BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI QUY ĐỊNH VỀ KIỂM TRA AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ Căn cứ Luật Giao thông đường bộ ngày 13 tháng 11 năm 2008; Căn cứ Nghị định số 107/2012/NĐ-CP ngày 20 tháng 12 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Theo đề nghị của Vụ trưởng Vụ Khoa học - Công nghệ và Cục trưởng Cục Đăng kiểm Việt Nam, Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư sửa đổi, bổ sung một số điều của Thông tư số 56/2012/TT-BGT..."
+    }
+  ]
+}

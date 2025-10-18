@@ -1,0 +1,36 @@
+{
+  "base": "1044_QĐ_UBND_original",
+  "revised": "1044_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "mục thủ tục hành chính (TTHC) bị bãi bỏ trong lĩnh vực đường bộ thuộc thẩm quyền giải quyết của Sở Giao thông vận tải tỉnh Quảng Ngãi."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "khai, đầy đủ Danh mục TTHC bị bãi bỏ trên Trang thông tin điện tử thành phần của Sở và niêm yết công khai tại cơ quan. 2. Sở Thông tin và Truyền thông chủ trì, phối hợp với Sở Giao thông vận tải và cơ quan, đơn vị có liên quan cập nhật bãi bỏ các TTHC được công bố tại Quyết định này trên Hệ thống thông tin giải quyết TTHC tỉnh."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "kể từ ngày 05/10/2024. Các TTHC và quy trình nội bộ được Chủ tịch UBND tỉnh công bố tại Quyết định số 1086/QĐ-UBND ngày 16/8/2022 không bị bãi bỏ tại Quyết định này vẫn giữ nguyên hiệu lực thi hành."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "BỊ BÃI BỎ TRONG LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH QUẢNG NGÃI (Ban hành kèm theo Quyết định số 1044/QĐ-UBND ngày 23/8/2024 của Chủ tịch UBND tỉnh) STT Mã TTHC Tên thủ tục hành chính Tên văn bản quy phạm pháp luật quy định việc bãi bỏ thủ tục hành chính 01 1.002889.000.00.00.H48 Công bố đưa trạm dừng nghỉ vào khai thác Thông tư số 09/2024/TT-BGTVT ngày 05/4/2024 của Bộ trưởng Bộ Giao thông vận tải ban hành sửa đổi 01:2024 QCVN 43:2012/BGTVT - Quy chuẩn kỹ thuật quốc gia về Trạm dừng nghỉ đường bộ (có hiệu lực thi hành kể từ ngày 05/10/2024) 02 1.002883.000.00.00.H48 Công bố lại đưa trạm dừng nghỉ vào khai thác"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH QUẢNG NGÃI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 1044/QĐ-UBND Quảng Ngãi, ngày 23 tháng 8 năm 2024 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ DANH MỤC THỦ TỤC HÀNH CHÍNH BỊ BÃI BỎ TRONG LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH QUẢNG NGÃI CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH QUẢNG NGÃI Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08/6/2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 48/2013/NĐ-CP ngày 14/5/2013 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính; Nghị định số 92/2017/NĐ-CP ngày 07/8/2017 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Thông tư số 02/2017/TT-VPCP ngày 31/10/..."
+    }
+  ]
+}

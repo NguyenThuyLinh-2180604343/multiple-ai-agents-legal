@@ -1,0 +1,72 @@
+{
+  "base": "435_TB_VPCP_original",
+  "revised": "435_TB_VPCP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section Section_1.1",
+      "change": "added",
+      "to": "PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 435/TB-VPCP Hà Nội, ngày 20 tháng 8 năm 2025 THÔNG BÁO KẾT"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "NĂM 2025 Ngày 13 tháng 8 năm 2025, Phó Thủ tướng Chính phủ Trần Hồng Hà - Chủ tịch Ủy ban An toàn giao thông (ATGT) Quốc gia chủ trì cuộc họp sơ kết công tác bảo đảm trật tự, an toàn giao thông (TTATGT) 6 tháng đầu"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "Xây dựng Trần Hồng Minh - Phó Chủ tịch Thường trực Ủy ban ATGT Quốc gia và các đồng chí lãnh đạo, thành viên Ủy ban ATGT Quốc gia, Ủy ban Quốc phòng, An ninh và Đối ngoại của Quốc hội, lãnh đạo và thành viên Ban ATGT 34 tỉnh, thành phố trực thuộc trung ương và một số đơn vị có liên quan. Sau khi nghe báo cáo sơ kết"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "2025, ý kiến của các đại biểu dự họp, Phó Thủ tướng Chính phủ Trần Hồng Hà - Chủ tịch Ủy ban ATGT Quốc gia kết luận như sau: I. ĐÁNH GIÁ CHUNG Trong 6 tháng đầu năm 2025, tình hình kinh tế - xã hội tiếp tục ổn định, hoạt động giao thương, du lịch phục hồi mạnh mẽ, nhu cầu đi lại tăng cao, nhất là trong các dịp lễ, tết, cao điểm nghỉ hè... đã tạo áp lực lớn lên hệ thống hạ tầng và công tác bảo đảm TTATGT. Tuy nhiên, với sự chỉ đạo quyết liệt, đồng bộ của Chính phủ, Thủ tướng Chính phủ và Chủ tịch Ủy ban ATGT Quốc gia, cùng với sự vào cuộc tích cực của các Bộ, ngành, địa phương, tình hình TTATGT trong 6 tháng đầu năm được bảo đảm, tiếp tục có chuyển biến tích cực. Tai nạn giao thông tiếp tục giảm cả 3 tiêu chí, trong đó số vụ, số người bị thương giảm sâu so với cùng kỳ năm 2024. Tình trạng ùn tắc giao thông cơ bản được kiểm soát, đặc biệt tại các đô thị lớn trong các dịp cao điểm. Ghi nhận và biểu dương sự nỗ lực của các Bộ, ngành, địa phương trong việc triển khai quyết liệt, hiệu quả các giải pháp bảo đảm TTATGT, nhất là các Bộ, cơ quan: Công an, Xây dựng, Quốc phòng, Văn hóa, Thể thao và Du lịch, các cơ quan truyền thông, chủ lực như Báo Nhân dân, Đài Truyền hình Việt Nam, Đài Tiếng nói Việt Nam, Thông tấn xã Việt Nam và các tổ chức chính trị - xã hội... đã tích cực phối hợp trong công tác tuyên truyền, kiểm"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_5.1",
+      "change": "added",
+      "to": "cao nhận thức và ý thức chấp hành pháp luật giao thông trong Nhân dân. Ghi nhận và biểu dương nhiều địa phương đã nỗ lực kéo giảm tai nạn giao thông; trong đó có 33 tỉnh, thành phố (trước ngày 01 tháng 7 năm 2025) có số người chết do TNGT giảm so với cùng kỳ, trong đó 11 địa phương giảm trên 20% số người chết, đặc biệt có 4 địa phương giảm trên 35%, thể hiện sự vào cuộc thực chất, đồng bộ và hiệu quả từ cấp ủy, chính quyền cơ sở. Tuy nhiên, tai nạn giao thông vẫn ở mức cao, vẫn còn xảy ra một số vụ tai nạn đặc biệt nghiêm trọng, làm chết và bị thương nhiều người, gây thiệt hại lơn về tài sản (vụ tai nạn tại Hà Tĩnh ngày 25 tháng 7 năm 2025 làm 10 người chết và 14 người bị thương; vụ chìm tàu du lịch tại Quảng Ninh ngày 19 tháng 7 năm 2025 làm 39 người chết, là tai nạn tàu thuyền do mưa bão, gió lốc có số người tử vong lớn nhất trong 20 năm qua ở Việt Nam, mặc dù xếp vào tai nạn thiên tai nhưng cũng liên quan tới an toàn khi tham gia giao thông"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_6.1",
+      "change": "added",
+      "to": "không thắt dây an toàn, vượt đèn đỏ... vẫn diễn ra, đặc biệt là trong nhóm lái xe đường dài, xe tải, xe khách. Tai nạn giao thông liên quan đến mô tô, xe máy và học sinh vẫn còn xảy ra với hậu quả thương tâm. Ở các đô thị lớn như Hà Nội và Thành phố Hồ Chí Minh, áp lực giao thông tăng mạnh trong các giờ cao điểm, các trục chính ra vào nội đô, nhất là khi lưu lượng phương tiện vượt quá năng lực của hệ thống hạ tầng. Một số vụ tai nạn do xe \"mất lái\", lật xe, chở"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_7.1",
+      "change": "added",
+      "to": "tiếp tục tăng cường hơn nữa công tác quản lý nhà nước, hoàn thiện thể chế, đầu tư hạ tầng giao thông, kiểm soát vận tải, siết chặt tuần tra kiểm soát và xử lý vi phạm, nâng cao nhận thức, ý thức trách nhiệm của người tham gia giao thông."
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_8.1",
+      "change": "added",
+      "to": "VÀ CÁC THÁNG CUỐI NĂM 2025 Để tiếp tục nâng cao kết quả công tác bảo đảm"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_9.1",
+      "change": "added",
+      "to": "bộ, các Nghị quyết của Chính phủ, Chỉ thị, Công điện của Thủ tướng Chính phủ để thực hiện tốt nhất kế hoạch bảo đảm TTATGT của Bộ, ngành, địa phương theo chức"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_10.1",
+      "change": "added",
+      "to": "bên cạnh đó tập trung triển khai các giải pháp sau:"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "VĂN PHÒNG CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 435/TB-VPCP Hà Nội, ngày 20 tháng 8 năm 2025 THÔNG BÁO KẾT LUẬN CỦA PHÓ THỦ TƯỚNG CHÍNH PHỦ TRẦN HỒNG HÀ TẠI CUỘC HỌP SƠ KẾT CÔNG TÁC BẢO ĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG 6 THÁNG ĐẦU NĂM VÀ NHIỆM VỤ, GIẢI PHÁP QUÝ III NĂM 2025 Ngày 13 tháng 8 năm 2025, Phó Thủ tướng Chính phủ Trần Hồng Hà - Chủ tịch Ủy ban An toàn giao thông (ATGT) Quốc gia chủ trì cuộc họp sơ kết công tác bảo đảm trật tự, an toàn giao thông (TTATGT) 6 tháng đầu năm và nhiệm vụ, giải pháp quý III năm 2025. Tham dự cuộc họp có Bộ trưởng Bộ Xây dựng Trần Hồng Minh - Phó Chủ tịch Thường trực Ủy ban ATGT Quốc gia và các đồng chí lãnh đạo, thành viên Ủy ban ATGT Quốc gia, Ủy ban Quốc phòng, An ninh và Đối ngoại của Quốc hội, lãnh đạo và thành viên Ban ATGT 34 tỉnh, thành phố trực thuộc trung ương và một số đơn vị có liên quan. Sau khi nghe báo cáo sơ kết công tác bảo đảm TTATGT 6 tháng đầu năm và..."
+    }
+  ]
+}

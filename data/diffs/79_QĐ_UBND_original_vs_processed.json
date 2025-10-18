@@ -1,0 +1,30 @@
+{
+  "base": "79_QĐ_UBND_original",
+  "revised": "79_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "cảnh giới đảm bảo an toàn giao thông tại các vị trí đường bộ giao cắt với đường sắt thuộc địa phận tỉnh Bắc Ninh với các nội dung sau: - Chốt trực cảnh giới có 01 người/ca trong 01 ngày (3 ca) là: 2.073.000 đồng. (Bằng chữ: Hai triệu, không trăm bảy mươi ba nghìn đồng) - Chốt trực cảnh giới có 02 người/ca trong 01 ngày (3 ca) là: 4.146.000 đồng. (Bằng chữ: Bốn triệu, một trăm bốn mươi sáu nghìn đồng) - Chốt trực cảnh giới có 04 người/ca trong 01 ngày (3 ca) là: 8.292.000 đồng. (Bằng chữ: Tám triệu, hai trăm chín mươi hai nghìn đồng)"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "trước pháp luật và UBND tỉnh về tính chính xác trong việc tính toán, áp dụng các quy định của pháp luật hiện hành để xây dựng phương án giá công tác trực cảnh giới đảm bảo ATGT tại các vị trí đường bộ giao cắt với đường sắt thuộc địa phận tỉnh Bắc Ninh; đồng thời có trách nhiệm tổ chức đấu thầu, đặt hàng công tác trực cảnh giới đảm bảo ATGT tại các vị trí đường bộ giao cắt với đường sắt thuộc địa phận tỉnh Bắc Ninh theo đúng quy định của pháp luật."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "DÂN KT. CHỦ TỊCH PHÓ CHỦ TỊCH Ngô Tân Phượng"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH BẮC NINH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 79/QĐ-UBND Bắc Ninh, ngày 12 tháng 02 năm 2025 QUYẾT ĐỊNH PHÊ DUYỆT PHƯƠNG ÁN GIÁ CÔNG TÁC TRỰC CẢNH GIỚI ĐẢM BẢO AN TOÀN GIAO THÔNG TẠI CÁC VỊ TRÍ ĐƯỜNG BỘ GIAO CẮT VỚI ĐƯỜNG SẮT THUỘC ĐỊA PHẬN TỈNH BẮC NINH ỦY BAN NHÂN DÂN TỈNH BẮC NINH Căn cứ Luật Đường sắt số 06/2017/QH14 ngày 16/6/2017; Căn cứ Luật Giá số 16/2023/QH15 ngày 19/6/2023; Căn cứ Nghị định số 32/2019/NĐ-CP 10/4/2019 của Chính phủ Quy định giao nhiệm vụ, đặt hàng hoặc đấu thầu cung cấp sản phẩm, dịch vụ công sử dụng ngân sách nhà nước từ nguồn kinh phí chi thường xuyên; Căn cứ Nghị định số 85/2024/ND-CP ngày 10/7/2024 của Chính phủ quy định chi tiết một số điều của Luật Giá; Căn cứ các Thông tư của Bộ Giao thông vận tải: Số 11/2021/TT-BGTVT ngày 21/5/2021 H ướng dẫn phương pháp định giá và quản lý giá dịch vụ sự nghiệp công trong lĩnh vực quản lý, bảo trì kết cấu hạ tầng đường sắt quốc g..."
+    }
+  ]
+}

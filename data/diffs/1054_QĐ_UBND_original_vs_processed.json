@@ -1,0 +1,30 @@
+{
+  "base": "1054_QĐ_UBND_original",
+  "revised": "1054_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "Danh mục 66 thủ tục hành chính được sửa đổi cơ quan có thẩm quyền giải quyết từ Sở Giao thông vận tải tỉnh Lâm Đồng thành Sở Xây dựng tỉnh Lâm Đồng."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "hành kể từ ngày ký."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "ĐƯỢC SỬA ĐỔI CƠ QUAN CÓ THẨM QUYỀN GIẢI QUYẾT TỪ SỞ GIAO THÔNG VẬN TẢI TỈNH LÂM ĐỒNG THÀNH SỞ XÂY DỰNG TỈNH LÂM ĐỒNG (Kèm theo Quyết định số 1054/QĐ-UBND ngày 20/5/2025 của Chủ tịch Ủy ban nhân dân tỉnh Lâm Đồng) STT Mã TTHC Tên TTHC Lĩnh vực 1 1.013101.H36 Chứng nhận kiểm định khí thải xe mô tô, xe gắn máy Đăng kiểm 2 1.013092.H36 Cấp lại Giấy chứng nhận kiểm định, Tem kiểm định an toàn kỹ thuật và bảo vệ môi trường cho xe cơ giới (trừ xe mô tô, xe gắn máy), xe máy chuyên dùng Đăng kiểm 3 1.013206.H36 Chứng nhận an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới cải tạo, xe máy chuyên dùng cải tạo Đăng kiểm 4 1.005103.H36 Cấp Giấy chứng nhận kiểm định, Tem kiểm định an toàn kỹ thuật và bảo vệ môi trường cho xe cơ giới (trừ xe mô tô, xe gắn máy) Đăng kiểm 5 1.013110.H36 Cấp lại Giấy chứng nhận đủ điều kiện hoạt động kiểm định khí thải xe mô tô, xe gắn máy Đăng kiểm 6 1.013105.H36 Cấp mới Giấy chứng nhận đủ điều kiện hoạt động kiểm định khí thải xe mô tô, xe gắn máy Đăng kiểm 7 1.013097.H36 Cấp lại giấy chứng nhận cải tạo Đăng kiểm 8 1.013089.H36 Cấp Giấy chứng nhận kiểm định, Tem kiểm định an toàn kỹ thuật và bảo vệ môi trường cho xe cơ giới (trừ xe mô tô, xe gắn máy), xe máy chuyên dùng trong trường hợp miễn kiểm định lần đầu Đăng kiểm 9 1.012875.H36 Cấp Giấy chứng nhận kiểm định, Tem kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ trong trường hợp còn hiệu lực nhưng bị mất, hư hỏng, rách hoặc có sự sai khác về thông tin Đăng kiểm 10 1.001296.H36 Cấp lại Giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới Đăng kiểm 11 1.001322.H36 Cấp mới Giấy chứng nhận đủ điều kiện hoạt động kiểm định xe cơ giới Đăng kiểm 12 1.013274.H36 Cấp phép sử dụng tạm thời lòng đường, vỉa hè vào mục đích khác Đường bộ 13 1.013276.H36 Chấp thuận bổ sung vị trí nút giao đấu nối vào đường cao tốc Đường bộ 14 1.013277.H36 Chấp thuận đấu nối đối với trường hợp kết nối với đường bộ không có trong các quy hoạch Đường bộ 15 1.013061.H36 Cấp giấy phép thi công công trình trên đường bộ đang khai thác Đường bộ 16 1.001623.H36 Cấp lại Giấy phép đào tạo lái xe ô tô khi điều chỉnh hạng xe đào tạo, lưu lượng đào tạo và thay đổi địa điểm đào tạo Đường bộ 17 1.002861.000.00.00.H36 Cấp, cấp lại Giấy phép vận tải đường bộ quốc tế giữa Việt Nam và Lào Đường bộ 18 1.001737.000.00.00.H36 Gia hạn thời gian lưu hành tại Việt Nam cho phương tiện của Trung Quốc Đường bộ 19 1.002046.000.00.00.H36 Gia hạn thời gian lưu hành tại Việt Nam cho phương tiện của các nước thực hiện Hiệp định GMS Đường bộ 20 1.010707.000.00.00.H36 Gia hạn thời gian lưu hành tại Việt Nam cho phương tiện của các nước thực hiện các Hiệp định khung ASEAN về vận tải đường bộ qua biên giới Đường bộ 21 2.002288.000.00.00.H36 Cấp, cấp lại Phù hiệu cho xe ô tô, xe bốn bánh có gắn động cơ kinh doanh vận tải Đường bộ 22 2.002287.000.00.00.H36 Cấp lại Giấy phép kinh doanh vận tải bằng xe ô tô, bằng xe bốn bánh có gắn động cơ trường hợp Giấy phép kinh doanh bị mất, bị hỏng Đường bộ 23 2.002286.000.00.00.H36 Cấp lại Giấy phép kinh"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH LÂM ĐỒNG ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 1054/QĐ-UBND Lâm Đồng, ngày 20 tháng 5 năm 2025 QUYẾT ĐỊNH CÔNG BỐ SỬA ĐỔI CƠ QUAN CÓ THẨM QUYỀN GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH TỪ SỞ GIAO THÔNG VẬN TẢI TỈNH LÂM ĐỒNG THÀNH SỞ XÂY DỰNG TỈNH LÂM ĐỒNG CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH LÂM ĐỒNG Căn cứ Luật Luật Tổ chức chính quyền địa phương ngày 19 tháng 02 năm 2025; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 92/2017/NĐ-CP ngày 07 tháng 8 năm 2017 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Thông tư số 02/2017/TT-VPCP ngày 31 tháng 01 năm 2017 của Bộ trưởng Chủ nhiệm Văn phòng Chính phủ hướng dẫn nghiệp vụ về kiểm soát thủ tục hành chính; Căn cứ Quyết định số 461/QĐ-BXD ngày 21 tháng 4 năm 2025 của Bộ trưởng Bộ Xây dựng về việc công bố sửa đổi cơ quan có thẩm quyền g..."
+    }
+  ]
+}

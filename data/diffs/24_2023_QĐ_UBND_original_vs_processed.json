@@ -1,0 +1,36 @@
+{
+  "base": "24_2023_QĐ_UBND_original",
+  "revised": "24_2023_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "áp dụng 1. Quy định công tác thi công và hoàn trả kết cấu hạ tầng giao thông đường bộ do Thành phố quản lý. 2. Phạm vi kết cấu hạ tầng giao thông đường bộ được thực hiện trong quy định này gồm: Đường (nền đường, mặt đường, lề đường, hè phố); cầu đường bộ (cầu vượt sông, cầu vượt khe núi, cầu vượt trong đô thị, cầu vượt đường bộ, cầu vượt đường sắt) kể cả cầu dành cho người đi bộ; Hầm đường bộ (hầm ngầm qua sông, hầm chui qua đường bộ, hầm chui qua đường sắt, hầm chui trong đô thị) kể cả hầm dành cho người đi bộ; Bến phà, cầu phao đường bộ, đường ngầm, đường tràn. 3. Quy định này áp dụng đối với các tổ chức, cá nhân trong và ngoài nước (sau đây gọi là tổ chức, cá nhân) có các hoạt động trực tiếp hoặc gián tiếp liên quan đến công tác thi công và hoàn trả kết cấu đường bộ trên các tuyến đường đang khai thác thuộc hệ thống đường bộ do Thành phố quản lý."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "DÂN CHỦ TỊCH Trần Sỹ Thanh QUY ĐỊNH VỀ CÔNG TÁC QUẢN LÝ, THI CÔNG VÀ HOÀN TRẢ KẾT CẤU HẠ TẦNG GIAO THÔNG ĐƯỜNG BỘ TRÊN ĐỊA BÀN THÀNH PHỐ HÀ NỘI (Kèm theo Quyết định số: 24/2023/QĐ-UBND ngày 25/9/2023 của UBND thành phố Hà Nội) Chương I QUY ĐỊNH CHUNG"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "như sau: 1. Cơ quan quản lý kết cấu hạ tầng giao thông đường bộ (Cơ quan quản lý đường bộ): là Sở Giao thông vận tải đối với hệ thống đường bộ thuộc thẩm quyền Thành phố quản lý theo phân cấp hiện hành; Ủy ban nhân dân quận, huyện, thị xã (sau đây gọi chung là Ủy ban nhân dân cấp huyện) đối với hệ thống đường bộ thuộc thẩm quyền Ủy ban nhân dân cấp huyện quản lý theo phân cấp hiện hành. 2. Cơ quan cấp giấy phép: Sở Giao thông vận tải đối với hệ thống đường bộ do Thành phố quản lý; Ủy ban nhân dân cấp huyện đối với hệ thống đường bộ do cấp huyện quản lý. 3. Đơn vị quản lý kết cấu hạ tầng giao thông đường bộ (Đơn vị quản lý đường bộ): Là tổ chức, cá nhân trúng thầu công tác quản lý, bảo trì đường bộ trên địa bàn Thành phố Hà Nội. 4. Đơn vị thi công: là các tổ chức, cá nhân được cơ quan có thẩm quyền cấp giấy phép thi công. 5. Hoàn trả là công tác khôi phục lại kết cấu hạ tầng giao thông đường bộ sau khi hoàn thành thi công. 6. Công trình thiết yếu: Quy định tại Khoản 1,"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 12.1",
+      "change": "added",
+      "to": "hỏng đột xuất của các công"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN THÀNH PHỐ HÀ NỘI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 24/2023/QĐ-UBND Hà Nội, ngày 25 tháng 9 năm 2023 QUYẾT ĐỊNH QUY ĐỊNH VỀ CÔNG TÁC QUẢN LÝ THI CÔNG VÀ HOÀN TRẢ KẾT CẤU HẠ TẦNG GIAO THÔNG ĐƯỜNG BỘ TRÊN ĐỊA BÀN THÀNH PHỐ HÀ NỘI ỦY BAN NHÂN DÂN THÀNH PHỐ HÀ NỘI Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22/6/2015; Căn cứ Luật Xây dựng ngày 18/6/2014; Luật sửa đổi, bổ sung một số điều của Luật Xây dựng ngày 17/6/2020; Căn cứ Luật Giao thông đường bộ ngày 13/11/2008; Căn cứ Nghị định số 11/2010/NĐ-CP ngày 24/02/2010 của Chính phủ Quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ; Căn cứ Nghị định số 117/2021/NĐ-CP ngày 22/12/2021 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 11/2010/NĐ-CP..."
+    }
+  ]
+}

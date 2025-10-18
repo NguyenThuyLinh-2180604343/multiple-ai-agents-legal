@@ -1,0 +1,30 @@
+{
+  "base": "4180_QĐ_UBND_original",
+  "revised": "4180_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "mục 01 thủ tục hành chính được bãi bỏ lĩnh vực đường bộ thuộc thẩm quyền giải quyết của Sở Giao thông vận tải thành phố Hà Nội. (Chi tiết tại Phụ lục kèm theo)"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "từ ngày ký. Thủ tục số 20 Mục I Phụ lục kèm Quyết định số 4267/QĐ-UBND ngày 09/8/2019 của Chủ tịch UBND thành phố Hà Nội hết hiệu lực."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "HÀNH CHÍNH ĐƯỢC BÃI BỎ LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI THÀNH PHỐ HÀ NỘI (Kèm theo Quyết định số 4180/QĐ-UBND ngày 21 tháng 8 năm 2023 của Chủ tịch UBND thành phố Hà Nội) STT Thứ tự TTHC bị bãi bỏ tại Quyết định công bố TTHC của Chủ tịch UBND Thành phố Tên thủ tục hành chính Tên VBQPPL quy định bãi bỏ 1 số 20 Mục I Phụ lục kèm Quyết định số 4267/QĐ-UBND ngày 09/8/2019 của Chủ tịch UBND thành phố Hà Nội. Công bố đưa bến xe hàng vào khai thác Thông tư số 12/2020/TT-BGTVT ngày 29/5/2020 của Bộ Giao thông vận tải quy định về tổ chức, hoạt động vận tải bằng xe ô tô và dịch vụ hỗ trợ vận tải đường bộ."
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN THÀNH PHỐ HÀ NỘI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 4180/QĐ-UBND Hà Nội, ngày 21 tháng 8 năm 2023 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ DANH MỤC THỦ TỤC HÀNH CHÍNH ĐƯỢC BÃI BỎ LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI THÀNH PHỐ HÀ NỘI CHỦ TỊCH ỦY BAN NHÂN DÂN THÀNH PHỐ HÀ NỘI Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08/6/2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 48/2013/NĐ-CP ngày 14/5/2013; Nghị định số 92/2017/NĐ-CP ngày 07/8/2017 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Thông tư số 02/2017/TT-VPCP ngày 31/10/2017 của Văn phòng Chính phủ hướng dẫn về nghiệp vụ kiểm soát thủ tục hành chính; Căn cứ Quyết định số 1221/Q..."
+    }
+  ]
+}

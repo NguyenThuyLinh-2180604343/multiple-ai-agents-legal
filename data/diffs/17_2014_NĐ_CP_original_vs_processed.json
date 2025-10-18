@@ -1,0 +1,66 @@
+{
+  "base": "17_2014_NĐ_CP_original",
+  "revised": "17_2014_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "các cơ quan thực hiện chức năng thanh tra Ngoại giao; thanh tra viên, công chức được giao thực hiện chức năng thanh tra chuyên ngành trong lĩnh vực công tác về người Việt Nam ở nước ngoài và cộng tác viên thanh tra Ngoại giao; trách nhiệm và mối quan hệ của các cơ quan, tổ chức, cá nhân liên quan đến hoạt động thanh tra Ngoại giao."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "của Bộ Ngoại giao và Sở Ngoại vụ các tỉnh, thành phố trực thuộc Trung ương. 2. Cơ quan, tổ chức, cá nhân Việt Nam và nước ngoài tại Việt Nam có nghĩa vụ chấp hành quy định của pháp luật trong các lĩnh vực thuộc phạm vi quản lý nhà nước của Bộ Ngoại giao, Sở Ngoại vụ các tỉnh, thành phố trực thuộc Trung ương. Chương II TỔ CHỨC, NHIỆM VỤ, QUYỀN HẠN CỦA CÁC CƠ QUAN THỰC HIỆN CHỨC NĂNG THANH TRA NGOẠI GIAO"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "năng thanh tra Ngoại giao 1. Cơ quan thanh tra nhà nước: a) Thanh tra Bộ Ngoại giao (sau đây gọi là Thanh tra Bộ); b) Thanh tra Sở Ngoại vụ các tỉnh, thành phố trực thuộc Trung ương (sau đây gọi là Thanh tra Sở). 2. Cơ quan thanh tra chuyên ngành: Ủy ban Nhà nước về người Việt Nam ở nước ngoài."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "Ngoại giao 1. Thanh tra Bộ có Chánh Thanh tra, các Phó Chánh Thanh tra, các thanh tra viên và công chức khác. 2. Chánh Thanh tra do Bộ trưởng bổ nhiệm, miễn nhiệm, cách chức sau khi thống nhất với Tổng Thanh tra Chính phủ. Phó Chánh Thanh tra do Bộ trưởng bổ nhiệm, miễn nhiệm, cách chức theo đề nghị của Chánh Thanh tra. Phó Chánh Thanh tra giúp Chánh Thanh tra thực hiện nhiệm vụ theo phân công của Chánh Thanh tra. 3. Thanh tra Bộ có các phòng nghiệp vụ, có con dấu và tài khoản riêng. 4. Thanh tra Bộ chịu sự chỉ đạo, điều hành của Bộ trưởng Bộ Ngoại giao và chịu sự chỉ đạo về công tác, hướng dẫn nghiệp vụ của Thanh tra Chính phủ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "Thanh tra Bộ Ngoại giao Thanh tra Bộ thực hiện nhiệm vụ, quyền hạn được quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 18.1",
+      "change": "added",
+      "to": "sau: 1. Chủ trì, phối hợp xây dựng văn bản quy phạm pháp luật theo phân công của Bộ trưởng Bộ Ngoại giao; kiến nghị cấp có thẩm quyền sửa đổi, bổ sung hoặc ban hành các văn bản quy phạm pháp luật liên quan đến thanh tra Ngoại giao theo quy định của pháp luật. 2. Tuyên truyền, hướng dẫn, kiểm tra, đôn đốc cơ quan, đơn vị thuộc quyền quản lý của Bộ Ngoại giao thực hiện các quy định pháp luật về thanh tra, khiếu nại, tố cáo và phòng, chống tham nhũng. 3. Tổng hợp, báo cáo kết quả về công tác thanh tra, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng thuộc phạm vi quản lý nhà nước của Bộ Ngoại giao theo quy định. 4. Xây dựng kế hoạch thanh tra trình Bộ trưởng Bộ Ngoại giao ban hành; hướng dẫn Thanh tra Sở xây dựng kế hoạch thanh tra chuyên ngành. 5. Thực hiện hợp tác quốc tế trong lĩnh vực thanh tra Ngoại giao theo phân công của Bộ trưởng Bộ Ngoại giao. 6. Tổng kết, rút kinh nghiệm về công tác thanh tra Ngoại giao. 7. Thực hiện nhiệm vụ, quyền hạn khác theo quy định của pháp luật."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "Chánh Thanh tra Bộ Ngoại giao Chánh Thanh tra Bộ thực hiện nhiệm vụ, quyền hạn được quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 19.1",
+      "change": "added",
+      "to": "sau: 1. Báo cáo Bộ trưởng Bộ Ngoại giao, Tổng Thanh tra Chính phủ về công tác thanh tra, giải quyết khiếu nại, tố cáo và phòng, chống tham nhũng trong phạm vi trách nhiệm của mình. 2. Thanh tra trách nhiệm của Thủ trưởng cơ quan, đơn vị thuộc quyền quản lý của Bộ Ngoại giao trong việc thực hiện pháp luật về thanh tra. 3. Trưng tập công chức, viên chức của cơ quan, đơn vị có liên quan tham gia hoạt động thanh tra. 4. Quyết định hoặc trình Bộ trưởng Bộ Ngoại giao quyết định thành lập Đoàn thanh tra theo kế hoạch hoặc đột xuất khi phát hiện tổ chức, cá nhân có dấu hiệu vi phạm pháp luật. 5. Xử phạt vi phạm hành chính theo quy định của pháp luật. 6. Thực hiện nhiệm vụ, quyền hạn khác theo quy định của pháp luật hoặc theo phân công của Bộ trưởng Bộ Ngoại giao."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 7.1",
+      "change": "added",
+      "to": "Ngoại vụ 1. Thanh tra Sở có Chánh Thanh tra, Phó Chánh Thanh tra, các thanh tra viên và công chức khác. 2. Chánh Thanh tra do Giám đốc Sở Ngoại vụ bổ nhiệm, miễn nhiệm, cách chức sau khi thống nhất với Chánh Thanh tra tỉnh, thành phố trực thuộc Trung ương. Phó Chánh Thanh tra do Giám đốc Sở Ngoại vụ bổ nhiệm, miễn nhiệm, cách c"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 17/2014/NĐ-CP Hà Nội, ngày 11 tháng 3 năm 2014 NGHỊ ĐỊNH VỀ TỔ CHỨC VÀ HOẠT ĐỘNG CỦA THANH TRA NGOẠI GIAO Căn cứ Luật tổ chức Chính phủ ngày 25 tháng 12 năm 2001; Căn cứ Luật thanh tra ngày 15 tháng 11 năm 2010; Căn cứ Luật cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài ngày 18 tháng 6 năm 2009; Theo đề nghị của Bộ trưởng Bộ Ngoại giao, Chính phủ ban hành Nghị định về tổ chức và hoạt động của thanh tra Ngoại giao. Chương I QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định về tổ chức và hoạt động của các cơ quan thực hiện chức năng thanh tra Ngoại giao; thanh tra viên, công chức được giao thực hiện chức năng thanh tra chuyên ngành trong lĩnh vực công tác về người Việt Nam ở nước ngoài và cộng tác viên thanh tra Ngoại giao; trách nhiệm và mối quan hệ của các cơ quan, tổ chức, cá nhân liên quan đến hoạt động thanh tra Ngoại giao. Điều ..."
+    }
+  ]
+}

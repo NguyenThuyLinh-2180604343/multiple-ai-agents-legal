@@ -1,0 +1,48 @@
+{
+  "base": "133_2008_NĐ_CP_original",
+  "revised": "133_2008_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "vi điều chỉnh Nghị định này quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chuyển giao công nghệ về hợp đồng chuyển giao công nghệ, dịch vụ giám định công nghệ và các biện pháp khuyến khích, thúc đẩy chuyển giao công nghệ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "hợp đồng chuyển giao công nghệ 1. Việc chuyển giao công nghệ và giao kết hợp đồng chuyển giao công nghệ được thực hiện theo quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 14.1",
+      "change": "added",
+      "to": "các quy định khác của pháp luật. 2. Trường hợp bên giao công nghệ chuyển giao cho bên nhận công nghệ nhiều đối tượng công nghệ thì có thể lập chung trong một hợp đồng hoặc tách ra thành nhiều hợp đồng, nhưng nội dung của các hợp đồng này không được trùng lặp đối tượng công nghệ được chuyển giao. Trường hợp bên giao công nghệ chuyển giao công nghệ có kèm theo máy móc, thiết bị, phương tiện kỹ thuật thì danh mục và các thỏa thuận về máy móc, thiết bị, phương tiện kỹ thuật đó phải được thể hiện trong hợp đồng hoặc phụ lục kèm theo hợp đồng. 3. Hợp đồng chuyển giao công nghệ mà đối tượng chuyển giao là tài liệu về công nghệ có chứa đựng các giải pháp kỹ thuật, bí quyết kỹ thuật, bản vẽ thiết kế, công thức, quy trình công nghệ thì trong hợp đồng chuyển giao công nghệ cần thi cụ thể tên, nội dung các tài liệu về công nghệ sẽ được chuyển giao. 4. Hợp đồng chuyển giao công nghệ có nội dung thực hiện việc đào tạo công nghệ thì trong hợp đồng hoặc trong phụ lục hợp đồng các bên thỏa thuận về số lượng công nhân, cán bộ kỹ thuật, các ngành nghề, nội dung được đào tạo, các chi phí đào tạo, thời gian, địa điểm đào tạo nhưng phải đảm bảo sau đào tạo bên nhận tiếp thu và làm chủ công nghệ được chuyển giao. 5. Hợp đồng chuyển giao công nghệ có nội dung bên giao công nghệ cử chuyên gia tư vấn kỹ thuật để thực hiện hỗ trợ, tư vấn kỹ thuật cho bên nhận công nghệ đưa công nghệ vào sản xuất thì trong hợp đồng hoặc trong phụ lục hợp đồng các bên cần thỏa thuận về số lượng chuyên gia, nội dung, thời gian và chi phí hỗ trợ, tư vấn kỹ thuật để đảm bảo bên nhận sản xuất sản phẩm đạt chỉ tiêu chất lượng và giải quyết các khó khăn trong quá trình áp dụng công nghệ được chuyển giao vào sản xuất."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "thỏa thuận thanh toán theo một hoặc một số phương thức sau đây: 1. Trả một lần hoặc nhiều lần bằng tiền hoặc hàng hóa; 2. Chuyển giá trị công nghệ thành vốn góp vào dự án đầu tư hoặc vào vốn của doanh nghiệp; Trường hợp các bên có thỏa thuận góp vốn bằng công nghệ, sau khi hoàn thành việc chuyển giao công nghệ và được các bên xác nhận thì giá trị công nghệ mới được tính vào vốn góp của bên giao công nghệ trong dự án đầu tư hoặc vốn góp của doanh nghiệp; 3. Trả kỳ vụ theo phần trăm (%) giá bán tịnh. Giá bán tịnh được xác định bằng giá bán sản phẩm, dịch vụ được tạo ra bằng công nghệ được chuyển giao (tính theo hóa đơn bán hàng) trừ đi các khoản sau: thuế giá trị gia tăng, thuế tiêu thụ đặc biệt, thuế xuất khẩu (nếu có); chi phí mua các bán thành phẩm, bộ phận, chi tiết, linh kiện được nhập khẩu hoặc mua ở trong nước; chi phí mua bao bì, chi phí đóng gói, chi phí vận tải sản phẩm đến nơi tiêu thụ, chi phí quảng cáo; 4. Trả theo phần trăm (%) doanh thu thuần. Doanh thu thuần được xác định bằng doanh thu bán hàng và cung cấp dịch vụ được tạo ra bằng công nghệ được chuyển giao, trừ đi các khoản giảm trừ doanh thu gồm chiết khấu thương mại, giảm giá hàng bán, hàng bán bị trả lại; 5. Trả theo phần trăm (%) lợi nhuận trước thuế của bên nhận. Lợi nhuận trước thuế được xác định bằng doanh thu thuần trừ đi tổng chi phí hợp lý để sản xuất sản phẩm có áp dụng công nghệ chuyển giao đã bán trên thị trường; 6. Kết hợp các phương thức thanh toán quy định tại khoản 1, 2, 3, 4 và 5 Điều này."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "giao công nghệ có sử dụng vốn nhà nước 1. Trường hợp sử dụng vốn nhà nước để nhận chuyển giao công nghệ trong dự án đầu tư, bên nhận công nghệ phải lập phương án nhận chuyển giao công nghệ, trong đó nêu rõ nội dung chuyển giao công nghệ và giá ước tính của công nghệ để trình cơ quan có thẩm quyền quyết định đầu tư. Bên nhận công nghệ phải chịu trách nhiệm về nội dung chuyển giao công nghệ và giá thanh toán cho công nghệ được chuyển giao theo quyết định của cơ quan có thẩm quyền quyết định đầu tư. 2. Trong trường hợp sử dụng nhiều nguồn vốn để nhận chuyển giao công nghệ, trong đó nguồn vốn nhà nước chiếm tỷ lệ từ 51% trở lên thì phải theo quy định tại khoản 1 Điều này."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "mục công nghệ khuyến khích chuyển g"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc -------------- Số: 133/2008/NĐ-CP Hà Nội, ngày 31 tháng 12 năm 2008 NGHỊ ĐỊNH QUY ĐỊNH CHI TIẾT VÀ HƯỚNG DẪN THI HÀNH MỘT SỐ ĐIỀU CỦA LUẬT CHUYỂN GIAO CÔNG NGHỆ CHÍNH PHỦ Căn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001; Căn cứ Luật Chuyển giao công nghệ ngày 29 tháng 11 năm 2006; Xét đề nghị của Bộ trưởng Bộ Khoa học và Công nghệ, NGHỊ ĐỊNH: Điều 1. Phạm vi điều chỉnh Nghị định này quy định chi tiết và hướng dẫn thi hành một số điều của Luật Chuyển giao công nghệ về hợp đồng chuyển giao công nghệ, dịch vụ giám định công nghệ và các biện pháp khuyến khích, thúc đẩy chuyển giao công nghệ. Điều 2. Lập hợp đồng chuyển giao công nghệ 1. Việc chuyển giao công nghệ và giao kết hợp đồng chuyển giao công nghệ được thực hiện theo quy định tại Điều 12 và khoản 1 Điều 14 của Luật Chuyển giao công nghệ và các quy định khác của pháp luật. 2. Trường hợp bên giao công nghệ chuyển giao cho bên..."
+    }
+  ]
+}

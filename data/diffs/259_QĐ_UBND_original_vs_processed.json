@@ -1,0 +1,30 @@
+{
+  "base": "259_QĐ_UBND_original",
+  "revised": "259_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "Quyết định này Danh mục 05 TTHC ban hành mới, 29 TTHC được sửa đổi, bổ sung và 08 TTHC bị bãi bỏ trong lĩnh vực lĩnh vực đường bộ, lĩnh vực đường thủy nội địa thuộc thẩm quyền giải quyết của Sở Giao thông vận tải, Sở Nông nghiệp và Phát triển nông thôn tỉnh Thanh Hóa (có Danh mục kèm theo)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "thông vận tải, Sở Nông nghiệp và Phát triển nông thôn tỉnh Thanh Hóa xây dựng quy trình nội bộ giải quyết thủ tục hành chính, gửi Trung tâm Phục vụ hành chính công tỉnh để xây dựng quy trình điện tử trước ngày 10/02/2025."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "TỤC HÀNH CHÍNH BAN HÀNH MỚI, ĐƯỢC SỬA ĐỔI, BỔ SUNG VÀ BỊ BÃI BỎ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI, SỞ NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN TỈNH THANH HÓA (kèm theo Quyết định số: 259/QĐ-UBND ngày 22/01/2025 của Chủ tịch UBND tỉnh Thanh Hóa) 1. Thủ tục hành chính ban hành mới . STT Tên thủ tục hành chính (Mã TTHC) Thời hạn giải quyết Địa điểm thực hiện Phí , lệ phí (nếu có ) Căn cứ pháp lý Ghi chú Lĩnh vực đường bộ 1. Chấp thuận hoạt động của sân tập lái để sát hạch lái xe mô tô (1.013240.H56) 05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định - Bộ phận tiếp nhận và trả kết quả của Sở Giao thông vận tải tại Trung tâm Phục vụ hành chính công tỉnh Thanh Hóa (Số 28 Đại lộ Lê Lợi, phường Điện Biên, thành phố Thanh Hóa) - Địa chỉ trực tuyến: https://dichvucong. thanhhoa.gov.vn (Một phần) Không Nghị định số 160/2024/NĐ-CP ngày 18/12/2024 của Chính phủ quy định về hoạt động đào tạo và sát hạch lái xe 2. Chấp thuận lại hoạt động của sân tập lái để sát hạch lái xe mô tô (1.013241.H56) - Trường hợp cấp lại khi có sự thay đổi về thiết bị sát hạch, chủng loại, số lượng xe mô tô để sát hạch lái xe: 07 ngày làm việc kể từ ngày nhận văn bản đề nghị. - Trường hợp cấp lại khi bị hỏng, mất, thay đổi tên của cơ sở đào tạo có sân tập lái để sát hạch lái xe mô tô: 03 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định. Không Nghị định số 160/2024/NĐ-CP ngày 18/12/2024 của Chính phủ quy định về hoạt động đào tạo và sát hạch lái xe 3. Cấp Giấy phép vận chuyển hàng hóa nguy hiểm trên đường bộ (1.013259.H56) Trong thời hạn 05 ngày làm việc kể từ ngày nhận đủ hồ sơ theo quy định - Bộ phận tiếp nhận và trả kết quả của Sở Nông nghiệp"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH THANH HÓA ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 259/QĐ-UBND Thanh Hóa, ngày 22 tháng 01 năm 2025 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ DANH MỤC THỦ TỤC HÀNH CHÍNH BAN HÀNH MỚI, ĐƯỢC SỬA ĐỔI, BỔ SUNG, BỊ BÃI BỎ TRONG LĨNH VỰC ĐƯỜNG BỘ, ĐƯỜNG THỦY NỘI ĐỊA THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI, SỞ NÔNG NGHIỆP VÀ PHÁT TRIỂN NÔNG THÔN TỈNH THANH HÓA CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH THANH HÓA Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Căn cứ Nghị định số 6 3/2010/NĐ-CP n gày 08/6/2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 92/2017/NĐ-CP ngày 08/7/2017 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Thông tư số 0 2/2017/TT-VPCP n gày 31/10/2017 của Bộ trưởng , Chủ nhiệm Văn phòng Chính ph..."
+    }
+  ]
+}

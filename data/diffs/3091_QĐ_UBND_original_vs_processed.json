@@ -1,0 +1,42 @@
+{
+  "base": "3091_QĐ_UBND_original",
+  "revised": "3091_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "trong lĩnh vực Đường bộ thuộc thẩm quyền giải quyết của Sở Giao thông vận tải tỉnh Thanh Hóa (có Phụ lục I, II kèm theo)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "soát, đánh giá thủ tục hành chính của UBND tỉnh kèm theo Phương án đơn giản hóa đã được thông qua tại Quyết định này, trình Chủ tịch UBND tỉnh xem xét, phê duyệt, gửi Bộ Giao thông vận tải."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH THANH HÓA (kèm theo Quyết định số: 3091/QĐ-UBND ngày 31/08/2023 của Chủ tịch Ủy ban nhân dân tỉnh Thanh Hóa) I. Thủ tục hành chính “Cấp chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ cho người điều khiển xe máy chuyên dùng” (Mã TTHC: 1.001970.000.00.00.H56) 1. Nội dung đơn giản hóa a) Về trình tự thực hiện: Quy định bổ sung hình thức bồi dưỡng trực tuyến. Lý do: Trình tự thực hiện đã quy định cụ thể tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 9.1",
+      "change": "added",
+      "to": "07/3/2011 của Bộ trưởng Bộ Giao thông vận tải. Tuy nhiên, xét thấy trong giai đoạn chuyển đổi số, công nghệ 4.0 thì việc đào tạo, bồi dưỡng theo hình thức trực tiếp không còn phù hợp nên có quy định để cho cơ sở đào tạo đủ điều kiện chủ động thực hiện đào tạo, bồi dưỡng trực tuyến. Việc đào tạo, bồi dưỡng trực tuyến về kiến thức pháp luật về giao thông đường bộ bằng hình thức trực tuyến sẽ giúp công dân có thể lựa chọn hình thức phù hợp, tiết kiệm được thời gian, các chi phí đi lại, ăn ở, sinh hoạt. Cơ sở đào tạo không phải mất các chi phí về phòng học, điện, thiết bị. Từ đó, mức học phí cho học viên tham gia bồi dưỡng trực tuyến sẽ giảm hơn so với học viên tham gia trực tiếp. b) Về Cách thức thực hiện: Bổ sung cách thức trực tuyến và qua bưu chính. Lý do: Việc nộp hồ sơ trực tiếp đã được quy định tại khoản 3"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "phần hồ sơ đơn giản, dễ thực hiện hoàn toàn có thể triển khai bằng hình thức trực tuyến hoặc qua bưu chính. Việc bổ sung thêm cách thức thực hiện trực tuyến phù hợp với giai đoạn chuyển đổi số, tiết kiệm thời gian chi phí cho công dân. c) Về thành phần hồ sơ: Bãi bỏ một số thành phần hồ sơ. - Sửa đổi từ nộp 03 ảnh 2x3cm thành 01 ảnh 2x3cm và bổ sung cách thức nộp file ảnh hoặc tệp tin chứa ảnh. Lý do: Xuất phát từ cách thức nộp hồ sơ trực tuyến, đảm bảo tiết kiệm chi phí cho người dân sẽ bổ sung hình thức nộp file ảnh hoặc tập tin chứa ảnh khi thực hiện trực tuyến. Đồng thời, việc yêu cầu nộp 03 ảnh cũng không phù hợp, không cần thiết do đó chỉ cần nộp 01 ảnh 2x3cm để dán vào chứng chỉ. - Bỏ thành phần hồ sơ: Bản sao chứng minh nhân dân hoặc hộ chiếu. Lý do: Hiện nay, CMND được thay thế bằng CCCD gắn chíp, ứng dụng VNeID, các thông tin cá nhân như CMND đã được xác thực, tích hợp trên cơ sở dữ liệu quốc gia về dân cư, tích hợp trên ứng dụng định danh điện tử VNeID. Do đó, để tiết kiệm chi phí, công dân chỉ thực hiện kê khai thông tin CMND hoặc CCCD trên tờ khai để thực hiện tra cứu thông tin trên Cơ sở dữ liệu quốc gia về dân cư mà không cần thiết phải nộp. Mặt khác, khi cá nhân tham dự thi để cấp chứng chỉ có yêu cầu mang theo CMND hoặc CCCD gắn chíp. Do đó, cơ sở đào tạo có thể ki"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH THANH HÓA ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 3091/QĐ-UBND Thanh Hóa, ngày 31 tháng 8 năm 2023 QUYẾT ĐỊNH VỀ VIỆC THÔNG QUA PHƯƠNG ÁN ĐƠN GIẢN HÓA THỦ TỤC HÀNH CHÍNH TRONG LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH THANH HÓA CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH THANH HÓA Căn cứ Luật Tổ chức chính quyền địa phương số 77/2015/QH13 ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương số 47/2019/QH14 ngày 22/11/2019; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08/6/2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 92/2017/NĐ-CP ngày 07/8/2017 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Thông tư số 02/2017/TT-VPCP ngày 31/10/2017 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ về việc hướng dẫn nghiệp vụ kiểm soát thủ tục hành chính; Căn cứ..."
+    }
+  ]
+}

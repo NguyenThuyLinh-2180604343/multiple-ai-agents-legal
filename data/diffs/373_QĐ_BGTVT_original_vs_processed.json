@@ -1,0 +1,36 @@
+{
+  "base": "373_QĐ_BGTVT_original",
+  "revised": "373_QĐ_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "giao thông vận tải là tổ chức sự nghiệp khoa học và công nghệ công lập trực thuộc Bộ Giao thông vận tải, có tư cách pháp nhân, có con dấu riêng, được mở tài khoản tại Kho bạc Nhà nước và Ngân hàng theo quy định của pháp luật. 2. Viện Chiến lược và Phát triển giao thông vận tải có tên giao dịch bằng tiếng Anh là: TRANSPORT DEVELOPMENT AND STRATEGY INSTITUTE; viết tắt là: TDSI. 3. Trụ sở chính: Số 162, đường Trần Quang Khải, quận Hoàn Kiếm, thành phố Hà Nội."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "giao thông vận tải hoạt động theo Luật khoa học và công nghệ và các văn bản pháp luật khác có liên quan. Chương 2 CHỨC NĂNG, NHIỆM VỤ VÀ QUYỀN HẠN"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "giao thông vận tải (sau đây gọi tắt là Viện) là đơn vị sự nghiệp công lập thực hiện chức năng nghiên cứu khoa học phục vụ nhiệm vụ quản lý nhà nước của Bộ Giao thông vận tải trong lĩnh vực xây dựng chiến lược, quy hoạch, chính sách phát triển giao thông vận tải, định mức kinh tế - kỹ thuật chuyên ngành giao thông vận tải; thực hiện các dịch vụ khoa học, công nghệ và tổ chức sản xuất, kinh doanh theo quy định của pháp luật."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "vụ 1. Thực hiện nhiệm vụ khoa học và công nghệ do cơ quan có thẩm quyền tuyển chọn, giao cho Viện thực hiện theo quy định. 2. Thực hiện nhiệm vụ nghiên cứu phục vụ chức năng quản lý nhà nước của Bộ Giao thông vận tải, cụ thể: a) Nghiên cứu, xây dựng chiến lược, quy hoạch tổng thể phát triển mạng lưới giao thông vận tải, quy hoạch phát triển các chuyên ngành giao thông vận tải, quy hoạch có tính chất kỹ thuật chuyên ngành giao thông vận tải trên phạm vi toàn quốc, vùng lãnh thổ, địa phương; b) Nghiên cứu, tổng hợp, xây dựng, rà soát, sửa đổi bổ sung các cơ chế, chính sách quản lý về phát triển giao thông vận tải, bao gồm: tổ chức vận tải; dịch vụ logistics; giao thông thông minh; phát triển giao thông đô thị; giao thông nông thôn; nguồn nhân lực giao thông vận tải; các giải pháp huy động nguồn vốn đầu tư; tổ chức quản lý khai thác hiệu quả kết cấu hạ tầng giao thông; đánh giá hiệu quả các dự án đầu tư giao thông vận tải; phát triển bền vững, tăng trưởng xanh, bảo vệ môi trường và biến đổi khí hậu trong lĩnh vực giao thông vận tải; sử dụng năng lượng tiết kiệm và hiệu quả; sử dụng đất phát triển kết cấu hạ tầng giao thông vận tải và các lĩnh vực khác theo quy định của pháp luật; c) Tổng hợp, xây dựng định mức, đơn giá ngành giao thông vận tải; d) Dự báo nhu cầu vận tải hành khách, hàng hóa; đ) Tổng hợp, phân tích, thống kê cơ sở dữ liệu về hạ tầng, vận tải, an toàn giao t"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 373/QĐ-BGTVT Hà Nội, ngày 30 tháng 03 năm 2023 QUYẾT ĐỊNH VỀ VIỆC BAN HÀNH ĐIỀU LỆ TỔ CHỨC VÀ HOẠT ĐỘNG CỦA VIỆN CHIẾN LƯỢC VÀ PHÁT TRIỂN GIAO THÔNG VẬN TẢI BỘ TRƯỞNG GIAO THÔNG VẬN TẢI Căn cứ Luật khoa học và công nghệ số 29/2013/QH13 ; Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24/8/2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Căn cứ Nghị định số 123/2016/NĐ-CP ngày 01/9/2016 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của bộ, cơ quan ngang bộ; Căn cứ Nghị định số 101/2020/NĐ-CP ngày 28/8/2020 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 123/2016/NĐ-CP ngày 01/9/2016 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của bộ, cơ quan ngang bộ; Căn cứ Nghị định số 60/2021/NĐ-CP ngày 21/6/2021 của Chính phủ quy định cơ chế tự chủ tài chính của ..."
+    }
+  ]
+}

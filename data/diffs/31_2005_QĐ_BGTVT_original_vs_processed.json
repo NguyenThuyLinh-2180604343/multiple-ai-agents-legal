@@ -1,0 +1,30 @@
+{
+  "base": "31_2005_QĐ_BGTVT_original",
+  "revised": "31_2005_QĐ_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "này Tiêu chuẩn ngành về phương tiện giao thông cơ giới đường bộ sau đây: \"PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ - THIẾT BỊ HẠN CHẾ VẬN TỐC CỦA ÔTÔ - YÊU CẦU KỸ THUẬT VÀ PHƯƠNG PHÁP THỬ\". Số đăng ký: 22 TCN 329 - 05."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "ban hành ở dạng khuyến khích áp dụng và có hiệu lực thi hành sau 15 ngày, kể từ ngày đăng Công báo."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "trưởng Vụ Vận tải, Vụ trưởng Vụ Pháp chế, Cục trưởng Cục Đăng kiểm Việt Nam, Cục trưởng Cục Đường bộ Việt Nam, Giám đốc các Sở Giao thông vận tải/giao thông công chính và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./ KT. BỘ TRƯỞNG THỨ TRƯỞNG (Đã ký) Trần Doãn Thọ TIÊU CHUẨN NGÀNH 22 TCN 329 - 05 PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ THIẾT BỊ HẠN HẠN CHẾ VẬN TỐC CỦA ÔTÔ YÊU CẦU KỸ THUẬT VÀ PHƯƠNG PHÁP THỬ Lời nói đầu Tiêu chuẩn 22 TCN 329 - 05 được biên soạn trên cơ sở ECE 89-00/S4. Cơ quan đề nghị và biên soạn: Cục Đăng kiểm Việt Nam. Cơ quan trình duyệt: Vụ Khoa học Công nghệ - Bộ Giao thông vận tải. Cơ quan xét duyệt và ban hành: Bộ Giao thông vận tải. CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc BỘ GIAO THÔNG VẬN TẢI PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ - THIẾT BỊ HẠN CHẾ VẬN TỐC CỦA ÔTÔ- YÊU CẦU KỸ THUẬT VÀ PHƯƠNG PHÁP THỬ 22 TCN 329 - 05 (Ban hành kèm theo Quyết định số 31/2005/QĐ-BGTVT ngày 09/06/2005 của Bộ trưởng Bộ Giao thông vận tải 1. Phạm vi, đối tượng áp dụng Tiêu chuẩn này quy định yêu cầu kỹ thuật và phương pháp thử để kiểm tra chất lượng, an toàn kỹ thuật (sau đây gọi tắt là kiểm tra chứng nhận kiểu loại) đối với các thiết bị hạn chế vận tốc lắp cho ô tô khách cỡ lớn loại M 3 và ôtô tải cỡ lớn loại N 2 và N 3 được định nghĩa trong TCVN 6919-2001, các loại xe M 3 , N 2 , N 3 lắp thiết bị hạn chế vận tốc nêu trên và các loại ôtô (sau đây gọi là xe) M 3 , N 2 , N 3 lắp thiết bị hạn chế vận tốc không được kiểm tra chứng nhận kiểu loại riêng biệt theo Tiêu chuẩn này hoặc được thiết kế và/hoặc trang bị sao cho các bộ phận cấu thành của nó có thể thực hiện đầy đủ hoặc một phần chức năng của thiết bị hạn chế vận tốc. 2. Tiêu chuẩn trích dẫn TCVN 6919-2001 Phương tiện giao thông đường bộ - Thiết bị phanh của xe cơ giới, moóc, bán moóc - Yêu cầu và phương pháp thử trong phê duyệt kiểu. 3. Thuật ngữ và định nghĩa Các thuật ngữ áp dụng trong phạm vi Tiêu chuẩn này được định nghĩa như sau: 3.1. Vận tốc giới hạn V (Limitation Speed V): Vận tốc lớn nhất của xe được thiết kế mà ở vận tốc này dù người lái tác động tiếp tục lên chân ga thì vận tốc xe cũng không thể tăng lên. 3.2. Vận tốc chỉnh đặt V cđ (Set Speed Vset): Vận tốc trung bình được định trước của xe khi hoạt động trong điều kiện ổn định. 3.3. Vận tốc ổn định V ođ (Stabilized Speed Vstab): Vận tốc trung bình của xe khi hoạt động trong điều kiện quy định nêu tại Mục 1.1.4.2.3 Phụ lục 1. 3.4. Vận tốc lớn nhất V ln (Maximum Speed Vmax): Vận tốc lớn nhất của xe đạt được trong nửa đầu tiên của đường cong (đáp tuyến) xác định trong Hình 1.1 của Phụ lục 1. 3.5. Thiết bị hạn chế vận tốc (Speed limitation device - SLD): Thiết bị có chức năng chính là điều chỉnh lượng nhiên liệu cấp cho động cơ để hạn chế vận tốc của xe ở một trị số quy định. 3.6. Chứng nhận kiểu loại thiết bị hạn chế vận tốc (Approval of a SLD): Chứng nhận kiểu loại thiết bị hạn chế vận tốc phù hợp với các yêu cầu kỹ thuật quy định tại Mục 4 của Tiêu chuẩn này. 3.7. Kiểu loại thiết bị hạn chế vận tốc (Type of a SLD): Các thiết bị hạn chế vận tốc cùng kiểu loại trong Tiêu chuẩn này là các thiết bị hạn chế vận tốc có cùng những đặc điểm chủ yếu sau đây: - Nhãn hiệu và kiểu loại thiết bị; - Dãy trị số vận tốc mà thiết bị hạn chế vận tốc có thể được chỉnh đặt trong đó; - Phương pháp điều chỉnh lượng nhiên liệu cấp cho động cơ. 3.8. Chứng nhận kiểu loại xe (Approval of a Vehicle): Chứng nhận kiểu loại xe phù hợp với các yêu cầu kỹ thuật quy định tại Mục 5 và Mục 6 của Tiêu chuẩn này. 3.9. Kiểu loại xe (Vehicle type): Xe cùng kiểu loại trong Tiêu chuẩn này là các xe có cùng những đặc điểm chủ yếu sau đây: - Nhãn hiệu và kiểu loại thiết bị hạn chế vận tốc (nếu lắp); - Dãy trị số vận tốc, trong đó vận tốc giới hạn có thể được chỉnh đặt trong dãy trị số vận tốc đã thiết lập cho xe t"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ******* Số: 31/2005/QĐ-BGTVT CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ******* Hà Nội , Ngày 09 tháng 06 năm 2005 QUYẾT ĐỊNH Về việc ban hành Tiêu chuẩn Ngành BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI Căn cứ Luật Giao thông đường bộ số 26/2001/QH10 ngày 29 tháng 6 năm 2001; Căn cứ Pháp lệnh Chất lượng hàng hóa số 18/1999/PL-UBTVQH10 ngày 24 tháng 12 năm 1999; Căn cứ Nghị định số 34/2003/NĐ-CP ngày 04 tháng 4 năm 2003 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Theo đề nghị của các ông Vụ trưởng Vụ Khoa học Công nghệ và Cục trưởng Cục Đăng kiểm Việt Nam, QUYẾT ĐỊNH: Điều 1 . Ban hành kèm theo Quyết định này Tiêu chuẩn ngành về phương tiện giao thông cơ giới đường bộ sau đây: \"PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ - THIẾT BỊ HẠN CHẾ VẬN TỐC CỦA ÔTÔ - YÊU CẦU KỸ THUẬT VÀ PHƯƠNG PHÁP THỬ\". Số đăng ký: 22 TCN 329 - 05. Điều 2 . Tiêu chuẩn ngành nói trên được ban hành ở dạng khuyến khích áp dụ..."
+    }
+  ]
+}

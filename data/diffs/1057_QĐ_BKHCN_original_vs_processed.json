@@ -1,0 +1,24 @@
+{
+  "base": "1057_QĐ_BKHCN_original",
+  "revised": "1057_QĐ_BKHCN_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "bộ - Phương pháp thử - Phần 1: Chuẩn bị khô mẫu đất 2. TCVN 14134-2:2024 Đất dùng trong xây dựng đường bộ - Phương pháp thử - Phần 2: Chuẩn bị ướt mẫu đất 3. TCVN 14134-3:2024 Đất dùng trong xây dựng đường bộ - Phương pháp thử - Phần 3: Xác định thành phần hạt 4. TCVN 14134-4:2024 Đất dùng trong xây dựng đường bộ - Phương pháp thử - Phần 4: Xác định giới hạn chảy, giới hạn dẻo và chỉ số dẻo 5. TCVN 14134-5:2024 Đất dùng trong xây dựng đường bộ - Phương pháp thử - Phần 5: Xác định đương lượng cát 6. TCVN 14135-4:2024 Cốt liệu dùng trong xây dựng đường bộ - Phương pháp thử - Phần 4: Xác định lượng vật liệu nhỏ hơn 75 µm bằng phương pháp rửa 7. TCVN 14135-5:2024 Cốt liệu dùng trong xây dựng đường bộ - Phương pháp thử - Phần 5: Xác định thành phần hạt bằng phương pháp sàng khô"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "liên quan chịu trách nhiệm thi hành Quyết định này./. Nơi nhận: - Như"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ KHOA HỌC VÀ CÔNG NGHỆ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 1057/QĐ-BKHCN Hà Nội, ngày 27 tháng 05 năm 2024 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ TIÊU CHUẨN QUỐC GIA BỘ TRƯỞNG BỘ KHOA HỌC VÀ CÔNG NGHỆ Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006; Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ; Căn cứ Nghị định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ; Căn cứ Nghị định số 28/2023/NĐ-CP ngày 02 tháng 6 năm 2023 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ; Trên cơ sở đề nghị của Bộ Giao thông vận tải tại Công văn số 1929/BGTVT-KHCN&MT ngày 26 tháng 02 nă..."
+    }
+  ]
+}

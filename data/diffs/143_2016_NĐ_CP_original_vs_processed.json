@@ -1,0 +1,42 @@
+{
+  "base": "143_2016_NĐ_CP_original",
+  "revised": "143_2016_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "sáp nhập, giải thể trường trung cấp sư phạm, trường cao đẳng sư phạm; việc thành lập, cho phép thành lập, chấm dứt hoạt động phân hiệu của trường trung cấp sư phạm, trường cao đẳng sư phạm; b) Việc đăng ký hoạt động giáo dục nghề nghiệp, đăng ký bổ sung hoạt động giáo dục nghề nghiệp; việc cấp, thu hồi giấy chứng nhận đăng ký hoạt động giáo dục nghề nghiệp và đình chỉ hoạt động giáo dục nghề nghiệp đối với nhóm ngành đào tạo giáo viên thuộc thẩm quyền quản lý nhà nước của Bộ Giáo dục và Đào tạo. Chương II THÀNH LẬP, CHO PHÉP THÀNH LẬP, CHIA, TÁCH, SÁP NHẬP, GIẢI THỂ CƠ SỞ GIÁO DỤC NGHỀ NGHIỆP; THÀNH LẬP, CHO PHÉP THÀNH LẬP, CHẤM DỨT HOẠT ĐỘNG PHÂN HIỆU CỦA TRƯỜNG TRUNG CẤP, TRƯỜNG CAO ĐẲNG Mục 1. ĐIỀU KIỆN, THỦ TỤC, THẨM QUYỀN THÀNH LẬP, CHO PHÉP THÀNH LẬP CƠ SỞ GIÁO DỤC NGHỀ NGHIỆP, PHÂN HIỆU CỦA TRƯỜNG TRUNG CẤP, TRƯỜNG CAO ĐẲNG"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "trường cao đẳng (sau đây gọi là cơ sở giáo dục nghề nghiệp). 2. Cơ sở giáo dục đại học có đăng ký hoạt động giáo dục nghề nghiệp trình độ cao đẳng, doanh nghiệp có đăng ký hoạt động giáo dục nghề nghiệp trình độ sơ cấp (sau đây gọi là cơ sở hoạt động giáo dục nghề nghiệp). 3. Cơ quan, tổ chức, cá nhân có liên quan đến các nội dung quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "cho phép thành lập cơ sở giáo dục nghề nghiệp Cơ sở giáo dục nghề nghiệp được thành lập, cho phép thành lập khi có đề án thành lập và đáp ứng các điều kiện sau đây : 1. Phù hợp với quy hoạch mạng lưới cơ sở giáo dục nghề nghiệp Việt Nam; quy hoạch mạng lưới cơ sở giáo dục nghề nghiệp của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ (sau đây gọi là bộ); quy hoạch mạng lưới cơ sở giáo dục nghề nghiệp của Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi là Ủy ban nhân dân cấp tỉnh). Đối với cơ sở giáo dục nghề nghiệp công lập khi thành lập phải cam kết hoạt động theo cơ chế tự chủ của đơn vị sự nghiệp công lập do Chính phủ quy định. 2. Quy mô đào tạo: a) Đối với trung tâm giáo dục nghề nghiệp: Quy mô đào tạo trình độ sơ cấp tối thiểu 150 học sinh/năm; b) Đối với trường trung cấp: Quy mô đào tạo trình độ trung cấp tối thiểu 250 học sinh/năm; c) Đối với trường cao đẳng: Quy mô đào tạo trình độ cao đẳng và trình độ trung cấp tối thiểu là 500 học sinh, sinh viên/năm. 3. Có địa điểm xây dựng cơ sở vật chất bảo đảm diện tích đất sử dụng tối thiểu đối với trung tâm giáo dục nghề nghiệp là 1.000 m2; đối với trường trung cấp là 20.000 m2; đối với trường cao đẳng là 50.000 m2. 4. Vốn đầu tư thành lập cơ sở giáo dục nghề nghiệp được đầu tư bằng nguồn vốn hợp pháp, không bao gồm giá trị về đất đai, cụ thể như sau: a) Đối với trung tâm giáo dục nghề nghiệp tối thiểu là 05 tỷ đồng; b) Đối với trường trung cấp tối thiểu là 50 tỷ đồng; c) Đối với trường cao đẳng tối thiểu là 100 tỷ đồng. 5. Đáp ứng các điều kiện đăng ký hoạt động giáo dục nghề nghiệp theo quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 14.1",
+      "change": "added",
+      "to": "chất, thiết bị đào tạo; chương trình, giáo trình đào tạo; đội ngũ nhà giáo và cán bộ quản lý)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "cho phép thành lập cơ sở giáo dục nghề nghiệp cho người khuyết tật Cơ sở giáo dục nghề nghiệp cho người khuyết tật phải bảo đảm các điều kiện theo quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 143/2016/NĐ-CP Hà Nội, ngày 14 tháng 10 năm 2016 NGHỊ ĐỊNH QUY ĐỊNH ĐIỀU KIỆN ĐẦU TƯ VÀ HOẠT ĐỘNG TRONG LĨNH VỰC GIÁO DỤC NGHỀ NGHIỆP Căn cứ Luật tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Căn cứ Luật đầu tư ngày 26 tháng 11 năm 2014; Căn cứ Luật giáo dục nghề nghiệp ngày 27 tháng 11 năm 2014; Theo đề nghị của Bộ trưởng Bộ Lao động - Thương binh và Xã hội; Chính phủ ban hành Nghị định quy định điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục nghề nghiệp. Chương I QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định điều kiện đầu tư và hoạt động trong lĩnh vực giáo dục nghề nghiệp, bao gồm: 1. Thành lập, cho phép thành lập, chia, tách, sáp nhập, giải thể cơ sở giáo dục nghề nghiệp công lập và tư thục; thành lập, cho phép thành lập, chấm dứt hoạt động phân hiệu của trường trung cấp, trường cao đẳng công lập và tư thục. 2. Đăng ký hoạt động giáo dục nghề ng..."
+    }
+  ]
+}

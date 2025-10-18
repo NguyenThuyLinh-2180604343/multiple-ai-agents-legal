@@ -1,0 +1,30 @@
+{
+  "base": "123_QĐ_BGTVT_original",
+  "revised": "123_QĐ_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "quan tham mưu của Bộ Giao thông vận tải như sau: 1. Cục Quản lý đầu tư xây dựng là cơ quan chuyên môn trực thuộc Bộ, cơ quan chuyên môn về xây dựng đối với các dự án đường bộ cao tốc Bắc - Nam phía Đông được đầu tư theo phương thức đầu tư công (bao gồm các dự án do Tổng công ty Đầu tư phát triển đường cao tốc Việt Nam làm chủ đầu tư: Đà Nẵng - Quảng Ngãi, Bến Lức - Long Thành); các dự án đường bộ cao tốc trong Chương trình phục hồi kinh tế và các dự án đường bộ cao tốc trong giai đoạn phân kỳ (Chợ Mới - Bắc Kạn và Chơn Thành - Đức Hòa) cho đến khi dự án đầu tư được phê duyệt. 2. Cục Đường cao tốc Việt Nam - Là cơ quan chuyên môn trực thuộc Bộ, cơ quan chuyên môn về xây dựng đối với các dự án đường bộ cao tốc khác (trừ các dự án nêu tại Khoản 1). Đối với các dự án đường bộ cao tốc trong Chương trình phục hồi kinh tế và các dự án đường bộ cao tốc trong giai đoạn phân kỳ (Chợ Mới - Bắc Kạn và Chơn Thành - Đức Hòa), Cục Đường cao tốc Việt Nam tiếp nhận hồ sơ dự án để thực hiện nhiệm vụ cơ quan chuyên môn về xây dựng, cơ quan chuyên môn trực thuộc Bộ sau khi dự án đầu tư được phê duyệt. - Thực hiện một số nhiệm vụ của cơ quan có thẩm quyền, cơ quan ký kết hợp đồng đối với các dự án đường bộ cao tốc đầu tư theo phương thức đối tác công tư do Bộ Giao thông vận tải là cơ quan có thẩm quyền theo quy định (bao gồm các dự án đường cao tốc Bắc - Nam phía Đông)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "có trách nhiệm tổ chức giao nhận đầy đủ hồ sơ, tài liệu liên quan của các dự án để tiếp tục thực hiện chức năng, nhiệm vụ theo quy định. Cục Đường cao tốc Việt Nam chịu trách nhiệm đảm bảo đầy đủ các điều kiện triển khai thực hiện, không ảnh hưởng đến chất lượng, tiến độ các dự án; kịp thời báo cáo Lãnh đạo Bộ GTVT khó khăn, vướng mắc (nếu có) để được xem xét, xử lý."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "tra Bộ, Vụ trưởng các Vụ, Thủ trưởng các cơ quan, đơn vị thuộc Bộ và Giám đốc các Sở GTVT chịu trách nhiệm thi hành Quyết định này./ Nơi nhận: - Như"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 123/QĐ-BGTVT Hà Nội, ngày 23 tháng 02 năm 2023 QUYẾT ĐỊNH VỀ VIỆC PHÂN GIAO THỰC HIỆN CÁC DỰ ÁN ĐƯỜNG BỘ CAO TỐC BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24/8/2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Căn cứ Quy chế làm việc của Bộ Giao thông vận tải ban hành kèm theo Quyết định số 751/QĐ-BGTVT ngày 23/4/2020 của Bộ trưởng Bộ Giao thông vận tải; Căn cứ Quyết định số 1292/QĐ-BGTVT ngày 30/9/2022 của Bộ trưởng Bộ GTVT quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Vụ, Văn phòng thuộc Bộ GTVT; Căn cứ Quyết định số 1223/QĐ-BGTVT ngày 23/9/2022 của Bộ trưởng Bộ GTVT quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Cục Quản lý đầu tư xây dựng; Căn cứ Quyết định số 1245/QĐ-BGTVT ngày 27/9/2022 của Bộ trưởng Bộ GTVT quy định chức năng, nhiệm vụ, qu..."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "base": "06_2018_NĐ_CP_original",
+  "revised": "06_2018_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "với trẻ em mẫu giáo và chính sách đối với giáo viên mầm non."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "thực tế, nhưng không quá 9 tháng/năm học."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 7.1",
+      "change": "added",
+      "to": "TRƯA ĐỐI VỚI TRẺ EM MẪU GIÁO"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "Giấy chứng nhận hộ nghèo, hộ cận nghèo theo từng năm học; Cơ sở giáo dục mầm non tiếp nhận, kiểm tra"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "chính sách trợ giúp xã hội đối với đối tượng bảo trợ xã hội. c) Cha mẹ hoặc người chăm sóc trẻ em thuộc đối tượng quy định tại khoản 3"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "gian hỗ trợ ăn trưa 1. Trẻ em thuộc các đối tượng quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 06/2018/NĐ-CP Hà Nội, ngày 05 tháng 01 năm 2018 NGHỊ ĐỊNH QUY ĐỊNH CHÍNH SÁCH HỖ TRỢ ĂN TRƯA ĐỐI VỚI TRẺ EM MẪU GIÁO VÀ CHÍNH SÁCH ĐỐI VỚI GIÁO VIÊN MẦM NON Căn cứ Luật tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Căn cứ Luật giáo dục ngày 14 tháng 6 năm 2005 và Luật sửa đổi, bổ sung một số điều của Luật giáo dục ngày 25 tháng 11 năm 2009; Căn cứ Luật trẻ em ngày 05 tháng 4 năm 2016; Theo đề nghị của Bộ trưởng Bộ Giáo dục và Đào tạo; Chính phủ ban hành Nghị định quy định chính sách hỗ trợ ăn trưa đối với trẻ em mẫu giáo và chính sách đối với giáo viên mầm non. Chương I QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định chính sách hỗ trợ ăn trưa đối với trẻ em mẫu giáo và chính sách đối với giáo viên mầm non. Điều 2. Đối tượng áp dụng Nghị định này áp dụng đối với: 1. Trẻ em độ tuổi mẫu giáo (không bao gồm trẻ em dân tộc thiểu số rất ít người theo quy định tại N..."
+    }
+  ]
+}

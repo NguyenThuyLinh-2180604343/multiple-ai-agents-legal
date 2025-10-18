@@ -1,0 +1,60 @@
+{
+  "base": "20_2022_TT_BGTVT_original",
+  "revised": "20_2022_TT_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "Thông tư này quy định về các biểu mẫu giấy chứng nhận, sổ an toàn kỹ thuật và bảo vệ môi trường cấp cho tàu biển, ụ nổi, kho chứa nổi, giàn di động, phương tiện thủy nội địa và sản phẩm công nghiệp sử dụng cho phương tiện thủy nội địa. 2. Thông tư này không điều chỉnh đối với tàu biển, ụ nổi, kho chứa nổi, giàn di động, phương tiện thủy nội địa và sản phẩm công nghiệp sử dụng cho phương tiện thủy nội địa sử dụng vào mục đích quốc phòng, an ninh và tàu cá."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "dụng đối với tổ chức, cá nhân có liên quan đến hoạt động thiết kế, chế tạo, đóng mới, sửa chữa, hoán cải, nhập khẩu, sử dụng và thực hiện công tác đăng kiểm về chất lượng an toàn kỹ thuật, bảo vệ môi trường, an toàn lao động đối với tàu biển, ụ nổi, kho chứa nổi, giàn di động, phương tiện thủy nội địa và sản phẩm công nghiệp sử dụng cho phương tiện thủy nội địa."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "văn bản quy phạm pháp luật được viện dẫn tại Thông tư này được sửa đổi, bổ sung hoặc được thay thế thì áp dụng các văn bản quy phạm pháp luật sửa đổi, bổ sung hoặc thay thế tương ứng. Chương II CÁC BIỂU MẪU GIẤY CHỨNG NHẬN, SỔ AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "trường theo các quy định của pháp luật Việt Nam 1. Các biểu mẫu giấy chứng nhận, sổ an toàn kỹ thuật và bảo vệ môi trường cấp cho tàu biển quy định tại Phụ lục I ban hành kèm theo Thông tư này. 2. Các biểu mẫu giấy chứng nhận, sổ an toàn kỹ thuật và bảo vệ môi trường cấp cho ụ nổi, kho chứa nổi, giàn di động quy định tại Phụ lục II ban hành kèm theo Thông tư này. 3. Các biểu mẫu giấy chứng nhận, sổ an toàn kỹ thuật và bảo vệ môi trường cấp cho phương tiện thủy nội địa quy định tại Phụ lục III ban hành kèm theo Thông tư này. 4. Các biểu mẫu giấy chứng nhận cấp cho sản phẩm công nghiệp sử dụng cho phương tiện thủy nội địa quy định tại Phụ lục IV ban hành kèm theo Thông tư này."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "trường cấp cho tàu biển, kho chứa nổi, giàn di động theo các công ước quốc tế của Tổ chức Hàng hải quốc tế (IMO) và Tổ chức Lao động quốc tế (ILO) 1. Các giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường được cấp theo các công ước quốc tế của IMO và ILO mà Việt Nam là thành viên thì áp dụng các biểu mẫu theo quy định của các công ước quốc tế. 2. Các giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường được cấp theo các công ước quốc tế của IMO và ILO mà Việt Nam chưa là thành viên hoặc công ước không quy định cụ thể mẫu giấy chứng nhận, theo yêu cầu của chủ tàu biển, kho chứa nổi, giàn di động để cung cấp thông tin cho các cơ quan liên quan biết tàu biển, kho chứa nổi, giàn di động đã phù hợp thì áp dụng các biểu mẫu giấy chứng nhận quy định tại Phụ lục V ban hành kèm theo Thông tư này."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "mẫu giấy chứng nhận tạm thời hoặc giấy chứng nhận có điều kiện Các giấy chứng nhận tạm thời hoặc giấy chứng nhận có điều kiện cấp cho tàu biển, ụ nổi, kho chứa nổi, giàn di động thì áp dụng các biểu mẫu tương ứng được nêu tại Thông tư này và bổ sung thêm chữ \"Tạm thời\" hoặc \"Có điều kiện\" vào giấy chứng nhận."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 7.1",
+      "change": "added",
+      "to": "trường do tổ chức đăng kiểm nước ngoài được ủy quyền cấp cho tàu biển, kho chứa nổi, giàn di động Việt Nam Trường hợp tổ chức đăng kiểm nước ngoài được ủy quyền cấp giấy chứng nhận, sổ an toàn kỹ thuật và bảo vệ môi trường cho tàu biển, kho chứa nổi, giàn di động Việt Nam thì áp dụng biểu mẫu do tổ chức đăng kiểm nước ngoài biên soạn theo quy định của các công ước quốc tế của IMO và ILO mà Việt Nam là thành viên hoặc áp dụng biểu mẫu quy định tại Thông tư này."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 8.1",
+      "change": "added",
+      "to": "được cấp the"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 20/2022/TT-BGTVT Hà Nội, ngày 29 tháng 7 năm 2022 THÔNG TƯ QUY ĐỊNH VỀ CÁC BIỂU MẪU GIẤY CHỨNG NHẬN, SỔ AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG CẤP CHO TÀU BIỂN, Ụ NỔI, KHO CHỨA NỔI, GIÀN DI ĐỘNG, PHƯƠNG TIỆN THỦY NỘI ĐỊA VÀ SẢN PHẨM CÔNG NGHIỆP SỬ DỤNG CHO PHƯƠNG TIỆN THỦY NỘI ĐỊA Căn cứ Bộ luật Hàng hải Việt Nam ngày 25 tháng 11 năm 2015; Căn cứ Luật Giao thông đường thủy nội địa ngày 15 tháng 6 năm 2004 và Luật sửa đổi, bổ sung một số điều của Luật Giao thông đường thủy nội địa ngày 17 tháng 6 năm 2014; Căn cứ Nghị định số 12/2017/NĐ-CP ngày 10 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Theo đề nghị của Vụ trưởng Vụ Pháp chế và Cục trưởng Cục Đăng kiểm Việt Nam; Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư quy định về các biểu mẫu giấy chứng nhận, sổ an toàn kỹ thuật và bảo vệ ..."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "base": "09_VBHN_BCA_original",
+  "revised": "09_VBHN_BCA_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "tư này quy định về nguyên tắc, trình tự điều tra, giải quyết tai nạn giao thông đường sắt của lực lượng Cảnh sát giao thông."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "Sĩ quan, hạ sĩ quan Cảnh sát giao thông, lực lượng Công an khác có liên quan. 2. Công an các đơn vị, địa phương. 3. Cơ quan, tổ chức, cá nhân khác có liên quan."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "thông đường sắt 1. Tuân thủ quy định của Thông tư này và các quy định khác của pháp luật có liên quan. 2. Bảo đảm nhanh chóng, kịp thời, chính xác, khách quan, toàn diện, tránh chồng chéo. 3. Không được lợi dụng, lạm dụng công tác điều tra, giải quyết tai nạn giao thông đường sắt để xâm phạm lợi ích của Nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "công tác điều tra, giải quyết tai nạn giao thông đường sắt thực hiện theo quy định của Chính phủ về biểu mẫu sử dụng trong xử phạt vi phạm hành chính, quy định của Bộ trưởng Bộ Công an về biểu mẫu, giấy tờ, sổ sách về điều tra hình sự và biểu mẫu quy định tại khoản 2 Điều này. 2. Ban hành kèm theo Thông tư này các biểu mẫu sau đây: a) Sổ theo dõi vụ tai nạn giao thông đường sắt (Mẫu số 01/TNĐS); b) Biên bản vụ việc (Mẫu số 02/TNĐS); c) Biên bản xác định chỉ tiêu kỹ thuật đường sắt, đường ngang, cầu chung, cầu, hầm, ghi liên quan đến vụ tai nạn giao thông đường sắt (Mẫu số 03/TNĐS); d) Đề nghị trưng cầu giám định, yêu cầu định giá tài sản (Mẫu số 04/TNĐS); đ) Quyết định phân công cán bộ điều tra, xác minh, giải quyết vụ tai nạn giao thông đường sắt (Mẫu số 05/TNĐS); e) Kế hoạch điều tra, xác minh, giải quyết vụ tai nạn giao thông đường sắt (Mẫu số 06/TNĐS); g) Biên bản khám nghiệm hiện trường vụ tai nạn giao thông đường sắt (Mẫu số 07/TNĐS); h) Sơ đồ hiện trường vụ tai nạn giao thông đường sắt (Mẫu số 08/TNĐS); i) Báo cáo kết quả khám nghiệm hiện trường vụ tai nạn giao thông đường sắt (Mẫu số 09/TNĐS); k) Biên bản khám nghiệm phương tiện liên quan đến vụ tai nạn giao thông đường sắt (Mẫu số 10/TNĐS); l) Báo cáo đề xuất, giải quyết vụ tai nạn giao thông đường sắt (Mẫu số 11/TNĐS); m) Biên bản ghi nhận dấu vết trên thân thể người bị nạn (Mẫu số 12/TNĐS); n) Sơ đồ vị trí, dấu vết thương tích trên thân thể người bị nạn (Mẫu số 13/TNĐS); o) Thông báo kết quả điều tra, xác minh, giải quyết vụ tai nạn giao thông đường sắt (Mẫu số 14/TNĐS); p) Biên bản giải quyết vụ tai nạn giao thông đường sắt (Mẫu số 15/TNĐS); q) Kế hoạch dựng lại hiện trường vụ tai nạn giao thông đường sắt (Mẫu số 16/TNĐS); r) Biên bản ghi lời khai (Mẫu số 17/TNĐS). Chương II TRÌNH TỰ ĐIỀU TRA, GIẢI QUYẾT TAI NẠN GIAO THÔNG ĐƯỜNG SẮT Mục 1. TRÌNH TỰ ĐIỀU TRA TAI NẠN GIAO THÔNG ĐƯỜNG SẮT"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "Cán bộ nhận tin báo về vụ tai nạn giao thông đường sắt phải hỏi rõ và ghi vào Sổ theo dõi vụ tai nạn giao thông các thông tin sau: a) Họ tên, địa chỉ, số điện thoại (nếu có) của người báo tin; b) Thời gian nhận tin báo, địa điểm xảy ra vụ việc; c) Thiệt hại ban đầu về người (số người chết, số người bị thương); phương tiện (đường bộ, đường sắt), thiết bị đường sắt và tài sản khác (nếu có); d) Nếu người báo tin là cán bộ, nhân viên ngành đường sắt thì phải hỏi thêm những việc đã xử lý tại hiện trường (tổ chức cấp cứu người bị nạn, bảo vệ hiện trường); các thông tin liên quan đến tai nạn giao thông đường sắt, hình thức vụ tai nạn: đổ tàu, ch"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ CÔNG AN -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 09/VBHN-BCA Hà Nội, ngày 26 tháng 4 năm 2025 THÔNG TƯ QUY ĐỊNH TRÌNH TỰ ĐIỀU TRA, GIẢI QUYẾT TAI NẠN GIAO THÔNG ĐƯỜNG SẮT CỦA LỰC LƯỢNG CẢNH SÁT GIAO THÔNG Thông tư số 34/2018/TT-BCA ngày 15 tháng 10 năm 2018 của Bộ trưởng Bộ Công an quy định trình tự điều tra, giải quyết tai nạn giao thông đường sắt của lực lượng Cảnh sát giao thông, có hiệu lực kể từ ngày 01 tháng 12 năm 2018, được sửa đổi, bổ sung bởi: Thông tư số 13/2025/TT-BCA ngày 28 tháng 02 năm 2025 của Bộ trưởng Bộ Công an sửa đổi, bổ sung một số điều của các thông tư quy định về trật tự, an toàn giao thông đường bộ, đường sắt và đường thủy nội địa, có hiệu lực kể từ ngày 01 tháng 3 năm 2025. Căn cứ Bộ luật Hình sự năm 2015 (sửa đổi, bổ sung năm 2017); Căn cứ Bộ luật Tố tụng hình sự năm 2015; Căn cứ Luật Tổ chức cơ quan điều tra hình sự năm 2015; Căn cứ Luật Đường sắt năm 2017; Căn cứ Luật Xử lý vi phạm hành ch..."
+    }
+  ]
+}

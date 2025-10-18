@@ -1,0 +1,54 @@
+{
+  "base": "08_2012_TT_BYT_original",
+  "revised": "08_2012_TT_BYT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "tắc vận chuyển hóa chất 1. Vận chuyển hóa chất phải tuân thủ các quy định của Nghị định số 104/2009/NĐ-CP, pháp luật về trật tự an toàn giao thông đường bộ, đường sắt và các quy định của pháp luật có liên quan. 2. Chỉ được thực hiện việc vận chuyển hóa chất sau khi đã được đóng gói, dán nhãn theo quy định tại Thông tư này. 3. Các cơ quan, tổ chức, cá nhân (sau đây gọi tắt là cơ sở vận chuyển) khi thực hiện việc vận chuyển hóa chất từ một nghìn ki-lô-gam (1.000kg)/xe/lần vận chuyển trở lên phải có giấy phép vận chuyển hóa chất. 4. Cơ sở vận chuyển khi thực hiện việc vận chuyển hóa chất dưới 1.000kg/xe/lần không cần phải có giấy phép vận chuyển hóa chất nhưng vẫn phải tuân thủ các quy định tại Mục II Thông tư này. 5. Không được dùng xe rơ móc để vận chuyển hóa chất. 6. Không được vận chuyển các hóa chất có khả năng phản ứng với nhau trên cùng một phương tiện. 7. Không được vận chuyển hóa chất cùng với hành khách, vật nuôi, lương thực, thực phẩm, các chất dễ gây cháy, nổ và các hàng hóa khác."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "điều chỉnh 1. Thông tư này hướng dẫn việc vận chuyển hàng nguy hiểm là hóa chất, chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế (sau đây gọi tắt là hóa chất) bằng phương tiện giao thông cơ giới đường bộ trên lãnh thổ Việt Nam, bao gồm: a) Điều kiện vận chuyển hóa chất; b) Thẩm quyền, hồ sơ, thủ tục cấp giấy phép vận chuyển hóa chất. 2. Thông tư này không điều chỉnh việc vận chuyển hóa chất là nhang muỗi: kem xoa, dung dịch xoa trên da xua muỗi; tấm MAT; bả diệt kiến, gián, ruồi và các hóa chất quy định tại Khoản 2, 3, và 4"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau: 1. Người gửi hàng là tổ chức, cá nhân đứng tên gửi hàng nguy hiểm bằng phương tiện giao thông cơ giới đường bộ. 2. Phiếu an toàn hóa chất là tài liệu do nhà sản xuất hoặc nhập khẩu thiết lập, ghi các thông tin về nhận dạng hóa chất; thành phần các chất; nhận dạng đặc tính nguy hiểm của hóa chất; biện pháp sơ cứu về y tế; biện pháp xử lý khi có hỏa hoạn; biện pháp phòng ngừa, ứng phó khi có sự cố; yêu cầu về cất giữ; tác động lên người và yêu cầu về thiết bị bảo vệ cá nhân; đặc tính lý, hóa của hóa chất; mức ổn định và khả năng hoạt động của hóa chất; thông tin về sinh thái; yêu cầu trong việc thải bỏ và các thông tin cần thiết khác. MỤC II. ĐIỀU KIỆN VẬN CHUYỂN HÓA CHẤT BẰNG PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "đối với bao gì, thùng chứa hoặc container (công-ten-nơ) chứa trong quá trình vận chuyển 1. Phải được làm bằng các vật liệu bảo đảm phù hợp với từng loại hóa chất theo quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 25.1",
+      "change": "added",
+      "to": "hóa chất, chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng và y tế; 2. Phải được dán hình tượng biểu thị tính chất vật lý của hóa chất theo Mẫu số 1 của Phụ lục 1 ban hành kèm theo Thông tư này. Kích thước của hình tượng biểu thị tính chất vật lý của hóa chất là 100mm x 100mm đối với mỗi thùng đựng hóa chất và dán trên container là 250mm x 250mm. 3. Phải được dán biểu trưng hàng nguy hiểm theo Mẫu số 2 của Phụ lục 1 ban hành kèm theo Thông tư này. Kích thước của biểu trưng nguy hiểm là 100mm x 100mm đối với mỗi thùng đựng hóa chất và dán trên container là 250mm x 250mm. 4. Phải có báo hiệu nguy hiểm theo Mẫu số 3 của Phụ lục 1 của Thông tư này ở vị trí phía dưới biểu trưng bày nguy hiểm. Kích thước báo hiệu nguy hiểm là 300mm x 500mm."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "đối với phương tiện vận chuyển Ngoài việc đáp ứng các yêu cầu quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 13.1",
+      "change": "added",
+      "to": "vận chuyển hóa chất phải đáp ứng các quy đ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ Y TẾ -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------- Số: 08/2012/TT-BYT Hà Nội, ngày 17 tháng 05 năm 2012 THÔNG TƯ HƯỚNG DẪN VIỆC VẬN CHUYỂN HÀNG NGUY HIỂM TRONG LĨNH VỰC Y TẾ BẰNG PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ Căn cứ Luật Giao thông đường bộ ngày 13 tháng 11 năm 2008; Căn cứ Nghị định số 188/2007/NĐ-CP ngày 27 tháng 12 năm 2007 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế; Căn cứ Nghị định số 22/2010/NĐ-CP ngày 09 tháng 3 năm 2010 của Chính phủ sửa đổi, bổ sung Điều 3 Nghị định số 188/2007/NĐ-CP ngày 27 tháng 12 năm 2007 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế; Căn cứ Nghị định số 104/2009/NĐ-CP ngày 09 tháng 11 năm 2009 của Chính phủ quy định danh mục hàng nguy hiểm và vận chuyển hàng nguy hiểm bằng phương tiện giao thông cơ giới đường bộ; Xét đề nghị của Cục trưởng Cục Quản lý môi trường y tế, Bộ trưởng Bộ Y tế hướng dẫn việc..."
+    }
+  ]
+}

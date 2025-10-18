@@ -1,0 +1,30 @@
+{
+  "base": "158_2024_NĐ_CP_original",
+  "revised": "158_2024_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "kiện kinh doanh và việc cấp, thu hồi Giấy phép kinh doanh vận tải bằng xe ô tô, bằng xe bốn bánh có gắn động cơ; cấp, thu hồi phù hiệu; hoạt động vận tải nội bộ bằng xe ô tô, bằng xe bốn bánh có gắn động cơ; trình tự, thủ tục cấp, cấp lại, thu hồi giấy phép vận tải đường bộ quốc tế, giấy phép liên vận cho đơn vị kinh doanh vận tải và phương tiện; gia hạn thời gian lưu hành cho phương tiện của nước ngoài tại Việt Nam tham gia vận chuyển người, hàng hóa giữa Việt Nam với các nước theo các Điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "cá nhân kinh doanh hoặc liên quan đến hoạt động vận tải bằng xe ô tô, bằng xe bốn bánh có gắn động cơ; hoạt động vận tải đường bộ quốc tế giữa Việt Nam với các nước theo quy định của các điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên. 2. Nghị định này không áp dụng đối với các đối tượng được miễn giấy phép theo quy định của các điều ước quốc tế về vận tải đường bộ qua biên giới mà Việt Nam là thành viên."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "ngữ Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau: 1. Bến xe bao gồm bến xe khách và bến xe hàng. Bến xe khách thực hiện chức năng phục vụ xe ô tô khách đón, trả hành khách và các dịch vụ hỗ trợ vận tải hành khách; bến xe hàng thực hiện chức năng phục vụ xe ô tô vận tải hàng hóa xếp, dỡ hàng hóa và các dịch vụ hỗ trợ cho hoạt động vận tải hàng hóa. 2. Vận tải trung chuyển hành khách là hoạt động vận tải không thu tiền của hành khách do đơn vị kinh doanh vận tải hành khách theo tuyến cố định hoặc bến xe khách sử dụng xe ô tô chở người để đón, trả khách đi các tuyến vận tải khách cố định đến bến xe khách hoặc điểm dừng đón, trả khách của tuyến cố định trên địa bàn địa phương hai đầu tuyến. 3. Trọng tải thiết kế của xe ô tô là số người và khối lượng hàng hóa tối đa mà xe ô tô đó được chở theo quy định của nhà sản xuất. 4. Giờ xuất bến của từng chuyến xe là mốc thời gian để xác định thời điểm xe phải rời khỏi bến xe khách. 5. Hành trình chạy xe là đường đi của phương tiện trên một tuyến đường cụ thể, được xác định bởi điểm đầu, điểm cuối và các điểm dừng, đỗ trên tuyến. 6. Lịch trình chạy xe là thời gian xe chạy kể từ khi xe xuất phát đến khi kết thúc hành trình, trong đó có xác định mốc thời gian tương ứng với một số vị trí nhất định trên hành trình chạy xe. 7. Biểu đồ chạy xe là tổng hợp hành trình, lịch trình"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 158/2024/NĐ-CP Hà Nội, ngày 18 tháng 12 năm 2024 NGHỊ ĐỊNH QUY ĐỊNH VỀ HOẠT ĐỘNG VẬN TẢI ĐƯỜNG BỘ Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Đường bộ ngày 27 tháng 6 năm 2024; Căn cứ Luật Trật tự, an toàn giao thông đường bộ ngày 27 tháng 6 năm 2024; Căn cứ Luật Đầu tư ngày 17 tháng 6 năm 2020; Đe thực hiện Hiệp định khung ASEAN về tạo thuận lợi cho hàng hóa quá cảnh ký ngày 16 tháng 12 năm 1998 và các Nghị định thư của Hiệp định; Để thực hiện Hiệp định khung ASEAN về tạo điều kiện thuận lợi cho vận tải liên quốc gia ký ngày 10 tháng 12 năm 2009; Để thực hiện Hiệp định khung ASEAN về tạo thuận lợi vận tải hành khách qua biên giới bằng phương tiện giao thông đường bộ ký ngày 13 tháng 10 năm 2017; Để thực hiện Hiệp định về..."
+    }
+  ]
+}

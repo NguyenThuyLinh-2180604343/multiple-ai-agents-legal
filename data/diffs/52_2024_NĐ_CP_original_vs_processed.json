@@ -1,0 +1,30 @@
+{
+  "base": "52_2024_NĐ_CP_original",
+  "revised": "52_2024_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "không dùng tiền mặt, bao gồm: mở và sử dụng tài khoản thanh toán; dịch vụ thanh toán không dùng tiền mặt; dịch vụ trung gian thanh toán; tổ chức, quản lý và giám sát các hệ thống thanh toán."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "tiền mặt. 2. Tổ chức cung ứng dịch vụ trung gian thanh toán. 3. Tổ chức, cá nhân có liên quan đến hoạt động cung ứng dịch vụ thanh toán không dùng tiền mặt, dịch vụ trung gian thanh toán. 4. Tổ chức, cá nhân sử dụng dịch vụ thanh toán không dùng tiền mặt, dịch vụ trung gian thanh toán (sau đây gọi là khách hàng)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "như sau: 1. Dịch vụ thanh toán không dùng tiền mặt (sau đây gọi là dịch vụ thanh toán) bao gồm: dịch vụ thanh toán qua tài khoản thanh toán của khách hàng và dịch vụ thanh toán không qua tài khoản thanh toán của khách hàng. 2. Dịch vụ thanh toán qua tài khoản thanh toán của khách hàng là việc cung ứng phương tiện thanh toán; thực hiện dịch vụ thanh toán séc, lệnh chi, ủy nhiệm chi, nhờ thu, ủy nhiệm thu, thẻ ngân hàng, chuyển tiền, thu hộ, chi hộ và các dịch vụ thanh toán khác cho khách hàng thông qua tài khoản thanh toán của khách hàng. 3. Dịch vụ thanh toán không qua tài khoản thanh toán của khách hàng là việc cung ứng dịch vụ thanh toán, thực hiện giao dịch thanh toán không thông qua tài khoản thanh toán của khách hàng. 4. Tổ chức cung ứng dịch vụ thanh toán không dùng tiền mặt (sau đây gọi là tổ chức cung ứng dịch vụ thanh toán) là tổ chức được cung ứng một hoặc một số dịch vụ thanh toán theo quy định tại Nghị định này, bao gồm: Ngân hàng Nhà nước Việt Nam (sau đây gọi là Ngân hàng Nhà nước), ngân hàng, chi nhánh ngân hàng nước ngoài, quỹ tín dụng nhân dân, tổ chức tài chính vi mô và doanh nghiệp cung ứng dịch vụ bưu chính công ích. 5. Tổ chức cung ứng dịch vụ trung gian thanh toán là tổ chức không phải là ngân hàng, chi nhánh ngân hàng nước ngoài được Ngân hàng Nhà nước cấp Giấy phép hoạt động cung ứng dịch vụ trung gian thanh toán. 6. Doanh nghiệp cung ứng dịch vụ bưu chính công ích là doanh nghiệp được chỉ định theo quy định của Luật Bưu chính . 7. Giao dịch thanh toán không dùng tiền mặt (sau đây gọi là giao dịch thanh toán) là việc sử dụng dịch vụ thanh toán để thực hiện trả tiền hoặc chuyển tiền của tổ chức, cá nhân. 8. Thanh toán quốc tế là giao dịch thanh toán được thực hiện cho một bên liên quan là tổ chức hoặc cá nhân có tài khoản thanh toán hoặc phương tiện thanh toán phát hành ở ngoài lãnh thổ Việt Nam. 9. Chủ tài khoản thanh toán là cá nhân đứng tên mở tài khoản đối với tài khoản của cá nhân hoặc là tổ chức mở tài khoản đối với tài khoản của tổ chức. 10. Phương tiện thanh toán không dùng tiền mặt (sau đây gọi là phương tiện thanh toán) là phương tiện do tổ chức cung ứng dịch vụ thanh toán, công ty tài chính được phép phát hành thẻ tín dụng, tổ chức cung ứng dịch vụ trung gian thanh toán cung ứng dịch vụ ví điện tử phát hành và được khách hàng sử dụng nhằm thực hiện giao dịch thanh toán, bao gồm: séc, lệnh chi, ủy nhiệm chi, nhờ thu, ủy nhiệm thu, thẻ ngân hàng (bao gồm: thẻ ghi nợ, thẻ tín dụng, thẻ trả trước), ví điện tử và các phương tiện thanh toán khác theo quy định của Ngân hàng Nhà nước. 11. Phương tiện thanh toán không hợp pháp là các phương tiện thanh toán không thuộc quy định tại khoản 10 Điều này. 12. Tiền điện tử là giá trị tiền Việt Nam đồng lưu trữ trên các phương tiện điện tử được cung ứng trên cơ sở đối ứng với số tiền được khách hàng trả trước cho ngân hàng, chi nhánh ngân hàng nước ngoài, tổ chức cung ứng dịch vụ trung gian thanh toán cung ứng dịch vụ ví điện tử. 13. Dịch vụ chuyển mạch tài chính là dịch vụ cung ứng hạ tầng kỹ thuật kết nối, truyền dẫn và xử lý dữ liệu điện tử các giao dịch thanh toán trong nước giữa các tổ chức cung ứng dịch vụ thanh toán, công ty tài chính được phép phát hành thẻ tín dụng, tổ chức cung ứn"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 52/2024/NĐ-CP Hà Nội, ngày 15 tháng 5 năm 2024 NGHỊ ĐỊNH QUY ĐỊNH VỀ THANH TOÁN KHÔNG DÙNG TIỀN MẶT Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm 2010; Căn cứ Luật Các tổ chức tín dụng ngày 18 tháng 01 năm 2024; Căn cứ Luật Đầu tư ngày 17 tháng 6 năm 2020; Căn cứ Luật Ngân sách nhà nước ngày 25 tháng 6 năm 2015; Căn cứ Luật An ninh mạng ngày 12 tháng 6 năm 2018; Căn cứ Luật Phòng, chống rửa tiền ngày 15 tháng 11 năm 2022; Căn cứ Luật Phòng, chống khủng bố ngày 12 tháng 6 năm 2013; Căn cứ Luật Bưu chính ngày 17 tháng 6 năm 2010; Theo đề nghị của Thống đốc Ngân hàng Nhà nước Việt Nam; Chính phủ ban hành Nghị định quy định về thanh toán không dùng tiền mặt. Chương I QUY ĐỊNH..."
+    }
+  ]
+}

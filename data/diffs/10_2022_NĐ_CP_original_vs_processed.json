@@ -1,0 +1,48 @@
+{
+  "base": "10_2022_NĐ_CP_original",
+  "revised": "10_2022_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "bạ, người nộp lệ phí trước bạ, căn cứ tính lệ phí trước bạ, ghi nợ, miễn lệ phí trước bạ, chế độ khai, nộp và quản lý lệ phí trước bạ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "phí trước bạ khi đăng ký quyền sở hữu, quyền sử dụng với cơ quan nhà nước có thẩm quyền, trừ các trường hợp thuộc đối tượng miễn lệ phí trước bạ theo quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "bạ Tổ chức, cá nhân có tài sản thuộc đối tượng chịu lệ phí trước bạ quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "chủ nghĩa Việt Nam là thành viên có quy định khác với quy định của Nghị định này thì áp dụng quy định của điều ước quốc tế đó. Chương II CĂN CỨ TÍNH LỆ PHÍ TRƯỚC BẠ"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "bạ Căn cứ tính lệ phí trước bạ là giá tính lệ phí trước bạ và mức thu lệ phí trước bạ theo tỷ lệ (%)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 7.1",
+      "change": "added",
+      "to": "với nhà, đất: a) Giá tính lệ phí trước bạ đối với đất là giá đất tại Bảng giá đất do Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương ban hành theo quy định của pháp luật về đất đai tại thời điểm kê khai lệ phí trước bạ. Trường hợp đất thuê của Nhà nước theo hình thức trả tiền thuê đất một lần cho cả thời gian thuê mà thời hạn thuê đất nhỏ hơn thời hạn của loại đất quy định tại Bảng giá đất do Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương ban hành thì giá đất của thời hạn thuê đất tính lệ phí trước bạ được xác định như sau: Giá đất của thời hạn thuê đất tính lệ phí trước bạ = Giá đất tại Bảng giá đất x Thời hạn thuê đất 70 năm b) Giá tính lệ phí trước bạ đối với nhà là giá do Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương ban hành theo quy định của pháp luật về xây dựng tại thời điểm kê khai lệ phí trước bạ. c) Giá tính lệ phí trước bạ đối với nhà, đất trong một số trường hợp đặc biệt: - Giá tính lệ phí trước bạ đối với nhà thuộc sở hữu nhà nước bán cho người đang thuê theo quy định của pháp luật về bán nhà ở thuộc sở hữu nhà nước, bao gồm cả đất kèm theo là giá bán thực tế theo quyết định của Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương. - Giá tính lệ phí trước bạ đối với nhà, đất mua theo phương thức đấu giá, đấu thầu theo quy định của pháp luật về đấu giá, đấu thầu là giá trúng đấu giá, đấu thầu thực tế ghi trên hóa đơn, chứng từ theo quy định của pháp luật hoặc giá trúng đấu giá, đấu thầu thực tế theo biên bản trúng đấu giá, đấu thầu hoặc theo văn bản phê duyệt kết quả đấu giá, đấu thầu (nếu có) của cơ quan nhà nước có thẩm quyền. - Giá tính lệ phí trước bạ đối với nhà nhiều tầng nhiều hộ ở, nhà chung cư bao gồm cả giá trị đất được phân bổ. Giá trị đất được phân bổ được xác định bằng giá đất tại Bảng giá đất do Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương ban hành nhân với hệ số phân bổ. Hệ số phân bổ được xác định theo quy định tại Nghị định số 53/2011/NĐ-CP ngày 01 tháng 7 năm 2011 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Thuế sử dụng đất phi nông nghiệp và các văn bản thay thế, sửa đổi, bổ sung (nếu có). d) Trường hợp giá nhà, đất tại hợp đồng mua bán nhà, hợp đồng chuyển quyền sử dụng đất cao hơn giá do Ủy ban nhân dân tỉnh, thành phố trực th"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 10/2022/NĐ-CP Hà Nội, ngày 15 tháng 01 năm 2022 NGHỊ ĐỊNH QUY ĐỊNH VỀ LỆ PHÍ TRƯỚC BẠ Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Phí và lệ phí ngày 25 tháng 11 năm 2015; Căn cứ Luật Quản lý thuế ngày 13 tháng 6 năm 2019; Theo đề nghị của Bộ trưởng Bộ Tài chính; Chính phủ ban hành Nghị định quy định về lệ phí trước bạ. Chương I NHỮNG QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định về đối tượng chịu lệ phí trước bạ, người nộp lệ phí trước bạ, căn cứ tính lệ phí trước bạ, ghi nợ, miễn lệ phí trước bạ, chế độ khai, nộp và quản lý lệ phí trước bạ. Điều 2. Đối tượng áp dụng 1. Người nộp lệ phí trước bạ. 2. Cơ quan thuế. 3. Cơ quan, tổ chức, cá nhân khác có liên quan. Điều 3. Đối tượng chịu lệ phí trước bạ 1. Nhà, đ..."
+    }
+  ]
+}

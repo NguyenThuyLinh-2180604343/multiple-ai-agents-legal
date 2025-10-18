@@ -1,0 +1,48 @@
+{
+  "base": "11_2009_TT_BGTVT_original",
+  "revised": "11_2009_TT_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "vi điều chỉnh Thông tư này quy định điều kiện cơ sở vật chất kỹ thuật và nhân lực của Trung tâm đăng kiểm phương tiện giao thông cơ giới đường bộ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "tượng áp dụng Thông tư này áp dụng đối với cơ quan, tổ chức, cá nhân có liên quan đến việc thành lập, hoạt động của các Trung tâm đăng kiểm phương tiện giao thông cơ giới đường bộ (sau đây gọi tắt là Trung tâm). Chương II CƠ SỞ VẬT CHẤT KỸ THUẬT"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "Trung tâm Địa điểm xây dựng Trung tâm phải phù hợp với quy hoạch, có đường giao thông thuận tiện cho phương tiện giao thông cơ giới đường bộ (sau đây gọi tắt là xe cơ giới) ra, vào kiểm định."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "tích xây dựng Trung tâm 1. Diện tích tối thiểu của xưởng kiểm tra theo quy định sau đây: Diện tích tối thiểu của xưởng kiểm tra có một dây chuyền (m 2 ) Kích thước tối thiểu lắp đặt dây chuyền dài x rộng (m) Loại dây chuyền kiểm định 180 30 x 6 Dây chuyền kiểm định xe có tải trọng trục đến 2.000 kG 264 40 x 6,6 Dây chuyền kiểm định xe có tải trọng trục đến 13.000 kG Đối với Trung tâm có nhiều dây chuyền kiểm định, xưởng kiểm tra phải có diện tích tối thiểu cho mỗi dây chuyền theo bảng trên. 2. Diện tích bãi đỗ xe và đường ra, vào kiểm định của Trung tâm có một dây chuyền kiểm định tối thiểu bằng 5,5 lần diện tích tối thiểu của xưởng kiểm tra tương ứng. Trường hợp Trung tâm có nhiều dây chuyền kiểm định thì kể từ dây chuyền thứ hai trở đi, diện tích bãi đỗ xe và đường ra vào phải tăng thêm 1,5 lần so với diện tích tương ứng của dây chuyền đầu tiên. 3. Diện tích nhà văn phòng tối thiểu là 90 m ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "cầu về nhà, xưởng và bãi đỗ xe 1. Mặt bằng Trung tâm phải có hệ thống thoát nước bảo đảm Trung tâm không bị ngập úng. 2. Xưởng kiểm tra phải có hệ thống hút khí thải, hệ thống thông gió, hệ thống chiếu sáng phù hợp với các yêu cầu kiểm tra, chống hắt nước vào thiết bị khi trời mưa, bảo đảm vệ sinh công nghiệp, an toàn lao động và phòng chống cháy nổ theo quy định hiện hành. Đối với xưởng kiểm tra lắp dây chuyền thiết bị kiểm tra xe có tải trọng trục đến 13.000 kG, chiều cao thông xe không thấp hơn 4,5 mét. 3. Nhà văn phòng phải bố trí hợp lý, bảo đảm thực hiện tốt việc giám sát công tác kiểm định và thuận tiện cho giao dịch. 4. Hệ thống đường cho xe cơ giới ra, vào tối thiểu phải bảo đảm theo quy định đối với đường bộ cấp 2 đồng bằng, chiều rộng mặt đường không nhỏ hơn 03 mét và bán kính quay vòng không nhỏ hơn 12 mét để bảo đảm cho phương tiện ra vào thuận tiện. 5. Bãi đỗ xe phải bảo đảm theo quy định đối với đường cấp III đồng bằng của Tiêu chuẩn Việt Nam TCVN: 4054 - Đường ô tô - Yêu cầu thiết kế."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "bị kiểm định 1. Kiểu loại thiết bị kiểm tra bố trí trong dây chuyền kiểm định phải được cơ quan quản lý nhà nước về công tác kiểm định phê duyệt nhằm bảo đảm tính thống nhất trong toàn mạng lưới Trung tâm đăng kiểm xe cơ giới trên toàn quốc. 2. Trang bị cho một dây chuyền kiểm định tối thiểu phải có các thiết bị kiểm tra sau đây: a) Thiết bị kiểm tra phanh; b) Thiết bị cân trọng lượng; c) Thiết bị đo độ trượt ngang của bánh xe có cảm biến ghi nhận kết quả chỉ khi có phương tiện vào và ra khỏi thiết bị; d) Thiết bị phân tích khí xả; đ) Thiết bị đo độ khói; e) Thiết bị đo độ ồn phương tiện và âm lượng còi; g) Thiết bị kiểm tra đèn chiếu sáng phía trước; h) Thiết bị hỗ trợ kiểm tra gầm; i) Cầu nâng xe phục vụ cho việc kiểm tra khung gầm và các bộ phận bên dưới thân xe. Trường hợp không sử dụng cầu nâng thì có thể thay thế bằng hầm kiểm tra gầm ô tô. Kích thước hầm kiểm tra xe có tải trọng trục đến 2.000 kG có chiều dài 6.000 mm, chiều rộng 600 mm và chiều sâu tối thiểu 1.300 mm; Kích thước hầm kiểm tra xe có tải trọng trục đến 13.000 kG: chiều dài 12.000 mm, chiều rộng 750 mm và chiều sâu tối thiểu 1.200 mm. Vị trí của hầm phù hợp với thiết kế của dây chuyền kiểm tra, lối lên xuống phải thuận tiện và có lối thoát hiểm khi xảy ra sự cố. Hầm phải có đủ ánh sáng, có dụng cụ kê kích để có thể thay đổi khoảng cách giữa đăng kiểm viên và gầm xe. 3. Thiết bị kiểm tra trong dây chuyền phải có chương trình điều khiển thống nhất có chức năng điều khiển quá trình hoạt động của thiết bị theo quy trình kiểm định, cài đặt được các tiêu chuẩn đánh giá, thiết lập trình tự kiểm định tuỳ thuộc vào phương án bố trí thiết bị kiểm định; cơ sở dữ liệu của chương trình phải được bảo mật và kết"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc ---------- Số: 11/2009/TT-BGTVT Hà Nội, ngày 24 tháng 6 năm 2009 THÔNG TƯ QUY ĐỊNH ĐIỀU KIỆN ĐỐI VỚI TRUNG TÂM ĐĂNG KIỂM PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ Căn cứ Luật Giao thông đường bộ ngày13 tháng 11 năm 2008; Căn cứ Nghị định số 51/2008/NĐ-CP ngày 22 tháng 4 năm 2008 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Bộ trưởng Bộ Giao thông vận tải quy định điều kiện đối với Trung tâm đăng kiểm phương tiện giao thông cơ giới đường bộ như sau: Chương I QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Thông tư này quy định điều kiện cơ sở vật chất kỹ thuật và nhân lực của Trung tâm đăng kiểm phương tiện giao thông cơ giới đường bộ. Điều 2. Đối tượng áp dụng Thông tư này áp dụng đối với cơ quan, tổ chức, cá nhân có liên quan đến việc thành lập, hoạt động của các Trung tâm đăng kiểm phương tiện giao thông cơ giới đường bộ (sa..."
+    }
+  ]
+}

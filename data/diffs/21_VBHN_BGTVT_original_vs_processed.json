@@ -1,0 +1,30 @@
+{
+  "base": "21_VBHN_BGTVT_original",
+  "revised": "21_VBHN_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "vi điều chỉnh và đối tượng áp dụng 1. Phạm vi điều chỉnh a) Thông tư này hướng dẫn về công tác quản lý, vận hành khai thác đường giao thông nông thôn (bao gồm cả hầm đường bộ, bến phà đường bộ và đường ngầm). b) Việc quản lý, vận hành khai thác cầu trên đường giao thông nông thôn thực hiện theo quy định tại Thông tư số 12/2014/TT-BGTVT ngày 29 tháng 4 năm 2014 của Bộ trưởng Bộ Giao thông vận tải hướng dẫn quản lý, vận hành khai thác cầu trên đường giao thông nông thôn. c) Việc bảo trì đường giao thông nông thôn được thực hiện theo quy định của Nghị định số 114/2010/NĐ-CP ngày 06 tháng 12 năm 2010 của Chính phủ về bảo trì công trình xây dựng (sau đây gọi chung là Nghị định số 114/2010/NĐ- CP), Thông tư số 52/2013/TT-BGTVT ngày 12 tháng 12 năm 2013 của Bộ trưởng Bộ Giao thông vận tải quy định về quản lý, khai thác và bảo trì công trình đường bộ (sau đây gọi chung là Thông tư số 52/2013/TT-BGTVT). 2. Đối tượng áp dụng Thông tư này áp dụng đối với tổ chức, cá nhân có liên quan đến quản lý, vận hành khai thác đường giao thông nông thôn."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau: 1. Đường giao thông nông thôn (sau đây gọi chung là đường GTNT) bao gồm: đường trục xã, đường liên xã, đường trục thôn; đường trong ngõ xóm và các điểm dân cư tương đương; đường trục chính nội đồng. 2. Cơ quan quản lý đường bộ là cơ quan thực hiện chức năng quản lý nhà nước chuyên ngành thuộc Bộ Giao thông vận tải; cơ quan chuyên môn thuộc Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là cấp tỉnh), Ủy ban nhân dân huyện, quận, thị xã, thành phố thuộc tỉnh (sau đây gọi chung là cấp huyện); Ủy ban nhân dân xã, phường, thị trấn (sau đây gọi chung là cấp xã). 3. Chủ quản lý sử dụng đường GTNT là tên gọi chung của tổ chức được cơ quan nhà nước có thẩm quyền giao quản lý, vận hành khai thác và sử dụng đường GTNT do nhà nước đầu tư; Chủ đầu tư đối với đường GTNT không do Nhà nước góp vốn đầu tư; cộng đồng dân cư đối với đường GTNT do cộng đồng đóng góp hoặc các tổ chức, cá nhân đóng góp vốn đầu tư xây dựng, quản lý, vận hành khai thác và bảo trì. 4. Đơn vị trực tiếp quản lý, vận hành khai thác đường GTNT (sau đây gọi chung là Đơn vị quản lý đường GTNT) là tổ chức, cá nhân được Chủ quản lý sử dụng đường GTNT giao nhiệm vụ, ký kết hợp đồng thực hiện việc quản lý, vận hành khai thác đường GTNT, bảo dưỡng thường xuyên đường GTNT. 5. Các công trình đặc biệt trên đường GTNT là tên gọi chung của hầm đường bộ, bến phà đường bộ và đường ngầm trên đường GTNT."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "cầu đối với công tác quản lý, vận hành khai thác đường GTNT 1. Việc quản lý, vận hành khai thác đường GTNT phải bảo đảm an toàn giao thông, an toàn cho công trình đường bộ, an toàn cho người, tài sản và công trình khác trong phạm vi hành lang an toàn đường GTNT, phòng, chống cháy nổ và bảo vệ môi trường. 2. Đường GTNT khi đưa vào vận hành khai thác phải bảo đảm chất lượng theo quy định. 3. Nghiêm cấm mọi tổ chức, cá nhân thực hiện các hành vi sau: a) Tự ý tháo, lắp hoặc có hành vi phá hoại, làm mất tác dụng các bộ phận, hạng mục của công trình đường GTNT; b) Lấn chiếm, sử dụng trái phép hành lang an toàn đường GTNT; c) Sử dụng các bộ phận, hạng mục thuộc công trình đường GTNT, đất của đường GT"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 21/VBHN-BGTVT Hà Nội, ngày 28 tháng 7 năm 2023 THÔNG TƯ HƯỚNG DẪN VỀ QUẢN LÝ, VẬN HÀNH KHAI THÁC ĐƯỜNG GIAO THÔNG NÔNG THÔN Thông tư số 32/2014/TT-BGTVT ngày 08 tháng 8 năm 2014 của Bộ trưởng Bộ Giao thông vận tải hướng dẫn về quản lý, vận hành khai thác đường giao thông nông thôn, có hiệu lực kể từ ngày 01 tháng 10 năm 2014 được sửa đổi, bổ sung bởi: Thông tư số 06/2023/TT-BGTVT ngày 12 tháng 05 năm 2023 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của các thông tư liên quan đến quản lý, khai thác, sử dụng, bảo trì và bảo vệ đường bộ, có hiệu lực kể từ ngày 01 tháng 07 năm 2023. Căn cứ Luật Giao thông đường bộ ngày 13 tháng 11 năm 2008; Căn cứ Nghị định số 107/2012/NĐ-CP ngày 20 tháng 12 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Căn cứ Nghị định số 11/2010/NĐ-CP ngày 24 thá..."
+    }
+  ]
+}

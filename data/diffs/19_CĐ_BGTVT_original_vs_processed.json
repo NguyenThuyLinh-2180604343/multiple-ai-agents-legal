@@ -1,0 +1,24 @@
+{
+  "base": "19_CĐ_BGTVT_original",
+  "revised": "19_CĐ_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section Section_1.1",
+      "change": "added",
+      "to": "VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 19/CĐ-BGTVT Hà Nội, ngày 25 tháng 09 năm 2021 CÔNG ĐIỆN VỀ VIỆC TỔ CHỨC KIỂM TRA, XỬ LÝ VÀ CHẤM DỨT NGAY TÌNH TRẠNG ÙN TẮC GIAO THÔNG TẠI CÁC CHỐT KIỂM SOÁT DỊCH TRÊN CÁC TUYẾN GIAO THÔNG ĐƯỜNG BỘ BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI điện : - Giám đốc Sở Giao thông vận tải, Sở Giao thông vận tải - Xây dựng các tỉnh, thành phố trực thuộc Trung ương (sau đây viết tắt là Sở GTVT). Hiện nay, trên địa bàn một số địa phương vẫn còn hiện tượng để xảy ra ùn tắc giao thông trên tuyến đường bộ, đặc biệt khu vực có chốt kiểm soát dịch làm ảnh hưởng đến tình trạng vận chuyển và tiêu thụ hàng nông sản của người dân; đồng thời làm tăng nguy cơ lây nhiễm dịch bệnh Covid-19. Hiện tượng này cơ quan báo chí, truyền thông đưa tin, phản ánh nhiều lần trong những ngày vừa qua. Để sớm chấm dứt tình trạng này, Bộ trưởng Bộ Giao"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "Khẩn trương tổ chức kiểm tra tình trạng giao thông trên các tuyến đường thuộc địa bàn tỉnh, thành phố và xử lý nghiêm theo thẩm quyền hoặc báo cáo Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương kịp thời xử lý nghiêm các tổ chức, cá nhân thực hiện không đúng chỉ đạo của Thủ tướng Chính phủ gây ùn tắc giao thông tại các chốt kiểm soát dịch và chấm dứt ngay tình trạng ùn tắc giao thông trên các tuyến đường bộ; 2. Tham mưu cho Uỷ ban nhân dân tỉnh, thành phố trực thuộc Trung ương thu hồi ngay các văn bản không đúng với chỉ đạo của Thủ tướng Chính phủ gây ùn tắc giao thông; 3. Thực hiện tiền kiểm, hậu kiểm các phương tiện vận tải theo đúng chỉ đạo của Thủ tướng Chính phủ tại Văn bản số 1015/TTg-CN ngày 25/7/2021 về việc vận chuyển hàng hóa thiết yếu phục vụ đời sống người dân vùng có dịch Covid-19; Văn bản số 5187/VPCP-CN ngày 29/7/2021 của Văn phòng Chính phủ về việc tạo thuận lợi cho vận chuyển hàng hóa trong tình hình dịch COVID-19 và Công điện số 1102/CĐ-TTg ngày 23/8/2021 của Thủ tướng Chính phủ về việc tăng cường các biện pháp phòng, chống dịch COVID-19 trên toàn quốc. Bộ trưởng Bộ GTVT yêu cầu Giám đốc các Sở GTVT khẩn trương triển khai thực hiện và chịu trách nhiệm trước Thủ tướng Chính phủ, Bộ trưởng Bộ GTVT, Chủ tịch Ủy ban nhân dân cấp tỉnh nếu để xảy ra ùn tắc giao thông trên các tuyến đường bộ trên địa bàn ./. Nơi nhận: - Như trên; - Thủ tướng Chính phủ (để báo cáo); - Phó Thủ tướng Lê Văn Thành (để báo cáo); - Các Bộ: QP, CA, YT, CT, NNPTNT, TTTT; - Thành ủy/Tỉnh ủy, Hội đồng nhân dân, UBND các tỉnh, thành phố trực thuộc Trung ương; - Đài Truyền hình Việt Nam; - Đài Tiếng nói Việt Nam; - Các Thứ trưởng Bộ GTVT; - Tổng cục Đường bộ Việt Nam; - Cục Cảnh sát giao thông (C08); - Lưu: VT, V.Tải (Phongdq, 5b). BỘ TRƯỞNG Nguyễn Văn Thể"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 19/CĐ-BGTVT Hà Nội, ngày 25 tháng 09 năm 2021 CÔNG ĐIỆN VỀ VIỆC TỔ CHỨC KIỂM TRA, XỬ LÝ VÀ CHẤM DỨT NGAY TÌNH TRẠNG ÙN TẮC GIAO THÔNG TẠI CÁC CHỐT KIỂM SOÁT DỊCH TRÊN CÁC TUYẾN GIAO THÔNG ĐƯỜNG BỘ BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI điện : - Giám đốc Sở Giao thông vận tải, Sở Giao thông vận tải - Xây dựng các tỉnh, thành phố trực thuộc Trung ương (sau đây viết tắt là Sở GTVT). Hiện nay, trên địa bàn một số địa phương vẫn còn hiện tượng để xảy ra ùn tắc giao thông trên tuyến đường bộ, đặc biệt khu vực có chốt kiểm soát dịch làm ảnh hưởng đến tình trạng vận chuyển và tiêu thụ hàng nông sản của người dân; đồng thời làm tăng nguy cơ lây nhiễm dịch bệnh Covid-19. Hiện tượng này cơ quan báo chí, truyền thông đưa tin, phản ánh nhiều lần trong những ngày vừa qua. Để sớm chấm dứt tình trạng này, Bộ trưởng Bộ Giao thông vận tải (GTVT) yêu cầu Giám đốc các Sở GTVT: 1. K..."
+    }
+  ]
+}

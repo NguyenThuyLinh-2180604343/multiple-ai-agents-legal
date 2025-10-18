@@ -1,0 +1,54 @@
+{
+  "base": "10_VBHN_BXD_original",
+  "revised": "10_VBHN_BXD_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "vi điều chỉnh Thông tư này quy định về cấp, cấp lại, thu hồi, xóa Giấy chứng nhận đăng ký phương tiện giao thông đường sắt (sau đây gọi là Giấy chứng nhận đăng ký phương tiện) hoạt động trên đường sắt quốc gia, đường sắt chuyên dùng, đường sắt đô thị và việc di chuyển phương tiện giao thông đường sắt (sau đây gọi là phương tiện) trong trường hợp đặc biệt."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "tượng áp dụng Thông tư này áp dụng đối với các tổ chức, cá nhân có liên quan đến việc cấp, cấp lại, thu hồi, xóa Giấy chứng nhận đăng ký phương tiện và di chuyển phương tiện trong trường hợp đặc biệt."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau: 1. Phương tiện chuyên dùng di chuyển trên đường sắt là phương tiện dùng để vận chuyển người, vật tư, thiết bị phục vụ cho các mục đích: cứu viện; cứu hộ tai nạn giao thông đường sắt; kiểm tra, thi công, bảo trì, sửa chữa công trình đường sắt. 2. Thay đổi tính năng sử dụng hoặc thay đổi các thông số kỹ thuật chủ yếu của phương tiện giao thông đường sắt là việc thay đổi kiểu loại động cơ, thay đổi công suất động cơ, thay đổi kiểu truyền động, thay đổi khổ đường đối với đầu máy; thay đổi kiểu loại, thay đổi tải trọng, thay đổi giá chuyển hướng khác kiểu loại, thay đổi khổ đường đối với toa xe; thay đổi kiểu loại, thay đổi khổ đường đối với phương tiện chuyên dùng; thay đổi kiểu loại, công suất động cơ, kiểu truyền động đối với toa xe động lực đường sắt đô thị. Chương II ĐĂNG KÝ PHƯƠNG TIỆN Mục 1. CẤP, CẤP LẠI, THU HỒI, XÓA GIẤY CHỨNG NHẬN ĐĂNG KÝ PHƯƠNG TIỆN"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "định chung 1. Các phương tiện nhập khẩu, sản xuất, lắp ráp trong nước trước khi đưa vào khai thác, vận dụng trên đường sắt phải được cơ quan nhà nước có thẩm quyền cấp Giấy chứng nhận đăng ký phương tiện theo quy định tại Thông tư này. 2. Chủ sở hữu phương tiện (sau đây gọi là chủ sở hữu) phải làm thủ tục đề nghị cơ quan nhà nước có thẩm quyền cấp lại Giấy chứng nhận đăng ký phương tiện theo quy định tại Thông tư này trong các trường hợp quy định tại khoản 2, khoản 3"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 31.1",
+      "change": "added",
+      "to": "đăng ký phương tiện được quy định tại Phụ lục I của Thông tư này. Đối với trường hợp cấp lại, trên Giấy chứng nhận đăng ký phương tiện có thêm dòng chữ \"Cấp lại lần 1, Cấp lại lần 2...\"."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "quan nhà nước có thẩm quyền cấp, cấp lại, thu hồi xóa Giấy chứng nhận đăng ký phương tiện [2] 1. Cục Đường sắt Việt Nam tổ chức cấp, cấp lại, thu hồi, xóa Giấy chứng nhận đăng ký phương tiện trên đường sắt quốc gia. 2. Ủy ban nhân dân cấp tỉnh có đường sắt chuyên dùng, đường sắt đô thị tổ chức cấp, cấp lại, thu hồi, xóa Giấy chứng nhận đăng ký phương tiện trên đường sắt chuyên dùng, đường sắt đô thị."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "sơ cấp Giấy chứng nhận đăng ký phương tiện 1. Bản chính văn bản giấy hoặc bản điện tử đơn đề nghị cấp Giấy chứng nhận đăng ký phương tiện của chủ sở hữu theo mẫu quy định tại Phụ lục III của Thông tư này. 2. Bản chính văn bản giấy hoặc bản sao có chứng thực hoặc bản điện tử hoặc bản sao điện tử có chứng thực các giấy tờ của phương tiện bao gồm: Hợp đồng mua bán, cho, tặng; chứng từ đã nộp lệ phí trước bạ (nếu có); quyết định điều chuyển phương tiện; hóa đơn của tổ chức, cá nhân bán phương tiện (nếu phương tiện đã chuyển qua nhiều tổ chức, cá nhân thì khi làm thủ tục cấp Giấy chứng nhận đăng ký phương tiện chỉ cần hóa đơn của tổ chức, cá nhân bán cuối cùng"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ XÂY DỰNG ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 10/VBHN-BXD Hà Nội, ngày 22 tháng 7 năm 2025 THÔNG TƯ QUY ĐỊNH VỀ ĐĂNG KÝ PHƯƠNG TIỆN GIAO THÔNG ĐƯỜNG SẮT, DI CHUYỂN PHƯƠNG TIỆN GIAO THÔNG ĐƯỜNG SẮT TRONG TRƯỜNG HỢP ĐẶC BIỆT Thông tư số 14/2023/TT-BGTVT ngày 30 tháng 6 năm 2023 của Bộ trưởng Bộ Giao thông vận tải quy định về đăng ký phương tiện giao thông đường sắt, di chuyển phương tiện giao thông đường sắt trong trường hợp đặc biệt được sửa đổi, bổ sung bởi: Thông tư số 09/2025/TT-BXD ngày 13 tháng 6 năm 2025 của Bộ trưởng Bộ Xây dựng sửa đổi, bổ sung một số điều của các Thông tư thuộc lĩnh vực quản lý nhà nước của Bộ Xây dựng liên quan đến sắp xếp tổ chức bộ máy, thực hiện chính quyền địa phương 02 cấp và phân cấp cho chính quyền địa phương [1] . Căn cứ Luật Đường sắt ngày 16 tháng 6 năm 2017; Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ c..."
+    }
+  ]
+}

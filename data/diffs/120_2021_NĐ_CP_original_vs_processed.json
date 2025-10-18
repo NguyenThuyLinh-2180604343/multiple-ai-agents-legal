@@ -1,0 +1,60 @@
+{
+  "base": "120_2021_NĐ_CP_original",
+  "revised": "120_2021_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "dụng biện pháp xử lý hành chính giáo dục tại xã, phường, thị trấn (sau đây gọi là biện pháp giáo dục tại xã, phường, thị trấn ) và việc xem xét, quyết định chuyển sang áp dụng biện pháp thay thế xử lý vi phạm hành chính quản lý tại gia đình (sau đây gọi là biện pháp quản lý tại gia đình)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "tại xã, phường, thị trấn . 2. Người được áp dụng biện pháp quản lý tại gia đình. 3. Cơ quan, người có thẩm quyền lập hồ sơ đề nghị và quyết định áp dụng biện pháp giáo dục tại xã, phường, thị trấn và biện pháp quản lý tại gia đình. 4. Cơ quan, tổ chức, cá nhân tham gia vào việc tổ chức thi hành quyết định áp dụng biện pháp giáo dục tại xã, phường, thị trấn và biện pháp quản lý tại gia đình. 5. Cơ quan, tổ chức, cá nhân khác có liên quan."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "thẩm quyền, đối tượng, trình tự, thủ tục quy định tại Luật Xử lý vi phạm hành chính và Nghị định này. 2. Không xâm phạm đến sức khỏe, danh dự, nhân phẩm của người vi phạm. 3. Tôn trọng và bảo vệ bí mật cá nhân của người vi phạm. 4. Người có thẩm quyền áp dụng biện pháp giáo dục tại xã, phường, thị trấn có trách nhiệm chứng minh vi phạm hành chính. Cá nhân bị xem xét áp dụng biện pháp giáo dục tại xã, phường, thị trấn có quyền tự mình hoặc thông qua người đại diện hợp pháp chứng minh mình không thuộc đối tượng bị áp dụng biện pháp giáo dục tại xã, phường, thị trấn . 5. Bảo đảm sự tham gia của cơ quan, tổ chức, cá nhân trong cộng đồng, nhà trường và gia đình trong việc giúp đỡ, giáo dục người bị áp dụng biện pháp giáo dục tại xã, phường, thị trấn . 6. Việc quyết định thời hạn áp dụng biện pháp giáo dục tại xã, phường, thị trấn phải căn cứ vào tính chất, mức độ, hậu quả vi phạm, nhân thân người vi phạm, tình tiết giảm nhẹ, tình tiết tăng nặng. 7. Chỉ áp dụng biện pháp giáo dục tại xã, phường, thị trấn đối với người chưa thành niên trong trường hợp cần thiết nhằm giáo dục, giúp đỡ họ sửa chữa sai lầm, phát triển lành mạnh và trở thành công dân có ích cho xã hội. Đối với người chưa thành niên thuộc đối tượng quy định tại các điểm c, d và đ khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "thời hạn áp dụng biện pháp giáo dục tại xã, phường, thị trấn 1. Biện pháp giáo dục tại xã, phường, thị trấn được áp dụng đối với các đối tượng quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "tình tiết tăng nặng 1. Ngoài tình tiết giảm nhẹ quy định tại các khoản 1, 2, 3, 4, 5, 6 và 7"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 9.1",
+      "change": "added",
+      "to": "khi quyết định áp dụng biện pháp giáo dục tại xã, phường, thị trấn , người có thẩm quyền có thể xem xét áp dụng tình tiết giảm nhẹ là người vi phạm đang nuôi con dưới 36 tháng tuổi. 2. Tình tiết tăng nặng được xem xét áp dụng khi quyết định áp dụng biện pháp giáo dục tại xã, phường, thị trấn là các điểm a, c, đ, e, g, k và m khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 10.1",
+      "change": "added",
+      "to": "phạm hành chính ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 90.1",
+      "change": "added",
+      "to": "tại xã, phường, thị trấn : a) Người từ đủ 12 tuổi đến dưới 14 tuổi thực hiện hành vi có dấu hiệu của một tội phạm rất nghiêm trọng do cố ý quy định tại Bộ luật Hình sự thì thời hiệu là 01 năm, kể từ ngày thực hiện hành vi vi phạm; b) Người từ đủ 14 tuổi đến dưới 16 tuổi thực hiện hành vi có dấu hiệu của một tội phạm nghiêm trọng do cố ý quy định tại Bộ luật Hình sự thì thời hiệu là 06 tháng, kể từ ngày thực hiện hành vi vi phạm; c) Người từ đủ 14 tuổi đến dưới 16 tuổi đã 02 lần bị xử phạt vi phạm hành chính và bị lập biê"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 120/2021/NĐ-CP Hà Nội, ngày 24 tháng 12 năm 2021 NGHỊ ĐỊNH QUY ĐỊNH CHẾ ĐỘ ÁP DỤNG BIỆN PHÁP XỬ LÝ HÀNH CHÍNH GIÁO DỤC TẠI XÃ, PHƯỜNG, THỊ TRẤN Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Xử lý vi phạm hành chính ngày 20 tháng 6 năm 2012; Luật sửa đổi, bổ sung một số điều của Luật Xử lý vi phạm hành chính ngày 13 tháng 11 năm 2020; Căn cứ Luật Phòng, chống ma túy ngày 30 tháng 3 năm 2021; Theo đề nghị của Bộ trưởng Bộ Tư pháp; Chính phủ ban hành Nghị định quy định chế độ áp dụng biện pháp xử lý hành chính giáo dục tại xã, phường, thị trấn. Chương I NHỮNG QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định việc xem xét, quyết định áp dụng biện pháp xử lý hành chính giáo dục tại xã, phường, thị trấn (sau đây gọ..."
+    }
+  ]
+}

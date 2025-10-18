@@ -1,0 +1,30 @@
+{
+  "base": "981_QĐ_BKHCN_original",
+  "revised": "981_QĐ_BKHCN_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "quốc gia (TCVN) sau đây: 1. TCVN 12504-1:2020 ISO 6469-1:2019 Phương tiện giao thông đường bộ chạy điện - Đặc tính kỹ thuật an toàn - Phần 1: Hệ thống tích điện nạp lại được (RESS) 2. TCVN 12504-2:2020 ISO 6469-2:2018 Phương tiện giao thông đường bộ chạy điện - Đặc tính kỹ thuật an toàn - Phần 2: An toàn vận hành xe 3. TCVN 12504-3:2020 ISO 6469-3:2018 Phương tiện giao thông đường bộ chạy điện - Đặc tính kỹ thuật an toàn - Phần 3: An toàn về điện 4. TCVN 12772:2020 ISO 17409:2015 Phương tiện giao thông đường bộ chạy điện - Đấu nối với nguồn cung cấp điện từ bên ngoài - Yêu cầu về an toàn 5. TCVN 12773:2020 ISO 13063:2012 Mô tô và xe máy điện - Đặc tính kỹ thuật an toàn 6. TCVN 12774:2020 ISO 18243:2017 Xe máy và mô tô điện - Đặc tính kỹ thuật thử nghiệm và yêu cầu về an toàn đối với hệ thống ắc quy lithi-ion 7. TCVN 12775:2020 ISO 18246:2015 Mô tô và xe máy điện - Yêu cầu an toàn đối với đấu nối với nguồn cấp điện từ bên ngoài 8. TCVN 12776-1:2020 ISO 13064-1:2012 Mô tô và xe máy điện - Hiệu suất - Phần 1 : Mức tiêu thụ năng lượng và quãng đường chạy danh định 9. TCVN 12776-2:2020 ISO 13064-2:2012 Mô tô và xe máy điện - Hiệu suất - Phần 2: Đặc tính hoạt động trên đường 10. TCVN 12777-1:2020 ISO 7588-1:1998 Phương tiện giao thông đường bộ - Thiết bị chuyển mạch điện/điện tử - Phần 1: Rơle và bộ nhấp nháy 11. TCVN 12777-2:2020 ISO 7588-2:1998 Phương tiện giao thông đường bộ - Thiết bị chuyển mạch điện/điện tử - Phần 2: Thiết bị điện tử 12. TCVN 12777-3:2020 ISO 7588-3:1998 Phương tiện giao thông đường bộ - Thiết bị chuyển mạch điện/điện tử - Phần 3: Rơle loại nhỏ"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "hiệu lực thi hành kể từ ngày ký."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "cục Tiêu chuẩn Đo lường Chất lượng và các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Quyết định này./. Nơi nhận: - Vụ PC; - Lưu: VT, PC, TĐC. KT. BỘ TRƯỞNG THỨ TRƯỞNG Trần Văn Tùng"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ KHOA HỌC VÀ CÔNG NGHỆ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 981/QĐ-BKHCN Hà Nội, ngày 15 tháng 4 năm 2020 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ TIÊU CHUẨN QUỐC GIA BỘ TRƯỞNG BỘ KHOA HỌC VÀ CÔNG NGHỆ Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29/6/2006; Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01/8/2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ; Căn cứ Nghị định số 78/2018/NĐ-CP ngày 16/5/2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 127/2007/NĐ-CP quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ; Căn cứ Nghị định số 95/2017/NĐ-CP ngày 16/8/2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ; Theo đề nghị của Tổng cục trưởng Tổng cục Tiêu chuẩn Đo lường Chất lượng. QUYẾT ĐỊNH: Điều 1. Công bố 12 Tiêu chuẩn quốc gia (TCVN) sau đây: 1. TCVN 12504-1:2020 ISO 6469-1:2019 ..."
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "base": "85_2024_NĐ_CP_original",
+  "revised": "85_2024_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 17.1",
+      "change": "added",
+      "to": "sau đây: a) Đường lối, chủ trương của Đảng, chính sách của Nhà nước trong phát triển kinh tế - xã hội; b) Yêu cầu trong công tác quản lý nhà nước về giá hàng hóa, dịch vụ để bảo đảm phát triển kinh tế - xã hội, đời sống người dân, hoạt động sản xuất, kinh doanh của doanh nghiệp hoặc để phù hợp với những thay đổi về quan hệ cung cầu trên thị trường của hàng hóa, dịch vụ đó; c) Kết quả nghiên cứu, tổng kết, đánh giá thực trạng biện pháp quản lý giá của hàng hóa, dịch vụ cần điều chỉnh. 2. Trên cơ sở các căn cứ quy định tại khoản 1 Điều này, khi cần đề nghị điều chỉnh Danh mục hàng hóa, dịch vụ bình ổn giá, bộ, cơ quan ngang bộ quản lý ngành, lĩnh vực, Ủy ban nhân dân cấp tỉnh thực hiện các nội dung sau: a) Trường hợp đề nghị bổ sung hàng hóa, dịch vụ vào Danh mục hàng hóa, dịch vụ bình ổn giá: tổng kết, đánh giá về tình hình cung, cầu, diễn biến giá cả thị trường và thực trạng biện pháp quản lý giá của hàng hóa, dịch vụ cần bổ sung; đánh giá sự cần thiết điều chỉnh danh mục hàng hóa, dịch vụ bình ổn giá theo quy định tại khoản 1 Điều này; đánh giá tác động của chính sách bổ sung hàng hóa, dịch vụ vào Danh mục hàng hóa, dịch vụ bình ổn giá; lấy ý kiến các cơ quan, tổ chức, cá nhân có liên quan; tổ chức hội nghị, hội thảo lấy ý kiến, nghiên cứu, tham khảo kinh nghiệm nước ngoài (nếu cần thiết); b) Trường hợp đề nghị đưa hàng hóa, dịch vụ ra khỏi Danh mục hàng hóa, dịch vụ bình ổn giá: tổng kết, đánh giá việc thực hiện bình ổn giá đối với hàng hóa, dịch vụ; đánh giá về tình hình cung, cầu, diễn biến giá cả thị trường của hàng hóa, dịch vụ; đánh giá sự cần thiết điều chỉnh danh mục hàng hóa, dịch vụ bình ổn giá theo quy định tại khoản 1 Điều này và dự kiến biện pháp quản lý giá thay thế đối với hàng hóa, dịch vụ đó sau khi đưa ra khỏi Danh mục hàng hóa, dịch vụ bình ổn giá; đánh"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 20.1",
+      "change": "added",
+      "to": "thực hiện bình ổn giá. 3. Khoản 6"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 21.1",
+      "change": "added",
+      "to": "khung giá hoặc giá tối đa hoặc giá tối thiểu và một cấp bộ, cơ quan ngang bộ, Ủy ban nhân dân cấp tỉnh thực hiện định giá cụ thể). Trường hợp hai cấp định giá cùng là một cơ quan thì cơ quan này vừa định khung giá hoặc giá tối đa hoặc giá tối thiểu và vừa định giá cụ thể theo quy định. Chương II QUY ĐỊNH CỤ THỂ VỀ HOẠT ĐỘNG QUẢN LÝ, ĐIỀU TIẾT GIÁ CỦA NHÀ NƯỚC Mục 1. BÌNH ỔN GIÁ"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 24.1",
+      "change": "added",
+      "to": "hành văn bản định giá hoặc điều chỉnh mức giá. 5. Khoản 6"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 27.1",
+      "change": "added",
+      "to": "hiệp thương giá. 6. Khoản 8"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 28.1",
+      "change": "added",
+      "to": "giá. 7. Khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 30.1",
+      "change": "added",
+      "to": "hóa, dịch vụ áp dụng giá tham chiếu và việc công bố, sử dụng giá tham chiếu. 8. Khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 37.1",
+      "change": "added",
+      "to": "tác phối hợp thực hiện nhiệm vụ tổng hợp, phân tích, dự báo giá thị trường. 9. Khoản 5"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 38.1",
+      "change": "added",
+      "to": "quản lý, cập nhật và khai thác cơ sở dữ liệu về giá."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "người tiêu dùng; cơ quan nhà nước; tổ chức, cá nhân khác có liên quan đến hoạt động trong lĩnh vực giá, thẩm định giá trên lãnh thổ Việt Nam."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "như sau: 1. Hàng hóa, dịch vụ do một cấp định giá là hàng hóa, dịch vụ thuộc Danh mục hàng hóa, dịch vụ do Nhà nước định giá quy định tại Phụ lục số 02 ban hành kèm theo Luật Giá , trong đó quy định một cấp có thẩm quyền định giá theo quy định tại khoản 3"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "nghị điều chỉnh Danh mục hàng hóa, dịch vụ bình ổn giá 1. Bộ, cơ quan ngang bộ quản lý ngành, lĩnh vực, Ủy ban nhân dân cấp tỉnh đánh giá sự cần thiết của việc điều chỉnh Danh mục hàng hóa, dịch vụ bình ổn giá trên cơ sở tiêu chí về hàng hóa, dịch vụ bình ổn giá quy định tại khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 85/2024/NĐ-CP Hà Nội, ngày 10 tháng 7 năm 2024 NGHỊ ĐỊNH QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT GIÁ Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Căn cứ Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Giá ngày 19 tháng 6 năm 2023; Theo đề nghị của Bộ trưởng Bộ Tài chính; Chính phủ ban hành Nghị định quy định chi tiết một số điều của Luật Giá . Chương I NHỮNG QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định chi tiết một số điều của Luật Giá , bao gồm: 1. Khoản 4 Điều 17 về trình tự, thủ tục điều chỉnh Danh mục hàng hóa, dịch vụ bình ổn giá. 2. Khoản 3 Điều 20 về tổ chức thực hiện bình ổn giá. 3. Khoản 6 Điều 21 về trình tự, thủ tục điều chỉnh Danh mục hàng hóa, dịch vụ do Nhà nước định ..."
+    }
+  ]
+}

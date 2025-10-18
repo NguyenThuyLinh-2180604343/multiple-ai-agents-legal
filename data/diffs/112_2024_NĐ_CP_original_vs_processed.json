@@ -1,0 +1,42 @@
+{
+  "base": "112_2024_NĐ_CP_original",
+  "revised": "112_2024_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "vùng quy hoạch trồng lúa có năng suất, chất lượng cao; chuyển đổi cơ cấu cây trồng, vật nuôi, xây dựng công trình phục vụ trực tiếp sản xuất nông nghiệp trên đất trồng lúa; bảo vệ và sử dụng tầng đất mặt của đất chuyên trồng lúa; nộp tiền để Nhà nước bổ sung diện tích đất chuyên trồng lúa bị mất hoặc tăng hiệu quả sử dụng đất trồng lúa; chính sách hỗ trợ địa phương sản xuất, bảo vệ đất trồng lúa và chính sách đầu tư, hỗ trợ đầu tư xây dựng kết cấu hạ tầng, áp dụng khoa học và công nghệ hiện đại cho vùng quy hoạch trồng lúa có năng suất, chất lượng cao."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "đất trồng lúa và các đối tượng khác có liên quan đến việc quản lý, sử dụng đất trồng lúa quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "ngữ dưới đây được hiểu như sau: 1. Đất trồng lúa là đất trồng từ một vụ lúa trở lên hoặc trồng lúa kết hợp với các mục đích sử dụng đất khác được pháp luật cho phép nhưng trồng lúa là chính, đất trồng lúa bao gồm đất chuyên trồng lúa và đất trồng lúa còn lại. a) Đất chuyên trồng lúa là đất trồng hai vụ lúa nước trở lên trong năm; b) Đất trồng lúa còn lại là đất trồng một vụ lúa nước trong năm và đất trồng lúa nương. 2. Gây ô nhiễm đất trồng lúa là hoạt động sử dụng hoặc tạo ra hoặc phát tán các chất độc hại, sinh vật gây hại, làm thay đổi tính chất vật lý, hóa học, sinh học của đất gây ô nhiễm môi trường đất, giảm năng suất lúa. 3. Gây thoái hóa đất trồng lúa là hoạt động làm cho đất bị xói mòn, rửa trôi hoặc bị chua hóa, mặn hóa, phèn hóa, khô hạn, chai cứng, dẫn đến giảm độ phì, mất cân bằng dinh dưỡng của đất trồng lúa, giảm năng suất lúa. 4. Chuyển đổi cơ cấu cây trồng, vật nuôi trên đất trồng lúa là hình thức chuyển đổi từ trồng lúa sang trồng cây hằng năm; trồng lúa sang trồng cây lâu năm; trồng lúa kết hợp với nuôi trồng thủy sản. 5. Năng suất cao là năng suất được tính tại thời điểm phê duyệt vùng quy hoạch trồng lúa năng suất, chất lượng cao, đạt tối thiểu bằng năng suất trung bình của 3 năm liền kề trước đó tại vùng dự kiến quy hoạch trồng lúa năng suất, chất lượng cao theo công bố của cơ quan thống kê địa phương. Trường hợp trong 3 năm liền kề có vụ lúa giảm năng suất do thiên tai, dịch bệnh được cấp có thẩm quyền công bố thì lấy kết quả cùng vụ của năm trước đó. 6. Công trình phục vụ trực tiếp sản xuất nông nghiệp là công trình phục vụ sơ chế, bảo quản nông sản; kho chứa vật tư nông nghiệp, máy móc, dụng cụ lao động; trưng bày, giới thiệu sản phẩm nông nghiệp. 7. Kết cấu hạ tầng phục vụ vùng quy hoạch trồng lúa có năng suất, chất lượng cao bao gồm công trình giao thông, thủy lợi."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "hành chính: Người sử dụng đất trồng lúa nộp 01 bộ hồ sơ trực tiếp hoặc gửi qua dịch vụ bưu chính hoặc qua môi trường điện tử đến Bộ phận một cửa của cơ quan nhà nước có thẩm quyền. 2. Tiếp nhận và trả lời tính hợp lệ của hồ sơ: a) Trường hợp nộp trực tiếp: Cơ quan nhà nước có thẩm quyền xem xét, kiểm tra và trả lời ngay tính hợp lệ của hồ sơ cho người sử dụng đất trồng lúa; b) Trường hợp nộp hồ sơ qua dịch vụ bưu chính: Trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, Cơ quan nhà nước có thẩm quyền xem xét, kiểm tra và trả lời tính hợp lệ của hồ sơ cho người sử dụng đất trồng lúa; c) Trường hợp nộp hồ sơ qua môi trường điện tử: Trong thời hạn 01 ngày làm việc kể từ ngày nhận được hồ sơ, Cơ quan nhà nước có thẩm quyền xem xét, kiểm tra và trả lời tính hợp lệ của hồ sơ cho người sử dụng đất trồng lúa. 3. Hồ sơ nộp trực tiếp hoặc qua dịch vụ bưu chính là bản chính, trừ khi có quy định khác tại hồ sơ thủ tục cụ thể. Hồ sơ nộp qua môi trường điện tử thực hiện theo quy định tại Nghị định số 45/2020/NĐ-CP ngày 08 tháng 4 năm 2020 của Chính phủ về thực hiện thủ tục hành chính trên môi trường điện tử. 4. Cách thức trả kết quả: Cơ quan nhà nước có thẩm quyền trả kết quả giải quyết thủ tục hành chính trực tiếp tại bộ phận một cửa hoặc qua dịch vụ bưu chính hoặc qua môi trường điện tử. Chương II QUẢN LÝ, SỬ DỤNG ĐẤT TRỒNG LÚA"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "có năng suất, chất lượng cao, gồm các tiêu chí sau: a) Thuộc vùng đất chuyên trồng lúa, phù hợp với qu"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 112/2024/NĐ-CP Hà Nội, ngày 11 tháng 9 năm 2024 NGHỊ ĐỊNH QUY ĐỊNH CHI TIẾT VỀ ĐẤT TRỒNG LÚA Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Đất đai ngày 18 tháng 01 năm 2024; Căn cứ Luật Trồng trọt ngày 19 tháng 11 năm 2018; Theo đề nghị của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn; Chính phủ ban hành Nghị định quy định chi tiết về đất trồng lúa. Chương I QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định về vùng quy hoạch trồng lúa có năng suất, chất lượng cao; chuyển đổi cơ cấu cây trồng, vật nuôi, xây dựng công trình phục vụ trực tiếp sản xuất nông nghiệp trên đất trồng lúa; bảo vệ và sử dụng tầng đất mặt của đất chuyên trồng lúa; nộp tiền để Nhà nước bổ sung diện tích đất chuyên trồng lúa bị mất hoặc..."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "base": "01_QĐ_UBND_original",
+  "revised": "01_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "hành chính ban hành kèm theo các Quyết định của Chủ tịch Ủy ban nhân dân tỉnh, cụ thể: 1. Quyết định số 3381/QĐ-UBND ngày 25/11/2019 về việc công bố thủ tục hành chính mới ban hành, lĩnh vực Đường bộ thuộc thẩm quyền giải quyết và phạm vi quản lý của Sở Giao thông vận tải tỉnh Sóc Trăng. 2. Quyết định số 262/QĐ-UBND ngày 28/01/2019 về việc công bố thủ tục hành chính mới ban hành thuộc thẩm quyền giải quyết của Sở Giao thông vận tải tỉnh Sóc Trăng. (Kèm theo danh mục)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "kể từ ngày ký."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "CHÍNH BÃI BỎ LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH SÓC TRĂNG (Ban hành kèm theo Quyết định số 01/QĐ-UBND ngày 02/01/2024 của Chủ tịch Ủy ban nhân dân tỉnh Sóc Trăng) Số thứ tự Tên thủ tục hành chính Ghi chú I Quyết định số 3381/QĐ-UBND ngày 25/11/2019 của Chủ tịch Ủy ban nhân dân tỉnh Thực hiện theo Quyết định số 1531 /QĐ-BGTVT ngày 23/11/2023 của Bộ trưởng Bộ Giao thông vận tải. 1 Cấp Giấy phép liên vận Việt Nam - Campuchia 2 Cấp Giấy phép liên vận Việt - Lào cho phương tiện 3 Cấp lại Giấy phép liên vận Việt - Lào cho phương tiện II Quyết định số 262/QĐ-UBND ngày 28/01/2019 của Chủ tịch Ủy ban nhân dân tỉnh 1 Cấp lại giấy phép đào tạo lái xe ô tô trong trường hợp bị mất, bị hỏng hoặc có sự thay đổi liên quan đến nội dung khác 2 Cấp lại giấy chứng nhận trung tâm sát hạch lái xe loại 3 đủ điều kiện hoạt động Tổng số: 05 thủ tục."
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH SÓC TRĂNG ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 01/QĐ-UBND Sóc Trăng, ngày 02 tháng 01 năm 2024 QUYẾT ĐỊNH VỀ VIỆC BÃI BỎ MỘT SỐ THỦ TỤC HÀNH CHÍNH LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH SÓC TRĂNG CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH SÓC TRĂNG Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08/6/2010 của Chính phủ về kiểm soát thủ tục hành chính; Căn cứ Nghị định số 92/2017/NĐ-CP ngày 07/8/2017 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định quan đến kiểm soát thủ tục hành chính; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Nghị định số 107/2021/NĐ-CP ngày 06/12/2021 của Chính phủ sửa đổi..."
+    }
+  ]
+}

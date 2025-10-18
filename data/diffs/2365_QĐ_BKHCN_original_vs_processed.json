@@ -1,0 +1,30 @@
+{
+  "base": "2365_QĐ_BKHCN_original",
+  "revised": "2365_QĐ_BKHCN_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "bố 05 Tiêu chuẩn quốc gia (TCVN) sau đây: 1. TCVN 13713:2023 Xe mô tô và xe gắn máy điện - Thuật ngữ 2. TCVN 13714:2023 ISO/TS 19466:2017 Xe mô tô và xe gắn máy điện - Phương pháp thử đánh giá hiệu năng của hệ thống phanh tái sinh 3. TCVN 13715:2023 ISO 23280:2022 Xe mô tô và xe gắn máy điện - Phương pháp thử để đánh giá hiệu năng trên băng thử động cơ 4. TCVN 13716-1:2023 ISO 21782-1:2019 Phương tiện giao thông đường bộ chạy điện - Yêu cầu kỹ thuật về thử nghiệm bộ phận đẩy điện - Phần 1: điều kiện thử nghiệm chung và định nghĩa 5. TCVN 13717:2023 ISO 20762:2018 Phương tiện giao thông đường bộ chạy điện - Xác định công suất đẩy của xe hybrid điện"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "định này có hiệu lực thi hành kể từ ngày ký."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "cục trưởng Tổng cục Tiêu chuẩn Đo lường Chất lượng và các tổ chức, cá nhân liên quan chịu trách nhiệm thi hành Quyết định này./. Nơi nhận: - Như"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ KHOA HỌC VÀ CÔNG NGHỆ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 2365/QĐ-BKHCN Hà Nội, ngày 19 tháng 10 năm 2023 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ TIÊU CHUẨN QUỐC GIA BỘ TRƯỞNG BỘ KHOA HỌC VÀ CÔNG NGHỆ Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ngày 29 tháng 6 năm 2006; Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ; Căn cứ Nghị định số 78/2018/NĐ-CP ngày 16 tháng 5 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 127/2007/NĐ-CP ngày 01 tháng 8 năm 2007 của Chính phủ quy định chi tiết thi hành một số điều Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ; Căn cứ Nghị định số 28/2023/NĐ-CP ngày 02 tháng 6 năm 2023 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Khoa học và Công nghệ; Theo đề nghị của Tổng cục trưởng Tổng cục Tiêu chuẩn Đo lường Chất lượng. QUYẾT ĐỊNH: Điều 1. C..."
+    }
+  ]
+}

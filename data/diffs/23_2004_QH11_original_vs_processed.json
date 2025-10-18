@@ -1,0 +1,30 @@
+{
+  "base": "23_2004_QH11_original",
+  "revised": "23_2004_QH11_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "vi điều chỉnh Luật này quy định về hoạt động giao thông đường thủy nội địa; các điều kiện bảo đảm an toàn giao thông đường thuỷ nội địa đối với kết cấu hạ tầng, phương tiện và người tham gia giao thông, vận tải đường thuỷ nội địa."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "tượng áp dụng Luật này áp dụng đối với tổ chức, cá nhân liên quan đến hoạt động giao thông đường thuỷ nội địa. Trường hợp điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc gia nhập có quy định khác với Luật này thì áp dụng quy định của điều ước quốc tế đó."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "thích từ ngữ Trong Luật này, các từ ngữ dưới đây được hiểu như sau: 1. Hoạt động giao thông đường thuỷ nội địa là hoạt động của người, phương tiện tham gia giao thông, vận tải đường thuỷ nội địa; quy hoạch phát triển, xây dựng, khai thác, bảo vệ kết cấu hạ tầng giao thông đường thuỷ nội địa và quản lý nhà nước về giao thông đường thuỷ nội địa. 2. Luồng chạy tàu thuyền (sau đây gọi là luồng) là vùng nước được giới hạn bằng hệ thống báo hiệu đường thuỷ nội địa để phương tiện đi lại thông suốt, an toàn. 3. Âu tàu là công trình chuyên dùng dâng nước, hạ nước để đưa phương tiện qua nơi có mực nước chênh lệch trên đường thuỷ nội địa. 4. Đường thủy nội địa là luồng, âu tàu, các công trình đưa phương tiện qua đập, thác trên sông, kênh, rạch hoặc luồng trên hồ, đầm, phá, vụng, vịnh, ven bờ biển, ra đảo, nối các đảo thuộc nội thuỷ của nước Cộng hoà xã hội chủ nghĩa Việt Nam được tổ chức quản lý, khai thác giao thông vận tải. 5. Hành lang bảo vệ luồng là phần giới hạn của vùng nước hoặc dải đất dọc hai bên luồng để lắp đặt báo hiệu, bảo vệ luồng và bảo đảm an toàn giao thông. 6. Thanh thải là việc loại bỏ các vật chướng ngại trên đường thuỷ nội địa. 7. Phương tiện thuỷ nội địa (sau đây gọi là phương tiện) là tàu, thuyền và các cấu trúc nổi khác, có động cơ hoặc không có động cơ, chuyên hoạt động trên đường thuỷ nội địa. 8. Phương tiện thô sơ là phương tiện không có động cơ chỉ di chuyển bằng sức người hoặc sức gió, sức nước. 9. Bè là phương tiện được kết ghép lại bằng tre, nứa, gỗ hoặc các vật nổi khác để chuyển đi hoặc dùng làm phương tiện vận chuyển tạm thời trên đường thuỷ nội địa. 10. Hoán cải phương tiện là việc thay đổi tính năng, kết cấu, công dụng của phương tiện. 11. Phương tiện đi đối hướng nhau là hai phương tiện đi ngược hướng nhau mà từ phương tiện của mình nhìn thấy mũi phương tiện kia thẳng trước mũi phương tiện của mình. 12. Đoàn lai là đoàn gồm nhiều phương tiện được ghép với nhau, di chuyển nhờ phương tiện có động cơ chuyên lai kéo, lai đẩy hoặc lai áp mạn. 13. Đoàn lai hỗn hợp là đoàn lai được ghép thành đội hình có ít nhất hai trong ba phương thức lai kéo, lai đẩy, lai áp mạn. 14. Trọng tải toàn phần của phương tiện là khối lượng tính bằng tấn của hàng hoá, nhiên liệu, dầu bôi trơn, nước trong khoang két, lương thực, thực phẩm, hành khách và hành lý, thuyền viên và tư trang của họ. 15. Sức chở người của phương tiện là số lượng người tối đa được phép chở trên phương tiện, trừ thuyền viên, người lái phương tiện và trẻ em dưới một tuổi. 16. Vạch dấu mớn nước an toàn là vạch đánh dấu trên phương tiện để giới hạn phần thân phương tiện được phép chìm trong nước khi hoạt động. 17. Mạn được gió của thuyền là mạn có hướng gió thổi vào cánh buồm chính. 18. Thuyền viên là người làm việc theo chức danh quy định trên phương tiện không có động cơ trọng tải toàn phần trên 15 tấn hoặc phương tiện có động cơ tổng công suất máy chính trên 15 mã lực hoặc phương tiện có sức chở trên 12 người. 19. Thuyền trưởng là chức danh của người chỉ huy cao nhất trên phương tiện không có động cơ trọng tải toàn phần trên 15 tấn hoặc phương tiện có động cơ tổng công suất máy chính trên 15 mã lực hoặc phương tiện có sức chở trên 12 người. 20. Người lái phương tiện là người trực tiếp điều khiển phương tiện không có động cơ trọng tải toàn phần đến 15 tấn hoặc phương tiện có động cơ tổng công suất máy chính đến 15 mã lực hoặc phương tiện có sức chở đến 12 người hoặc bè. 21. Hoa tiêu đường thuỷ nội địa (sau đây gọi là hoa tiêu) là người tư vấn, giúp thuyền trưởng điều khiển phương tiện hành trình an toàn. 22. Người vận tải là tổ chức, cá nhân sử dụng phương tiện để vận tải người, hàng hóa trên đường thuỷ nội địa. 23. Người kinh doanh vận tải là người vận tải giao kết hợp đồng vận tải hàng hoá, hành khách với người thuê vận tải để thực hiện việc vận tải hàng hoá, hành khách mà có thu cước phí vận tải"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "QUỐC HỘI ******** CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ******** Số: 23/2004/QH11 Hà Nội, ngày 15 tháng 6 năm 2004 LUẬT CỦA QUỐC HỘI NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM SỐ 23/2004/QH11 NGÀY 15 THÁNG 6 NĂM 2004 VỀ GIAO THÔNG ĐƯỜNG THUỶ NỘI ĐỊA Căn cứ vào Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992 đã được sửa đổi, bổ sung theo Nghị quyết số 51/2001/QH10 ngày 25 tháng 12 năm 2001 của Quốc hội khoá X, kỳ họp thứ 10;:Luật này quy định về giao thông đường thuỷ nội địa. Chương 1: NHỮNG QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Luật này quy định về hoạt động giao thông đường thủy nội địa; các điều kiện bảo đảm an toàn giao thông đường thuỷ nội địa đối với kết cấu hạ tầng, phương tiện và người tham gia giao thông, vận tải đường thuỷ nội địa. Điều 2. Đối tượng áp dụng Luật này áp dụng đối với tổ chức, cá nhân liên quan đến hoạt động giao thông đường thuỷ nội địa. Trường hợp điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam k..."
+    }
+  ]
+}

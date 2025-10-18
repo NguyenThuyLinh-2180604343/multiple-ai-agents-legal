@@ -1,0 +1,42 @@
+{
+  "base": "63_2020_TT_BCA_original",
+  "revised": "63_2020_TT_BCA_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "này quy định quy trình điều tra, giải quyết tai nạn giao thông đường bộ (sau đây gọi chung là tai nạn giao thông) của lực lượng Cảnh sát giao thông."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "các đơn vị, địa phương. 2. Sĩ quan, hạ sĩ quan Cảnh sát giao thông làm nhiệm vụ điều tra, giải quyết tai nạn giao thông; tuần tra, kiểm soát, xử lý vi phạm hành chính về giao thông đường bộ (sau đây gọi chung là cán bộ Cảnh sát giao thông). 3. Sĩ quan, hạ sĩ quan Công an nhân dân có liên quan. 4. Cơ quan, tổ chức, cá nhân có liên quan đến hoạt động điều tra, giải quyết tai nạn giao thông."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "các vụ tai nạn giao thông xảy ra phải được điều tra, giải quyết nhanh chóng, kịp thời, chính xác, khách quan, toàn diện; các cơ quan, đơn vị tiếp nhận, xử lý tin báo về tai nạn giao thông phải khẩn trương cử cán bộ đến hiện trường để giải quyết theo quy định Thông tư này và các quy định khác của pháp luật có liên quan. 2. Lực lượng Cảnh sát giao thông phải phối hợp chặt chẽ với các lực lượng khác trong Công an nhân dân khi điều tra, giải quyết vụ tai nạn giao thông bảo đảm tập trung, thống nhất theo chỉ đạo của Thủ trưởng Công an các cấp. Cơ quan, đơn vị, cá nhân cấp dưới chịu sự hướng dẫn, chỉ đạo nghiệp vụ điều tra, giải quyết tai nạn giao thông của cấp trên; cá nhân chịu trách nhiệm trước Thủ trưởng đơn vị và trước pháp luật về hành vi, quyết định của mình. 3. Không được lợi dụng, lạm dụng công tác điều tra, giải quyết tai nạn giao thông để xâm phạm lợi ích của Nhà nước, quyền, lợi ích hợp pháp của tổ chức, cá nhân."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "TỔ CHỨC TIẾP NHẬN, XỬ LÝ TIN BÁO VÀ GIẢI QUYẾT BAN ĐẦU"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "vị Cảnh sát giao thông có trách nhiệm tiếp nhận tin báo: a) Đội Cảnh sát giao thông; Đội Cảnh sát giao thông, trật tự Công an quận, huyện, thị xã, thành phố trực thuộc tỉnh, thành phố thuộc Trung ương (sau đây gọi chung là Đội Cảnh sát giao thông Công an cấp huyện); b) Phòng Cảnh sát giao thông; Phòng Cảnh sát giao thông đường bộ; Phòng Cảnh sát giao thông đường bộ, đường sắt Công an tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là Phòng Cảnh sát giao thông Công an cấp tỉnh); c) Cục Cảnh sát giao thông. 2. Các cơ quan, đơn vị nói trên phải tổ chức trực ban tiếp nhận đầy đủ các tin báo về tai nạn giao thông. Địa điểm tiếp nhận tin báo về tai nạn giao thông phải đặt ở nơi thuận tiện, có biển ghi tên cơ quan, số điện thoại, có cán bộ trực 24/24 giờ và thông báo rộng rãi để mọi người biết. 3. Tiếp nhận tin báo tại trụ sở đơn vị Cán bộ nhận tin báo về vụ tai nạn giao thông phải hỏi rõ và ghi vào Sổ theo dõi vụ tai nạn giao thông theo mẫu số 01/TNĐB ban hành kèm theo Thông tư này các thông tin sau: a) Họ tên, địa chỉ, số điện thoại (nếu có) của người báo tin; b) Thời gian nhận tin báo, địa điểm xảy ra vụ việc; c) Thiệt hại ban đầu về người: Số người chết, số người bị thương (nếu có); d) Thông tin phương tiện (biển số xe, loại xe), thiệt hại về phương tiện đường bộ, công trình giao thông đường bộ và tài sản khác (nếu có); đ) Họ tên, địa chỉ, số điện thoại của những người liên quan hoặc người biết về vụ tai nạn giao thông xảy ra (nếu có); e) Những thông tin khác về vụ tai nạn giao thông (nếu có); g) Cán bộ sau khi nhận tin"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ CÔNG AN -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 63/2020/TT-BCA Hà Nội, ngày 19 tháng 6 năm 2020 THÔNG TƯ QUY ĐỊNH QUY TRÌNH ĐIỀU TRA, GIẢI QUYẾT TAI NẠN GIAO THÔNG ĐƯỜNG BỘ CỦA LỰC LƯỢNG CẢNH SÁT GIAO THÔNG Căn cứ Luật Xử lý vi phạm hành chính ngày 20 tháng 6 năm 2012; Căn cứ Luật Giao thông đường bộ ngày 13 tháng 11 năm 2008; Căn cứ Bộ luật Hình sự ngày 27 tháng 11 năm 2015 ( Luật sửa đổi, bổ sung một số điều của Bộ luật Hình sự ngày 20 tháng 6 năm 2017); Căn cứ Bộ luật Tố tụng hình sự ngày 27 tháng 11 năm 2015; Căn cứ Luật Tổ chức cơ quan điều tra hình sự ngày 26 tháng 11 năm 2015; Căn cứ Luật Công an nhân dân ngày 20 tháng 11 năm 2018; Căn cứ Luật trưng mua, trưng dụng tài sản ngày 03 tháng 6 năm 2008; Căn cứ Nghị định số 01/2018/NĐ-CP ngày 06 tháng 8 năm 2018 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công an; Theo đề nghị của Cục trưởng Cục Cảnh sát giao thông; Bộ trư..."
+    }
+  ]
+}

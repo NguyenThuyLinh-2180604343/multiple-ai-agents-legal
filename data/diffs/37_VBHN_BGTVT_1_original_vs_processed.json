@@ -1,0 +1,36 @@
+{
+  "base": "37_VBHN_BGTVT_1_original",
+  "revised": "37_VBHN_BGTVT_1_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "chỉnh 1. Thông tư này quy định về việc xếp hàng hóa trên xe ô tô, rơ moóc, sơ mi rơ moóc (sau đây gọi chung là xe ô tô) khi tham gia giao thông trên đường bộ. 2. Việc xếp hàng nguy hiểm thực hiện theo quy định tại Nghị định số 104/2009/NĐ-CP ngày 9 tháng 11 năm 2009 của Chính phủ quy định danh mục hàng nguy hiểm và vận chuyển hàng nguy hiểm bằng phương tiện giao thông cơ giới đường bộ. 3. Việc xếp hàng siêu trường, siêu trọng thực hiện theo quy định tại Thông tư số 07/2010/TT-BGTVT ngày 11 tháng 2 năm 2010 của Bộ trưởng Bộ Giao thông vận tải quy định về tải trọng, khổ giới hạn của đường bộ; lưu hành xe quá tải trọng, xe quá khổ giới hạn, xe bánh xích trên đường bộ; vận chuyển hàng siêu trường, siêu trọng; giới hạn xếp hàng hóa trên phương tiện giao thông đường bộ khi tham gia giao thông trên đường bộ; Thông tư số 03/2011/TT- BGTVT ngày 22 tháng 02 năm 2011 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung Thông tư số 07/2010/TT-BGTVT ngày 11 tháng 2 năm 2010 của Bộ trưởng Bộ Giao thông vận tải “Quy định về tải trọng, khổ giới hạn của đường bộ; lưu hành xe quá tải trọng, xe quá khổ giới hạn, xe bánh xích trên đường bộ; vận chuyển hàng siêu trường, siêu trọng; giới hạn xếp hàng hóa trên phương tiện giao thông đường bộ khi tham gia giao thông trên đường bộ”."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "dụng Thông tư này áp dụng đối với người vận tải hàng hóa, người lái xe, người áp tải, người thuê vận tải, người xếp hàng hóa trên xe ô tô và các tổ chức, cá nhân có liên quan đến hoạt động xếp hàng hóa trên xe ô tô khi tham gia giao thông trên đường bộ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "ngữ Trong Thông tư này các từ ngữ dưới đây được hiểu như sau: 1. Người vận tải: là tổ chức hoặc cá nhân sử dụng xe ô tô để vận tải hàng hóa trên đường bộ. 2. Đơn vị kinh doanh vận tải hàng hóa bằng xe ô tô: là doanh nghiệp, hợp tác xã, hộ kinh doanh tham gia kinh doanh vận tải hàng hóa bằng xe ô tô. 3. Người xếp hàng hóa: là tổ chức hoặc cá nhân thực hiện việc xếp hàng hóa trên xe ô tô. 4. Người thuê vận tải: là tổ chức hoặc cá nhân thuê đơn vị kinh doanh vận tải vận chuyển hàng hóa bằng xe ô tô trên đường bộ. 5. Hàng rời: là loại hàng hóa có dạng cục, hạt, khi vận chuyển được chứa trực tiếp bằng thùng chở hàng của ô tô, không cần bao gói. 6. Hàng bao kiện: là hàng hóa được đóng gói trong bao, thùng hoặc kiện để đảm bảo hàng hóa không bị thất thoát, hư hỏng khi vận chuyển. 7. Hàng hình trụ ống: là hàng hóa có hình dạng trụ tròn hoặc hình ống tròn dễ lăn trên mặt phẳng. 8. Công - ten - nơ: là một thành phần trong thiết bị vận tải có tính bền vững và đủ độ chắc phù hợp cho việc sử dụng nhiều lần; cho phép xếp dỡ thuận tiện, đặc biệt khi chuyển từ phương thức vận tải này sang phương thức vận tải khác. Công - ten - nơ được thiết kế và sản xuất theo tiêu chuẩn quy định. Chương II QUY ĐỊNH VỀ VIỆC XẾP HÀNG HÓA TRÊN XE Ô TÔ"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "chung về xếp hàng hóa 1. Người vận tải phải lựa chọn phương tiện phù hợp với loại hàng hóa cần vận chuyển. 2. Việc xếp và vận chuyển hàng hóa phải thực hiện đúng quy định về trọng tải thiết kế của xe ô tô, tải trọng và khổ giới hạn của cầu, hầm, đường bộ, đảm bảo các quy định về an toàn giao thông và vệ sinh môi trường. 3. Đối với các loại hàng hóa là máy móc, phương tiện giao thông trước khi xếp lên xe ô tô phải rút hết nhiên liệu ra khỏi bình chứa. 4. Hàng hóa xếp trên xe ô tô phải"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 37/VBHN-BGTVT Hà Nội, ngày 28 tháng 07 năm 2023 THÔNG TƯ QUY ĐỊNH VỀ XẾP HÀNG HÓA TRÊN XE Ô TÔ KHI THAM GIA GIAO THÔNG TRÊN ĐƯỜNG BỘ Thông tư số 35/2013/TT-BGTVT ngày 21 tháng 10 năm 2013 của Bộ trưởng Bộ Giao thông vận tải quy định về xếp hàng hóa trên xe ô tô khi tham gia giao thông trên đường bộ, có hiệu lực kể từ ngày 15 tháng 12 năm 2013, được sửa đổi, bổ sung bởi: Thông tư số 05/2023/TT-BGTVT ngày 27 tháng 04 năm 2023 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của các Thông tư liên quan đến lĩnh vực vận tải đường bộ, dịch vụ hỗ trợ vận tải đường bộ, phương tiện và người lái, có hiệu lực kể từ ngày 15 tháng 06 năm 2023. Căn cứ Luật Giao thông đường bộ ngày 13 tháng 11 năm 2008; Căn cứ Nghị định số 107/2012/NĐ-CP ngày 20 tháng 12 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận ..."
+    }
+  ]
+}

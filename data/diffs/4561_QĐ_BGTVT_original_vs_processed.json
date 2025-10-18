@@ -1,0 +1,24 @@
+{
+  "base": "4561_QĐ_BGTVT_original",
+  "revised": "4561_QĐ_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "nhận kiểm định tại Phụ lục VI ban hành kèm theo Thông tư số 70/2015/TT-BGTVT ngày 09 tháng 11 năm 2015 của Bộ trưởng Bộ Giao thông vận tải quy định về kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ như sau: Thêm cụm từ “Chiều dài cơ sở/ V ết bánh xe (Whee l base/Whee l tread …………. ) / …………………. ( mm) ” vào hàng thứ nhất ngay sau Mục 2. THÔNG S Ố KỸ THUẬT (SPECIFICATIONS) ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "không th ể tách rời của Thông tư số 70/2015/TT-BGTVT ngày 09 tháng 11 năm 2015 của Bộ trưởng Bộ Giao thông vận tải./. KT. BỘ TRƯỞNG THỨ TRƯỞNG Lê Đình Thọ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 4561/QĐ-BGTVT Hà Nội, ngày 24 tháng 12 năm 2015 QUYẾT ĐỊNH VỀ VIỆC ĐÍNH CHÍNH THÔNG TƯ SỐ 70/2015/TT-BGTVT NGÀY 09/11/2015 CỦA BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI QUY ĐỊNH VỀ KIỂM ĐỊNH AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI Căn cứ Luật Ban hành văn b ả n quy phạm pháp luật ngày 03 tháng 6 năm 2008; Căn cứ Nghị định số 107/2012/NĐ-CP ngày 20 tháng 12 năm 2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Theo đề nghị của Vụ trưởng Vụ Khoa học - Công nghệ, QUYẾT ĐỊNH: Điều 1. Đính chính trang nội dung 2 của Mẫu Giấy chứng nhận kiểm định tại Phụ lục VI ban hành kèm theo Thông tư số 70/2015/TT-BGTVT ngày 09 tháng 11 năm 2015 của Bộ trưởng Bộ Giao thông vận tải quy định về kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông c..."
+    }
+  ]
+}

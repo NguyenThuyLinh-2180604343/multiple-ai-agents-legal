@@ -1,0 +1,36 @@
+{
+  "base": "497_QĐ_UBND_original",
+  "revised": "497_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "định này; cấu hình bắt buộc Danh mục thành phần hồ sơ phải số hóa tại Phụ lục II kèm theo Quyết định này trên Hệ thống thông tin giải quyết thủ tục hành chính tỉnh trước ngày 30/5/2024 (đối với trường hợp phát sinh hồ sơ), trước ngày 30/6/2024 (đối với trường hợp chưa phát sinh hồ sơ)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "vận tải thực hiện: 1. Cập nhật, công khai thủ tục hành chính nêu tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "có hiệu lực thi hành kể từ ngày ký."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "MỤC 03 THỦ TỤC HÀNH CHÍNH LĨNH VỰC GIAO THÔNG VẬN TẢI THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ CỦA SỞ GIAO THÔNG VẬN TẢI (Ban hành kèm theo Quyết định số: 497/QĐ-UBND ngày 10 tháng 5 năm 2024 của Chủ tịch Ủy ban nhân dân tỉnh Tuyên Quang) STT Tên thủ tục hành chính Thời hạn giải quyết Địa điểm thực hiện Phí, lệ phí Căn cứ pháp lý Cách thức thực hiện Nộp trực tiếp Dịch vụ BCCI Trực tuyến THỦ TỤC HÀNH CHÍNH CẤP TỈNH (03 thủ tục) 1. Cấp Giấy phép vận chuyển hàng hóa nguy hiểm Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ đún"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH TUYÊN QUANG ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 497/QĐ-UBND Tuyên Quang, ngày 10 tháng 05 năm 2024 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ DANH MỤC THỦ TỤC HÀNH CHÍNH VÀ THÀNH PHẦN HỒ SƠ THỰC HIỆN SỐ HÓA CỦA THỦ TỤC HÀNH CHÍNH MỚI BAN HÀNH TRONG LĨNH VỰC GIAO THÔNG VẬN TẢI THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH TUYÊN QUANG CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH TUYÊN QUANG Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08/6/2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 92/2017/NĐ-CP ngày 07/8/2017 của Chính phủ quy định về sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa l..."
+    }
+  ]
+}

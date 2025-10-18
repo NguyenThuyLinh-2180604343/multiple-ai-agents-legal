@@ -1,0 +1,30 @@
+{
+  "base": "5208_QĐ_UBND_original",
+  "revised": "5208_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "quy trình nội bộ giải quyết 03 thủ tục hành chính mới ban hành trong lĩnh vực giao thông vận tải thuộc phạm vi chức năng quản lý của Sở Giao thông vận tải tỉnh Long An (kèm theo 18 trang phụ lục)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "Sở Thông tin và Truyền thông cập nhật nội dung thủ tục hành chính được sửa đổi, bổ sung lên Hệ thống thông tin giải quyết thủ tục hành chính của tỉnh ngay khi nhận được quyết định công bố. 2. Chủ trì, phối hợp với Trung tâm Phục vụ hành chính công tỉnh triển khai thực hiện việc tiếp nhận và giải quyết thủ tục hành chính theo quy trình nội bộ được phê duyệt tại quyết định này. 3. Trên cơ sở nội dung quy trình nội bộ được phê duyệt tại quyết định này, chủ trì phối hợp với Sở Thông tin và Truyền thông xây dựng quy trình điện tử giải quyết TTHC tại Phần mềm của Hệ thống một cửa điện tử của tỉnh theo quy định của Chính phủ tại Nghị định số 61/2018/NĐ-CP và hướng dẫn của Văn phòng Chính phủ tại Thông tư số 01/2018/TT-VPCP"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "TẢI THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH LONG AN (Ban hành kèm theo Quyết định số 5208/QĐ-UBND ngày 28/5/2024 của Chủ tịch UBND tỉnh Long An) PHẦN I. DANH MỤC THỦ TỤC HÀNH CHÍNH A. THỦ TỤC HÀNH CHÍNH BAN HÀNH MỚI STT Tên TTHC Mã số TTHC (CSQLQG) Thời hạn giải quyết Phí, lệ phí (nếu có) Địa điểm thực hiện Cơ quan thực hiện Cách thức thực hiện Quyết định công bố của Bộ ngành Trực tiếp BCCI Trực tuyến TTHC CẤP TỈNH I LĨNH VỰC GIAO THÔNG VẬN TẢI: 03 TTHC 1 Cấp Giấy phép vận chuyển hàng hóa nguy hiểm là hóa chất bảo vệ thực vật 2.002617 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng theo quy định Không Trung tâm Phục vụ Hành chính công tỉnh Sở Giao thông vận tải X X Một phần Quyết định số 421/QĐ-BGTVT ngày 11/4/2024 của Bộ Giao thông vận tải 2 Điều chỉnh thông tin trên Giấy phép vận chuyển hàng hóa nguy hiểm khi có sự thay đổi liên quan đến nội dung của Giấy phép 2.002616 03 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng theo quy định Không Trung tâm Phục vụ Hành chính công tỉnh Sở Giao thông vận tải X X Một phần Quyết định số 421/QĐ-BGTVT ngày 11/4/2024 của Bộ Giao thông vận tải 3 Cấp lại Giấy phép vận chuyển hàng hóa nguy hiểm do bị mất, bị hỏng 2.002615 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng theo quy định Không Trung tâm Phục vụ Hành chính công tỉnh Sở Giao thông vận tải X X Một phần Quyết định số 421/QĐ-BGTVT ngày 11/4/2024 của Bộ Giao thông vận tải PHẦN II. NỘI DUNG CỤ THỂ TỪNG THỦ TỤC HÀNH CHÍNH I. LĨNH VỰC GIAO THÔNG VẬN TẢI: 03 TTHC 1. Cấp giấy phép vận"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH LONG AN ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 5208/QĐ-UBND Long An, ngày 28 tháng 5 năm 2024 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ THỦ TỤC HÀNH CHÍNH BAN HÀNH MỚI TRONG LĨNH VỰC GIAO THÔNG VẬN TẢI THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ CỦA SỞ GIAO THÔNG VẬN TẢI CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH LONG AN Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08/6/2010 của Chính phủ về việc kiểm soát thủ tục hành chính; Nghị định số 92/2017/NĐ-CP ngày 07/8/2017 của Chính phủ về sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về việc thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Nghị định số 107/2021/NĐ-CP ngày 06/12/2021 của Chín..."
+    }
+  ]
+}

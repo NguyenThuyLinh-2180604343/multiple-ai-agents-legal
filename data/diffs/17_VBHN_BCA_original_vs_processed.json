@@ -1,0 +1,42 @@
+{
+  "base": "17_VBHN_BCA_original",
+  "revised": "17_VBHN_BCA_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "chỉnh Thông tư này quy định về yêu cầu, tiêu chuẩn, nhiệm vụ, quyền hạn, trách nhiệm, trang thiết bị, phương tiện, vũ khí, công cụ hỗ trợ, nguyên tắc, biểu mẫu trong chỉ huy, điều khiển giao thông đường bộ; phân công, phân cấp trong công tác chỉ huy, điều khiển giao thông đường bộ; quản lý, vận hành, khai thác hệ thống đèn tín hiệu giao thông đường bộ; sử dụng thiết bị thông minh hỗ trợ chỉ huy, điều khiển giao thông đường bộ; trình tự chỉ huy, điều khiển giao thông đường bộ; giải quyết một số trường hợp cụ thể trong khi làm nhiệm vụ chỉ huy, điều khiển giao thông đường bộ của Cảnh sát giao thông và trách nhiệm của các lực lượng khác được giao nhiệm vụ hướng dẫn giao thông trên đường bộ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "dụng Thông tư này áp dụng đối với: 1. Sĩ quan, hạ sĩ quan Cảnh sát giao thông làm nhiệm vụ chỉ huy, điều khiển giao thông đường bộ (sau đây viết gọn là Cảnh sát chỉ huy, điều khiển giao thông). 2. Công an các đơn vị, địa phương. 3. Cơ quan, tổ chức, cá nhân liên quan đến hoạt động giao thông đường bộ trên lãnh thổ nước Cộng hòa xã hội chủ nghĩa Việt Nam."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "điều khiển giao thông đường bộ 1. Tuân thủ quy định tại Thông tư này, các quy định khác của pháp luật có liên quan và quy định về thực hiện dân chủ trong công tác bảo đảm trật tự, an toàn giao thông. 2. Bảo đảm cho người, phương tiện tham gia giao thông đi lại trật tự, an toàn và thông suốt. Trường hợp có xe ưu tiên tham gia lưu thông thì phải cho xe ưu tiên lưu thông trước, căn cứ theo thứ tự quyền ưu tiên của các xe để mở hướng lưu thông. Chiều đường có nhiều phương tiện thì cho lưu thông trước và thời gian lưu thông nhiều hơn; chiều đường có ít phương tiện thì cho lưu thông sau và thời gian lưu thông ít hơn; chiều đường có xe cơ giới thì cho lưu thông trước chiều đường có xe thô sơ. 3. Bảo đảm sự thống nhất về tổ chức, chỉ đạo, điều hành, phân công, phân cấp, phối hợp trong hoạt động chỉ huy, điều khiển giao thông đường bộ. 4. Trường hợp gặp xe, đoàn xe chở các lãnh đạo cấp cao của Đảng, Nhà nước và khách nước ngoài có xe Cảnh sát giao thông dẫn đường, Cảnh sát chỉ huy, điều khiển giao thông phải chào theo Điều lệnh Công an nhân dân (theo mẫu số 01 ban hành kèm theo Thông tư này) trừ khi đang thực hiện động tác điều khiển giao thông đường bộ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "chuẩn của Cảnh sát chỉ huy, điều khiển giao thông 1. Yêu cầu a) Nắm vững và thực hiện đúng các quy định của Thông tư này và các quy định khác của pháp luật có liên quan; b) Thực hiện đúng, đầy đủ đối với nhiệm vụ được phân công; quy định về thực hiện dân chủ trong công tác bảo đảm trật tự, an toàn giao thông và Điều lệnh Công an nhân dân. 2. Tiêu chuẩn a) Có trình độ Trung cấp Công an nhân dân hoặc tương đương trở lên. Đối với sĩ quan, hạ sĩ quan tốt nghiệp các trường ngoài ngành Công an phải đã qua lớp bồi dưỡng pháp luật và nghiệp vụ Công an nhân dân theo quy định; b) Đã được tập huấn nghiệp vụ công tác chỉ huy, điều khiển giao thông đường bộ theo chương trình, nội dung của Cục Cảnh sát giao thông; c) Phải được tập huấn hoặc hướng dẫn về quy trình vận hành, xử lý tình huống, cách thức sử dụng, bảo dưỡng khi được giao nhiệm vụ quản lý, vận hành, khai thác hệ thống đèn tín hiệu giao thông đường bộ; sử dụng thiết bị thông minh hỗ trợ chỉ huy, điều khiển giao thông đường bộ; chỉ huy, điều khiển giao thông đường bộ tại Trung tâm chỉ huy giao thông."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "của Cảnh sát chỉ huy, điều khiển giao thông và trách nhiệm của lực lượng khác được giao nhiệm vụ hư"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ CÔNG AN -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 17/VBHN-BCA Hà Nội, ngày 26 tháng 4 năm 2025 THÔNG TƯ QUY ĐỊNH VỀ CHỈ HUY, ĐIỀU KHIỂN GIAO THÔNG ĐƯỜNG BỘ CỦA CẢNH SÁT GIAO THÔNG Thông tư số 69/2024/TT-BCA ngày 12 tháng 11 năm 2024 của Bộ trưởng Bộ Công an quy định về chỉ huy, điều khiển giao thông đường bộ của Cảnh sát giao thông, có hiệu lực kể từ ngày 01 tháng 01 năm 2025, được sửa đổi, bổ sung bởi: Thông tư số 13/2025/TT-BCA ngày 28 tháng 02 năm 2025 của Bộ trưởng Bộ Công an sửa đổi, bổ sung một số điều của các thông tư quy định về trật tự, an toàn giao thông đường bộ, đường sắt và đường thủy nội địa, có hiệu lực kể từ ngày 01 tháng 3 năm 2025. Căn cứ Luật Công an nhân dân năm 2018; Luật sửa đổi, bổ sung một số điều của Luật Công an nhân dân năm 2023; Căn cứ Luật Trật tự, an toàn giao thông đường bộ năm 2024; Căn cứ Luật Đường bộ năm 2024; Căn cứ Luật Xử lý vi phạm hành chính năm 2012; Luật sửa đổi, bổ sung m..."
+    }
+  ]
+}

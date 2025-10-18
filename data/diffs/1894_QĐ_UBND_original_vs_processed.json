@@ -1,0 +1,36 @@
+{
+  "base": "1894_QĐ_UBND_original",
+  "revised": "1894_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "02 thủ tục hành chính lĩnh vực đường bộ thuộc thẩm quyền quản lý của Sở Xây dựng tỉnh Thanh Hóa (có Phụ lục kèm theo) ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "xây dựng dự thảo Quyết định sửa đổi/thay thế Quyết định số 06/2025/QĐ-UBND ngày 11/02/2025 của UBND tỉnh Thanh Hóa ban hành Quy định trình tự, thủ tục chấp thuận thiết kế và trình tự, thủ tục cấp phép thi công nút giao đối với đường địa phương đang khai thác trên địa bàn tỉnh Thanh Hóa."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "HÀNH CHÍNH LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN QUẢN LÝ CỦA SỞ XÂY DỰNG TỈNH THANH HÓA (Kèm theo Quyết định số: ……… /QĐ-UBND ngày … /6/2025 của Chủ tịch Ủy ban nhân dân tỉnh Thanh Hóa) 1. Thủ tục Chấp thuận thiết kế nút giao đấu nối vào đường địa phương đang khai thác trên địa bàn tỉnh Thanh Hóa (Mã TTHC: 1.013345) 1.1. Nội dung đơn giản hóa a. Về cách thức thực hiện: Bổ sung quy định thực hiện tại Bộ phận một cửa các cấp. Lý do: Tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "là phù hợp, lý do là phải khảo sát hiện trường, vì vậy không thể cắt giảm hơn; do đó, đề nghị giữ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH THANH HÓA ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 1894/QĐ-UBND Thanh Hóa, ngày 13 tháng 6 năm 2025 QUYẾT ĐỊNH VỀ VIỆC THÔNG QUA PHƯƠNG ÁN ĐƠN GIẢN HÓA THỦ TỤC HÀNH CHÍNH LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN QUẢN LÝ CỦA SỞ XÂY DỰNG TỈNH THANH HÓA CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH THANH HÓA Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 2 năm 2025; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính; Căn cứ Nghị định số 92/2017/NĐ-CP ngày 07 tháng 8 năm 2017 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Thông tư số 02/2017/TT-VPCP ngày 31 tháng 10 năm 2017 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ hướng dẫn về nghiệp vụ kiểm soát thủ tục hành chính; Căn cứ Kế hoạch số 66/KH-UBND ngày 11 tháng 4 năm 2025 của Chủ tịch UBND tỉnh về việc ban hành Kế hoạch thực hiện Nghị quyết số 66/NQ-C..."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "base": "1478_QĐ_BGTVT_original",
+  "revised": "1478_QĐ_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "hành kèm theo Quyết định này Kế hoạch chuyển đổi số của Bộ Giao thông vận tải năm 2025."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "định này có hiệu lực kể từ ngày ký ban hành."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "trưởng Bộ Giao thông vận tải) I. MỤC TIÊU 1. Mục tiêu chung - Tiếp tục hoàn thiện môi trường pháp lý nhằm thống nhất hoạt động ứng dụng công nghệ thông tin, phát triển Chính phủ số và bảo đảm an toàn thông tin mạng của ngành giao thông vận tải. - Ứng dụng công nghệ số trong cung cấp dịch vụ phục vụ người dân và doanh nghiệp; thông tin người dân, doanh nghiệp đã được số hóa, lưu trữ, không phải cung cấp lại; tăng cường họp theo hình thức trực tuyến, giảm tối đa việc sử dụng tài liệu giấy. - Hoàn thành xây dựng các cơ sở dữ liệu dùng chung của Bộ và cơ sở dữ liệu chuyên ngành các lĩnh vực quản lý trong ngành giao thông vận tải, triển khai các công nghệ số đáp ứng mục tiêu quản lý nhà nước dựa trên dữ liệu. - Phấn đấu 100% các hệ thống thông tin của Bộ Giao thông vận tải được bảo vệ 4 lớp theo Chỉ thị số 14/CT-TTg ngày 25/5/2018 của Thủ tướng Chính phủ. 2. Mục tiêu cụ thể - 80% thủ tục hành chính có đủ điều kiện được cung cấp dưới dạng dịch vụ công trực tuyến toán toàn trình. - 85% hồ sơ trực tuyến toàn trình được thực hiện trực tuyến. - 100% người dân, doanh nghiệp sử dụng dịch vụ công trực tuyến do Bộ Giao thông vận tải cung cấp được định danh và xác thực thông suốt. - 90% người dân, doanh nghiệp hài lòng trong giải quyết thủ tục hành chính do Bộ Giao thông vận tải cung cấp. - 100% hồ sơ thủ tục hành chính giải quyết thuộc thẩm quyền giải quyết của Bộ Giao thông vận tải được quản lý theo dõi tiến độ xử lý trên hệ thống thông tin giải quyết thủ tục hành chính Bộ Giao thông vận tải. - 100% hồ sơ công việc (trừ hồ sơ công việc thuộc phạm vi bí mật nhà nước) tại Bộ Giao thông vận tải được xử lý trên môi trường mạng. - 100% các hệ thống thông tin của"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 1478/QĐ-BGTVT Hà Nội, ngày 29 tháng 11 năm 2024 QUYẾT ĐỊNH BAN HÀNH KẾ HOẠCH CHUYỂN ĐỔI SỐ CỦA BỘ GIAO THÔNG VẬN TẢI NĂM 2025 BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24/8/2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Căn cứ Nghị định số 64/2007/NĐ-CP ngày 10/4/2007 của Chính phủ quy định về ứng dụng công nghệ thông tin trong hoạt động của cơ quan nhà nước; Căn cứ Quyết định 749/QĐ-TTg ngày 03/6/2020 của Thủ tướng Chính phủ phê duyệt Chương trình Chuyển đổi số quốc gia đến năm 2025, định hướng đến năm 2030; Căn cứ Quyết định số 942/QĐ-TTg ngày 15/6/2021 của Thủ tướng Chính phủ phê duyệt Chiến lược phát triển Chính phủ điện tử hướng tới Chính phủ số giai đoạn 2021-2025, định hướng đến năm 2030; Căn cứ Quyết định số 2097/QĐ-BGTVT ngày 06/11/2020 của Bộ trưởng Bộ Giao thông vận..."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "doc_id": "130_2018_NĐ_CP",
+  "meta": {
+    "url": "https://thuvienphapluat.vn/van-ban/Cong-nghe-thong-tin/Nghi-dinh-130-2018-ND-CP-huong-dan-Luat-Giao-dich-dien-tu-ve-chu-ky-so-358259.aspx",
+    "crawl_time": "2025-10-15T11:37:58.710611",
+    "number": "130/2018/NĐ-CP",
+    "field": "Giao thông",
+    "issue_date": "27/09/2018",
+    "agency": "CHÍNH PHỦ ----",
+    "content": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI\r\n  CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 130/2018/NĐ-CP Hà Nội, ngày 27\r\n  tháng 9 năm 2018 NGHỊ ĐỊNH QUY\r\nĐỊNH CHI TIẾT THI HÀNH LUẬT GIAO DỊCH ĐIỆN TỬ VỀ CHỮ KÝ SỐ VÀ DỊCH VỤ CHỨNG THỰC\r\nCHỮ KÝ SỐ Căn cứ Luật tổ chức\r\nChính phủ ngày 19 tháng 6 năm 2015; Căn cứ Luật giao dịch\r\nđiện tử ngày 29 tháng 11 năm 2005; Căn cứ Luật công\r\nnghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật phí và\r\nlệ phí ngày 25 tháng 11 năm 2015; Theo đề nghị của Bộ trưởng Bộ Thông tin và Truyền\r\nthông; Chính phủ ban hành Nghị định quy định chi tiết\r\nthi hành Luật giao dịch điện tử về chữ ký số\r\nvà dịch vụ chứng thực chữ ký số. Chương I NHỮNG QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định chi tiết về chữ ký số và chứng\r\nthư số; việc quản lý, cung cấp và sử dụng chữ ký số, chứng thư số và dịch vụ chứng\r\nthực chữ ký số. Điều 2. Đối tượng áp dụng Nghị định này áp dụng đối với cơ quan, tổ chức quản\r\nlý, cung cấp dịch vụ chứng thực chữ ký số; cơ quan, tổ chức, cá nhân sử dụng chữ\r\nký số, chứng thư số và dịch vụ chứng thực chữ ký số trong giao dịch điện tử. Điều 3. Giải thích từ ngữ Trong Nghị định này, các từ ngữ dưới đây được hiểu\r\nnhư sau: 1. \"Khóa\" là một chuỗi các số nhị phân (0\r\nvà 1) dùng trong các hệ thống mật mã. 2. \"Hệ thống mật mã không đối xứng\" là hệ\r\nthống mật mã có khả năng tạo được cặp khóa bao gồm khóa bí mật và khóa công\r\nkhai. 3. \"Khóa bí mật\" là một khóa trong cặp\r\nkhóa thuộc hệ thống mật mã không đối xứng, được dùng để tạo chữ ký số. 4. \"Khóa công khai\" là một khóa trong cặp\r\nkhóa thuộc hệ thống mật mã không đối xứng, được sử dụng để kiểm tra chữ ký số\r\nđược tạo bởi khóa bí mật tương ứng trong cặp khóa. 5. \"Ký số\" là việc đưa khóa bí mật vào một\r\nchương trình phần mềm để tự động tạo và gắn chữ ký số vào thông điệp dữ liệu. 6. \"Chữ ký số\" là một dạng chữ ký điện tử\r\nđược tạo ra bằng sự biến đổi một thông điệp dữ liệu sử dụng hệ thống mật mã\r\nkhông đối xứng, theo đó, người có được thông điệp dữ liệu ban đầu và khóa công\r\nkhai của người ký có thể xác định được chính xác: a) Việc biến đổi nêu trên được tạo ra bằng đúng\r\nkhóa bí mật tương ứng với khóa công khai trong cùng một cặp khóa; b) Sự toàn vẹn nội dung của thông điệp dữ liệu kể từ\r\nkhi thực hiện việc biến đổi nêu trên. 7. \"Chứng thư số\" là một dạng chứng thư\r\nđiện tử do tổ chức cung cấp dịch vụ chứng thực chữ ký số cấp nhằm cung cấp\r\nthông tin định danh cho khóa công khai của một cơ quan, tổ chức, cá nhân, từ đó\r\nxác nhận cơ quan, tổ chức, cá nhân là người ký chữ ký số bằng việc sử dụng khóa\r\nbí mật tương ứng. 8. \"Chứng thư số có hiệu lực\" là chứng\r\nthư số chưa hết hạn, không bị tạm dừng hoặc bị thu hồi. 9. “Chứng thư số công cộng” là chứng thư số do tổ\r\nchức cung cấp dịch vụ chứng thực chữ ký số công cộng cấp. 10. \"Chứng thư số nước ngoài\" là chứng\r\nthư số do tổ chức cung cấp dịch vụ chứng thực chữ ký số nước ngoài cấp. 11. \"Thuê bao\" là cơ quan, tổ chức, cá\r\nnhân được cấp chứng thư số, chấp nhận chứng thư số và giữ khóa bí mật tương ứng\r\nvới khóa công khai ghi trên chứng thư số được cấp đó. 12. \"Người ký\" là thuê bao dùng khóa bí mật\r\ncủa mình để ký số vào một thông điệp dữ liệu dưới tên của mình. 13. \"Người nhận\" là tổ chức, cá nhân nhận\r\nđược thông điệp dữ liệu được ký số bởi người ký, sử dụng chứng thư số của người\r\nký đó để kiểm tra chữ ký số trong thông điệp dữ liệu nhận được. 14. “Ứng dụng sử dụng chữ ký số” là các ứng dụng\r\ncông nghệ thông tin cho phép tích hợp và sử dụng chữ ký số để xác thực. 15. \"Tổ chức cung cấp dịch vụ chứng thực chữ\r\nký số\" là tổ chức cung cấp dịch vụ chứng thực chữ ký điện tử thực hiện hoạt\r\nđộng cung cấp dịch vụ chứng thực chữ ký số. 16. “Tổ chức cung cấp dịch vụ chứng thực chữ ký số\r\ncông cộng” là tổ chức cung cấp dịch vụ chứng thực chữ ký số cho cơ quan, tổ chức,\r\ncá nhân sử dụng trong các hoạt động công cộng. Hoạt động cung cấp dịch vụ chứng\r\nthực chữ ký số của các tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng\r\nlà hoạt động kinh doanh có điều kiện theo quy định của pháp luật. 17. “Tổ chức cung cấp dịch vụ chứng thực chữ ký số\r\nchuyên dùng” là tổ chức cung cấp dịch vụ chứng thực chữ ký số cho các cơ quan,\r\ntổ chức, cá nhân sử dụng trong các hoạt động chuyên ngành hoặc lĩnh vực, có\r\ncùng tính chất hoạt động hoặc mục đích công việc và được liên kết với nhau\r\nthông qua điều lệ hoạt động hoặc văn bản quy phạm pháp luật quy định cơ cấu tổ\r\nchức chung hoặc hình thức liên kết, hoạt động chung. Hoạt động của tổ chức cung\r\ncấp dịch vụ chứng thực chữ ký số chuyên dùng không nhằm mục đích kinh doanh. Tổ\r\nchức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng bao gồm: a) Tổ chức cung cấp dịch vụ chứng thực chữ ký số\r\nchuyên dùng Chính phủ cung cấp dịch vụ chứng thực chữ ký số cho các cơ quan Đảng,\r\nNhà nước; b) Tổ chức cung cấp dịch vụ chứng thực chữ ký số\r\nchuyên dùng của cơ quan, tổ chức. Hoạt động cung cấp dịch vụ chứng thực chữ ký\r\nsố chuyên dùng của cơ quan, tổ chức phải được đăng ký với cơ quan quản lý nhà\r\nnước về dịch vụ chứng thực chữ ký số t"
+  },
+  "structure": {
+    "articles": [
+      {
+        "article": "Điều 1",
+        "title": "Phạm vi điều chỉnh Nghị định này quy định chi tiết về chữ ký số và chứng",
+        "clauses": [
+          {
+            "no": "1",
+            "text": "thư số; việc quản lý, cung cấp và sử dụng chữ ký số, chứng thư số và dịch vụ chứng thực chữ ký số.",
+            "points": []
+          }
+        ]
+      },
+      {
+        "article": "Điều 2",
+        "title": "Đối tượng áp dụng Nghị định này áp dụng đối với cơ quan, tổ chức quản",
+        "clauses": [
+          {
+            "no": "1",
+            "text": "lý, cung cấp dịch vụ chứng thực chữ ký số; cơ quan, tổ chức, cá nhân sử dụng chữ ký số, chứng thư số và dịch vụ chứng thực chữ ký số trong giao dịch điện tử.",
+            "points": []
+          }
+        ]
+      },
+      {
+        "article": "Điều 3",
+        "title": "Giải thích từ ngữ Trong Nghị định này, các từ ngữ dưới đây được hiểu",
+        "clauses": [
+          {
+            "no": "1",
+            "text": "như sau: 1. \"Khóa\" là một chuỗi các số nhị phân (0 và 1) dùng trong các hệ thống mật mã. 2. \"Hệ thống mật mã không đối xứng\" là hệ thống mật mã có khả năng tạo được cặp khóa bao gồm khóa bí mật và khóa công khai. 3. \"Khóa bí mật\" là một khóa trong cặp khóa thuộc hệ thống mật mã không đối xứng, được dùng để tạo chữ ký số. 4. \"Khóa công khai\" là một khóa trong cặp khóa thuộc hệ thống mật mã không đối xứng, được sử dụng để kiểm tra chữ ký số được tạo bởi khóa bí mật tương ứng trong cặp khóa. 5. \"Ký số\" là việc đưa khóa bí mật vào một chương trình phần mềm để tự động tạo và gắn chữ ký số vào thông điệp dữ liệu. 6. \"Chữ ký số\" là một dạng chữ ký điện tử được tạo ra bằng sự biến đổi một thông điệp dữ liệu sử dụng hệ thống mật mã không đối xứng, theo đó, người có được thông điệp dữ liệu ban đầu và khóa công khai của người ký có thể xác định được chính xác: a) Việc biến đổi nêu trên được tạo ra bằng đúng khóa bí mật tương ứng với khóa công khai trong cùng một cặp khóa; b) Sự toàn vẹn nội dung của thông điệp dữ liệu kể từ khi thực hiện việc biến đổi nêu trên. 7. \"Chứng thư số\" là một dạng chứng thư điện tử do tổ chức cung cấp dịch vụ chứng thực chữ ký số cấp nhằm cung cấp thông tin định danh cho khóa công khai của một cơ quan, tổ chức, cá nhân, từ đó xác nhận cơ quan, tổ chức, cá nhân là người ký chữ ký số bằng việc sử dụng khóa bí mật tương ứng. 8. \"Chứng thư số có hiệu lực\" là chứng thư số chưa hết hạn, không bị tạm dừng hoặc bị thu hồi. 9. “Chứng thư số công cộng” là chứng thư số do tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng cấp. 10. \"Chứng thư số nước ngoài\" là chứng thư số do tổ chức cung cấp dịch vụ chứng thực chữ ký số nước ngoài cấp. 11. \"Thuê bao\" là cơ quan, tổ chức, cá nhân được cấp chứng thư số, chấp nhận chứng thư số và giữ khóa bí mật tương ứng với khóa công khai ghi trên chứng thư số được cấp đó. 12. \"Người ký\" là thuê bao dùng khóa bí mật của mình để ký số vào một thông điệp dữ liệu dưới tên của mình. 13. \"Người nhận\" là tổ chức, cá nhân nhận được thông điệp dữ liệu được ký số bởi người ký, sử dụng chứng thư số của người ký đó để kiểm tra chữ ký số trong thông điệp dữ liệu nhận được. 14. “Ứng dụng sử dụng chữ ký số” là các ứng dụng công nghệ thông tin cho phép tích hợp và sử dụng chữ ký số để xác thực. 15. \"Tổ chức cung cấp dịch vụ chứng thực chữ ký số\" là tổ chức cung cấp dịch vụ chứng thực chữ ký điện tử thực hiện hoạt động cung cấp dịch vụ chứng thực chữ ký số. 16. “Tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng” là tổ chức cung cấp dịch vụ chứng thực chữ ký số cho cơ quan, tổ chức, cá nhân sử dụng trong các hoạt động công cộng. Hoạt động cung cấp dịch vụ chứng thực chữ ký số của các tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng là hoạt động kinh doanh có điều kiện theo quy định của pháp luật. 17. “Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng” là tổ chức cung cấp dịch vụ chứng thực chữ ký số cho các cơ quan, tổ chức, cá nhân sử dụng trong các hoạt động chuyên ngành hoặc lĩnh vực, có cùng tính chất hoạt động hoặc mục đích công việc và được liên kết với nhau thông qua điều lệ hoạt động hoặc văn bản quy phạm pháp luật quy định cơ cấu tổ chức chung hoặc hình thức liên kết, hoạt động chung. Hoạt động của tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng không nhằm mục đích kinh doanh. Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng bao gồm: a) Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ cung cấp dịch vụ chứng thực chữ ký số cho các cơ quan Đảng, Nhà nước; b) Tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng của cơ quan, tổ chức. Hoạt động cung cấp dịch vụ chứng thực chữ ký số chuyên dùng của cơ quan, tổ chức phải được đăng ký với cơ quan quản lý nhà nước về dịch vụ chứng thực chữ ký số t",
+            "points": []
+          }
+        ]
+      }
+    ],
+    "strategy_used": "dieu",
+    "validation": {
+      "status": "warning",
+      "issues": [
+        "Very long clause detected (3754 chars)"
+      ],
+      "stats": {
+        "original_length": 4939,
+        "segmented_length": 4009,
+        "preservation_ratio": 0.8117027738408584,
+        "total_articles": 3,
+        "total_clauses": 3,
+        "total_points": 0
+      }
+    },
+    "document_type": "law"
+  }
+}

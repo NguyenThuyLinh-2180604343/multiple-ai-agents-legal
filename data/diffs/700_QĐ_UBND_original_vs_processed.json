@@ -1,0 +1,30 @@
+{
+  "base": "700_QĐ_UBND_original",
+  "revised": "700_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "tin và Truyền thông điều chỉnh quy trình điện tử và cập nhật trên Hệ thống thông tin giải quyết thủ tục hành chính tỉnh Bắc Giang trong thời hạn 05 ngày kể từ ngày Quyết định được ký ban hành."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "quy trình nội bộ đối với thủ tục hành chính tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "VỰC GIAO THÔNG VẬN TẢI THUỘC PHẠM VI, CHỨC NĂNG QUẢN LÝ CỦA UBND TỈNH BẮC GIANG (Kèm theo Quyết định số 700/QĐ-UBND ngày 16 tháng 4 năm 2024 của Chủ tịch UBND tỉnh Bắc Giang) PHẦN I. DANH MỤC THỦ TỤC HÀNH CHÍNH STT Mã TTHC Lĩnh vực/Thủ tục hành chính Cơ chế giải quyết Thời hạn giải quyết Thời hạn giải quyết của các cơ quan (Sau cắt giảm) Phí, lệ phí Thực hiện qua dịch vụ bưu chính công ích Ghi chú Theo quy định Sau cắt giảm Cơ quan thực hiện Các đơn vị liên quan Tiếp nhận hồ sơ Trả kết quả (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) 1 Cấp Giấy phép vận chuyển hàng hóa nguy hiểm MC 05 ngày làm việc UBND tỉnh: 05 ngày làm việc Không có X X 2 Điều chỉnh thông tin trên Giấy phép vận chuyển hàng hóa nguy hiểm khi có sự thay đổi liên quan đến nội dung của Giấy phép MC 03 ngày làm việc. UBND tỉnh 03 ngày làm việc. Không có x x 3 Cấp lại Giấy phép vận chuyển hàng hóa nguy hiểm do bị mất, bị hỏng MC 02 ngày làm việc. UBND tỉnh 02 ngày làm việc. Không có x x PHẦN II. NỘI DUNG CỤ THỂ CỦA TỪNG THỦ TỤC HÀNH CHÍNH 1. Cấp Giấy phép vận chuyển hàng hóa nguy hiểm 1.1. Trình tự thực hiện: a) Nộp hồ sơ TTHC: Người vận tải hàng hóa nguy hiểm nộp hồ sơ đến cơ quan cấp Giấy phép vận chuyển hàng hóa nguy hiểm, cụ thể: - Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương tổ chức cấp Giấy phép vận chuyển hàng hóa nguy hiểm là hóa chất bảo vệ thực vật. b) Giải quyết TTHC: - Trường hợp nộp hồ sơ trực tiếp: Cơ quan giải quyết thủ tục hành chính kiểm tra thành phần hồ sơ và trả lời ngay khi tổ chức, cá nhân đến nộp hồ sơ; trường hợp thành phần hồ sơ chưa đầy đủ hoặc có sai lệch thì hướng dẫn hoàn thiện hồ sơ theo quy định. Trường hợp nộp hồ sơ qua dịch vụ bưu chính hoặc qua hệ thống dịch vụ công trực tuyến: Trong thời hạn không quá 01 ngày làm việc kể từ ngày nhận hồ sơ, cơ quan giải quyết thủ tục hành chính xem xét tính đầy đủ, nếu hồ sơ chưa đầy đủ theo quy định, cơ quan giải quyết thủ tục hành chính thông báo bằng văn bản hoặc thông qua hệ thống dịch vụ công trực tuyến cho tổ chức, cá nhân biết để bổ sung, đồng thời hướng dẫn hoàn thiện hồ sơ theo quy định. Riêng đối với thủ tục cấp Giấy phép vận chuyển hàng hóa nguy hiểm loại 7 thực hiện theo quy định về việc tiến hành công việc bức xạ và hoạt động dịch vụ hỗ trợ ứng dụng năng lượng nguyên tử; - Trong thời hạn 05 ngày làm việc, kể từ ngày nhận đủ hồ sơ đúng theo quy định"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH BẮC GIANG ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 700/QĐ-UBND Bắc Giang, ngày 16 tháng 4 năm 2024 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ THỦ TỤC HÀNH CHÍNH ĐƯỢC BAN HÀNH MỚI TRONG LĨNH VỰC GIAO THÔNG VẬN TẢI THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ CỦA BỘ GIAO THÔNG VẬN TẢI CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH BẮC GIANG Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08/6/2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 92/2017/NĐ-CP ngày 07/8/2017 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông; Căn cứ Thông tư số 02/2017/TT-VPCP ngày 31/10/2017 của Bộ trưởng, Chủ nhiệm Văn phòng Chín..."
+    }
+  ]
+}

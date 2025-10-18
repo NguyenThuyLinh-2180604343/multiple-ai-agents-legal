@@ -1,0 +1,24 @@
+{
+  "base": "5268_QĐ_UBND_original",
+  "revised": "5268_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "công tác quản lý, bảo trì hạ tầng giao thông đường bộ trên địa bàn Thành phố Hà Nội để các tổ chức, cá nhân có liên quan thực hiện theo các quy định về giao nhiệm vụ, đặt hàng hoặc đấu thầu cung cấp sản phẩm, dịch vụ công sử dụng ngân sách nhà nước từ nguồn chi thường xuyên trên địa bàn thành phố Hà Nội."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "cơ bản gồm: Thuyết minh và hướng dẫn áp dụng; Chi tiết đơn giá; Sở Giao thông vận tải có trách nhiệm tổ chức triển khai, hướng dẫn, theo dõi việc thực hiện; trong quá trình thực hiện, khi có thay đổi về chế độ, chính sách và các vướng mắc phát sinh, giao Sở Giao thông vận tải chủ trì, phối hợp với các Sở Xây dựng, Tài chính, Lao động Thương binh và Xã hội và đơn vị liên quan rà soát các nội dung còn chưa hợp lý (nếu có), tổng hợp, tham mưu, báo cáo UBND Thành phố"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN THÀNH PHỐ HÀ NỘI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 5268/QĐ-UBND Hà Nội , ngày 17 tháng 10 năm 2023 QUYẾT ĐỊNH BAN HÀNH ĐƠN GIÁ CÔNG TÁC QUẢN LÝ, BẢO TRÌ HẠ TẦNG GIAO THÔNG ĐƯỜNG BỘ TRÊN ĐỊA BÀN THÀNH PHỐ HÀ NỘI. ỦY BAN NHÂN DÂN THÀNH PH Ố HÀ NỘI Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quy ề n địa phương ngày 22/11/2019; Căn cứ Luật Giá ngày 20/6/2012; Căn cứ Luật Xây dựng ngày 18/6/2014 và Luật sửa đổi, bổ sung một số điều của Luật Xây dựng ngày 17/6/2020; Căn cứ các Nghị định của Chính phủ: số 177/2013/NĐ-CP ngày 14/11/2013 quy định chi tiết và hướng dẫn thi hành một số điều của luật giá; số 149/2016/NĐ-CP ngày 11/11/2016 về sửa đổi, bổ sung một số điều của Nghị định số 1 77/2013/NĐ-CP ngày 14/11/2013 của Chính phủ về Quy định chi tiết và hướng dẫn thi hành một số điều của luật giá; số 32/2019/NĐ-CP n..."
+    }
+  ]
+}

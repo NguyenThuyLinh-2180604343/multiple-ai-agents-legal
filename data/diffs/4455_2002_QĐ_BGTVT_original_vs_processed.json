@@ -1,0 +1,36 @@
+{
+  "base": "4455_2002_QĐ_BGTVT_original",
+  "revised": "4455_2002_QĐ_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "vi điều chỉnh Quy định này xác định trách nhiệm và xử lý hành chính khi vi phạm về quản lý, kiểm tra chất lượng và an toàn kỹ thuật phương tiện giao thông, bao gồm: đường bộ, đường sắt, đường biển, đường thuỷ nội địa, giàn khoan biển, công trình nổi và các thiết bị khác có liên quan đến an toàn giao thông vận tải"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "này, ngoài việc phải thực hiện chức năng nhiệm vụ được giao, tuân thủ các văn bản quy phạm pháp luật hiện hành của Nhà nước, của Bộ Giao thông vận tải, của các Bộ, ngành có liên quan, các điều ước quốc tế mà Việt Nam đã ký kết hoặc gia nhập về quản lý, đảm bảo chất lượng và an toàn kỹ thuật phương tiện giao thông vận tải còn phải tuân thủ các nội dung của Quy định này. Chương 2: QUY ĐỊNH TRÁCH NHIỆM"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "thuộc Trung ương, Chánh văn phòng Bộ, Vụ trưởng các Vụ thuộc Bộ, Cục trưởng Cục Đăng kiểm Việt Nam, Cục trưởng các Cục quản lý chuyên ngành, Tổng giám đốc Liên hiệp Đường sắt Việt Nam, Giám đốc các Sở GTVT (GTCC) và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này. Đào Đình Bình (Đã ký) QUY ĐỊNH TRÁCH NHIỆM VÀ XỬ LÝ KHI VI PHẠM VỀ QUẢN LÝ, KIỂM TRA CHẤT LƯỢNG VÀ AN TOÀN KỸ THUẬT PHƯƠNG TIỆN GIAO THÔNG VẬN TẢI (Ban hành kèm theo Quyết định số 4455/2002/QĐ-BGTVT ngày 31/12/2002 của Bộ trưởng Bộ Giao thông vận tải) Chương 1: QUY ĐỊNH CHUNG"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "đầy đủ các quy định của các tiêu chuẩn nghiệp vụ Đăng kiểm viên: Tiêu chuẩn Đăng kiểm viên tàu biển và công trình biển; Tiêu chuẩn Đăng kiểm viên phương tiện thủy nội địa; Tiên chuẩn Đăng kiểm viên phương tiện cơ giới đường bộ do Bộ Giao thông vận tải đã ban hành. 2. Có tuyên thệ, cam kết khi được bổ nhiệm Đăng kiểm viên và phải thực hiện đầy đủ chức trách được giao, tuân thủ đúng các quy định của ngành, các Quy phạm, tiêu chuẩn quốc gia, quốc tế có liên quan. 3. Luôn mẫn cán với công việc, đảm bảo tính trung thực, khách quan, thuận tiện, chính xác trong kiểm tra, kiểm định. 4. Không lợi dụng chức vụ, quyền hạn để sách nhiễu, hạ thấp tiêu chuẩn kỹ thuật, cố ý làm sai lệch kết quả kiểm tra, trạng thái kỹ thuật phương tiện, làm trái với quy định để vụ lợi cá nhân. 5. Không được tiến hành các hoạt động đăng kiểm khi bản thân Đăng kiểm viên hoặc gia đình Đăng kiểm viên có quyền lợi kinh tế liên quan đến đối tượng kiểm tra, kiểm định. 6. Không nhận thù lao, hoa hồng, quà biếu hoặc"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ******** CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ******** Số: 4455/2002/QĐ-BGTVT Hà Nội, ngày 31 tháng 12 năm 2002 QUYẾT ĐỊNH CỦA BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI SỐ 4455/2002/QĐ-BGTVT NGÀY 31 THÁNG 12 NĂM 2002 VỀ VIỆC BAN HÀNH QUY ĐỊNH TRÁCH NHIỆM VÀ XỬ LÝ KHI VI PHẠM VỀ QUẢN LÝ, KIỂM TRA CHẤT LƯỢNG VÀ AN TOÀN KỸ THUẬT PHƯƠNG TIỆN GIAO THÔNG VẬN TẢI BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI Căn cứ Nghị định số 22/CP ngày 22/3/1994 của Chính phủ về nhiệm vụ, quyền hạn, trách nhiệm quản lý Nhà nước và cơ cấu tổ chức bộ máy của Bộ Giao thông vận tải; Căn cứ Nghị định số 86/2002/NĐ-CP ngày 15/11/2002 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của bộ, cơ quan ngang bộ; Căn cứ Quyết định số 75/TTg ngày 03/2/1997 của Thủ tướng Chính phủ quy định nhiệm vụ, quyền hạn, tổ chức bộ máy Cục Đăng kiểm Việt Nam; Theo đề nghị của các ông Vụ trưởng Vụ Tổ chức Cán bộ - Lao động, Vụ trưởng Vụ pháp chế vận tải, Cục trưởng ..."
+    }
+  ]
+}

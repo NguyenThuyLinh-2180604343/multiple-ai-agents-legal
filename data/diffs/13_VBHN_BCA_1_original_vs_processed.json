@@ -1,0 +1,36 @@
+{
+  "base": "13_VBHN_BCA_1_original",
+  "revised": "13_VBHN_BCA_1_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "tư này quy định về nguyên tắc, nhiệm vụ, quyền hạn, trang phục, trang bị phương tiện, thiết bị kỹ thuật nghiệp vụ, vũ khí, công cụ hỗ trợ, nội dung, trình tự kiểm tra, kiểm soát và xử lý vi phạm pháp luật trong lĩnh vực giao thông đường sắt của Cảnh sát giao thông."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "Sĩ quan, hạ sĩ quan nghiệp vụ Cảnh sát giao thông (sau đây viết gọn là cán bộ Cảnh sát giao thông) làm nhiệm vụ kiểm tra, kiểm soát và xử lý vi phạm pháp luật trong lĩnh vực giao thông đường sắt (sau đây viết gọn là kiểm tra, kiểm soát và xử lý vi phạm); lực lượng khác trong Công an nhân dân có liên quan. 2. Công an các đơn vị, địa phương. 3. Cơ quan, tổ chức, cá nhân có liên quan đến hoạt động kiểm tra, kiểm soát và xử lý vi phạm pháp luật trong lĩnh vực giao thông đường sắt của Cảnh sát giao thông."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "kiểm soát và xử lý vi phạm pháp luật trong lĩnh vực giao thông đường sắt 1. Tuân thủ quy định của Luật Đường sắt năm 2017, Luật Xử lý vi phạm hành chính năm 2012 (sửa đổi, bổ sung năm 2020), Thông tư này và các quy định khác của pháp luật có liên quan. 2. Thực hiện đúng, đầy đủ nhiệm vụ được phân công theo quy định, kế hoạch kiểm tra, kiểm soát đã được cấp có thẩm quyền ban hành; thực hiện dân chủ trong công tác bảo đảm trật tự, an toàn giao thông; quy tắc ứng xử và Điều lệnh Công an nhân dân. 3. Phát hiện, ngăn chặn, xử lý kịp thời các hành vi vi phạm pháp luật trong lĩnh vực giao thông đường sắt và hành vi vi phạm pháp luật khác theo trình tự, thủ tục, thẩm quyền quy định. Chương II NHIỆM VỤ, QUYỀN HẠN, TRANG PHỤC, TRANG BỊ CỦA CẢNH SÁT GIAO THÔNG; NỘI DUNG, TRÌNH TỰ KIỂM TRA, KIỂM SOÁT VÀ XỬ LÝ VI PHẠM PHÁP LUẬT TRONG LĨNH VỰC GIAO THÔNG ĐƯỜNG SẮT Mục 1. NHIỆM VỤ, QUYỀN HẠN CỦA CẢNH SÁT GIAO THÔNG TRONG KIỂM TRA, KIỂM SOÁT GIAO THÔNG ĐƯỜNG SẮT"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "thông trong kiểm tra, kiểm soát giao thông đường sắt 1. Thực hiện mệnh lệnh, kế hoạch ki ểm tra, kiểm soát và xử lý vi phạm đã được cấp có thẩm quyền ban hành . 2. Ki ểm tra, kiểm soát và xử lý vi phạm, bảo đảm an ninh, trật tự, an toàn giao thông đường sắt trong phạm vi tuyến đường, địa bàn được phân công. 3. Phát hiện, ngăn chặn kịp thời và xử lý các hành vi vi phạm pháp luật trong lĩnh vực giao thông đường s ắt , vi phạm pháp luật khác và bảo đảm an ninh, trật tự theo quy định; phối hợp với cơ quan, đơn vị chức năng có liên quan phát hiện, ngăn chặn hành vi vi phạm quy định bảo vệ công trình đường s ắt và hành lang an toàn giao th"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ CÔNG AN -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 13/VBHN-BCA Hà Nội, ngày 26 tháng 4 năm 2025 THÔNG TƯ QUY ĐỊNH CÔNG TÁC KIỂM TRA, KIỂM SOÁT VÀ XỬ LÝ VI PHẠM PHÁP LUẬT TRONG LĨNH VỰC GIAO THÔNG ĐƯỜNG SẮT CỦA CẢNH SÁT GIAO THÔNG Thông tư số 63/2024/TT-BCA ngày 12 tháng 11 năm 2024 của Bộ trưởng Bộ Công an quy định công tác kiểm tra, kiểm soát và xử lý vi phạm pháp luật trong lĩnh vực giao thông đường sắt của Cảnh sát giao thông, có hiệu lực kể từ ngày 01 tháng 01 năm 2025, được sửa đổi, bổ sung bởi: Thông tư số 13/2025/TT-BCA ngày 28 tháng 02 năm 2025 của Bộ trưởng Bộ Công an sửa đổi, bổ sung một số điều của các thông tư quy định về trật tự, an toàn giao thông đường bộ, đường sắt và đường thủy nội địa, có hiệu lực kể từ ngày 01 tháng 3 năm 2025. Căn cứ Luật Đường sắt ngày 16 tháng 6 năm 2017; Căn cứ Luật Công an nhân dân ngày 20 tháng 11 năm 2018; Luật Sửa đổi, bổ sung một số điều của Luật Công an nhân dân ngày 22 thá..."
+    }
+  ]
+}

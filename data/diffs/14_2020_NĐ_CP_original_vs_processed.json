@@ -1,0 +1,42 @@
+{
+  "base": "14_2020_NĐ_CP_original",
+  "revised": "14_2020_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "giáo đã nghỉ hưu chưa được hưởng chế độ phụ cấp thâm niên trong lương hưu."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "này được hưởng chế độ trợ cấp khi có đủ các điều kiện sau đây: 1. Trực tiếp giảng dạy, giáo dục, hướng dẫn thực hành và tham gia đóng bảo hiểm xã hội từ 05 năm (đủ 60 tháng) trở lên; 2. Nghỉ hưu trong khoảng thời gian từ ngày 01 tháng 01 năm 1994 đến ngày 31 tháng 5 năm 2011. 3. Đang hưởng lương hưu tại thời điểm ngày 01 tháng 01 năm 2012. Trường hợp bị tạm dừng hưởng lương hưu theo quy định của Luật bảo hiểm xã hội thì được hưởng trợ cấp sau khi được hưởng lại lương hưu."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "cấp Nhà giáo quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "sau: Số tiền trợ cấp = (lương hưu tháng x 10%) x số năm được tính trợ cấp Trong đó: a) Lương hưu tháng là mức lương hưu của tháng tại thời điểm Nghị định này có hiệu lực thi hành; b) Số năm được tính trợ cấp là tổng thời gian trực tiếp giảng dạy, giáo dục, hướng dẫn thực hành trong các cơ sở giáo dục, thời gian tham gia giảng dạy ở các lớp học được tổ chức tại các đơn vị thanh niên xung phong, nếu không liên tục thì được cộng dồn, không gồm thời gian đã hưởng phụ cấp thâm niên của lực lượng vũ trang và phụ cấp thâm niên của các ngành khác (nếu có) trong lương hưu. Tháng lẻ từ 3 tháng đến 6 tháng được tính tròn là nửa năm; từ trên 6 tháng đến dưới 12 tháng được tính tròn là 1 năm. 2. Trường hợp nhà giáo đủ điều kiện hưởng trợ cấp theo quy định tại Nghị định này, chưa được giải quyết chế độ mà từ trần từ ngày 01 tháng 01 năm 2012 trở về sau thì đại diện theo ủy quyền của thân nhân người từ trần (bao gồm: vợ, chồng, cha đẻ, mẹ đẻ, cha nuôi, con đẻ, con nuôi của người từ trần) làm hồ sơ và nhận chế độ trợ cấp theo quy định. Người đại diện theo ủy quyền của thân nhân nhà giáo đã từ trần chịu trách nhiệm trước pháp luật về hồ sơ và khoản tiền trợ cấp nhận được."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "chế độ trợ cấp 1. Đối với nhà giáo đang hưởng lương hưu: Tờ khai đề nghị hưởng trợ cấp ba"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 14/2020/NĐ-CP Hà Nội, ngày 24 tháng 01 năm 2020 NGHỊ ĐỊNH QUY ĐỊNH CHẾ ĐỘ TRỢ CẤP ĐỐI VỚI NHÀ GIÁO ĐÃ NGHỈ HƯU CHƯA ĐƯỢC HƯỞNG CHẾ ĐỘ PHỤ CẤP THÂM NIÊN TRONG LƯƠNG HƯU Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Căn cứ Nghị quyết số 21/2011/QH13 ngày 26 tháng 11 năm 2011 của Quốc hội khóa XIII về chất vấn và trả lời chất vấn tại kỳ họp thứ 2, Quốc hội khóa XIII; Theo đề nghị của Bộ trưởng Bộ Giáo dục và Đào tạo; Chính phủ ban hành Nghị định quy định chế độ trợ cấp đối với nhà giáo đã nghỉ hưu chưa được hưởng chế độ phụ cấp thâm niên trong lương hưu. Chương I NHỮNG QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định chế độ trợ cấp đối với nhà giáo đã nghỉ hưu chưa được hưởng chế độ phụ cấp thâm niên trong lương hưu. Điều 2. Đối tượng áp dụng 1. Nhà giáo là giáo viên, giảng viên, cô nuôi dạy trẻ, hiệu trưởng, phó hiệu trưởng, chủ nhiệm nhà trẻ, p..."
+    }
+  ]
+}

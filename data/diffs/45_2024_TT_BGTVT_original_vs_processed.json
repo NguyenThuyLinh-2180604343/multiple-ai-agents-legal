@@ -1,0 +1,42 @@
+{
+  "base": "45_2024_TT_BGTVT_original",
+  "revised": "45_2024_TT_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "chỉnh Thông tư này quy định về cấp mới, cấp lại, tạm đình chỉ, thu hồi chứng chỉ đăng kiểm viên phương tiện giao thông đường bộ (sau đây viết tắt là chứng chỉ đăng kiểm viên)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "dụng 1. Thông tư này áp dụng đối với các tổ chức, cá nhân có liên quan đến việc cấp mới, cấp lại, tạm đình chỉ, thu hồi chứng chỉ đăng kiểm viên. 2. Thông tư này không áp dụng đối với các tổ chức, cá nhân có liên quan đến việc cấp mới, cấp lại, tạm đình chỉ, thu hồi chứng chỉ đăng kiểm viên thuộc phạm vi quản lý của Bộ Quốc phòng, Bộ Công an."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau: 1. Đăng kiểm viên phương tiện giao thông đường bộ (sau đây viết tắt là đăng kiểm viên) là người được cấp chứng chỉ đăng kiểm viên để thực hiện công việc chuyên môn kiểm định, chứng nhận xe cơ giới, xe máy chuyên dùng, phụ tùng xe cơ giới; 2. Tập huấn nghiệp vụ đăng kiểm viên là việc trang bị kiến thức lý thuyết, kỹ năng cho học viên để thực hiện công việc chuyên môn kiểm định xe cơ giới, kiểm định khí thải xe mô tô, xe gắn máy; 3. Thực tập nghiệp vụ đăng kiểm viên là quá trình học viên áp dụng kiến thức, kỹ năng đã được trang bị sau khi tập huấn nghiệp vụ vào công việc chuyên môn tại cơ sở đăng kiểm dưới sự hướng dẫn, giám sát của đăng kiểm viên; 4. Đánh giá nghiệp vụ đăng kiểm viên là việc kiểm tra kiến thức, kỹ năng nghiệp vụ đăng kiểm viên."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "TẬP HUẤN, THỰC TẬP NGHIỆP VỤ VÀ CẤP MỚI, CẤP LẠI CHỨNG CHỈ ĐĂNG KIỂM VIÊN THỰC HIỆN CÔNG VIỆC CHUYÊN MÔN KIỂM ĐỊNH XE CƠ GIỚI, KIỂM ĐỊNH KHÍ THẢI XE MÔ TÔ, XE GẮN MÁY"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "vụ đăng kiểm viên 1. Nội dung tập huấn nghiệp vụ đối với đăng kiểm viên hạng III thực hiện công việc chuyên môn kiểm định khí thải xe mô tô, xe gắn máy: a) Trách nhiệm và quyền hạn của các tổ chức, cá nhân trong hoạt động kiểm định khí thải xe mô tô, xe gắn máy; vi phạm, xử lý vi phạm trong hoạt động kiểm định khí thải xe mô tô, xe gắn máy; quy định về an toàn lao động; quy định về đo lường; quy tắc ứng xử, đạo đức nghề nghiệp; b) Các văn bản quy phạm pháp luật, tiêu chuẩn, quy chuẩn, quy trình, hướng dẫn nghiệp vụ, phần mềm liên quan đến công việc chuyên môn kiểm định khí thải xe mô tô, xe gắn máy; c) Cấu tạo, nguyên lý hoạt động, bảo dưỡng kỹ thuật thiết bị kiểm định khí thải xe mô tô, xe gắn máy; d) Phương pháp kiểm tra trong kiểm định khí thải xe mô tô, xe gắn máy. 2. Nội dung tập huấn nghiệp vụ đối với đăng kiểm viên hạng II thực hiện công việc chuyên môn kiểm định xe cơ giới: a) Lịch sử hình thành, xây dựng và phát triển của hệ thống đăng kiểm; trách nhiệm và quyền hạn của các tổ chức, cá nhân trong hoạt động kiểm định; vi phạm, xử lý vi phạm trong hoạt động kiểm định; quy định về an toàn lao động; quy định về đo lường; quy tắc ứng xử, đạo đức nghề nghiệp; b) Các văn bản quy phạm pháp luật, quy chuẩn kỹ thuật quốc gia, tiêu chuẩn quốc gia, quy trình, hướng dẫn nghiệp vụ liên quan đến công việc"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 45/2024/TT-BGTVT Hà Nội, ngày 15 tháng 11 năm 2024 THÔNG TƯ QUY ĐỊNH VỀ CẤP MỚI, CẤP LẠI, TẠM ĐÌNH CHỈ, THU HỒI CHỨNG CHỈ ĐĂNG KIỂM VIÊN PHƯƠNG TIỆN GIAO THÔNG ĐƯỜNG BỘ Căn cứ Luật Trật tự, an toàn giao thông đường bộ ngày 27 tháng 6 năm 2024; Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Theo đề nghị của Vụ trưởng Vụ Khoa học - Công nghệ và Môi trường và Cục trưởng Cục Đăng kiểm Việt Nam; Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư quy định về cấp mới, cấp lại, tạm đình chỉ, thu hồi chứng chỉ đăng kiểm viên phương tiện giao thông đường bộ. Chương I QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Thông tư này quy định về cấp mới, cấp lại, tạm đình chỉ, thu hồi chứng chỉ đăng kiểm viên phương tiện giao thông đường bộ (sau đây viết tắt là chứng ch..."
+    }
+  ]
+}

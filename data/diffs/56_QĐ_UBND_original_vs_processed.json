@@ -1,0 +1,36 @@
+{
+  "base": "56_QĐ_UBND_original",
+  "revised": "56_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "Quyết định này 01 quy trình nội bộ giải quyết 01 thủ tục hành chính lĩnh vực Đường bộ thuộc thẩm quyền giải quyết của cấp huyện trên địa bàn tỉnh Sóc Trăng."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "nhân dân các huyện, thị xã, thành phố chịu trách nhiệm: 1. Tổ chức triển khai thực hiện việc tiếp nhận và giải quyết thủ tục hành chính theo quy trình nội bộ được phê duyệt tại Quyết định này. 2. Trên cơ sở nội dung quy trình nội bộ được phê duyệt tại Quyết định này chủ trì, phối hợp với Sở Thông tin và Truyền thông tổ chức thực hiện việc xây dựng quy trình điện tử giải quyết thủ tục hành chính tại Hệ thống thông tin giải quyết thủ tục hành chính tỉnh đúng theo quy định của Chính phủ tại Nghị định số 61/2018/NĐ-CP , Nghị định số 107/2021/NĐ-CP và hướng dẫn của Văn phòng Chính phủ tại Thông tư số 01/2018/TT-VPCP , Thông tư số 01/2023/TT-VPCP ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "hiệu lực thi hành kể từ ngày ký."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "QUYỀN GIẢI QUYẾT CỦA CẤP HUYỆN TRÊN ĐỊA BÀN TỈNH SÓC TRĂNG (Ban hành kèm theo Quyết định số 56/QĐ-UBND ngày 13 tháng 01 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh Sóc Trăng) Quy trình Thủ tục: Cấp giấy phép thi công công trình trên đường bộ đang khai thác Trình tự các bước thực hiện Nội dung công việc Trách nhiệm thực hiện Thời gian thực hiện Kết quả/sản phẩm Bước 1 - Công chức, viên chức Bộ phận tiếp nhận và trả kết quả thuộc Văn phòng HĐND và UBND cấp huyện tiếp nhận và kiểm tra hồ sơ. - Nếu hồ sơ đầy đủ theo quy định thì tiếp nhận thực hiện số hóa và cập nhật vào hệ thống thông tin giải quyết TTHC. - Nếu hồ sơ chưa đầy đủ theo quy định thì hướng dẫn Tổ chức, cá nhân hoàn thiện hồ sơ, in phiếu hướng dẫn hoàn thiện hồ sơ cho tổ chức, cá nhân. Công chức, viên chức Bộ phận tiếp nhận và trả kết quả thuộc Văn phòng HĐND và UBND cấp huyện 0,25 ngày làm việc - Giấy tiếp nhận hồ sơ và hẹn trả kết quả /Phiếu hướng dẫn hoàn thiện hồ sơ/ Phiếu từ chối tiếp nhận hồ sơ được trao cho tổ chức nộp hồ sơ. - Phiếu kiểm soát quá trình giải quyết hồ sơ (kèm theo hồ sơ TTHC). Bước 2 Xem xét, kiểm tra hồ sơ: - Trường hợp hồ sơ cần sửa đổi, bổ sung, dự thảo văn bản thông báo cho tổ chức, cá nhân. - Trường hợp hồ sơ đầy đủ và phù hợp theo quy định thì thẩm định hồ sơ dự thảo Giấy phép thi công công trình trên đường bộ đang khai thác. Công chức phòng chuyên môn UBND cấp huyện 5,25 ngày làm việc - Dự thảo Giấy phép thi công công trình trên đường bộ đang khai thác hoặc dự thảo văn bản thông báo (nếu thành phần hồ sơ không phù hợp). - Phiếu kiểm soát quá trình giải quyết hồ sơ. Bước 3 Xem xét, thẩm định kết quả TTHC hoặc văn bản nêu rõ lý do nếu hồ sơ chưa phù hợp. Lãnh đạo Phòng chuyên môn UBND cấp huyện 0,5 ngày làm việc Bước 4 Bộ phận Văn phòng cấp huyện tiếp nhận hồ sơ Văn phòng UBND cấp 0,5 ngày làm việc - Giấy phép thi công công trình trên đường bộ đang khai thác hoặ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH SÓC TRĂNG ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 56/QĐ-UBND Sóc Trăng, ngày 13 tháng 01 năm 2025 QUYẾT ĐỊNH VỀ VIỆC PHÊ DUYỆT QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA CẤP HUYỆN TRÊN ĐỊA BÀN TỈNH SÓC TRĂNG CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH SÓC TRĂNG Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Nghị định số 107/2021/NĐ-CP ngày 06/12/2021 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Thông tư số 01/2018/TT-VPCP ngày 23/11/20..."
+    }
+  ]
+}

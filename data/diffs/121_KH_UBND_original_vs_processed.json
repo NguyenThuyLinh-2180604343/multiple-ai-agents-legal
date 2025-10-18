@@ -1,0 +1,90 @@
+{
+  "base": "121_KH_UBND_original",
+  "revised": "121_KH_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section General.1",
+      "change": "added",
+      "to": "ỦY BAN NHÂN DÂN TỈNH NAM ĐỊNH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 121/KH-UBND Nam Định, ngày 29 tháng 8 năm 2024 KẾ HOẠCH THỰC HIỆN CHỈ THỊ SỐ 23/CT-TTG NGÀY 26/7/2024 CỦA THỦ TƯỚNG CHÍNH PHỦ VỀ TĂNG CƯỜNG CÔNG TÁC BẢO ĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG ĐỐI VỚI HOẠT ĐỘNG KINH DOANH VẬN TẢI ĐƯỜNG BỘ TRONG TÌNH HÌNH MỚI Thực hiện Chỉ thị số 23/CT-TTg ngày 26/7/2024 của Thủ tướng Chính phủ về tăng cường công tác bảo đảm trật tự, an toàn giao thông đối với hoạt động kinh doanh vận tải đường bộ trong tình hình mới (sau đây gọi tắt là Chỉ thị số 23/CT-TTg). Để tăng cường công tác bảo đảm trật tự, an toàn giao thông đối với hoạt động kinh doanh vận tải đường bộ trong tình hình mới; Ủy ban nhân dân (UBND) tỉnh ban hành Kế hoạch triển khai thực hiện Chỉ thị số 23/CT-TTg với những nội dung cụ thể sau: I. MỤC ĐÍCH,"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "và thực hiện có hiệu quả các giải pháp quản lý hoạt động kinh doanh vận tải đường bộ theo Chỉ thị số 23-CT/TW ngày 25 tháng 5 năm 2023 của Ban Bí thư Trung ương Đảng về tăng cường sự lãnh đạo của Đảng đối với công tác bảo đảm trật tự, an toàn giao thông trong tình hình mới và Chỉ thị số 23/CT-TTg ; đồng thời tiếp tục thực hiện nghiêm các chỉ đạo của Chính phủ, Thủ tướng Chính phủ về bảo đảm trật tự, an toàn giao thông; chuẩn bị các điều kiện cần thiết đảm bảo thực hiện tốt Luật Trật tự, an toàn giao thông đường bộ và Luật Đường bộ ngay khi có hiệu lực"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "phương tập trung triển khai thực hiện nghiêm túc, hiệu quả các chủ trương chỉ đạo của Đảng, Nhà nước trong công tác bảo đảm trật tự, an toàn giao thông; thực hiện đầy đủ trách nhiệm trong quản lý nhà nước về bảo đảm trật tự, an toàn giao"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "giao, có giải pháp cụ thể và điều kiện để thực hiện. 3. Đẩy mạnh tiến độ ứng dụng khoa học, công nghệ, thúc đẩy chuyển đổi số mạnh mẽ trong lĩnh vực giao"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_5.1",
+      "change": "added",
+      "to": "trong công tác bảo đảm trật tự, an toàn giao thông trong giai đoạn tới, hình thành văn hóa giao thông, nâng cao ý thức chấp hành pháp luật, ứng xử văn minh"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_6.1",
+      "change": "added",
+      "to": "VÀ GIẢI PHÁP TRỌNG TÂM 1. Tăng cường công tác quản lý nhà nước trong hoạt động kinh doanh vận tải đường bộ, bảo đảm cạnh"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_7.1",
+      "change": "added",
+      "to": "hành khách; tiếp tục siết chặt hoạt động kinh doanh vận tải bằng ô tô; tăng cường kiểm soát đối với hoạt động vận tải hành khách, vận tải hàng hóa, kiểm tra, phát hiện, chấn chỉnh và xử lý các hành vi vi phạm ngay tại các điểm xuất phát (bến xe, bến bãi, nhà ga, đầu nguồn hàng, mỏ vật liệu). 2. Xử lý nghiêm trách nhiệm của các đơn vị, doanh nghiệp kinh doanh vận tải khi để xuất bến đối với xe"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_8.1",
+      "change": "added",
+      "to": "xe, xe không bảo đảm tiêu chuẩn an toàn kỹ thuật và bảo vệ môi trường, lái xe không bảo đảm điều kiện điều khiển phương tiện kinh doanh vận tải, thiếu các giấy"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_9.1",
+      "change": "added",
+      "to": "công ty, văn phòng đại diện hoặc sử dụng các xe trung chuyển để đón khách sai"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_10.1",
+      "change": "added",
+      "to": "phạm từ hệ thống thiết bị giám sát hành trình; quản lý chặt chẽ và kiên quyết thu hồi giấy phép, phù hiệu vận tải đối với các tổ chức, cá nhân vi phạm pháp luật. 3. Tăng cường kiểm tra, đôn đốc, giám sát; tuyên truyền, phổ biến, giáo dục pháp luật về trật tự, an toàn giao thông cho Hiệp hội vận tải ô tô tỉnh Nam Định và các đơn vị kinh"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_11.1",
+      "change": "added",
+      "to": "bàn quản lý trong thực hiện công tác quản lý nhà nước về bảo đảm trật tự, an toàn giao thông đối với hoạt động kinh doanh vận tải đường bộ để có biện pháp kiểm điểm, xử lý nghiêm. III. PHÂN"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_12.1",
+      "change": "added",
+      "to": "phòng Ban an toàn giao thông tỉnh - Chỉ đạo Văn phòng Ban An toàn giao thông tỉnh, các cơ quan thành viên phối hợp với Hiệp hội vận tải ô tô tỉnh, các doanh nghiệp kinh doanh vận tải bằng xe ô tô trên địa bàn, xây dựng các kế hoạch, nội dung tuyên truyền, đảm bảo 100% các lái xe, phụ xe tiếp cận với các nội dung tuyên truyền phổ biến giáo dục pháp luật về trật tự ATGT và xây dựng văn hóa giao thông (hoàn thành trong Quý II/2025), qua đó nâng cao ý thức tự"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_13.1",
+      "change": "added",
+      "to": "phương tiện tham gia giao thông… - Theo dõi, tham mưu cho UBND tỉnh chỉ đạo các địa phương, cơ quan, đơn vị liên quan tăng cường công tác quản lý đối với hoạt động đảm bảo TTATGT liên quan đến lĩnh vực kinh doanh vận tải đường bộ: Quản lý bến xe, điểm dừng"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH NAM ĐỊNH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 121/KH-UBND Nam Định, ngày 29 tháng 8 năm 2024 KẾ HOẠCH THỰC HIỆN CHỈ THỊ SỐ 23/CT-TTG NGÀY 26/7/2024 CỦA THỦ TƯỚNG CHÍNH PHỦ VỀ TĂNG CƯỜNG CÔNG TÁC BẢO ĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG ĐỐI VỚI HOẠT ĐỘNG KINH DOANH VẬN TẢI ĐƯỜNG BỘ TRONG TÌNH HÌNH MỚI Thực hiện Chỉ thị số 23/CT-TTg ngày 26/7/2024 của Thủ tướng Chính phủ về tăng cường công tác bảo đảm trật tự, an toàn giao thông đối với hoạt động kinh doanh vận tải đường bộ trong tình hình mới (sau đây gọi tắt là Chỉ thị số 23/CT-TTg). Để tăng cường công tác bảo đảm trật tự, an toàn giao thông đối với hoạt động kinh doanh vận tải đường bộ trong tình hình mới; Ủy ban nhân dân (UBND) tỉnh ban hành Kế hoạch triển khai thực hiện Chỉ thị số 23/CT-TTg với những nội dung cụ thể sau: I. MỤC ĐÍCH, YÊU CẦU 1. Tiếp tục cụ thể hóa và thực hiện có hiệu quả các giải pháp quản lý hoạt động kinh doanh vận tải đường bộ ..."
+    }
+  ]
+}

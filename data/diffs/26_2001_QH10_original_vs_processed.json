@@ -1,0 +1,36 @@
+{
+  "base": "26_2001_QH10_original",
+  "revised": "26_2001_QH10_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "vi điều chỉnh Luật này quy định quy tắc giao thông đường bộ; các điều kiện bảo đảm an toàn giao thông đường bộ của kết cấu hạ tầng, phương tiện và người tham gia giao thông đường bộ, hoạt động vận tải đường bộ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "tượng áp dụng Luật này áp dụng đối với cơ quan, tổ chức, cá nhân hoạt động, sinh sống trên lãnh thổ Cộng hoà xã hội chủ nghĩa Việt Nam; trong trường hợp điều ước quốc tế mà Cộng hoà xã hội chủ nghĩa Việt Nam ký kết hoặc tham gia có quy định khác với Luật này thì áp dụng quy định của điều ước quốc tế đó."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "thích từ ngữ Trong Luật này, các từ ngữ dưới đây được hiểu như sau: 1. Đường bộ gồm đường, cầu đường bộ, hầm đường bộ, bến phà đường bộ. 2. Công trình đường bộ gồm đường bộ, nơi dừng xe, đỗ xe trên đường, hệ thống thoát nước, đèn tín hiệu, cọc tiêu, biển báo hiệu, dải phân cách và công trình, thiết bị phụ trợ khác. 3. Đất của đường bộ là phần đất trên đó công trình đường bộ được xây dựng. 4. Hành lang an toàn đường bộ là dải đất dọc hai bên đường để bảo đảm an toàn giao thông và bảo vệ công trình đường bộ. 5. Phần đường xe chạy là phần của đường bộ được sử dụng cho các phương tiện giao thông qua lại. 6. Làn đường là một phần của phần đường xe chạy được chia theo chiều dọc của đường, có bề rộng đủ cho xe chạy an toàn. 7. Khổ giới hạn của đường bộ là khoảng trống có kích thước giới hạn về chiều cao, chiều rộng của đường, cầu, hầm trên đường bộ để các xe kể cả hàng hoá xếp trên xe đi qua được an toàn. 8. Đường phố là đường bộ trong đô thị gồm lòng đường và hè phố. 9. Dải phân cách là bộ phận của đường để phân chia mặt đường thành hai chiều xe chạy riêng biệt hoặc để phân chia phần đường của xe cơ giới và xe thô sơ. Dải phân cách gồm loại cố định và loại di động. 10. Đường cao tốc là đường chỉ dành cho xe cơ giới chạy với tốc độ cao, có dải phân cách chia đường cho xe chạy theo hai chiều ngược nhau riêng biệt và không giao cắt cùng mức với đường khác. 11. Bảo trì đường bộ là thực hiện các công việc bảo dưỡng và sửa chữa nhằm duy trì tiêu chuẩn kỹ thuật của đường đang khai thác. 12. Phương tiện giao thông đường bộ gồm phương tiện giao thông cơ giới đường bộ, phương tiện giao thông thô sơ đường bộ. 13. Phương tiện giao thông cơ giới đường bộ (sau đây gọi là xe cơ giới) gồm xe ô tô, máy kéo, xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy và các loại xe tương tự, kể cả xe cơ giới dùng cho người tàn tật. 14. Phương tiện giao thông thô sơ đường bộ (sau đây gọi là xe thô sơ) gồm các loại xe không di chuyển bằng sức động cơ như xe đạp, xe xích lô, xe súc vật kéo và các loại xe tương tự. 15. Xe máy chuyên dùng gồm xe máy thi công, xe máy nông nghiệp, lâm nghiệp có tham gia giao thông đường bộ. 16. Phương tiện tham gia giao thông đường bộ gồm phương tiện giao thông đường bộ và xe máy chuyên dùng. 17. Người tham gia giao thông đường bộ gồm người điều khiển, người sử dụng phương tiện tham gia giao thông đường bộ; người điều khiển, dẫn dắt súc vật và người đi bộ trên đường bộ. 18. Người điều khiển phương tiện tham gia giao thông gồm người điều khiển xe cơ giới, xe thô sơ, xe máy chuyên dùng tham gia giao thông đường bộ. 19. Người lái xe là người điều khiển xe cơ giới. 20. Người điều khiển giao thông là cảnh sát giao thông hoặc người được giao nhiệm vụ hướng dẫn giao thông tại nơi thi công, nơi ùn tắc giao thông, ở bến phà, tại cầu đường bộ đi chung với đường sắt. 21. Hàng nguy hiểm là hàng khi chở trên đường có khả năng gây nguy hại tới tính mạng, sức khoẻ con người, môi trường, an toàn và an ninh quốc gia."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "bộ là trách nhiệm của cơ quan, tổ chức, cá nhân và của toàn xã hội. 2. Người tham gia giao thông phải nghiêm chỉnh chấp hành quy tắc giao thông, giữ gìn an toàn cho mình và cho người khác. Chủ phương tiện và người điều khiển phương tiện phải chịu trách nhiệm trước pháp luật về việc bảo đảm các điều kiện an toàn của phương tiện tham gia giao thông. 3. Việc bảo đảm trật tự, an toàn giao thông đường bộ phải thực hiện đồng bộ về kỹ thuật và an toàn của kết cấu hạ tầng giao thông đường bộ, phương tiện giao thông đường bộ, ý thức chấp hành pháp luật của người tham gia giao thông và các lĩnh vực khác liên quan đến an toàn giao thông đường bộ. 4. Mọi hành vi vi phạm pháp luật giao thông đường bộ phải được xử"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "QUỐC HỘI ******** CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ******** Số: 26/2001/QH10 Hà Nội, ngày 29 tháng 6 năm 2001 LUẬT CỦA QUỐC HỘI NƯỚC CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM SỐ 26/2001/QH10 GIAO THÔNG ĐƯỜNG BỘ Để tăng cường hiệu lực quản lý nhà nước, đề cao ý thức trách nhiệm của cơ quan, tổ chức, cá nhân nhằm bảo đảm giao thông đường bộ thông suốt, trật tự, an toàn, thuận lợi, phục vụ nhu cầu đi lại của nhân dân và sự nghiệp xây dựng, bảo vệ Tổ quốc; Căn cứ vào Hiến pháp nước Cộng hoà xã hội chủ nghĩa Việt Nam năm 1992; Luật này quy định về giao thông đường bộ. Chương 1: NHỮNG QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Luật này quy định quy tắc giao thông đường bộ; các điều kiện bảo đảm an toàn giao thông đường bộ của kết cấu hạ tầng, phương tiện và người tham gia giao thông đường bộ, hoạt động vận tải đường bộ. Điều 2. Đối tượng áp dụng Luật này áp dụng đối với cơ quan, tổ chức, cá nhân hoạt động, sinh sống trên lãnh thổ Cộng hoà xã hội ch..."
+    }
+  ]
+}

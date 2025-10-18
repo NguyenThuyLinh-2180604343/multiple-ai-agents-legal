@@ -1,0 +1,30 @@
+{
+  "base": "09_QĐ_UBND_original",
+  "revised": "09_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "duyệt sửa đổi, bãi bỏ Quy trình nội bộ trong giải quyết thủ tục hành chính lĩnh vực Đường bộ áp dụng trên địa bàn tỉnh Kon Tum (có Danh mục và nội dung các Quy trình nội bộ kèm theo)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "chức thực hiện 1. Sở Giao thông vận tải có trách nhiệm phân công cán bộ, công chức, viên chức tổ chức thực hiện các bước xử lý công việc quy định tại các Quy trình nội bộ ban hành kèm theo Quyết định này. 2. Văn phòng Ủy ban nhân dân tỉnh phối hợp với các đơn vị có liên quan thiết lập cấu hình điện tử; đồng thời, tổ chức thực hiện việc cập nhật thông tin, dữ liệu về tình hình tiếp nhận, giải quyết hồ sơ, trả kết quả thủ tục hành chính lên Hệ thống thông tin giải quyết thủ tục hành chính của tỉnh theo quy định. 3. Quyết định này có hiệu lực thi hành kể từ ngày ký và sửa đổi, bãi bỏ một số nội dung sau: a) Sửa đổi các Quy trình nội bộ số: 32, 33, 34, 36; bãi bỏ các Quy trình nội bộ số: 35, 37, 38, 39, 40, 41, 42, 43, 44, 45 Mục II Phần B1 Quy trình nội bộ kèm theo Quyết định số 277/QĐ-UBND ngày 01 tháng 6 năm 2021 của Chủ tịch Ủy ban nhân dân tỉnh về việc phê duyệt quy trình nội bộ trong giải quyết thủ tục hành chính ngành Giao thông vận tải thuộc thẩm quyền giải quyết của cơ quan hành chính nhà nước các cấp trên địa bàn tỉnh Kon Tum; b) Sửa đổi các Quy trình nội bộ số: 03 Mục I.2; 08, 09 Mục II Phần II Quy trình nội bộ kèm theo Quyết định số 392/QĐ-UBND ngày 08 tháng 7 năm 2024 của Chủ tịch Ủy ban nhân dân tỉnh về việc phê duyệt Quy trình nội bộ mới; sửa đổi, bổ sung trong giải quyết thủ tục hành chính ngành Giao thông vận tải áp dụng trên địa bàn tỉnh Kon Tum."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "BỘ (Ban hành kèm theo Quyết định số 09/QĐ-UBND ngày 07 tháng 01 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh Kon Tum) Phần I DANH MỤC THỦ TỤC HÀNH CHÍNH STT Mã Thủ tục hành chính Tên Thủ tục hành chính Cơ quan thực hiện I THỦ TỤC HÀNH CHÍNH SỬA ĐỔI 1 1.002835.00 0.00.00.H34 Cấp mới Giấy phép lái xe Sở Giao thông vận tải 2 1.002820.00 .00.00.H34 Cấp lại Giấy phép lái xe Sở Giao thông vận tải 3 1.002809.00 .00.00.H34 Đổi Giấy phép lái xe do ngành giao thông vận tải cấp Sở Giao thông vận tải 4 1.002804.00 0.00.00.H34 Đổi giấy phép lái xe quân sự do Bộ Quốc phòng cấp sang giấy phép lái xe do ngành Giao thông vận tải cấp Sở Giao thông vận tải 5 1.002801.00 0.00.00.H34 Đổi giấy phép lái xe do ngành Công an cấp sang giấy phép lái xe do ngành Giao thông vận tải cấp Sở Giao thông vận tải 6 1.002796.00 0.00.00.H34 Đổi giấy phép lái xe hoặc bằng lái xe của nước ngoài sang giấy phép lái xe do ngành Giao thông vận tải cấp Sở Giao thông vận tải 7 2.000769.00 0.00.00.H34 Đổi, cấp lại Chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ cho người điều khiển"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH KON TUM ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 09/QĐ-UBND Kon Tum, ngày 07 tháng 01 năm 2025 QUYẾT ĐỊNH VỀ VIỆC PHÊ DUYỆT SỬA ĐỔI, BÃI BỎ QUY TRÌNH NỘI BỘ TRONG GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH LĨNH VỰC ĐƯỜNG BỘ ÁP DỤNG TRÊN ĐỊA BÀN TỈNH KON TUM CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH KON TUM Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23 tháng 4 năm 2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Nghị định số 107/2021/NĐ-CP ngày 06 tháng 12 năm 2021 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 61/2018/NĐ-CP ; Căn cứ Thông tư số 01/2018/TT-VPCP ngày 23 tháng 11 năm 2018 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ về hướng dẫn thi hành một số quy định của N..."
+    }
+  ]
+}

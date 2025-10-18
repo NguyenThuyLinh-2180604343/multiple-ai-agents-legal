@@ -1,0 +1,54 @@
+{
+  "base": "279_KH_UBND_original",
+  "revised": "279_KH_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section General.1",
+      "change": "added",
+      "to": "ỦY BAN NHÂN DÂN TỈNH ĐỒNG NAI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 279/KH-UBND Đồng Nai, ngày 20 tháng 8 năm 2024 KẾ HOẠCH TRIỂN KHAI THỰC HIỆN CHỈ THỊ SỐ 23/CT-TTG NGÀY 26 THÁNG 7 NĂM 2024 CỦA THỦ TƯỚNG CHÍNH PHỦ VỀ TĂNG CƯỜNG CÔNG TÁC BẢO ĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG ĐỐI VỚI HOẠT ĐỘNG KINH DOANH VẬN TẢI TRONG TÌNH HÌNH MỚI Thực hiện Chỉ thị số 23/CT-TTg ngày 26 tháng 7 năm 2024 của Thủ tướng Chính phủ về tăng cường công tác bảo đảm trật tự, an toàn giao thông đối với hoạt động kinh doanh vận tải đường bộ trong tình hình mới. Thực hiện Nghị quyết số 149/NQ-CP ngày 21 tháng 9 năm 2023 của Chính phủ ban hành Chương trình hành động của Chính phủ thực hiện Chỉ thị số 23-CT/TW ngày 25 tháng 5 năm 2023 của Ban Bí Thư Trung ương Đảng về tăng cường sự lãnh đạo của Đảng đối với công tác bảo đảm trật tự, an toàn giao thông trong tình hình mới. Chủ tịch Ủy ban nhân dân tỉnh Đồng Nai ban hành Kế hoạch triển khai thực hiện Chỉ thị số 23/CT-TTg , ngày 26 tháng 7 năm 2024 của Thủ tướng Chính phủ về tăng cường công tác bảo đảm trật tự, an toàn giao thông đối với hoạt động kinh doanh vận tải trong tình hình mới trên địa bàn tỉnh như"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "hệ thống chính trị, đẩy mạnh công tác phối hợp giữa các cấp chính quyền với các sở, ban, ngành, các đoàn thể có liên quan trong công tác đảm bảo trật tự an toàn giao thông đối với hoạt động kinh doanh vận tải trong tình hình mới. 2. Nâng cao hiệu lực quản lý nhà nước, tăng cường kỷ cương của lực lượng thực thi công vụ; tăng cường tuần tra, kiểm soát, xử lý nghiêm các hành vi vi phạm pháp luật về đảm bảo an toàn giao thông; tiếp tục siết chặt quản lý hoạt động kinh doanh vận tải và kiểm soát tải trọng phương tiện. 3. Tiếp tục triển khai đồng bộ các giải pháp bảo đảm trật tự an toàn giao thông, hạn chế ùn tắc giao thông; tổ chức tốt công tác vận tải, phục vụ phát triển kinh tế - xã hội trên địa bàn tỉnh. 4. Nâng cao ý thức tự giác, chấp hành pháp luật và xây dựng văn hóa giao thông an toàn. II. PHÂN CÔNG NHIỆM VỤ 1. Các Sở, ban ngành, Ủy ban nhân dân các huyện, thành phố tiếp tục tổ chức thực hiện có hiệu quả các giải pháp quản lý hoạt động kinh doanh vận tải đường bộ theo Chỉ thị số 23-CT/TW ngày 25 tháng 5 năm 2023 của Ban Bí Thư Trung ương Đảng về tăng cường sự lãnh đạo của Đảng đối với công tác bảo đảm trật tự, an toàn giao thông trong tình hình mới; đồng thời tiếp tục thực hiện nghiêm các chỉ đạo của Chính phủ, Thủ tướng Chính phủ, các Bộ, ngành, Tỉnh ủy, Hội đồng nhân dân, Ủy ban nhân dân tỉnh về đảm bảo trật tự an toàn giao thông; chuẩn bị các điều kiện tốt nhất để thực hiện Luật Trật tự, an toàn giao thông và Luật Đường bộ ngay khi có hiệu lực thi hành 2. Ban An toàn giao thông tỉnh a) Phối hợp với các cơ quan, đơn vị liên quan xử lý các \"điểm đen\", \"điểm tiềm ẩn\" tai nạn giao thông trên địa bàn tĩnh. b) Phối hợp, đề nghị với các đơn vị liên quan thực hiện tuyên truyền đến các hộ gia đình, người dân sinh sống dọc các tuyến đường"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "giao thông; kinh nghiệm tham gia giao thông an toàn trên các tuyến đường mới, lái xe mới; các kiến thức và kỹ năng điều khiển xe mô tô, xe máy trong điều kiện giao thông hỗn hợp; thực hiện nghiêm \" Đã uống rượu bia - không lái xe \", không sử dụng điện thoại khi lái xe,... 3. Sở Giao thông vận tải a) Thực hiện đầy đủ trách nhiệm, có hiệu quả công tác quản lý nhà nước đối với hoạt động kinh doanh vận tải bằng xe ô tô tại địa"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "kinh doanh vận tải trên địa bàn có nhiều vi phạm, để xảy ra tai nạn giao thông nghiêm trọng. b) Tổ chức liên ngành thẩm tra an toàn giao thông đối với các \"điểm đen\", \"điểm tiềm ẩn\" tai nạn giao thông. c) Phối hợp với lực lượng chức năng xử lý nghiêm"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_5.1",
+      "change": "added",
+      "to": "xe ôtô để xảy ra tai nạn giao thông gây hậu quả từ mức nghiêm trọng trở lên"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_6.1",
+      "change": "added",
+      "to": "toàn giao thông Quốc gia và Ban An toàn giao thông tỉnh. d) Thường xuyên cập nhật cơ sở dữ liệu về đơn vị kinh doanh vận tải, phương tiện kinh doanh vận tải, danh sách lái xe kinh doanh vận tải, các đơn vị thường xuyên vi phạm điều kiện kinh doanh vận tải, rà soát loại hình kinh doanh vận tải khách theo hợp đồng, kinh doanh vận tải khách du lịch, cung cấp thông tin cho các cơ quan chức năng (Thuế, Công an, Y tế) và các cơ quan khác để phục vụ công tác quản lý nhà nước theo chức năng nhiệm vụ. đ) Chỉ đạo các đơn vị kinh doanh vận tải trên địa"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_7.1",
+      "change": "added",
+      "to": "giao thông, tổ chức khám sức khỏe định kỳ cho lái xe, cam kết không sử dụng lái xe dương tính với ma túy và các chất cấm khác theo quy định pháp luật. 4. Công an tỉnh a) Chủ trì tổ chức hội nghị với các cơ quan,"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH ĐỒNG NAI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 279/KH-UBND Đồng Nai, ngày 20 tháng 8 năm 2024 KẾ HOẠCH TRIỂN KHAI THỰC HIỆN CHỈ THỊ SỐ 23/CT-TTG NGÀY 26 THÁNG 7 NĂM 2024 CỦA THỦ TƯỚNG CHÍNH PHỦ VỀ TĂNG CƯỜNG CÔNG TÁC BẢO ĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG ĐỐI VỚI HOẠT ĐỘNG KINH DOANH VẬN TẢI TRONG TÌNH HÌNH MỚI Thực hiện Chỉ thị số 23/CT-TTg ngày 26 tháng 7 năm 2024 của Thủ tướng Chính phủ về tăng cường công tác bảo đảm trật tự, an toàn giao thông đối với hoạt động kinh doanh vận tải đường bộ trong tình hình mới. Thực hiện Nghị quyết số 149/NQ-CP ngày 21 tháng 9 năm 2023 của Chính phủ ban hành Chương trình hành động của Chính phủ thực hiện Chỉ thị số 23-CT/TW ngày 25 tháng 5 năm 2023 của Ban Bí Thư Trung ương Đảng về tăng cường sự lãnh đạo của Đảng đối với công tác bảo đảm trật tự, an toàn giao thông trong tình hình mới. Chủ tịch Ủy ban nhân dân tỉnh Đồng Nai ban hành Kế hoạch triển khai thực hiện Ch..."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "base": "21_KH_UBND_original",
+  "revised": "21_KH_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section General.1",
+      "change": "added",
+      "to": "ỦY BAN NHÂN DÂN TỈNH NAM ĐỊNH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 21/KH-UBND Nam Định, ngày 21 tháng 02 năm 2022 KẾ HOẠCH NĂM AN TOÀN GIAO THÔNG 2022 Thực hiện Kết luận số 45-KL/TW ngày 01/02/2019 của Ban Bí thư về tiếp tục đẩy mạnh thực hiện Chỉ thị số 18-CT/TW ngày 04/9/2012 của Ban Bí thư Trung ương Đảng khóa XI về tăng cường sự lãnh đạo của Đảng về công tác đảm bảo trật tự, an toàn giao thông (TTATGT) đường bộ, đường sắt, đường thủy nội địa và khắc phục ùn tắc giao thông; Quyết định số 2060/QĐ-TTg ngày 12/12/2020 của Thủ tướng Chính phủ phê duyệt Chiến lược Quốc gia về bảo đảm trật tự, an toàn giao thông đường bộ; Quyết định số 577/QĐ-UBND ngày 12/3/2021 của UBND tỉnh về việc phê duyệt Kế hoạch triển khai thực hiện Chiến lược Quốc gia bảo đảm TTATGT đường bộ giai đoạn 2021 - 2030 và tầm nhìn đến năm 2045 trên địa bàn tỉnh Nam Định; Kế hoạch năm An toàn giao thông 2022 số 36/KH-UBATGTQG ngày 10/01/2022 của Ủy Ban An toàn giao thông Quốc gia và các chỉ đạo của Thủ tướng Chính phủ, UBND tỉnh Nam Định xây dựng Kế hoạch Năm an toàn giao thông 2022 với chủ đề “Xây dựng văn hóa giao thông an toàn gắn với kiểm soát hiệu quả dịch COVID-19” với nội dung sau: I. MỤC ĐÍCH 1. Nâng cao ý thức tự giác chấp hành pháp luật và xây dựng văn hóa giao thông an toàn. 2. Hàng năm giảm tai nạn giao thông từ 5-10% cả về số vụ, số người chết và số người bị thương. 3. Không để xảy ra ùn tắc giao thông khi kiểm soát dịch bệnh; không để lây nhiễm, bùng phát dịch bệnh trong hoạt"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "khai thực hiện quyết liệt, đồng bộ các giải pháp từ tỉnh đến huyện, thành phố, xã, phường, thị trấn ngay từ tháng đầu, quý đầu và cả năm 2022. 2. Các Sở, ngành, đoàn thể, UBND các huyện, thành phố Nam Định xây dựng kế hoạch, triển khai cụ thể từng"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "đến từng cán bộ, công chức, viên chức và người lao động; từng bước xây dựng văn hóa giao thông an toàn gắn với kiểm soát hiệu quả dịch COVID-19; gắn trách nhiệm"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "phạm vi chức năng, nhiệm vụ, thẩm quyền của các cơ quan, đơn vị thực thi công vụ. 4. Tăng cường ứng dụng khoa học công nghệ trong công tác bảo đảm TTATGT, trước hết là chú trọng ứng dụng công nghệ thông tin và khoa học dữ liệu trong quản lý điều hành vận tải, điều khiển giao thông, tuyên truyền an toàn giao thông; giám sát, phát hiện và xử lý vi phạm"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_5.1",
+      "change": "added",
+      "to": "trên, các cơ quan thành viên của Ban An toàn giao thông tỉnh và Ban An toàn giao thông các huyện, thành phố Nam Định cần gắn chặt công tác bảo đảm TTATGT với"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_6.1",
+      "change": "added",
+      "to": "trọng tâm sau: 1. Nâng cao hiệu lực, hiệu quả công tác lãnh đạo, chỉ đạo, trước hết là tăng cường kiểm tra, đôn đốc việc thực hiện Kết luận số 45-KL/TW ngày 01 tháng 02 năm 2019 của Ban Bí thư về tiếp tục đẩy mạnh thực hiện có hiệu quả Chỉ thị số 18-CT/TW của Ban Bí thư về tăng cường sự lãnh đạo của Đảng đối với công tác bảo đảm TTATGT đường bộ, đường sắt, đường"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_7.1",
+      "change": "added",
+      "to": "nâng cao hiệu lực, hiệu quả của Ban An toàn giao thông tỉnh và Ban An toàn giao thông các huyện, thành phố Nam Định đáp ứng yêu cầu của tình hình mới. 2. Xây dựng, hoàn thiện thể chế,"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_8.1",
+      "change": "added",
+      "to": "TTATGT, nhằm áp dụng kịp thời các thành tựu của cuộc Cách mạng công nghiệp lần"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_9.1",
+      "change": "added",
+      "to": "ngành, quy hoạch vùng, tỉnh, huyện, quy hoạch sử dụng đất, quy hoạch xây dựng và các quy hoạch chuyên ngành về giao thông vận tải. 3. Bảo đảm tiến độ, chất lượng các dự án đầu tư kết cấu hạ tầng giao thông trọng điểm; tổ chức giao thông khoa học, hợp lý; bảo trì, sửa chữa kết cấu hạ tầng giao thông gắn với rà soát, xử lý dứt điểm các điểm đen, điểm tiền ẩn tai nạn giao thông, lấn chiếm lòng, lề đường, hành lang an toàn giao thông đường bộ; xóa bỏ lối đi tự mở trái phép qua đường sắt; ngăn ngừa, xử lý hoạt động lấn chiếm tuyến hàng hải, đường thủy nội địa. 4. Nâng cao chất lượng an toàn kỹ thuật và bảo vệ môi trường của phương tiện giao thông vận tải; hoàn thiện hệ thống tiêu chuẩn, quy chuẩn kỹ thuật cho phương tiện, linh kiện, vật liệu và hạ tầng để tạo thuận lợi cho sản xuất, kinh doanh và lưu hành đối với phương tiện, thân thiện với môi trường. 5. Tái cơ cấu vận tải, nâng cao thị phần vận tải đường sắt, đường thủy nội địa, giảm dần phụ thuộc vào đường bộ; đẩy nhanh tiến độ đầu tư, phát triển hệ thống vận tải công cộng trong đô thị và liên tỉnh. 6. Kiên trì xây dựng văn hóa giao thông an toàn đối với tổ chức, cá nhân trong việc xây dựng, thực thi pháp luật, cung ứng hạ tầng"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH NAM ĐỊNH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 21/KH-UBND Nam Định, ngày 21 tháng 02 năm 2022 KẾ HOẠCH NĂM AN TOÀN GIAO THÔNG 2022 Thực hiện Kết luận số 45-KL/TW ngày 01/02/2019 của Ban Bí thư về tiếp tục đẩy mạnh thực hiện Chỉ thị số 18-CT/TW ngày 04/9/2012 của Ban Bí thư Trung ương Đảng khóa XI về tăng cường sự lãnh đạo của Đảng về công tác đảm bảo trật tự, an toàn giao thông (TTATGT) đường bộ, đường sắt, đường thủy nội địa và khắc phục ùn tắc giao thông; Quyết định số 2060/QĐ-TTg ngày 12/12/2020 của Thủ tướng Chính phủ phê duyệt Chiến lược Quốc gia về bảo đảm trật tự, an toàn giao thông đường bộ; Quyết định số 577/QĐ-UBND ngày 12/3/2021 của UBND tỉnh về việc phê duyệt Kế hoạch triển khai thực hiện Chiến lược Quốc gia bảo đảm TTATGT đường bộ giai đoạn 2021 - 2030 và tầm nhìn đến năm 2045 trên địa bàn tỉnh Nam Định; Kế hoạch năm An toàn giao thông 2022 số 36/KH-UBATGTQG ngày 10/01/2022 của Ủy Ban A..."
+    }
+  ]
+}

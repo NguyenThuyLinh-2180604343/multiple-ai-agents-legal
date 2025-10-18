@@ -1,0 +1,36 @@
+{
+  "base": "264_QĐ_UBND_original",
+  "revised": "264_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "mục 01 thủ tục hành chính được sửa đổi, bổ sung lĩnh vực đường bộ thuộc phạm vi chức năng quản lý của Sở Xây dựng. Danh mục thủ tục hành chính được đăng tải trên cổng thông tin điện tử của Ủy ban nhân dân Thành phố tại https://hochiminhcity.gov.vn và Cổng dịch vụ công quốc gia tại https://dichvucong.gov.vn/p/home/dvc-trang-chu.html."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "cấp dịch vụ công trực tuyến trong thực hiện thủ tục hành chính trên môi trường điện tử; xây dựng quy trình nội bộ giải quyết các thủ tục hành chính, tái cấu trúc quy trình nội bộ giải quyết thủ tục hành chính theo quy định. 2. Giao Trung tâm Chuyển đổi số Thành phố có trách nhiệm cấu hình thủ tục hành chính trên Hệ thống thông tin giải quyết thủ tục hành chính Thành phố."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "kể từ ngày ký. Bãi bỏ nội dung công bố cho thủ tục có thứ tự A.2 tại Phụ lục XIII ban hành kèm theo Quyết định số 3337/QĐ-UBND ngày 28 tháng 6 năm 2025 của Chủ tịch Ủy ban nhân dân Thành phố về việc công bố thủ tục hành chính thuộc phạm vi chức năng quản lý của Sở Xây dựng."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "SỬA ĐỔI, BỔ SUNG LĨNH VỰC ĐƯỜNG BỘ THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ CỦA SỞ XÂY DỰNG (Ban hành kèm theo Quyết định số 264/QĐ-UBND ngày 21 tháng 7 năm 2025 của Chủ tịch Ủy ban nhân dân Thành phố) TT Tên thủ tục hành chính Thời hạn giải quyết Địa điểm thực hiện Phí, lệ phí Căn cứ pháp lý 1 Cấp Giấy phép lưu hành xe quá tải trọng, xe quá khổ giới hạn, xe bánh xích, xe vận chuyển hàng siêu trường, siêu trọng trên đường bộ Thẩm định hồ sơ và trả kết quả: Trong thời hạn 01 (một) ngày làm việc kể từ khi nhận đủ hồ sơ theo quy định. - Bộ phận Một cửa của Sở Xây dựng: + Số 63 Lý Tự Trọng, phường Sài Gòn. + Tòa nhà Trung tâm hành chính tỉnh, đường Lê Lợi, phường Bình Dương. + Số 4 Nguyễn Tất Thành, phường Bà Rịa. Không - Thông tư số 12/2025/TT-BXD ngày 30 tháng 6 năm 2025 của Bộ trưởng Bộ Xây dựng quy định về tải trọng, khổ giới hạn của đường bộ; lưu hành xe quá khổ giới hạn, xe quá tải trọng, xe bánh xích trên đường bộ; hàng siêu trường, siêu trọng, vận chuyển hàng siêu trường, siêu trọng; xếp hàng hóa trên phương tiện giao thông đường bộ; cấp giấy phép lưu hành cho xe quá tải trọng, xe quá khổ giới hạn, xe bánh xích, xe vận chuyển hàng siêu trường, siêu trọng trên đường bộ. - Quyết định số 997/QĐ-BX D ngày 02 tháng 7 năm 2025 của Bộ trưởng Bộ Xây dựng về việc công bố thủ tục hành chính được sửa đổi, bổ sung trong lĩnh vực nhà ở, liên quan đến sắp xếp tổ chức bộ máy, thực hiện chính quyền địa phương 02 cấp, thuộc phạm vi chức năng quản lý của Bộ Xây dựng."
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 264/QĐ-UBND Thành phố Hồ Chí Minh, ngày 21 tháng 7 năm 2025 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ DANH MỤC THỦ TỤC HÀNH CHÍNH LĨNH VỰC ĐƯỜNG BỘ THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ CỦA SỞ XÂY DỰNG CHỦ TỊCH ỦY BAN NHÂN DÂN THÀNH PHỐ HỒ CHÍ MINH Căn cứ Luật Tổ chức Chính quyền địa phương ngày 16 tháng 6 năm 2025; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 92/2017/NĐ-CP ngày 07 tháng 8 năm 2017 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định có liên quan đến kiểm soát thủ tục hành chính; Căn cứ Thông tư số 02/2017/TT-VPCP ngày 31 tháng 10 năm 2017 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ hướng dẫn nghiệp vụ về kiểm soát thủ tục hành chính; Theo đề nghị của Giám đốc Sở Xây dựng tại Tờ trình số 824/TTr-SXD- VP ngày 15 tháng 7 năm 2025. QUYẾT ĐỊNH: Điều 1. Công bố kèm theo Q..."
+    }
+  ]
+}

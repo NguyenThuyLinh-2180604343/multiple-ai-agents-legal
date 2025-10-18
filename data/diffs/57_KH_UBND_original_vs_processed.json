@@ -1,0 +1,84 @@
+{
+  "base": "57_KH_UBND_original",
+  "revised": "57_KH_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section General.1",
+      "change": "added",
+      "to": "ỦY BAN NHÂN DÂN TỈNH SƠN LA ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 57/KH-UBND Sơn La, ngày 28"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "AN TOÀN GIAO THÔNG, GÓP PHẦN KIỀM CHẾ, KÉO GIẢM TAI NẠN GIAO THÔNG TRÊN ĐỊA BÀN TỈNH SƠN LA NĂM 2025 Thời gian vừa qua, các sở, ban, ngành, đoàn thể thuộc tỉnh và Ủy ban nhân dân các huyện, thị xã, thành phố đã chỉ đạo lực lượng chức năng đã và đang cố gắng, nỗ lực triển khai quyết liệt"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "qua đó tình hình trật tự, an toàn giao thông trên địa bàn tỉnh tiếp tục được giữ vững, ổn định, tai nạn giao thông tiếp tục được kiềm chế, kéo giảm cả 3 tiêu chí so với cùng kỳ năm 2024. Tuy nhiên, tình hình vi phạm pháp luật về an toàn giao thông, nhất là vi phạm về nồng độ cồn và tai nạn giao thông liên quan đến nồng độ cồn và lứa tuổi học sinh vẫn diễn biến phức tạp ( từ 15/12/2024 đến 22/02/2025, lực lượng chức năng đã phát hiện, xử lý 1.229 trường hợp vi phạm về nồng độ cồn (chiếm 36,87% trên tổng số các hành vi vi phạm). 09 vụ tai nạn giao thông liên quan đến nồng độ cồn (chiếm 28,13%); 17 vụ tai nạn giao thông liên quan đến lứa tuổi học sinh (chiếm 53,13%) ), còn để xảy ra 01 vụ tai nạn giao thông đặc biệt nghiêm trọng làm chết 06 người, bị thương 09 người. Để tiếp tục thực hiện quyết liệt, hiệu quả hơn nữa chỉ đạo của Đảng, Nhà nước, Chính phủ, Thủ tướng Chính phủ về công tác bảo đảm trật tự, an toàn giao thông, trọng tâm là Chỉ thị số 23-CT/TW ngày 25/5/2023 của Ban Bí thư, Chỉ thị số 10/CT-TTg ngày 19/4/2023, Chỉ thị số 31/CT-TTg ngày 21/12/2023, Chỉ thị số 35/CT-TTg ngày 17/9/2024 của Thủ tướng Chính phủ …; huy động sức mạnh của cả hệ thống chính trị, các cấp, các ngành, các cơ quan, đơn vị, Ủy ban nhân dân các huyện, thị xã, thành phố chung tay thực hiện"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "tai nạn giao thông trên địa bàn tỉnh Sơn La, năm 2025. Ủy ban nhân dân tỉnh ban"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_5.1",
+      "change": "added",
+      "to": "phần kiềm chế, kéo giảm tai nạn giao thông trên địa bàn tỉnh Sơn La, năm 2025 với những nội dung như sau: I. MỤC ĐÍCH,"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_6.1",
+      "change": "added",
+      "to": "thống nhất của cả hệ thống chính trị trong việc triển khai thực hiện các nhiệm vụ, giải pháp, biện pháp bảo đảm TTATGT. Nâng cao hiệu lực, hiệu quả công tác quản lý nhà nước và trách nhiệm thực thi pháp luật trong lĩnh vực bảo đảm TTATGT. 2. Chỉ đạo và tổ chức"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_7.1",
+      "change": "added",
+      "to": "pháp bảo đảm trật tự, an toàn giao thông từ cấp tỉnh đến cơ sở và các cơ quan, đơn vị, doanh nghiệp, trường học, góp phần kiềm chế, kéo giảm tai nạn giao thông xảy ra trên địa bàn toàn tỉnh. 3. Các sở, ban, ngành, đoàn thể tỉnh và Ủy ban nhân dân các huyện, thị xã, thành phố chỉ đạo cán bộ, công chức, viên chức, người lao động, chiến sĩ lực lượng vũ trang đang công tác"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_8.1",
+      "change": "added",
+      "to": "pháp luật về TTATGT, tuyệt đối không điều khiển phương tiện tham gia giao thông sau khi đã sử dụng rượu, bia, không giao xe cho con, em mình hoặc người khác khi không đủ điều kiện điều khiển phương tiện tham gia giao thông; kiên quyết xử"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_9.1",
+      "change": "added",
+      "to": "làm chỉ tiêu đánh giá, xếp loại công chức, viên chức, giáo viên, học sinh, sinh viên và người lao động vào dịp cuối năm. 4. Các cơ quan thành viên Ban An toàn giao thông tỉnh và Ban An toàn giao thông cấp huyện phải nêu cao tinh thần trách nhiệm, siết chặt kỷ cương của người thực thi pháp luật về trật tự, an toàn giao thông; chủ động xây dựng kế hoạch phù hợp với điều kiện thực tiễn của đơn vị mình để triển khai thực hiện hiệu quả. 5. Đẩy mạnh, đa dạng hóa nội dung, hình thức tuyên truyền, phổ biến giáo dục pháp luật về TTATGT, quán"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_10.1",
+      "change": "added",
+      "to": "học sinh và người dân tuyệt đối tuân thủ pháp luật về TTATGT, góp phần từng bước xây dựng văn hóa giao thông an toàn, văn minh. Người đứng đầu các cơ quan, đơn"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_11.1",
+      "change": "added",
+      "to": "trách nhiệm trước Chủ tịch UBND tỉnh nếu để tình hình TTATGT nói chung, vi phạm về TTATGT và tai nạn giao thông đặc biệt nghiêm trọng, tai nạn giao thông liên quan sử dụng rượu, bia và tai nạn giao thông liên quan đến lứa tuổi học sinh"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_12.1",
+      "change": "added",
+      "to": "GIẢI PHÁP TRỌNG TÂM 1. Công tác tham mưu, chỉ đạo Tăng cường sự lãnh đạo, chỉ đạo kiểm tra, đôn đốc việc thực hiện chủ trương của Đảng, chính sách, pháp luật của Nhà nước về bảo đảm TTATGT, trước hết là tăng cường kiểm tra, đôn đốc, kiểm đếm, đánh giá tiến độ việc triển khai thực hiện các Kế ho"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH SƠN LA ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 57/KH-UBND Sơn La, ngày 28 tháng 02 năm 2025 KẾ HOẠCH TĂNG CƯỜNG THỰC HIỆN CÁC NHIỆM VỤ, GIẢI PHÁP BẢO ĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG, GÓP PHẦN KIỀM CHẾ, KÉO GIẢM TAI NẠN GIAO THÔNG TRÊN ĐỊA BÀN TỈNH SƠN LA NĂM 2025 Thời gian vừa qua, các sở, ban, ngành, đoàn thể thuộc tỉnh và Ủy ban nhân dân các huyện, thị xã, thành phố đã chỉ đạo lực lượng chức năng đã và đang cố gắng, nỗ lực triển khai quyết liệt các nhiệm vụ, giải pháp bảo đảm trật tự, an toàn giao thông ( TTATGT ), qua đó tình hình trật tự, an toàn giao thông trên địa bàn tỉnh tiếp tục được giữ vững, ổn định, tai nạn giao thông tiếp tục được kiềm chế, kéo giảm cả 3 tiêu chí so với cùng kỳ năm 2024. Tuy nhiên, tình hình vi phạm pháp luật về an toàn giao thông, nhất là vi phạm về nồng độ cồn và tai nạn giao thông liên quan đến nồng độ cồn và lứa tuổi học sinh vẫn diễn biến phức tạp ( từ 15/12/2024 đ..."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "base": "210_QĐ_UBND_original",
+  "revised": "210_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "trên địa bàn tỉnh Lào Cai để tính cước vận tải bằng xe ô tô theo quy định. (có phụ lục 1, 2 chi tiết kèm theo)"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "27/6/2011 của UBND tỉnh Lào Cai về việc xếp loại đường bộ để xác định cước vận tải đường bộ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "QH Tổng chiều dài (km) Lý trình từ Km ÷ Km Chiều dài (km) Loại đường (Km) Ghi chú Loại 1 Loại 2 Loại 3 Loại 4 Loại 5 Loại 6 Tổng cộng 813,20 1 Đường tỉnh 151 (Xuân Giao - Khe Lếch) 40 Km0 ÷ Km40 40 40 2 Đường tỉnh 151B 42 2.1 Đoạn Võ Lao - Hòa Mạc 12 Km0 ÷ Km12 12 12 2.2 Đoạn Văn Bàn - Nậm Tha 30 Km12-Km12+900 0,9 0,9 Km12+900-Km20 7,1 7,1 Km20-Km41+100 22 22 3 Đường tỉnh 151C 37,6 3,1 Đoạn Sơn Hà - Cam Cọn 28,3 Km0-Km28+600 28,6 28,6 3,2 Đoạn Tân An - Khe Sang 9,3 Km28+600-Km37+900 9,3 9,3 4 Đường tỉnh 152 58,7 4,1 Đoạn Sa Pa - Bản Dền ’15 Km0-Km15 15 15 Mặt đường hư hỏng 4,2 Bản Dền - Thanh Phú 9 Km15 - Km24 9 9 4,2 Thanh Phú - Xuân Giao 26,3 Km24-Km50+300 26,3 26,3 4,3 Xuân Giao - Quốc lộ 4E (Cầu Lu) 8,4 Km50+300-Km58+ 700 8,4 8,4 5 Đường tỉnh 152B 14 5,1 Đoạn từ cầu Thanh Phú - UBND xã Thanh Phú 3 Km0-Km3 3 3 5,2 Đoạn từ UBND xã Thanh Phú- Nậm Cang 11 Km3-Km14 11 11 6 Đường tỉnh 153 74,2 6,1 Đoạn Bắc Ngầm - Bắc Hà 25 Km0-Km25 25 25 6,2 Đoạn Bắc Hà - Bản Liền 24,7 Km25-Km50 24,7 24,7 6,3 Đoạn Bản Liền - Nghĩa Đô 24.5 Km50-Km74+200 24,5 24,5 7 Đường tỉnh 154 107 7.1 Đoạn Bản Lầu - Nậm Chẩy - Mường Khương 37 Km0-Km19 19 19 Km19- Km20 1 1 Mặt đường hư hỏng chưa thi công Km20-Km37 17 17 7,2 Đoạn Mường Khương - Cốc Ly 54 Km37-Km91 54 54 7.3 Cốc Ly - Phong Niên 16 Km91-Km107 16 16 8 Đường tỉnh 155 50 8,1 Đoạn Dền Sáng - Bản Xèo - Tả Giàng Phình 35 Km0-Km35 35 35 8,2 Đoạn Bản Xèo - Ô Quý Hồ 15 Km35-Km50 15 15 9 Đường tỉnh 156 51 9,1 Đoạn Kim Thành - Châu Giàng 4,8 Km0-Km4+800 4,8 4,8 Đoạn Châu Giàng - Bản Vược 10,3 Km4+800-Km15+100 10,3 10,3 Đoạn Ngòi Phát - Tùng Sáng 35,9 Km15+100-Km41+400 35,9 35,9 10 Đường tỉnh 156B 48 10,1 Đoạn Hợp Thành - Bắc Cường 12 Km0-Km12 12 12 10,2 Đoạn Kim Tân - Bản Vược 19 Km12-Km31 19 19 10,3 Đoạn Bản Vược- Bản Xèo 17 Km31-Km48 17 17 Mặt đường hư hỏng 11 Đường tỉnh 157 40 11,1 Đoạn Phố Mới - Phong Hải 25 Km0-Km25 25 25 11,2 Đoạn Phong Hải - Quốc lộ 4E (Xuân Quang) 15 Km25-Km40 15 15 12 Đường tỉnh 158 66 12,1 Tùng Sáng - A Mú Sung 6 Km0- Km6 6 6 12,2 A Mú Sung - A Lù 13 Km6-Km19 13 13 12,3 A Lù - A Lù 4 Km19-Km23 4 4 12,4 A Lù- Dền Sáng 36 Km23 - Km60 37 37 12,5 Đoạn Dền Sáng - Sàng Ma Sao (hướng đi Phong Thổ) 7 Km60-Km67 7 7 13 Đường tỉnh 159 77,9 13.1 Đoạn Si Ma Cai - Bắc Hà 34,4 Km0-Km34+400 34,4 34,4 13.2 Đoạn Bắc Hà - Lùng Phình 10 Km34+400 - Km44+400 10 10 13.3 Lùng Phình - Bản Già - Tả Cú Tý (trừ 4Km trùng với QL.4) 15 Km44+400 - Km59+400 15 15 13.4 Tả Củ Tỷ - Bản Liền 18,5 Km59+400 - Km77+900 18,5 18,5 14 Đường tỉnh 160 43,5 14.1 Đoạn Bảo Nhai - Tân Dương 23 Km0-Km23 23 23 13 Km23 - Km36 13 13 14,2 Đoạn Xuân Hòa - Phố Ràng 7,5 Km36 - Km43+500 7,5 7,5 15 Đường tỉnh 161 51,30 15,1 Đoạn Vạn Hòa - Thái Niên 13,2 Km0-Km13+200 13,2 13,2 15,2 Đoạn Phố Lu - Bảo Hà 31,7 Km13+200 -Km44+900 31,7 31,7 15,3 Đoạn Bào Hà - Lang Khay 6,40 Km44+900 -Km51+300 6,4 6,3 16 Quốc Lộ 4 E 12 Km0- Km12 12 12 PHỤ LỤC 2: PHÂN LOẠI ĐƯỜNG GIAO T"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH LÀO CAI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 210/QĐ-UBND Lào Cai, ngày 17 tháng 01 năm 2017 QUYẾT ĐỊNH VỀ VIỆC XẾP LOẠI ĐƯỜNG BỘ ĐỂ XÁC ĐỊNH CƯỚC VẬN TẢI ĐƯỜNG BỘ NĂM 2017, TỈNH LÀO CAI CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH LÀO CAI Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/06/2015; Căn cứ Luật Giao thông đường bộ ngày 13 tháng 11 năm 2008; Căn cứ Nghị định số 11/2010/NĐ-CP ngày 24/02/2010 của Chính phủ Quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ; Nghị định số 100/2013/NĐ-CP ngày 03/9/2013 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 11/2010/NĐ-CP ngày 24/02/2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ; Căn cứ Thông tư số 50/2015/TT-BGTVT ngày 23/9/2015 của Bộ Giao thông vận tải Hướng dẫn thực hiện một số điều của Nghị định số 11/2010/NĐ-CP ngày 24/02/2010 của Chính phủ Quy định về quản lý và bảo vệ kết cấu hạ tầng giao ..."
+    }
+  ]
+}

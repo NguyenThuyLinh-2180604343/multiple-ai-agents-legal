@@ -1,0 +1,30 @@
+{
+  "base": "528_QĐ_UBND_original",
+  "revised": "528_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "tục hành chính bị bãi bỏ trong lĩnh vực Đường bộ thuộc thẩm quyền giải quyết của Sở Giao thông vận tải thành phố Đà Nẵng."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "kể từ ngày ký và bãi bỏ Thủ tục hành chính số thứ tự 13, 14 lĩnh vực Đường bộ thuộc Phần I - Danh mục thủ tục hành chính ban hành kèm theo Quyết định số 3100/QĐ-UBND ngày 01 tháng 12 năm 2022 của Chủ tịch UBND thành phố Đà Nẵng về việc công bố bộ thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Giao thông vận tải thành phố Đà Nẵng."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "CHÍNH BỊ BÃI BỎ (Ban hành kèm theo Quyết định số 528/QĐ-UBND ngày 23 tháng 3 năm 2023 của Chủ tịch Ủy ban nhân dân thành phố Đà Nẵng) STT Tên thủ tục hành chính Mã TTHC Tên văn bản QPPL quy định việc bãi bỏ TTHC I Lĩnh vực Đường bộ 1 Cấp Giấy phép thi công hạ bó vỉa, gia cố, chỉnh trang vỉa hè 1.008666 Quyết định số 06/2023/QĐ-UBND ngày 20 tháng 02 năm 2023 của UBND thành phố Đà Nẵng sửa đổi, bổ sung một số điều của Quy định về thi công trên đường bộ đang khai thác thuộc địa bàn thành phố Đà Nẵng ban hành kèm theo Quyết định số 05/2013/QĐ-UBND ngày 25 tháng 01 năm 2013 của UBND thành phố Đà Nẵng 2 Cấp Giấy phép thi công lắp đặt cấp nước cho các hộ dân 1.008686"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN THÀNH PHỐ ĐÀ NẴNG ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 528/QĐ-UBND Đà Nẵng, ngày 23 tháng 3 năm 2023 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ BÃI BỎ DANH MỤC THỦ TỤC HÀNH CHÍNH TRONG LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI CHỦ TỊCH ỦY BAN NHÂN DÂN THÀNH PHỐ ĐÀ NẴNG Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015; Căn cứ Luật Sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính; Căn cứ Nghị định số 48/2013/NĐ-CP ngày 14 tháng 5 năm 2013 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Nghị định số 92/2017/NĐ-CP ngày 07 tháng 8 năm 2017 của Chính phủ sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hà..."
+    }
+  ]
+}

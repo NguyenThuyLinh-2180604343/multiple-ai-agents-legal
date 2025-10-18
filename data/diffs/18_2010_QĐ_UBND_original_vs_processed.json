@@ -1,0 +1,36 @@
+{
+  "base": "18_2010_QĐ_UBND_original",
+  "revised": "18_2010_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "toàn kỹ thuật, phạm vi hoạt động đối với phương tiện giao thông thô sơ (sau đây gọi là xe thô sơ) tham gia giao thông trên đường bộ thuộc địa bàn tỉnh."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "tổ chức, cá nhân, hộ gia đình sử dụng xe thô sơ tham gia giao thông trên đường bộ thuộc địa bàn tỉnh; trừ xe thô sơ của lực lượng Quân đội, Công an phục vụ mục đích quốc phòng, an ninh. Các chủ phương tiện thô sơ có trách nhiệm duy trì và đảm bảo điều kiện an toàn kỹ thuật của xe thô sơ tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "dưới đây được hiểu như sau: 1. Xe thô sơ được áp dụng trong Quy định này bao gồm xe đạp (kể cả xe đạp máy), xe xích lô, xe lăn dùng cho người khuyết tật, xe súc vật kéo và các loại xe tương tự. 2. Điều kiện an toàn kỹ thuật là điều kiện tối thiểu của xe thô sơ nhằm để đảm bảo an toàn khi phương tiện tham gia giao thông trên đường bộ. 3. Mặt phẳng trung tuyến dọc trục là mặt phẳng thẳng đứng đi qua điểm giữa của một đoạn thẳng và vuông góc với đoạn thẳng đó. 4. Hành trình góc quay lái là một cung đoạn quay giới hạn của càng lái. 5. Hệ thống truyền lực là hệ thống truyền chuyển động hay lực từ sức người đến các bánh xe chủ động (thông qua bàn đạp, xích, vành răng lớn, vành răng nhỏ). 6. Độ rơ dọc trục là độ rơ theo phương song song với trục bánh xe; độ rơ hướng kính là độ rơ vuông góc với trục bánh xe. Chương II QUY ĐỊNH CỤ THỂ"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "thuật đối với xe thô sơ tự sản xuất, lắp ráp 1. Yêu cầu chung: a) Các bánh xe phải đối xứng với nhau qua mặt phẳng trung tuyến dọc trục. b) Các bộ phận nhô ra xung quanh xe phải làm nhẵn, không sắc cạnh. c) Các mối ghép ren chắc chắn, đủ các chi tiết kẹp chặt và phòng lỏng. d) Móc kéo, khớp nối phải an toàn, có chốt chặn và phòng lỏng. 2. Hệ thống điều khiển: a) Tất cả các cơ cấu điều khiển hoạt động của xe phải được lắp đặt chắc chắn, dễ điều khiển và phù hợp với khả năng của người điều khiển. b) Góc quay lái hai bên phải bằng nhau và có cơ cấu hạn chế hành trình góc quay lái. c) Tay nắm lái, cần lái cân đối, không biến dạng, không có vết nứt. 3. Hệ thống phanh: a) Yêu cầu chung: Khi tác động vào cơ cấu điều khiển phanh, hệ thống phanh phải hoạt động hiệu quả, hãm được tốc độ di chuyển của xe trong điều kiện chở đủ tải; phanh phải bảo đảm luôn hoạt động tốt, không bị bó kẹt; kết cấu phanh phải bảo đảm chịu được tác động, không bị ảnh hưởng của các yếu tố như: rung động, quay vòng của bánh xe. b) Phải có cơ cấu điều chỉnh tự động hoặc điều chỉnh bằng tay khe hở má phanh. c) Kết cấu và tính năng làm việc của hệ thống phanh không gây cản trở đến cơ cấu điều khiển của hệ thống lái khi vận hành. d) Đối với xe đạp, xe xích lô phải trang bị 02 hệ thống phanh có cơ cấu hai bộ phận điều khiển độc lập với nhau, một bộ phận điều khiển phanh bánh trước và một bộ phận điều khiển phanh bánh sau (hoạt động của phanh bánh trước và phanh bánh sau không ảnh hưởng đến nhau). e) Đối với xe súc vật kéo phải trang bị hệ thống phanh bánh xe (phải có cục chèn bánh xe khi xe dừng, đỗ). 4. Khung xe: Khung xe phải bảo đảm cứng vững, kh"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH GIA LAI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------- Số: 18/2010/QĐ-UBND Pleiku, ngày 20 tháng 8 năm 2010 QUYẾT ĐỊNH BAN HÀNH QUY ĐỊNH VỀ ĐIỀU KIỆN AN TOÀN KỸ THUẬT, PHẠM VI HOẠT ĐỘNG ĐỐI VỚI PHƯƠNG TIỆN GIAO THÔNG THÔ SƠ THAM GIA GIAO THÔNG TRÊN ĐƯỜNG BỘ THUỘC ĐỊA BÀN TỈNH GIA LAI ỦY BAN NHÂN DÂN TỈNH Căn cứ Luật Tổ chức HĐND và UBND năm 2003; Căn cứ Luật Giao thông đường bộ năm 2008; Căn cứ Thông tư số 08/2009/TT-BGTVT ngày 23/6/2009 của Bộ Giao thông vận tải hướng dẫn việc hướng dẫn sử dụng xe thô sơ, xe gắn máy, xe mô tô hai bánh, xe mô tô ba bánh và các loại xe tương tự để vận chuyển hành khách và hàng hoá; Theo văn bản số 3948/BGTVT-PC ngày 15/6/2008 của Bộ Giao thông vận tải về việc xây dựng văn bản pháp luật quy định chi tiết và hướng dẫn thi hành Luật Giao thông đường bộ năm 2008; Xét đề nghị của Sở Giao thông vận tải tỉnh Gia Lai, QUYẾT ĐỊNH: Điều 1. Ban hành kèm theo Quyết định này Quy định về điều..."
+    }
+  ]
+}

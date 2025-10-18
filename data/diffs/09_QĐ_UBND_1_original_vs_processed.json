@@ -1,0 +1,42 @@
+{
+  "base": "09_QĐ_UBND_1_original",
+  "revised": "09_QĐ_UBND_1_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "này theo quy định; hoàn thành trong thời hạn 03 ngày làm việc, kể từ ngày Quyết định có hiệu lực thi hành."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "Sở Giao thông vận tải thực hiện công khai tại nơi giải quyết thủ tục hành chính, trên Trang thông tin điện tử của Sở theo quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 15.1",
+      "change": "added",
+      "to": "hoàn thiện quy trình điện tử đối với quy trình nội bộ nêu tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "định này có hiệu lực thi hành kể từ ngày ký. Sửa đổi, bổ sung quy trình nội bộ số 08, 09, 19, 20, 21, 22, 23, 24, 25, 26, 41, 42, 43, 44, 45, 46, 47, 49, 50, mục I.1, phần A (thủ tục hành chính cấp tỉnh) tại Phụ lục ban hành kèm theo Quyết định số 05/QĐ-UBND ngày 07/01/2022 của Chủ tịch Ủy ban nhân dân tỉnh Tuyên Quang về việc công bố quy trình nội bộ, liên thông trong giải quyết thủ tục hành chính thuộc phạm vi chức năng quản lý của Sở Giao thông vận tải tỉnh Tuyên Quang. Sửa đổi, bổ sung quy trình nội bộ số 02, 03, 04, 11, 12, 13, 14, 15 tại Phụ lục ban hành kèm theo Quyết định số 1064/QĐ-UBND ngày 02/8/2022 của Chủ tịch Ủy ban nhân dân tỉnh Tuyên Quang về việc công bố quy trình nội bộ trong giải quyết thủ tục hành chính lĩnh vực đường bộ thuộc thẩm quyền giải quyết của Sở Giao thông vận tải tỉnh Tuyên Quang."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH TUYÊN QUANG (Ban hành kèm theo Quyết định số:09/QĐ-UBND ngày 10 tháng 01 năm 2024 của Chủ tịch Ủy ban nhân dân tỉnh Tuyên Quang) A. QUY TRÌNH NỘI BỘ BAN HÀNH MỚI (02 quy trình) Quy trình số 01 QUY TRÌNH NỘI BỘ TRONG GIẢI QUYẾT THỦ TỤC CHẤP THUẬN XÂY DỰNG BIỂN QUẢNG CÁO TẠM THỜI TRONG PHẠM VI HÀNH LANG AN TOÀN ĐƯỜNG BỘ ĐỐI VỚI HỆ THỐNG QUỐC LỘ ĐANG KHAI THÁC Thứ tự các bước thực hiện (Tổng bước) Nội dung các bước thực hiện Thời gian thực hiện (Tổng số ngày/giờ thực hiện) Bộ phận giải quyết Bước 1 Kiểm tra tính hợp lệ của hồ sơ; hướng dẫn hoàn thiện; tiếp nhận hồ sơ và quét (scan), đóng dấu điện tử, viết Phiếu hẹn trả kết quả và chuyển đến bộ phận chuyên môn xử lý hồ sơ. 0,25 ngày làm việc Trung tâm Phục vụ hành chính công tỉnh (Sở Giao thông vận tải) Bước 2 Thẩm định hồ sơ và kiểm tra thực tế hiện trường, lập biên bản kiểm tra; dự thảo văn bản chấp thuận, trình Lãnh đạo Sở phê duyệt 3,5 ngày làm việc Phòng Quản lý kết cấu hạ tầng giao thông Bước 3 Ký duyệt kết quả thủ tục hành chính 0,75 ngày làm việc Lãnh đạo Sở Giao thông vận tải Bước 4 Vào Sổ văn bản, lưu trữ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH TUYÊN QUANG ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 09/QĐ-UBND Tuyên Quang, ngày 10 tháng 01 năm 2024 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ QUY TRÌNH NỘI BỘ TRONG GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH TUYÊN QUANG CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH TUYÊN QUANG Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08/6/2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 92/2017/NĐ-CP ngày 07/8/2017 của Chính phủ quy định về sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Nghị định số 107/2021/N..."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "doc_id": "53_QĐ_UBND",
+  "meta": {
+    "url": "https://thuvienphapluat.vn/van-ban/Bo-may-hanh-chinh/Quyet-dinh-53-QD-UBND-2023-muc-phu-cap-lanh-dao-Ban-An-toan-giao-thong-Kon-Tum-555006.aspx",
+    "crawl_time": "2025-10-15T10:53:28.281210",
+    "number": "53/QĐ-UBND",
+    "field": "Giao thông",
+    "issue_date": "06/02/2023",
+    "agency": "ỦY BAN NHÂN DÂN TỈNH KON TUM",
+    "content": "ỦY BAN NHÂN DÂN TỈNH KON TUM ------- CỘNG HÒA XÃ HỘI\r\n  CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 53/QĐ-UBND Kon Tum, ngày 06 tháng\r\n  02 năm 2023 QUYẾT ĐỊNH QUY\r\nĐỊNH MỨC PHỤ CẤP CHỨC VỤ LÃNH ĐẠO CỦA VĂN PHÒNG BAN AN TOÀN GIAO THÔNG TỈNH CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH KON TUM Căn cứ Luật Tổ chức chính\r\nquyền địa phương ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều\r\ncủa Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng\r\n11 năm 2019; Căn cứ Thông tư số\r\n83/2005/TT-BNV ngày 10 tháng 8 năm 2005 của Bộ trưởng Bộ Nội vụ hướng dẫn sửa\r\nđổi, bổ sung chế độ nâng bậc lương và các chế độ phụ cấp lương đối với cán bộ,\r\ncông chức, viên chức; Xét đề nghị của Ban An toàn\r\ngiao thông tỉnh tại Tờ trình số 132/TTr-BATGT ngày 21 tháng 10 năm 2022 và Giám\r\nđốc Sở Nội vụ tại văn bản số 18/SNV-CCVC ngày 05 tháng 01 năm 2023. QUYẾT ĐỊNH: Điều 1. Quy định mức phụ\r\ncấp chức vụ lãnh đạo của Văn phòng Ban An toàn giao thông tỉnh Kon Tum như sau: STT Chức vụ lãnh đạo Hệ số phụ cấp 1 Chánh Văn phòng 0,7 2 Phó Chánh Văn phòng 0,5 Thời điểm được hưởng phụ cấp kể\r\ntừ ngày bổ nhiệm chức vụ lãnh đạo. Điều 2. Ban An toàn giao\r\nthông tỉnh; Chánh Văn phòng Ủy ban nhân dân tỉnh; Giám đốc Sở Nội vụ và thủ\r\ntrưởng các cơ quan, đơn vị có liên quan chịu trách nhiệm thi hành Quyết định\r\nnày./. Nơi nhận: - Như Điều 2 (t/h); - Ủy Ban An toàn giao thông quốc gia (b/c); - Chủ tịch, các PCT UBND tỉnh; - Văn phòng Ban An toàn giao thông tỉnh; - Chánh Văn phòng UBND tỉnh; - Lưu: VT, NC. TTTT . CHỦ TỊCH Lê Ngọc Tuấn"
+  },
+  "structure": {
+    "articles": [
+      {
+        "article": "Điều 1",
+        "title": "Quy định mức phụ",
+        "clauses": [
+          {
+            "no": "1",
+            "text": "cấp chức vụ lãnh đạo của Văn phòng Ban An toàn giao thông tỉnh Kon Tum như sau: STT Chức vụ lãnh đạo Hệ số phụ cấp 1 Chánh Văn phòng 0,7 2 Phó Chánh Văn phòng 0,5 Thời điểm được hưởng phụ cấp kể từ ngày bổ nhiệm chức vụ lãnh đạo.",
+            "points": []
+          }
+        ]
+      },
+      {
+        "article": "Điều 2",
+        "title": "Ban An toàn giao",
+        "clauses": [
+          {
+            "no": "1",
+            "text": "thông tỉnh; Chánh Văn phòng Ủy ban nhân dân tỉnh; Giám đốc Sở Nội vụ và thủ trưởng các cơ quan, đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./. Nơi nhận: - Như",
+            "points": []
+          }
+        ]
+      },
+      {
+        "article": "Điều 2",
+        "title": "(t/h); - Ủy Ban An toàn giao thông quốc gia (b/c); - Chủ tịch, các PCT UBND tỉnh; - Văn phòng Ban An toàn giao thông tỉnh; - Chánh Văn phòng UBND tỉnh; - Lưu: VT, NC. TTTT . CHỦ TỊCH Lê Ngọc Tuấn",
+        "clauses": []
+      }
+    ],
+    "strategy_used": "dieu",
+    "validation": {
+      "status": "warning",
+      "issues": [
+        "Low content preservation: 26.28%"
+      ],
+      "stats": {
+        "original_length": 1537,
+        "segmented_length": 404,
+        "preservation_ratio": 0.26284970722186074,
+        "total_articles": 3,
+        "total_clauses": 2,
+        "total_points": 0
+      }
+    },
+    "document_type": "law"
+  }
+}

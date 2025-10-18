@@ -1,0 +1,30 @@
+{
+  "base": "102_2024_NĐ_CP_original",
+  "revised": "102_2024_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "nhiệm đại diện chủ sở hữu toàn dân về đất đai, thực hiện nhiệm vụ thống nhất quản lý nhà nước về đất đai. 2. Người sử dụng đất theo quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "đất trong nhóm đất nông nghiệp 1. Đất trồng cây hằng năm là đất trồng các loại cây được gieo trồng, cho thu hoạch và kết thúc chu kỳ sản xuất trong thời gian không quá một năm, kể cả cây hằng năm được lưu gốc. Đất trồng cây hằng năm gồm đất trồng lúa và đất trồng cây hằng năm khác, cụ thể như sau: a) Đất trồng lúa là đất trồng từ một vụ lúa trở lên hoặc trồng lúa kết hợp với các mục đích sử dụng đất khác được pháp luật cho phép nhưng trồng lúa là chính. Đất trồng lúa bao gồm đất chuyên trồng lúa và đất trồng lúa còn lại, trong đó đất chuyên trồng lúa là đất trồng từ 02 vụ lúa trở lên; b) Đất trồng cây hằng năm khác là đất trồng các cây hằng năm không phải là trồng lúa. 2. Đất trồng cây lâu năm là đất sử dụng vào mục đích trồng các loại cây được gieo trồng một lần, sinh trưởng trong nhiều năm và cho thu hoạch một hoặc nhiều lần. 3. Đất lâm nghiệp là loại đất sử dụng vào mục đích quản lý, bảo vệ và phát triển rừng đặc dụng, rừng phòng hộ, rừng sản xuất theo quy định của pháp luật về lâm nghiệp, được phân loại cụ thể như sau: a) Đất rừng đặc dụng là đất mà trên đó có rừng đặc dụng theo quy định của pháp luật về lâm nghiệp, đất đã được giao để phát triển rừng đặc dụng; b) Đất rừng phòng hộ là đất mà trên đó có rừng phòng hộ theo quy định của pháp luật về lâm nghiệp, đất đã được giao để phát triển rừng phòng hộ; c) Đất rừng sản xuất là đất mà trên đó có rừng sản xuất theo quy định của pháp luật về lâm nghiệp, đất đã được giao, cho thuê, chuyển mục đích để phát triển rừng sản xuất. 4. Đất nuôi trồng thủy sản là đất sử dụng chuyên vào mục đích nuôi, trồng thủy sản. 5. Đất chăn nuôi tập trung là đất xây dựng trang trại chăn nuôi tập trung tại khu vực riêng biệt theo quy định của pháp luật về chăn nuôi. 6. Đất làm muối là đất sử dụng vào mục đích sản xuất muối từ nước biển. 7. Đất nông nghiệp khác gồm: a) Đất ươm tạo cây giống, con giống và đất trồng hoa, cây cảnh; đất trồng trọt, chăn nuôi, nuôi trồng thủy sản cho mục đích học tập, nghiên cứu thí nghiệm, thực nghiệm; b) Đất xây dựng nhà kính"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "xuất nông nghiệp Cá nhân trực tiếp sản xuất nông nghiệp là cá nhân đã được Nhà nước giao đất, cho thuê đất, công nhận quyền sử dụng đất nông nghiệp; nhận chuyển quyền sử dụng đất nông nghiệp mà có thu nhập từ sản xuất nông nghiệp trên đất đó, trừ các trường hợp sau đây: 1. Cán bộ, công chức, viên chức, sĩ quan tại ngũ, quân nhân chuyên nghiệp, công chức quốc phòng, công nhân và viên chức quốc phòng, sĩ quan, hạ sĩ quan, công nhân công an, người làm công tác cơ yếu và người làm công tác khác trong tổ chức cơ yếu hưởng lương từ ngân sách nhà nước; 2. Người hưởng lương hưu; 3. Người nghỉ mất sức lao động, thôi việc được hưởng trợ cấp bảo hiểm xã hội hằng tháng; 4. Người lao động có hợp đồng lao động không xác định thời hạn."
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 102/2024/NĐ-CP Hà Nội, ngày 30 tháng 7 năm 2024 NGHỊ ĐỊNH QUY ĐỊNH CHI TIẾT THI HÀNH MỘT SỐ ĐIỀU CỦA LUẬT ĐẤT ĐAI Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Đất đai ngày 18 tháng 01 năm 2024; Luật sửa đổi, bổ sung một số điều của Luật Đất đai số 31/2024/QH15, Luật Nhà ở số 27/2023/QH15, Luật Kinh doanh bất động sản số 29/2023/QH15 và Luật Các tổ chức tín dụng số 32/2024/QH15 ngày 29 tháng 6 năm 2024; Căn cứ Luật Quy hoạch ngày 24 tháng 11 năm 2017; Luật sửa đổi, bổ sung một số điều của 37 Luật có liên quan đến quy hoạch ngày 20 tháng 11 năm 2018; Theo đề nghị của Bộ trưởng Bộ Tài nguyên và Môi trường; Chính phủ ban hành Nghị định quy định chi tiết thi hành một số điều của Luật Đất đai . Chương I QUY ĐỊNH CHUNG Điều 1. P..."
+    }
+  ]
+}

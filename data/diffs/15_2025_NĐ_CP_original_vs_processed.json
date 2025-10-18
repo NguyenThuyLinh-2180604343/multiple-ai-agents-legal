@@ -1,0 +1,30 @@
+{
+  "base": "15_2025_NĐ_CP_original",
+  "revised": "15_2025_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "khai thác tài sản kết cấu hạ tầng đường sắt do Nhà nước đầu tư, quản lý, gồm: a) Tài sản kết cấu hạ tầng đường sắt quốc gia. b) Tài sản kết cấu hạ tầng đường sắt đô thị. 2. Nghị định này không điều chỉnh đối với: a) Tài sản kết cấu hạ tầng đường sắt tại đơn vị lực lượng vũ trang nhân dân. Việc quản lý, sử dụng và khai thác đối với tài sản kết cấu hạ tầng đường sắt tại đơn vị lực lượng vũ trang nhân dân thực hiện theo quy định của pháp luật về quản lý, sử dụng tài sản công tại đơn vị lực lượng vũ trang nhân dân, pháp luật về đường sắt và pháp luật khác có liên quan. b) Trụ sở làm việc của cơ quan nhà nước tại khu vực ga đường sắt. Việc quản lý, sử dụng đối với tài sản này thực hiện theo quy định của pháp luật về quản lý, sử dụng tài sản công áp dụng đối với tài sản công phục vụ công tác quản lý, hoạt động của cơ quan nhà nước. c) Tài sản kết cấu hạ tầng đường sắt do đối tượng khác (ngoài các đối tượng quy định tại khoản 3"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "chủ sở hữu và quản lý nhà nước về đường sắt, gồm: a) Bộ Giao thông vận tải đối với đường sắt quốc gia. b) Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi là Ủy ban nhân dân cấp tỉnh) đối với đường sắt đô thị. 2. Cơ quan quản lý đường sắt, gồm: a) Cơ quan quản lý đường sắt quốc gia là cơ quan thực hiện chức năng tham mưu, giúp Bộ trưởng Bộ Giao thông vận tải quản lý nhà nước và tổ chức thực thi pháp luật chuyên ngành về đường sắt. b) Cơ quan quản lý đường sắt đô thị là cơ quan thực hiện chức năng tham mưu, giúp Ủy ban nhân dân cấp tỉnh quản lý nhà nước về đường sắt đô thị. 3. Doanh nghiệp được giao quản lý tài sản kết cấu hạ tầng đường sắt (sau đây gọi là doanh nghiệp quản lý tài sản đường sắt): a) Doanh nghiệp kinh doanh kết cấu hạ tầng đường sắt quốc gia do Nhà nước nắm giữ 100% vốn điều lệ được giao quản lý tài sản kết cấu hạ tầng đường sắt quốc gia (sau đây gọi là doanh nghiệp quản lý tài sản đường sắt quốc gia). b) Doanh nghiệp kinh doanh kết cấu hạ tầng hoặc kinh doanh vận tải đường sắt đô thị do Nhà nước nắm giữ 100% vốn điều lệ được giao quản lý tài sản kết cấu hạ tầng đường sắt đô thị (sau đây gọi là doanh nghiệp quản lý tài sản đường sắt đô thị). 4. Tổ chức, doanh nghiệp thuê quyền khai thác, nhận chuyển nhượng có thời hạn quyền khai thác tài sản kết cấu hạ tầng đường sắt theo quy định tại Nghị định này. 5. Các đối tượng khác liên quan đến việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng đường sắt."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "như sau: 1. Tài sản kết cấu hạ tầng đường sắt là công trình, hạng mục công trình đường sắt theo quy định của pháp luật về đường sắt và đất gắn với công trình đường sắt. 2. Tài sản kết cấu hạ tầng đường sắt có liên quan đến an ninh quốc gia là tài sản thuộc danh mục công trình quan trọng liên quan đến an ninh quốc gia do cơ quan, người có thẩm quyền ban hành theo quy định của pháp luật về bảo vệ công trình quan trọng liên quan đến an ninh quốc gia. 3. Tài sản kết cấu hạ tầng đường sắt có liên quan đến quốc phòng được xác định theo quy định của pháp luật về quản lý, bảo vệ các công trình quốc phòng và khu quân sự. 4. Doanh nghiệp quản lý tài sản đường sắt trực tiếp tổ chức khai thác tài sản kết cấu hạ tầng đường sắt là phương thức khai thác tài sản kết cấu hạ tầng đường sắt, theo đó, doanh nghiệp quản lý tài sản đường sắt tổ chức khai thác tài sản được giao quản lý thông qua việc cung cấp các dịch vụ liên quan đ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 15/2025/NĐ-CP Hà Nội, ngày 03 tháng 02 năm 2025 NGHỊ ĐỊNH QUY ĐỊNH VIỆC QUẢN LÝ, SỬ DỤNG VÀ KHAI THÁC TÀI SẢN KẾT CẤU HẠ TẦNG ĐƯỜNG SẮT Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Quản lý, sử dụng tài sản công ngày 21 tháng 6 năm 2017; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán, Luật Kế toán, Luật Kiểm toán độc lập, Luật Ngân sách nhà nước, Luật Quản lý, sử dụng tài sản công, Luật Quản lý thuế, Luật Thuế thu nhập cá nhân, Luật Dự trữ quốc gia, Luật Xử lý vi phạm hành chính ngày 29 tháng 11 năm 2024; Căn cứ Luật Đường sắt ngày 16 tháng 6 năm 2017; Theo đề nghị của Bộ trưởng Bộ Tài chính; Chính phủ ban hành Nghị định quy định việc quản lý, sử dụng và khai thác tài sản kết cấu hạ tầng đường sắt. C..."
+    }
+  ]
+}

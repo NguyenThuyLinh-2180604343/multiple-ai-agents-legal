@@ -1,0 +1,42 @@
+{
+  "base": "250_TB_VPCP_original",
+  "revised": "250_TB_VPCP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section General.1",
+      "change": "added",
+      "to": "VĂN PHÒNG CHÍNH PHỦ ------- CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------- Số: 250/TB-VPCP Hà Nội, ngày 17 tháng 8 năm 2009 THÔNG BÁO KẾT"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "TRÊN LÃNH THỔ VIỆT NAM TRONG THỜI GIAN DU LỊCH Ngày 20 tháng 7 năm 2009, tại Văn phòng Chính phủ, Phó Thủ tướng Nguyễn Thiện Nhân đã chủ trì cuộc họp nghe Bộ Văn hóa, Thể thao và Du lịch báo cáo về dự thảo Quy chế tổ chức và quản lý phương tiện giao thông cơ giới đường bộ của người nước ngoài đưa vào sử dụng trên lãnh thổ Việt Nam trong thời gian du lịch. Cùng dự buổi làm việc với Phó Thủ tướng Nguyễn Thiện Nhân có đại diện lãnh đạo các Bộ, cơ quan: Văn hóa, Thể thao và Du lịch, Giao thông vận tải, Ngoại giao, Tổng cục Du lịch và đại diện các Bộ: Công an, Quốc phòng và Văn phòng Chính phủ. Sau khi nghe ý kiến của Bộ Văn hóa, Thể thao và Du lịch, Bộ Giao thông vận tải và ý kiến của các Bộ, ngành, Phó Thủ tướng Nguyễn Thiện Nhân đã kết luận như sau: Thời gian vừa qua, Bộ Văn hóa, Thể thao và Du lịch phải trình xin ý kiến và được Thủ tướng Chính phủ cho phép thì người nước ngoài mang phương tiện giao thông cơ giới đường bộ mới được vào Việt Nam tham quan, du lịch nên đã ảnh hưởng đến việc thu hút khách du lịch nước ngoài đi bằng đường bộ vào Việt Nam. Để có căn cứ pháp lý cho khách du lịch là người nước ngoài mang theo và sử dụng phương tiện giao thông cơ giới đường bộ khi vào Việt Nam tham quan, du lịch, giao Bộ Văn hóa, Thể thao và Du lịch chủ trì phối hợp với Bộ Giao thông vận tải và các Bộ, ngành liên quan căn cứ Luật Giao thông đường bộ xây dựng trình Chính phủ trong tháng 10 năm 2009 Nghị"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "nước ngoài mang theo để sử dụng tại Việt Nam trong thời gian tham quan, du lịch theo hướng: - Cho phép các loại xe ô tô (bao gồm cả xe ô tô tay lái bên phải) không hạn chế số lượng ghế của người nước ngoài được mang vào và lưu hành khi chở khách du lịch là người nước ngoài trong"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "của người nước ngoài mang vào Việt Nam trong thời gian tham quan, du lịch. - Quy định cụ thể trách nhiệm của các Bộ, ngành, đơn vị liên quan trong việc bảo đảm an ninh, an toàn trong suốt thời gian phương tiện giao thông cơ giới đường bộ của người nước ngoài lưu hành trên lãnh thổ Việt Nam. - Về thủ tục hải quan: đối với người và phương tiện phải đơn giản, thuận tiện nhưng quản lý được theo đúng quy định, đồng thời ngăn ngừa việc lợi dụng tham quan, du lịch để mang phương tiện"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_5.1",
+      "change": "added",
+      "to": "khách du lịch mang xe ô tô, xe gắn máy vào Việt Nam du lịch. - Cần lưu ý các loại phương tiện giao thông cơ giới đường bộ liên quan đến an ninh, quốc phòng; các trang thiết bị thông tin liên lạc trên phương tiện giao thông cơ giới đường bộ của người nước ngoài mang vào Việt Nam du lịch. Văn phòng Chính phủ xin thông báo để Bộ Văn hóa, Thể thao và Du lịch, Bộ Giao thông vận tải và các cơ quan biết, thực hiện./. Nơi nhận: - Thủ tướng, các Phó Thủ tướng CP; - Các Bộ: Văn hóa, Thể thao và Du lịch, Giao thông vận tải, Công an, Quốc phòng, Ngoại giao, Nội vụ, Tư pháp, Tài chính, Kế hoạch và Đầu tư, Công Thương; - Tổng cục Du lịch; - VPCP: BTCN, các PCN, Cổng TTĐT, các Vụ: TH, QHQT, PL, TKBT, NC, KTN; - Lưu: VT, KTTH (3). KT. BỘ TRƯỞNG, CHỦ NHIỆM PHÓ CHỦ NHIỆM Phạm Văn Phượng"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "VĂN PHÒNG CHÍNH PHỦ ------- CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------- Số: 250/TB-VPCP Hà Nội, ngày 17 tháng 8 năm 2009 THÔNG BÁO KẾT LUẬN CỦA PHÓ THỦ TƯỚNG NGUYỄN THIỆN NHÂN VỀ DỰ THẢO QUY CHẾ TỔ CHỨC VÀ QUẢN LÝ PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ CỦA NGƯỜI NƯỚC NGOÀI ĐƯA VÀO SỬ DỤNG TRÊN LÃNH THỔ VIỆT NAM TRONG THỜI GIAN DU LỊCH Ngày 20 tháng 7 năm 2009, tại Văn phòng Chính phủ, Phó Thủ tướng Nguyễn Thiện Nhân đã chủ trì cuộc họp nghe Bộ Văn hóa, Thể thao và Du lịch báo cáo về dự thảo Quy chế tổ chức và quản lý phương tiện giao thông cơ giới đường bộ của người nước ngoài đưa vào sử dụng trên lãnh thổ Việt Nam trong thời gian du lịch. Cùng dự buổi làm việc với Phó Thủ tướng Nguyễn Thiện Nhân có đại diện lãnh đạo các Bộ, cơ quan: Văn hóa, Thể thao và Du lịch, Giao thông vận tải, Ngoại giao, Tổng cục Du lịch và đại diện các Bộ: Công an, Quốc phòng và Văn phòng Chính phủ. Sau khi nghe ý kiến của Bộ Văn hóa, Thể thao và Du lịch, Bộ ..."
+    }
+  ]
+}

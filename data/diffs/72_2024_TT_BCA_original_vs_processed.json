@@ -1,0 +1,42 @@
+{
+  "base": "72_2024_TT_BCA_original",
+  "revised": "72_2024_TT_BCA_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "vi điều chỉnh 1. Thông tư này quy định việc tổ chức tiếp nhận, xử lý tin báo và giải quyết ban đầu về tai nạn giao thông đường bộ; nội dung, biện pháp điều tra, xác minh, giải quyết về tai nạn giao thông đường bộ và thống kê tai nạn giao thông đường bộ của Cảnh sát giao thông. 2. Đối với vụ tai nạn giao thông đường bộ có dấu hiệu tội phạm, việc điều tra, giải quyết thực hiện theo quy định của pháp luật về hình sự và pháp luật về tố tụng hình sự. Đối với vụ tai nạn giao thông đường bộ chưa xác định có dấu hiệu tội phạm, nội dung, biện pháp điều tra, xác minh, giải quyết thực hiện theo quy định của Thông tư này và pháp luật có liên quan."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "tượng áp dụng 1. Công an các đơn vị, địa phương và cán bộ, chiến sĩ Công an nhân dân. 2. Cơ quan, tổ chức, cá nhân có liên quan đến hoạt động điều tra, xác minh, giải quyết tai nạn giao thông đường bộ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "chuẩn của cán bộ Cảnh sát giao thông làm nhiệm vụ điều tra, xác minh, giải quyết tai nạn giao thông đường bộ và phân công cán bộ điều tra, xác minh, giải quyết vụ tai nạn giao thông đường bộ 1. Tiêu chuẩn của cán bộ Cảnh sát giao thông làm nhiệm vụ điều tra, xác minh, giải quyết tai nạn giao thông đường bộ a) Có trình độ đại học An ninh, đại học Cảnh sát hoặc cử nhân luật trở lên. Trường hợp tốt nghiệp đại học các trường ngoài ngành Công an đã được đào tạo, bồi dưỡng nghiệp vụ An ninh, Cảnh sát theo quy định; b) Có thời gian công tác trong lực lượng Cảnh sát giao thông từ 06 tháng trở lên; c) Đã được công nhận hoàn thành tập huấn, bồi dưỡng nghiệp vụ điều tra, giải quyết tai nạn giao thông đường bộ; d) Cán bộ Cảnh sát giao thông đáp ứng tiêu chuẩn quy định tại các điểm a, b và c Khoản này là cán bộ thụ lý chính; đ) Cán bộ Cảnh sát giao thông chưa đáp ứng tiêu chuẩn quy định tại điểm a Khoản này nhưng đáp ứng tiêu chuẩn quy định tại các điểm b, c Khoản này là cán bộ hỗ trợ. 2. Phân công cán bộ điều tra, xác minh, giải quyết vụ tai nạn giao thông đường bộ a) Khi phân công cán bộ thụ lý điều tra, xác minh, giải quyết vụ tai nạn giao thông đường bộ phải có ít nhất 01 cán bộ thụ lý chính. Cán bộ thụ lý chính chịu trách nhiệm chung, cán bộ hỗ trợ (nếu có) chịu trách nhiệm đối với các nhiệm vụ được phân công; b) Cán bộ được phân công thụ lý điều tra, xác minh, giải quyết vụ tai nạn giao thông đường bộ thực hiện theo quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 83.1",
+      "change": "added",
+      "to": "tư này và các quy định của pháp luật khác có liên quan đến hoạt động điều tra, xác minh, giải quyết tai nạn giao thông đường bộ. Chương II QUY ĐỊNH CỤ THỂ Mục 1. TỔ CHỨC TIẾP NHẬN, XỬ LÝ TIN BÁO VÀ GIẢI QUYẾT BAN ĐẦU VỀ TAI NẠN GIAO THÔNG ĐƯỜNG BỘ"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "chức tiếp nhận tin báo về tai nạn giao thông đường bộ 1. Các cơ quan, đơn vị Cảnh sát giao thông có trách nhiệm tiếp nhận tin báo về tai nạn giao thông đường bộ gồm: a) Cục Cảnh sát giao thông; các đội Cảnh sát giao thông đường bộ cao tốc thuộc Phòng Hướng dẫn tuần tra, kiểm soát giao thông đường bộ, đường sắt của Cục Cảnh sát giao thông có trụ sở độc lập; b) Phòng Cảnh sát giao thông Công an tỉnh, thành phố trực thuộc Trung ương (sau đây gọi chung là Phòng Cảnh sát giao thông Công an cấp tỉnh); Đội Cảnh sát giao thông, Trạm Cảnh sát giao thông thuộc Phòng Cảnh sát giao thông Công an cấp tỉnh có trụ sở độc lập; c) Đội Cảnh sát giao thông, trật tự Công an quận, huyện, thị xã, thành phố trực thuộc tỉnh, thành phố trực thuộc thành phố, thành phố trực thuộc Trung ương (sau đây gọi chung là Đội Cảnh sát giao thông Công an cấp huyện). 2. Các cơ quan, đơn vị quy định tại khoản 1 Điều này phải tổ chức trực ban tiếp nhận các tin báo về tai"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ CÔNG AN ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 72/2024/TT-BCA Hà Nội, ngày 13 tháng 11 năm 2024 THÔNG TƯ QUY ĐỊNH QUY TRÌNH ĐIỀU TRA, GIẢI QUYẾT TAI NẠN GIAO THÔNG ĐƯỜNG BỘ CỦA CẢNH SÁT GIAO THÔNG Căn cứ Bộ luật Tố tụng hình sự ngày 27 tháng 11 năm 2015; Luật sửa đổi, bổ sung một số điều của Bộ luật Tố tụng hình sự ngày 12 tháng 11 năm 2021; Căn cứ Bộ luật hình sự ngày 27 tháng 11 năm 2015; Luật sửa đổi, bổ sung một số điều của Bộ luật hình sự ngày 20 tháng 6 năm 2017; Căn cứ Luật Trật tự an toàn giao thông đường bộ ngày 27 tháng 6 năm 2024; Căn cứ Luật Công an nhân dân ngày 20 tháng 11 năm 2018; Luật sửa đổi, bổ sung một số điều của Luật Công an nhân dân ngày 22 tháng 6 năm 2023; Căn cứ Luật Xử lý vi phạm hành chính ngày 20 tháng 6 năm 2012; Luật sửa đổi, bổ sung một số điều của Luật Xử lý vi phạm hành chính ngày 13 tháng 11 năm 2020; Căn cứ Luật Tổ chức cơ quan điều tra hình sự ngày 26 tháng 11 năm 2015; Căn c..."
+    }
+  ]
+}

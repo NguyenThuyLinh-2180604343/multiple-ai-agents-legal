@@ -1,0 +1,54 @@
+{
+  "base": "164_2025_NĐ_CP_original",
+  "revised": "164_2025_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "4"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 30.1",
+      "change": "added",
+      "to": "pháp để tổ chức, hướng dẫn thi hành Luật Bảo hiểm xã hội về Cơ sở dữ liệu quốc gia về bảo hiểm."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "nhân liên quan đến việc thực hiện giao dịch điện tử trong lĩnh vực bảo hiểm xã hội trong bảo hiểm xã hội bắt buộc và bảo hiểm xã hội tự nguyện; cơ quan, tổ chức, cá nhân liên quan đến việc xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về bảo hiểm."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "vụ công trực tuyến trong lĩnh vực bảo hiểm xã hội 1. Cơ quan, tổ chức, cá nhân thực hiện dịch vụ công trực tuyến trong lĩnh vực bảo hiểm xã hội trên Cổng Dịch vụ công quốc gia. 2. Hệ thống thông tin giải quyết thủ tục hành chính của Bộ Tài chính kết nối, tích hợp, chia sẻ dữ liệu với Cổng Dịch vụ công quốc gia để cung cấp và thực hiện các dịch vụ công trực tuyến trong lĩnh vực bảo hiểm xã hội. 3. Giao dịch điện tử trong lĩnh vực bảo hiểm xã hội được thực hiện thông qua tài khoản định danh điện tử."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "tử trong lĩnh vực bảo hiểm xã hội và xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về bảo hiểm 1. Nguyên tắc giao dịch điện tử trong lĩnh vực bảo hiểm xã hội a) Việc thực hiện giao dịch điện tử trong lĩnh vực bảo hiểm xã hội không phụ thuộc vào địa giới hành chính; b) Việc thực hiện giao dịch điện tử trong lĩnh vực bảo hiểm xã hội trên cơ sở tái sử dụng thông tin, dữ liệu, giấy tờ đã số hóa, tích hợp trên Cổng Dịch vụ công quốc gia, cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, kho quản lý dữ liệu điện tử của tổ chức, cá nhân. Cơ quan, tổ chức, cá nhân thực hiện giao dịch điện tử trong lĩnh vực bảo hiểm xã hội không phải cung cấp giấy tờ, tài liệu đối với những thông tin đã có, đã tích hợp trên Cổng Dịch vụ công quốc gia, cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, kho quản lý dữ liệu điện tử của tổ chức, cá nhân; c) Việc thực hiện giao dịch điện tử trong lĩnh vực bảo hiểm xã hội tuân thủ quy định của pháp luật về giao dịch điện tử, pháp luật về dữ liệu, pháp luật về an toàn thông tin mạng, an ninh mạng, pháp luật về bảo hiểm xã hội và quy định khác của pháp luật có liên quan; Bảo đảm rõ ràng, không phân biệt phương thức thực hiện, trung thực, an toàn, hiệu quả. 2. Nguyên tắc xây dựng, quản lý, khai thác và sử dụng Cơ sở dữ liệu quốc gia về bảo hiểm a) Cơ sở dữ liệu quốc gia về bảo hiểm được xây dựng, khai thác và sử dụng thống nhất từ Trung ương đến địa phương; b) Cơ sở dữ liệu quốc gia về bảo hiểm được cập nhật theo quy định của Chính phủ, bảo đảm đầy đủ, chính xác và kịp thời ngay sau khi các thủ tục hành chính, nghiệp vụ có liên quan đã hoàn thành; duy trì hoạt động liên tục, ổn định, thông suốt đáp ứng yêu cầu khai thác và sử dụng của các cơ quan, tổ chức, cá nhân theo quy định pháp luật; c) Cơ sở dữ liệu quốc gia về bảo hiểm được lưu trữ, bảo mật, bảo đảm an toàn thông tin, an ninh mạng trong quản lý, khai thác và sử dụng; d) Việc xây dựng, quản lý, khai thác, sử dụng Cơ sở dữ liệu quốc gia về bảo hiểm tuân thủ các quy định của pháp luật chuyên ngành liên quan, tuân thủ theo tiêu chuẩn, quy chuẩn kỹ thuật và Khung kiến trúc tổng thể quốc gia số."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "thực hiện giao dịch điện tử trong lĩnh vực bảo hiểm xã hội Cơ quan, tổ chức, cá nhân thực hiện giao dịch điện tử trong lĩnh vực bảo hiểm xã hội phải đảm bảo điều kiện sau: 1. Có tài khoản định danh điện tử theo quy định của pháp luật về định danh và xác thực điện tử. 2. Có chứng thư chữ ký số còn hiệu lực do tổ chức cung cấp dịch vụ chứng thực chữ ký số cấp hoặc có chữ ký điện tử khác theo quy định của pháp luật."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "đơn giản hóa hồ sơ, thủ tục thực hiện bảo hiểm xã hội từ giao dịch bằng bản giấy sang giao dịch điện tử 1. Cơ quan, tổ chức, cá nhân đã hoàn thành việc thực hiện giao dịch điện tử trong lĩnh vực bảo hiểm xã hội theo quy định tại Nghị định này thì không phải thực hiện các phương thức giao dịch khác và được công nhận đã hoàn thành thủ tục bảo hiểm xã hộ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 164/2025/NĐ-CP Hà Nội, ngày 29 tháng 6 năm 2025 NGHỊ ĐỊNH QUY ĐỊNH VỀ GIAO DỊCH ĐIỆN TỬ TRONG LĨNH VỰC BẢO HIỂM XÃ HỘI VÀ CƠ SỞ DỮ LIỆU QUỐC GIA VỀ BẢO HIỂM Căn cứ Luật Tổ chức Chính phủ ngày 18 tháng 02 năm 2025; Căn cứ Luật Bảo hiểm xã hội ngày 29 tháng 6 năm 2024; Căn cứ Luật Dữ liệu ngày 30 tháng 11 năm 2024; Căn cứ Luật Giao dịch điện tử ngày 22 tháng 6 năm 2023; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Luật Tiếp cận thông tin ngày 06 tháng 4 năm 2016; Căn cứ Luật An ninh mạng ngày 12 tháng 6 năm 2018; Theo đề nghị của Bộ trưởng Bộ Nội vụ; Chính phủ ban hành Nghị định quy định về giao dịch điện tử trong lĩnh vực bảo hiểm xã hội và Cơ sở dữ liệu quốc gia về bảo hiểm. Chương I QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định chi tiết khoản 4 Điều 25, khoản 4 Điều 26, khoản 3 Điều 30 của Luật Bảo hiểm xã hội và biện pháp ..."
+    }
+  ]
+}

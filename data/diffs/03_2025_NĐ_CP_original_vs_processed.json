@@ -1,0 +1,36 @@
+{
+  "base": "03_2025_NĐ_CP_original",
+  "revised": "03_2025_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "công trình khác gắn liền với đất (sau đây gọi là nhà, đất) do đối tượng quy định tại khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "trường hợp thuê, thuê lại, nhận góp vốn, nhận giữ hộ, mượn của các đối tượng khác, trừ các trường hợp quy định tại khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "sắp xếp lại, xử lý 1. Nhà, đất do các đối tượng sau đây quản lý, sử dụng: a) Đối tượng quy định tại điểm b khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 16.1",
+      "change": "added",
+      "to": "này ; b) Đất, tài sản gắn liền với đất thuộc: nhóm đất nông nghiệp; nhóm đất chưa sử dụng; đất khu công nghiệp, cụm công nghiệp, khu chế xuất, khu công nghệ cao, khu kinh tế; đất sử dụng cho hoạt động khoáng sản (bao gồm cả hạng mục công trình phục vụ cho việc khai thác, chế biến khoáng sản gắn với khu vực khai thác và hành lang bảo vệ an toàn cho việc khai thác khoáng sản); đất sử dụng cho hoạt động tôn giáo, hoạt động tín ngưỡng; đất nghĩa trang, nhà tang lễ, cơ sở hỏa táng, đất cơ sở lưu giữ tro cốt; đất có mặt nước chuyên dùng, đất sông, ngòi, kênh, rạch, suối theo quy định của pháp luật về đất đai; c) Đất, tài sản gắn liền với đất (bao gồm cả trụ sở, văn phòng làm việc và các công trình khác xây dựng trên đất) sử dụng vào mục đích công cộng thuộc: đất công trình giao thông (đường bộ, đường sắt, đường thủy nội địa, hàng hải, hàng không); đất công trình thủy lợi; đất công trình cấp nước, thoát nước; đất công trình phòng, chống thiên tai; đất có di tích lịch sử - văn hóa, danh lam thắng cảnh, di sản thiên nhiên; đất công trình xử lý chất thải; đất công trình năng lượng, chiếu sáng công cộng; đất công trình hạ tầng bưu chính, viễn thông, công nghệ thông tin; đất chợ; đất cảng cá, bến cá, cảng cạn; đất k"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 03/2025/NĐ-CP Hà Nội, ngày 01 tháng 01 năm 2025 NGHỊ ĐỊNH QUY ĐỊNH VIỆC SẮP XẾP LẠI, XỬ LÝ TÀI SẢN CÔNG LÀ NHÀ, ĐẤT Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Quản lý, sử dụng tài sản công ngày 21 tháng 6 năm 2017; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán, Luật Kế toán, Luật Kiểm toán độc lập, Luật Ngân sách nhà nước, Luật Quản lý, sử dụng tài sản công, Luật Quản lý thuế, Luật Thuế thu nhập cá nhân, Luật Dự trữ quốc gia, Luật Xử lý vi phạm hành chính ngày 29 tháng 11 năm 2024; Theo đề nghị của Bộ trưởng Bộ Tài chính; Chính phủ ban hành Nghị định quy định việc sắp xếp lại, xử lý tài sản công là nhà, đất. Chương I QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định các nội dung sau: 1. Sắp x..."
+    }
+  ]
+}

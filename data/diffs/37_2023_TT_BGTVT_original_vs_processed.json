@@ -1,0 +1,36 @@
+{
+  "base": "37_2023_TT_BGTVT_original",
+  "revised": "37_2023_TT_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "chỉnh Thông tư này quy định về phương tiện vận tải, lái xe, nhân viên phục vụ trên xe, danh sách cửa khẩu và tuyến đường vận tải thực hiện hoạt động vận tải đường bộ giữa Việt Nam và các nước trong khuôn khổ hiệp định đa phương ASEAN, Tiểu vùng Mê Công mở rộng và Campuchia - Lào - Việt Nam, khuôn khổ hiệp định song phương với Trung Quốc, Lào, Campuchia."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "dụng Thông tư này áp dụng đối với các cơ quan, tổ chức và cá nhân có liên quan đến hoạt động vận tải bằng đường bộ qua biên giới giữa Việt Nam và các nước trong khuôn khổ hiệp định đa phương ASEAN, Tiểu vùng Mê Công mở rộng và Campuchia - Lào - Việt Nam, khuôn khổ hiệp định song phương với Trung Quốc, Lào, Campuchia."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "ngữ và từ viết tắt Trong Thông tư này, các từ ngữ và từ viết tắt dưới đây được hiểu như sau: 1. Bên ký kết là nước ký kết điều ước quốc tế song phương hoặc đa phương. 2. Vận tải quá cảnh là hoạt động vận chuyển hàng hóa qua lãnh thổ của một Bên ký kết, có điểm bắt đầu và kết thúc hành trình nằm ngoài lãnh thổ Bên ký kết đó. 3. Vận tải liên quốc gia là hoạt động vận chuyển người và hàng hóa qua lãnh thổ của ít nhất hai Bên ký kết, có điểm bắt đầu và kết thúc hành trình không cùng nằm trên lãnh thổ của một Bên ký kết. 4. Nước chủ nhà là quốc gia nơi thực hiện hoạt động vận tải. 5. Hiệp định tạo thuận lợi vận tải ASEAN là viết tắt của Hiệp định khung ASEAN về tạo thuận lợi cho hàng hóa quá cảnh, Hiệp định khung ASEAN về tạo điều kiện thuận lợi cho vận tải liên quốc gia và Hiệp định khung ASEAN về tạo thuận lợi vận tải hành khách qua biên giới bằng phương tiện giao thông đường bộ. 6. Hiệp định GMS là viết tắt của Hiệp định tạo thuận lợi vận tải người và hàng hóa qua lại biên giới giữa các nước Tiểu vùng Mê Công mở rộng. 7. Hiệp định vận tải đường bộ Việt Nam - Trung Quốc là viết tắt của Hiệp định vận tải đường bộ giữa Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam và Chính phủ nước Cộng hòa Nhân dân Trung Hoa. 8. Hiệp định vận tải đường bộ Việt Nam - Lào là viết tắt của Hiệp định tạo điều kiện thuận lợi cho phương tiện cơ giới đường bộ qua lại biên giới giữa Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam và Chính phủ nước Cộng hòa Dân chủ Nhân dân Lào. 9. Hiệp định vận tải đường bộ Việt Nam - Campuchia là viết tắt của Hiệp định vận tải đường bộ giữa Chính phủ nước Cộng hòa xã hội chủ nghĩa Việt Nam và Chính phủ Hoàng gia Campuchia. 10. Bản ghi nhớ vận tải đường bộ Campuchia - Lào - Việt Nam là viết tắt của Bản ghi nhớ giữa Chính phủ các nước Vương quốc Campuchia, Cộng hòa Dân chủ Nhân dân Lào và Cộng hòa xã hội chủ nghĩa Việt Nam về vận tải đường bộ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "về vận tải đường bộ qua biên giới 1. Phương tiện vận tải không được phép vận chuyển hàng hoá hoặc hành khách giữa hai điểm trong lãnh thổ của Bên k"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 37/2023/TT-BGTVT Hà Nội ngày 13 tháng 12 năm 2023 THÔNG TƯ VỀ QUẢN LÝ HOẠT ĐỘNG VẬN TẢI ĐƯỜNG BỘ QUA BIÊN GIỚI Căn cứ Luật Điều ước quốc tế ngày 09 tháng 4 năm 2016; Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Căn cứ Nghị định số 119/2021/NĐ-CP ngày 24 tháng 12 năm 2021 của Chính phủ quy định về trình tự, thủ tục cấp, cấp lại, thu hồi giấy phép vận tải đường bộ qua biên giới; Để thực hiện Hiệp định khung ASEAN về tạo thuận lợi cho hàng hóa quá cảnh ký ngày 16 tháng 12 năm 1998; Để thực hiện Hiệp định khung ASEAN về tạo điều kiện thuận lợi cho vận tải liên quốc gia ký ngày 10 tháng 12 năm 2009; Để thực hiện Hiệp định khung ASEAN về tạo thuận lợi vận tải hành khách qua biên giới bằng phương tiện giao thông đường bộ ký ngày 13 tháng 10 năm 2017; Để..."
+    }
+  ]
+}

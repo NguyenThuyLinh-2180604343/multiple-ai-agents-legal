@@ -1,0 +1,42 @@
+{
+  "base": "132_2020_NĐ_CP_original",
+  "revised": "132_2020_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "trình tự xác định yếu tố hình thành giá giao dịch liên kết; quyền và nghĩa vụ của người nộp thuế trong xác định giá giao dịch liên kết, thủ tục kê khai; trách nhiệm của các cơ quan nhà nước trong quản lý thuế đối với người nộp thuế có phát sinh giao dịch liên kết. 2. Các giao dịch liên kết thuộc phạm vi điều chỉnh của Nghị định này là các giao dịch mua, bán, trao đổi, thuê, cho thuê, mượn, cho mượn, chuyển giao, chuyển nhượng hàng hóa, cung cấp dịch vụ; vay, cho vay, dịch vụ tài chính, đảm bảo tài chính và các công cụ tài chính khác; mua, bán, trao đổi, thuê, cho thuê, mượn, cho mượn, chuyển giao, chuyển nhượng tài sản hữu hình, tài sản vô hình và thỏa thuận mua, bán, sử dụng chung nguồn lực như tài sản, vốn, lao động, chia sẻ chi phí giữa các bên có quan hệ liên kết, trừ các giao dịch kinh doanh đối với hàng hóa, dịch vụ thuộc phạm vi điều chỉnh giá của Nhà nước thực hiện theo quy định của pháp luật về giá."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "(sau đây gọi chung là người nộp thuế) là đối tượng nộp thuế thu nhập doanh nghiệp có phát sinh giao dịch với các bên có quan hệ liên kết theo quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "Chi cục Thuế. 3. Cơ quan nhà nước, tổ chức, cá nhân khác có liên quan đến việc áp dụng quy định về quản lý thuế đối với giao dịch liên kết."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "trừ các yếu tố làm giảm nghĩa vụ thuế do quan hệ liên kết chi phối, tác động để kê khai, xác định nghĩa vụ thuế đối với các giao dịch liên kết tương đương với các giao dịch độc lập có cùng điều kiện. 2. Cơ quan thuế quản lý, kiểm tra, thanh tra đối với giá giao dịch liên kết của người nộp thuế theo nguyên tắc giao dịch độc lập và bản chất hoạt động, giao dịch quyết định nghĩa vụ thuế tương ứng với giá trị tạo ra từ bản chất giao dịch, hoạt động sản xuất, kinh doanh của người nộp thuế, không công nhận các giao dịch liên kết không theo nguyên tắc giao dịch độc lập làm giảm nghĩa vụ thuế của doanh nghiệp với ngân sách nhà nước và thực hiện điều chỉnh giá giao dịch liên kết đó để xác định đúng nghĩa vụ thuế quy định của Nghị định này."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "lý thuế số 38/2019/QH14 ngày 13 tháng 6 năm 2019, các từ ngữ sau đây được hiểu như sau: 1. “Hiệp định thuế” là thuật ngữ rút gọn của Hiệp định tránh đánh thuế hai lần và ngăn ngừa việc trốn lậu thuế đối với các loại thuế đánh vào thu nhập hoặc tài sản ký kết giữa Việt Nam và các quốc gia, vùng lãnh thổ, bao gồm cả các Hiệp định, Nghị định thư sửa đổi, bổ sung các Hiệp định hiện có hiệu lực thi hành tại Việt Nam. 2. “Thỏa thuận của Nhà chức trách có thẩm quyền” là thuật ngữ rút gọn của Thỏa thuận có hiệu lực giữa Nhà chức trách có thẩm quyền của các quốc gia, vùng lãnh thổ là các bên tham gia điều ước quốc tế về thuế và có yêu cầu trao đổi thông tin tự động đối với Báo cáo lợi nhuận liên quốc gia. 3. “Thỏa thuận quốc tế về thuế”, “Điều ước quốc tế về thuế” là các thỏa thuận, điều ước quốc tế song phương và đa phương trong lĩnh vực thuế. 4. “Cơ quan thuế đối tác” là Cơ quan thuế của nước, vùng lãnh thổ ký kết Hiệp định thuế với Việt Nam. 5. “Đối tượng so sánh độc lập” là các giao dịch độc lập giữa các bên không có quan hệ liên kết hoặc doanh nghiệp thực hiện giao dịch độc lập được lựa chọn trên cơ sở phân tích, so sánh, xác định đối tượng so sánh tương đồng để xác định mức giá, tỷ suất lợi nhuận, tỷ lệ phân bổ lợi nhuận nhằm xác định nghĩa vụ thuế phải nộp ngân sách nhà nước của người nộp thuế, đảm bảo đúng quy định của Luật Quản lý thuế và Luật Thuế thu nhập doanh nghiệp . 6. “Khác biệt trọng yếu” là khác biệt về các yếu tố hình thành giá có ảnh hưởng quan trọng hoặc đáng kể đến mức giá, tỷ suất lợi nhuận và tỷ lệ phân bổ lợi nhuận của các bên tham gia giao dịch. 7. “Cơ sở dữ liệu của Cơ quan thuế” là các thông tin, dữ liệu do Cơ quan thuế thu thập, xây dựng, quản lý từ các nguồn khác nhau theo"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 132/2020/NĐ-CP Hà Nội, ngày 05 tháng 11 năm 2020 NGHỊ ĐỊNH QUY ĐỊNH VỀ QUẢN LÝ THUẾ ĐỐI VỚI DOANH NGHIỆP CÓ GIAO DỊCH LIÊN KẾT Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Quản lý thuế ngày 13 tháng 6 năm 2019; Căn cứ Luật Thuế thu nhập doanh nghiệp ngày 03 tháng 6 năm 2008; Luật sửa đổi, bổ sung một số điều của Luật Thuế thu nhập doanh nghiệp ngày 19 tháng 6 năm 2013; Căn cứ Luật sửa đổi, bổ sung một số điều của các Luật Về thuế ngày 26 tháng 11 năm 2014; Theo đề nghị của Bộ trưởng Bộ Tài chính; Chính phủ ban hành Nghị định quy định về quản lý thuế đối với doanh nghiệp có giao dịch liên kết. Chương I QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh 1. Nghị định này quy định nguyên tắc, phương pháp, trình tự xác định yếu tố hình t..."
+    }
+  ]
+}

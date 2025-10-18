@@ -1,0 +1,42 @@
+{
+  "base": "49_2025_NĐ_CP_original",
+  "revised": "49_2025_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "nợ và thời gian nợ trong các trường hợp bị tạm hoãn xuất cảnh; về việc thông báo áp dụng biện pháp tạm hoãn xuất cảnh và hủy bỏ tạm hoãn xuất cảnh."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "là người đại diện theo pháp luật của doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã thuộc trường hợp bị cưỡng chế thi hành quyết định hành chính về quản lý thuế; cá nhân kinh doanh, chủ hộ kinh doanh, cá nhân là người đại diện theo pháp luật của doanh nghiệp, hợp tác xã, liên hiệp hợp tác xã không còn hoạt động tại địa chỉ đã đăng ký; người Việt Nam xuất cảnh để định cư ở nước ngoài, người Việt Nam định cư ở nước ngoài, người nước ngoài trước khi xuất cảnh từ Việt Nam có nợ thuế và các khoản thu khác thuộc ngân sách nhà nước do cơ quan quản lý thuế quản lý thu. 2. Cơ quan quản lý thuế, cơ quan nhà nước và các tổ chức khác có liên quan đến việc thực hiện Nghị định này."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "dụng biện pháp tạm hoãn xuất cảnh bằng phương thức điện tử hoặc thông báo trên trang thông tin điện tử của cơ quan quản lý thuế mà người nộp thuế chưa hoàn thành nghĩa vụ nộp thuế, cơ quan quản lý thuế quản lý trực t"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "hoãn xuất cảnh và hủy bỏ tạm hoãn xuất cảnh 1. Khi người nộp thuế thuộc trường hợp bị cưỡng chế thi hành quyết định hành chính về quản lý thuế theo quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 124.1",
+      "change": "added",
+      "to": "thông báo ngay cho cá nhân quy định tại khoản 1 và khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 49/2025/NĐ-CP Hà Nội, ngày 28 tháng 02 năm 2025 NGHỊ ĐỊNH QUY ĐỊNH VỀ NGƯỠNG ÁP DỤNG TẠM HOÃN XUẤT CẢNH Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Quản lý thuế ngày 13 tháng 6 năm 2019; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán, Luật Kế toán, Luật Kiểm toán độc lập, Luật Ngân sách nhà nước, Luật Quản lý, sử dụng tài sản công, Luật Quản lý thuế, Luật Thuế thu nhập cá nhân, Luật Dự trữ quốc gia, Luật Xử lý vi phạm hành chính ngày 29 tháng 11 năm 2024; Theo đề nghị của Bộ trưởng Bộ Tài chính; Chính phủ ban hành Nghị định quy định về ngưỡng áp dụng tạm hoãn xuất cảnh. Điều 1. Phạm vi điều chỉnh Nghị định này quy định về áp dụng ngưỡng tiền thuế nợ và thời gian nợ trong các trường hợp bị tạm hoãn xuất cả..."
+    }
+  ]
+}

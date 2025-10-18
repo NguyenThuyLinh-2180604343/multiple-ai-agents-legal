@@ -1,0 +1,30 @@
+{
+  "base": "27_TB_BGTVT_original",
+  "revised": "27_TB_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section Section_1.1",
+      "change": "added",
+      "to": "VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 27/TB-BGTVT Hà Nội, ngày 27 tháng 01 năm 2023 THÔNG BÁO LỊCH TIẾP CÔNG DÂN NĂM 2023 CỦA BỘ GIAO THÔNG VẬN TẢI Căn cứ Luật Tiếp công dân ngày 25 tháng 11 năm 2013; Căn cứ Nghị định số 64/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiếp công dân; Thông tư số 04/2021/TT-TTCP ngày 01/10/2021"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "tiếp công dân của Bộ Giao thông vận tải (GTVT) đã được Bộ trưởng phê duyệt tại Quyết định số 3258/QĐ-BGTVT ngày 10/9/2015. Bộ Giao thông vận tải thông báo lịch tiếp công dân năm 2023 của Bộ GTVT, như sau: 1. Lịch tiếp công dân: - Bộ trưởng thực hiện tiếp công dân định kỳ một ngày trong một tháng vào ngày đầu tuần của tuần cuối tháng, cụ thể: Tháng Ngày tiếp Người tiếp công dân Tháng 1 30 (Thứ 2) Bộ trưởng Bộ GTVT Tháng 2 27 (Thứ 2) Bộ trưởng Bộ GTVT Tháng 3 27 (Thứ 2) Bộ trưởng Bộ GTVT Tháng 4 24 (Thứ 2) Bộ trưởng Bộ GTVT Tháng 5 29 (Thứ 2) Bộ trưởng Bộ GTVT Tháng 6 26 (Thứ 2) Bộ trưởng Bộ GTVT Tháng 7 31 (Thứ 2) Bộ trưởng Bộ GTVT Tháng 8 28 (Thứ 2) Bộ trưởng Bộ GTVT Tháng 9 25 (Thứ 2) Bộ trưởng Bộ GTVT Tháng 10 30 (Thứ 2) Bộ trưởng Bộ GTVT Tháng 11 27 (Thứ 2) Bộ trưởng Bộ GTVT Tháng 12 25 (Thứ 2) Bộ trưởng Bộ GTVT - Trường hợp cần thiết vì lý do khách quan thì Bộ trưởng ủy quyền cho 01 Thứ trưởng tiếp hoặc thay đổi lịch tiếp công dân và thông báo cho công dân biết. - Thủ trưởng các cơ quan, tổ chức, đơn vị tham gia tiếp công dân cùng Bộ trưởng theo Thông báo của Văn phòng Bộ. - Cán bộ, công chức làm công tác tiếp công dân thường xuyên tất cả các ngày làm việc trong tuần. Ngoài việc tiếp công dân định kỳ nêu trên, Bộ trưởng thực hiện việc tiếp công dân trong các trường hợp đột"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "thông vận tải. Địa chỉ: số 80 đường Trần Hưng Đạo, quận Hoàn Kiếm, thành phố Hà Nội. 3. Thời gian tiếp: - Buổi sáng: Từ 08 giờ 00 đến 11 giờ 30 phút. - Buổi chiều: Từ 13 giờ 30 phút đến 17 giờ. Bộ Giao thông vận tải thông báo để các công dân và các cơ quan, tổ chức, đơn vị biết để liên hệ./. Nơi nhận: - Ban Nội chính Trung ương (để b/c); - Thanh tra Chính phủ (để b/c); - Các Thứ trưởng; - Các Vụ, Cục, các cơ quan, đơn vị thuộc Bộ; - Trung tâm CNTT (để đăng tải trên Cổng TTĐT của Bộ GTVT); - Lưu: VT; TTr. BỘ TRƯỞNG Nguyễn Văn Thắng"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 27/TB-BGTVT Hà Nội, ngày 27 tháng 01 năm 2023 THÔNG BÁO LỊCH TIẾP CÔNG DÂN NĂM 2023 CỦA BỘ GIAO THÔNG VẬN TẢI Căn cứ Luật Tiếp công dân ngày 25 tháng 11 năm 2013; Căn cứ Nghị định số 64/2014/NĐ-CP ngày 26 tháng 6 năm 2014 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiếp công dân; Thông tư số 04/2021/TT-TTCP ngày 01/10/2021 của Thanh tra Chính phủ quy định Quy trình tiếp công dân; Thực hiện Nội quy tiếp công dân của Bộ Giao thông vận tải (GTVT) đã được Bộ trưởng phê duyệt tại Quyết định số 3258/QĐ-BGTVT ngày 10/9/2015. Bộ Giao thông vận tải thông báo lịch tiếp công dân năm 2023 của Bộ GTVT, như sau: 1. Lịch tiếp công dân: - Bộ trưởng thực hiện tiếp công dân định kỳ một ngày trong một tháng vào ngày đầu tuần của tuần cuối tháng, cụ thể: Tháng Ngày tiếp Người tiếp công dân Tháng 1 30 (Thứ 2) Bộ trưởng Bộ GTVT Tháng 2 27 (Thứ 2) Bộ trưởng Bộ G..."
+    }
+  ]
+}

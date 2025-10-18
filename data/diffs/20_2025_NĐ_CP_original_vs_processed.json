@@ -1,0 +1,42 @@
+{
+  "base": "20_2025_NĐ_CP_original",
+  "revised": "20_2025_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "132/2020/NĐ-CP và có chi phí lãi vay không được trừ theo quy định tại điểm a khoản"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "đi vay với bên cho vay hoặc bảo lãnh thuộc trường hợp quy định tại điểm d.1 và điểm d.2 khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 21.1",
+      "change": "added",
+      "to": "hạn của mình có trách nhiệm: Phối hợp cung cấp thông tin, số liệu về các khoản vay, trả nợ nước ngoài của từng doanh nghiệp cụ thể có giao dịch liên kết trên cơ sở danh sách do Cơ quan thuế yêu cầu, bao gồm dữ liệu về kim ngạch khoản vay, lãi suất, kỳ trả lãi, trả gốc, thực tế rút vốn, trả nợ (gốc, lãi) và các thông tin liên quan khác (nếu có). Phối hợp cung cấp thông tin được báo cáo theo quy định pháp luật về người có liên quan của thành viên Hội đồng quản trị, thành viên Hội đồng thành viên, thành viên Ban kiểm soát, Tổng giám đốc (Giám đốc), Phó Tổng giám đốc (Phó giám đốc) và chức danh tương đương theo quy định tại Điều lệ của tổ chức tín dụng; người có liên quan của cổ đông sở hữu từ 01% vốn điều lệ trở lên của tổ chức tín dụng; Công ty liên kết của tổ chức tín dụng theo hệ thống thông tin dữ liệu quản lý của Ngân hàng Nhà nước khi cơ quan thuế đề nghị.”"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "I - Thông tin về quan hệ liên kết và giao dịch liên kết ban hành kèm theo Nghị định số 132/2020/NĐ-CP ngày 05 tháng 11 năm 2020 của Chính phủ quy định về quản lý thuế đối với doanh nghiệp có giao dịch liên kết bằng Phụ lục I ban hành kèm theo Nghị định này."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "năm 2020, năm 2021, năm 2022 và năm 2023, doanh nghiệp đi vay chỉ có quan hệ liên kết với tổ chức kinh tế hoạt động theo quy định của Luật Các tổ chức tín dụng quy định tại điểm d khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 20/2025/NĐ-CP Hà Nội, ngày 10 tháng 02 năm 2025 NGHỊ ĐỊNH SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 132/2020/NĐ-CP NGÀY 05 THÁNG 11 NĂM 2020 CỦA CHÍNH PHỦ QUY ĐỊNH VỀ QUẢN LÝ THUẾ ĐỐI VỚI DOANH NGHIỆP CÓ GIAO DỊCH LIÊN KẾT Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Quản lý thuế ngày 13 tháng 6 năm 2019; Căn cứ Luật Thuế thu nhập doanh nghiệp ngày 03 tháng 6 năm 2008; Luật sửa đổi, bổ sung một số điều của Luật Thuế thu nhập doanh nghiệp ngày 19 tháng 6 năm 2013; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật về thuế ngày 26 tháng 11 năm 2014; Theo đề nghị của Bộ trưởng Bộ Tài chính; Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của Nghị định số 132/2020/NĐ-CP ngày 05 tháng 11 năm 2020 của Chính phủ quy ..."
+    }
+  ]
+}

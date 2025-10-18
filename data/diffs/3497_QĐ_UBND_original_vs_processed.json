@@ -1,0 +1,24 @@
+{
+  "base": "3497_QĐ_UBND_original",
+  "revised": "3497_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "mục 02 thủ tục hành chính bị bãi bỏ trong lĩnh vực đường bộ thuộc thẩm quyền giải quyết của Sở Giao thông vận tải tỉnh Thanh Hóa (có Danh mục kèm theo) ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "BỊ BÃI BỎ TRONG LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH THANH HÓA (Kèm theo Quyết định số: 3497/QĐ-UBND ngày 22/8/2024 của Chủ tịch UBND tỉnh Thanh Hóa) Danh mục thủ tục hành chính bị bãi bỏ Bãi bỏ 02 TTHC tại Quyết định số 2719/QĐ-UBND ngày 28/7/2017 của Chủ tịch UBND tỉnh Thanh Hóa về việc công bố TTHC được chuẩn hóa nội dung lĩnh vực Đường bộ và Đường thủy nội địa thuộc thẩm quyền giải quyết của Sở Giao thông vận tải tỉnh Thanh Hóa. STT Mã TTHC Tên thủ tục hành chính Tên VBQPPL quy định việc bãi bỏ TTHC Lĩnh vực Đường bộ 1. 1.002889.000.00.00.H56 Công bố đưa trạm dừng nghỉ vào khai thác Thông tư số 09/2024/TT-BGTVT ngày 05/4/2024 của Bộ trưởng Bộ Giao thông vận tải ban hành sửa đổi 01:2024QCVN 43:2012/BGTVT-Quy chuẩn kỹ thuật quốc gia về Trạm dừng nghỉ đường bộ. 2. 1.002883.000.00.00.H56 Công bố lại đưa trạm dừng nghỉ vào khai thác"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH THANH HÓA ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 3497/QĐ-UBND Thanh Hóa, ngày 22 tháng 8 năm 2024 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ DANH MỤC THỦ TỤC HÀNH CHÍNH BỊ BÃI BỎ TRONG LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH THANH HÓA CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH THANH HÓA Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08/6/2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định 92/2017/NĐ-CP ngày 08/7/2017 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định quan đến kiểm soát thủ tục hành chính; Căn cứ Thông tư số 02/2017/TT-VPCP ngày 31/10/2017 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ hướng dẫn về nghiệp vụ kiểm soát thủ tục hành chính; Căn cứ Quyết định số 1009/QĐ-BGTVT ngày 14/8/2024 của B..."
+    }
+  ]
+}

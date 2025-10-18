@@ -1,0 +1,42 @@
+{
+  "base": "302_TB_BGTVT_original",
+  "revised": "302_TB_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section Section_1.1",
+      "change": "added",
+      "to": "VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 302/TB-BGTVT Hà Nội, ngày 08 tháng 10 năm 2024 THÔNG BÁO KẾT"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "CƠ GIỚI ĐƯỜNG BỘ NHẬP KHẨU VÀ SẢN XUẤT, LẮP RÁP Ngày 03/10/2024, tại Bộ Giao thông vận tải (GTVT), Thứ trưởng Nguyễn Xuân Sang đã chủ trì cuộc họp về dự"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "khí thải phương tiện giao thông cơ giới đường bộ nhập khẩu và sản xuất, lắp ráp. Tham dự cuộc họp có đại diện các Bộ: Tài nguyên và Môi trường, Công thương, Tài chính [1] ; các Hiệp hội: các nhà sản xuất ô tô Việt Nam (VAMA), các nhà sản xuất xe máy Việt Nam (VAMM); Văn phòng Bộ, Thanh tra Bộ; các Vụ: Khoa học - Công nghệ và Môi trường (KHCN&MT), Pháp chế, Vận tải; các Cục: Đăng kiểm Việt Nam (ĐKVN), Đường bộ Việt Nam và đại diện một số doanh nghiệp sản xuất, lắp ráp, nhập khẩu ô tô, xe mô tô, xe gắn máy. Sau khi nghe Vụ KHCN&MT, Cục ĐKVN báo cáo quá trình xây dựng dự thảo Quyết định; quá trình tiếp thu, giải trình ý kiến góp ý của các cơ quan đơn vị có liên quan; ý kiến tham gia của các đại biểu tham gia dự cuộc họp, Thứ trưởng Nguyễn Xuân Sang kết luận như"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "với Cục ĐKVN: - Rà soát, tiếp thu ý kiến góp ý của đại diện các Bộ, Hiệp hội, doanh nghiệp và các cơ quan, đơn vị thuộc Bộ tại cuộc họp về: (i) Thời điểm áp dụng tiêu chuẩn khí thải Mức 4 đối với xe mô tô nhập khẩu mới và sản xuất lắp ráp theo đề nghị VAMM; (ii) Điều khoản chuyển tiếp tại dự thảo Quyết định và một số nội dung khác do các đại biểu tham gia ý kiến tại cuộc họp. - Khẩn trương hoàn thiện Hồ sơ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_5.1",
+      "change": "added",
+      "to": "bước tiếp theo bảo đảm tiến độ xây dựng văn bản quy phạm pháp luật. Thừa lệnh Bộ trưởng, Văn phòng Bộ thông báo tới các cơ quan, đơn vị có liên quan biết, thực hiện./. Nơi nhận: - Như trên; - Bộ trưởng (để b/c); - Thứ trưởng Nguyễn Xuân Sang (để b/c); - Thứ trưởng Nguyễn Duy Lâm (để b/c); - Chánh Văn phòng (để b/c); - Vụ KHCN&MT; - Cục ĐKVN (để t/h); - Các cơ quan, đơn vị dự họp; - Lưu: VT,VP. TL. BỘ TRƯỞNG KT. CHÁNH VĂN PHÒNG PHÓ CHÁNH VĂN PHÒNG Nguyễn Thị Kiều Nguyệt [1] Văn phòng Chính phủ; các Bộ: Công an, Tư pháp, Khoa học và Công nghệ, Ngoại giao; Liên đoàn Thương mại và Công nghiệp Việt Nam có gửi Giấy mời nhưng không có đại diện tham dự họp."
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 302/TB-BGTVT Hà Nội, ngày 08 tháng 10 năm 2024 THÔNG BÁO KẾT LUẬN CỦA THỨ TRƯỞNG NGUYỄN XUÂN SANG TẠI CUỘC HỌP VỀ DỰ THẢO QUYẾT ĐỊNH CỦA THỦ TƯỚNG CHÍNH PHỦ QUY ĐỊNH LỘ TRÌNH ÁP DỤNG TIÊU CHUẨN KHÍ THẢI PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ NHẬP KHẨU VÀ SẢN XUẤT, LẮP RÁP Ngày 03/10/2024, tại Bộ Giao thông vận tải (GTVT), Thứ trưởng Nguyễn Xuân Sang đã chủ trì cuộc họp về dự thảo Quyết định của Thủ tướng Chính phủ quy định Lộ trình áp dụng tiêu chuẩn khí thải phương tiện giao thông cơ giới đường bộ nhập khẩu và sản xuất, lắp ráp. Tham dự cuộc họp có đại diện các Bộ: Tài nguyên và Môi trường, Công thương, Tài chính [1] ; các Hiệp hội: các nhà sản xuất ô tô Việt Nam (VAMA), các nhà sản xuất xe máy Việt Nam (VAMM); Văn phòng Bộ, Thanh tra Bộ; các Vụ: Khoa học - Công nghệ và Môi trường (KHCN&MT), Pháp chế, Vận tải; các Cục: Đăng kiểm Việt Nam (ĐKVN), Đường ..."
+    }
+  ]
+}

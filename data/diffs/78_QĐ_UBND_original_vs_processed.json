@@ -1,0 +1,36 @@
+{
+  "base": "78_QĐ_UBND_original",
+  "revised": "78_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "định này 13 quy trình nội bộ giải quyết 13 thủ tục hành chính lĩnh vực Đường bộ thuộc thẩm quyền giải quyết của Sở Giao thông vận tải."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "tỉnh Sóc Trăng chịu trách nhiệm: 1. Chủ trì, phối hợp với Trung tâm Phục vụ hành chính công triển khai thực hiện việc tiếp nhận và giải quyết thủ tục hành chính theo quy trình nội bộ được phê duyệt tại Quyết định này. 2. Trên cơ sở nội dung quy trình nội bộ được phê duyệt tại Quyết định này chủ trì, phối hợp với Sở Thông tin và Truyền thông tổ chức thực hiện việc xây dựng quy trình điện tử giải quyết thủ tục hành chính tại Hệ thống thông tin giải quyết thủ tục hành chính tỉnh đúng theo quy định của Chính phủ tại Nghị định số 61/2018/NĐ-CP , Nghị định số 107/2021/NĐ-CP và hướng dẫn của Văn phòng Chính phủ tại Thông tư so 01/2018/TT-VPCP , Thông tư số 01/2023/TT-VPCP ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "lực thi hành kể từ ngày ký và bãi bỏ một số quy trình ban hành kèm theo các Quyết định của Chủ tịch Ủy ban nhân dân tỉnh, cụ thể: 1. Bãi bỏ 02 quy trình số 40 và 41 ban hành kèm theo Quyết định số 3897/QĐ-UBND ngày 31/12/2021 về việc phê duyệt các quy trình nội bộ giải quyết thủ tục hành chính thuộc thẩm quyền tiếp nhận và giải quyết của Sở Giao thông vận tải tỉnh Sóc Trăng. 2. Bãi bỏ quy trình số 01 ban hành kèm theo Quyết định số 1465/QĐ-UBND ngày 04/7/2024 về việc phê duyệt quy trình nội bộ giải quyết thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Giao thông vận tải tỉnh Sóc Trăng. 3. Bãi bỏ 17 quy trình từ số 01 đến số 17 ban hành kèm theo Quyết định số 1608/QĐ-UBND ngày 18/7/2024 về việc phê duyệt quy trình nội bộ giải quyết thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Giao thông vận tải tỉnh Sóc Trăng."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "ĐƯỢC ĐÍNH KÈM THEO VĂN BẢN"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH SÓC TRĂNG ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 78/QĐ-UBND Sóc Trăng, ngày 14 tháng 01 năm 2025 QUYẾT ĐỊNH VỀ VIỆC PHÊ DUYỆT QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH SÓC TRĂNG CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH SÓC TRĂNG Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Nghị định số 107/2021/NĐ-CP ngày 06/12/2021 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Căn cứ Thông tư số 01/2018/TT-VPCP ngày 23..."
+    }
+  ]
+}

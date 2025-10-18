@@ -1,0 +1,42 @@
+{
+  "base": "391_QĐ_BGTVT_original",
+  "revised": "391_QĐ_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "quản lý, vận hành, khai thác, sử dụng Hệ thống thông tin khoa học và công nghệ ngành giao thông vận tải."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "và công nghệ ngành giao thông vận tải là tập hợp phần cứng, phần mềm và các cơ sở dữ liệu về Tiêu chuẩn, Quy chuẩn, nhiệm vụ khoa học và công nghệ cấp Bộ ngành GTVT; là hệ thống thông tin nội bộ cho phép các tổ chức, cá nhân cập nhật, tiếp nhận, giải quyết, theo dõi kết quả giải quyết đề xuất hoặc đăng ký chủ trì xây dựng Tiêu chuẩn, Quy chuẩn, Đề tài khoa học và công nghệ cấp Bộ, nhiệm vụ an toàn giao thông trong các lĩnh vực thuộc ngành GTVT quản lý. 2. Tài liệu hướng dẫn sử dụng: là tài liệu mô tả cách thức sử dụng các chức năng của Hệ thống thông tin khoa học và công nghệ ngành giao thông vận tải. 3. Đơn vị quản lý, vận hành hệ thống: là tổ chức được Bộ Giao thông vận tải giao thực hiện các hoạt động chuyên môn nhằm duy trì hoạt động liên tục của Hệ thống thông tin khoa học và công nghệ ngành giao thông vận tải. 4 . Cơ quan chủ quản: là Bộ Giao thông vận tải (cơ quan có quyền sở hữu hệ thống và dữ liệu có trong Hệ thống thông tin khoa học và công nghệ ngành giao thông vận tải). 5. Nhiệm vụ an toàn giao thông: là các nhiệm vụ được phê duyệt và triển khai thực hiện trong Chương trình khoa học và công nghệ trọng điểm cấp Bộ “Nghiên cứu, phát triển và ứng dụng khoa học và công nghệ tăng cường bảo đảm an toàn giao thông giai đoạn 2021-2025” tại Quyết định số 1038/QĐ-BGTVT ngày 08/06/2021 của Bộ trưởng Bộ Giao thông vận tải."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "tượng áp dụng Quy chế này áp dụng cho tổ chức, cá nhân tham gia thực hiện cập nhật, quản lý, vận hành, khai thác, sử dụng Hệ thống thông tin khoa học và công nghệ ngành giao thông vận tải (GTVT)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "ngành GTVT 1. Hệ thống thông tin khoa học và công nghệ ngành giao thông vận tải được quản lý, vận hành, khai thác, sử dụng theo các quy định của pháp luật về công nghệ thông tin, quản lý dữ liệu trên môi trường mạng; các quy định về quản lý nhiệm vụ Hệ thống thông tin khoa học và công nghệ ngành giao thông vận tải. 2. Việc công khai thông tin phải kịp thời, đầy đủ, chính xác, minh bạch, thuận lợi cho việc khai thác, sử dụng, đúng trình tự, thủ tục theo quy định của pháp luật. 3. Bảo đảm sự phối hợp chặt chẽ, hiệu quả giữa các cơ quan, đơn vị trong quá trình cập nhật, quản lý, vận hành, khai thác, sử dụng Hệ thống thông tin khoa học và công nghệ ngành giao thông vận tải. 4. Bảo đảm kinh phí và các điều kiện vật chất liên quan đến công tác cập nhật, quản lý, vận hành, khai thác, sử dụng Hệ thống thông tin khoa học và công nghệ ngành giao thông vận tải phù hợp với quy định của pháp luật và đặc điểm, điều kiện thực tế của Bộ Giao thông vận tải. 5. Tuân thủ các quy định của pháp luật về bảo vệ bí mật nhà nước, bảo đảm an toàn thông tin khi thực hiện việc cập nhật, quản lý, vận hành, khai thác, sử dụng Hệ thống thông tin khoa học và công nghệ ngành giao thông vận tải."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "thông tin, dữ liệu được cung cấp trên Hệ thống thông tin khoa học và công nghệ ngành GTVT 1. Danh mục các thông tin, dữ liệu được cung cấp trên Hệ thống thông tin khoa học và công nghệ ngành giao thông vận tải, gồm: Tiêu chuẩn, Quy chuẩn, Đề tà"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 391/QĐ-BGTVT Hà Nội, ngày 31 tháng 03 năm 2023 QUYẾT ĐỊNH BAN HÀNH QUY CHẾ CẬP NHẬT, QUẢN LÝ, VẬN HÀNH, KHAI THÁC, SỬ DỤNG HỆ THỐNG THÔNG TIN KHOA HỌC VÀ CÔNG NGHỆ NGÀNH GIAO THÔNG VẬN TẢI BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24/8/202022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Căn cứ Quyết định số 2128/QĐ-BGTVT ngày 03/10/2018 của Bộ trưởng Bộ Giao thông vận tải về Quy định quản lý nhiệm vụ khoa học và công nghệ cấp Bộ của Bộ Giao thông vận tải; Theo đề nghị của Vụ trưởng Vụ Khoa học - Công nghệ và Môi trường và Giám đốc Trung tâm Công nghệ thông tin. QUYẾT ĐỊNH: Điều 1. Ban hành kèm theo Quyết định này “Quy chế cập nhật, quản lý, vận hành, khai thác, sử dụng Hệ thống thông tin khoa học và công nghệ ngành giao thông vận tải”. Điều 2. Quyết định này có hiệu lực kể từ ng..."
+    }
+  ]
+}

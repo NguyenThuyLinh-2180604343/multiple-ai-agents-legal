@@ -1,0 +1,48 @@
+{
+  "base": "65_2024_TT_BCA_original",
+  "revised": "65_2024_TT_BCA_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "về trật tự, an toàn giao thông đường bộ đối với người có giấy phép lái xe bị trừ hết điểm để được phục hồi điểm giấy phép lái xe."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "chung là cán bộ) thực hiện nhiệm vụ kiểm tra kiến thức pháp luật về trật tự, an toàn giao thông đường bộ. 2. Công an các đơn vị, địa phương. 3. Người có giấy phép lái xe bị trừ hết điểm. 4. Cơ quan, tổ chức, cá nhân có liên quan đến kiểm tra kiến thức pháp luật về trật tự, an toàn giao thông đường bộ. Chương II QUY ĐỊNH CỤ THỂ"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "tra kiến thức pháp luật về trật tự, an toàn giao thông đường bộ Người được tham gia kiểm tra kiến thức pháp luật về trật tự, an toàn giao thông đường bộ là người có giấy phép lái xe bị trừ hết điểm."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "kiểm tra kiến thức pháp luật về trật tự, an toàn giao thông đường bộ Cơ quan có thẩm quyền kiểm tra kiến thức pháp luật về trật tự, an toàn giao thông đường bộ: 1. Cục Cảnh sát giao thông. 2. Phòng Cảnh sát giao thông Công an tỉnh, thành phố trực thuộc trung ương."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "kiểm tra kiến thức pháp luật về trật tự, an toàn giao thông đường bộ 1. Bảo đảm về cơ sở vật chất, thiết bị thuộc quyền sử dụng của cơ quan có thẩm quyền kiểm tra: a) Có phòng kiểm tra kiến thức pháp luật về trật tự, an toàn giao thông đường bộ, được trang bị máy tính, máy in dùng cho cán bộ thực hiện nhiệm vụ kiểm tra và cơ sở vật chất, thiết bị cần thiết trực tiếp phục vụ việc kiểm tra; máy tính để người dự kiểm tra sử dụng có kết nối mạng WAN Bộ Công an đến máy chủ đặt tại Cục Cảnh sát giao thông; Máy chủ có cài đặt phần mềm kiểm tra kiến thức pháp luật về trật tự, an toàn giao thông đường bộ được Bộ Công an phê duyệt được kết nối với máy tính tại các điểm kiểm tra và phải bảo đảm an ninh, an toàn dữ liệu các máy tính sử dụng để phục vụ kiểm tra, lưu trữ nhật ký kết nối, chỉnh sửa dữ liệu. b) Có hệ thống camera giám sát được toàn bộ hình ảnh phòng kiểm tra, có thiết bị lưu trữ dữ liệu hình ảnh camera. Hệ thống camera giám sát phải đảm bảo tính bảo mật, ngăn chặn các truy cập trái phép từ bên ngoài; c) Trường hợp máy tính tại nơi kiểm tra chưa có kết nối mạng WAN theo quy định tại điểm a khoản 1 Điều này thì cơ quan có thẩm quyền kiểm tra sử dụng thiết bị có chức năng lưu trữ thông tin bảo đảm an ninh, an toàn để lưu trữ thông tin của người dự kiểm tra phục vụ việc tổ chức kiểm tra. 2. Cán bộ được giao nhiệm vụ kiểm tra kiến thức pháp luật về trật tự, an toàn giao thông đường bộ phải có giấy phép lái xe mô tô hạng A và giấy phép lái xe ô tô, được Cục Cảnh sát giao thông tổ chức tập huấn, cấp thẻ Sát hạch viên."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "thời gian, kết cấu bài kiểm tra, kết quả kiểm tra đạt yêu cầu 1. Nội dung kiểm tra, bao gồm: a) Kiểm tra lý thuyết kiến thức pháp luật về trật tự, an toàn giao thông đường bộ được thực hiện theo câu hỏi sát hạch lý thuyết để cấp giấy phép lái xe theo quy định của Bộ trưởng Bộ Giao thông vận tải (sau đây viết gọn là kiểm tra lý thuyết kiến thức pháp luật); b) Kiểm tra kiến thức pháp luật về trật tự, an toàn giao thông đường bộ theo mô phỏng các tình huống giao thông trên máy tính theo quy định của Bộ trưởng Bộ Giao thông vận tải (sau đây viết gọn là kiểm tra kiến thức pháp luật theo mô phỏng). 2. Phương pháp kiểm tra: a) Đối với kiểm tra lý thuyết kiến thức pháp luật, người dự kiểm tra thực hiện bài kiểm tra trắc nghiệm trên máy tính theo phần mềm kiểm tra kiến thức pháp luật về trật tự, an toàn giao thông đường bộ; b) Đối với kiểm tra kiến thức pháp luật theo mô phỏng, người dự kiểm tra xử lý các tình huống giao thông theo mô phỏng trên máy tính. 3. Thời gian, kết cấu bài kiểm tra và kết quả kiểm tra lý thuyết kiến thức pháp luật đạt yêu cầu: a) Người dự kiểm tra có giấy phép lái xe hạng A1 làm bài kiểm tra trong thời gian 19 phút. Kết cấu bài kiểm tra gồm 25 câu hỏi trắc nghiệm, mỗi câu hỏi được tính 01 điểm, trong đó có 01 câu hỏi được tính là điểm liệt. Kết quả từ 21/25 điểm trở lên là đạt yêu cầu. Trường hợp kết quả từ 21/25 điểm trở lên nhưng trả lời sai vào câu hỏi được tính là điểm liệt thì không đạt yêu cầu; b) Người dự kiểm tra c"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ CÔNG AN ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 65/2024/TT-BCA Hà Nội, ngày 12 tháng 11 năm 2024 THÔNG TƯ QUY ĐỊNH KIỂM TRA KIẾN THỨC PHÁP LUẬT VỀ TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ ĐỂ ĐƯỢC PHỤC HỒI ĐIỂM GIẤY PHÉP LÁI XE Căn cứ Luật Trật tự, an toàn giao thông đường bộ ngày 27 tháng 6 năm 2024; Căn cứ Nghị định số 01/2018/NĐ-CP ngày 06 tháng 8 năm 2018 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công an; Theo đề nghị của Cục trưởng Cục Cảnh sát giao thông; Bộ trưởng Bộ Công an ban hành Thông tư quy định kiểm tra kiến thức pháp luật về trật tự, an toàn giao thông đường bộ để được phục hồi điểm giấy phép lái xe. Chương I QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Thông tư này quy định kiểm tra kiến thức pháp luật về trật tự, an toàn giao thông đường bộ đối với người có giấy phép lái xe bị trừ hết điểm để được phục hồi điểm giấy phép lái xe. Điều 2. Đối tượng áp dụng 1. Sĩ quan, hạ sĩ..."
+    }
+  ]
+}

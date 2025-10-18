@@ -1,0 +1,36 @@
+{
+  "base": "113_QĐ_UBND_original",
+  "revised": "113_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "các nội dung sau đây: 1. Thủ tục hành chính được sửa đổi, bổ sung (01 thủ tục cấp tỉnh) trong lĩnh vực đường bộ thuộc phạm vi, chức năng quản lý của ngành Xây dựng tỉnh Đồng Tháp (có phụ lục kèm theo được chuyển qua Văn phòng điện tử), cụ thể: a) Danh mục thủ tục hành chính (thủ tục hành chính thực hiện dịch vụ công trực tuyến, không phụ thuộc vào địa giới hành chính). b) Nội dung cụ thể của thủ tục hành chính. c) Quy trình nội bộ, liên thông và điện tử đối với thủ tục hành chính. d) Danh mục thành phần hồ sơ, kết quả giải quyết thủ tục hành chính cần phải số hóa đối với thủ tục hành chính. 2. Thủ tục hành chính bị bãi bỏ và thay thế gồm: Thủ tục hành chính số 3, Mục III.2.2 của Danh mục thủ tục hành chính được ban hành kèm theo Quyết định số 530/QĐ-UBND-HC ngày 15 tháng 5 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh Đồng Tháp."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "nhiệm về hình thức, nội dung công khai thủ tục hành chính tại nơi tiếp nhận hồ sơ, Trang thông tin điện tử của cơ quan, đơn vị theo đúng quy định đối với thủ tục hành chính thuộc thẩm quyền tiếp nhận và giải quyết của cơ quan, đơn vị mình. 2. Giao Sở Xây dựng cập nhật nội dung thủ tục hành chính, quy trình nội bộ, liên thông và điện tử của thủ tục hành chính lên Hệ thống dịch vụ công của tỉnh và phối hợp Sở Khoa học và Công nghệ thực hiện tích hợp, đồng bộ thủ tục hành chính lên Cổng Dịch vụ công quốc gia. 3. Giao Sở Khoa học và Công nghệ a) Phối hợp Sở Xây dựng thực hiện tích hợp, đồng bộ thủ tục hành chính được công bố tại Quyết định này lên Cổng Dịch vụ công quốc gia. b) Chịu trách nhiệm hỗ trợ kỹ thuật đối với việc thực hiện các nhiệm vụ liên quan đến Hệ thống dịch vụ công của tỉnh, Cổng Dịch vụ công quốc gia. 4. Giao Văn phòng Ủy ban nhân dân tỉnh cập nhật tất cả nội dung của thủ tục hành chính lên Cơ sở dữ liệu quốc gia về thủ tục hành chính."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "kể từ ngày ký."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "QUY TRÌNH NỘI BỘ, LIÊN THÔNG, ĐIỆN TỬ VÀ THÀNH PHẦN HỒ SƠ, KẾT QUẢ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH CẦN PHẢI SỐ HÓA ĐỐI VỚI THỦ TỤC HÀNH CHÍNH (Ban hành kèm theo Quyết định số 113/QĐ-UBND ngày 11 tháng 7 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh Đồng Tháp) A. DANH MỤC THỦ TỤC HÀNH CHÍNH STT Mã TTHC Tên TTHC Phí, lệ phí TTHC liên thông, không thuộc địa giới hành chính (phi địa giới) Dịch vụ công trực tuyến Dịch vụ BCCI Ghi chú Phí Lệ phí Cung cấp 02 cấp Phi địa giới Toàn trình Một phần Cung cấp thông tin (1) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11) (12) (13) LĨNH VỰC ĐƯỜNG BỘ 1 1.000028 Cấp Giấy phép lưu hành xe quá tải trọng, xe quá khổ giới hạn, xe bánh xích, xe vận chuyển hàng siêu trường, siêu trọng trên đường bộ X X X"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH ĐỒNG THÁP ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 113/QĐ-UBND Đồng Tháp, ngày 11 tháng 7 năm 2025 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ THỦ TỤC HÀNH CHÍNH TRONG LĨNH VỰC ĐƯỜNG BỘ THUỘC PHẠM VI, CHỨC NĂNG QUẢN LÝ CỦA NGÀNH XÂY DỰNG TỈNH ĐỒNG THÁP CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH ĐỒNG THÁP Căn cứ Luật Tổ chức chính quyền địa phương ngày 16 tháng 6 năm 2025; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08 tháng 6 năm 2010 của Chính phủ về kiểm soát thủ tục hành chính, được sửa đổi, bổ sung tại các Nghị định số 48/2013/NĐ-CP ngày 14/5/2013, Nghị định số 92/2017/NĐ-CP ngày 07/8/2017 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Nghị định số 118/2025/NĐ-CP ngày 09 tháng 6 năm 2025 của Chính phủ về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ phận Một cửa và cổng Dịch vụ công quốc gia; Căn cứ Thông tư số 02/2017/TT-VPCP ngày 31 thá..."
+    }
+  ]
+}

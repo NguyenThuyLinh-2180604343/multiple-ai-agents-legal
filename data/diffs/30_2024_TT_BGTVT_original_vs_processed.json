@@ -1,0 +1,42 @@
+{
+  "base": "30_2024_TT_BGTVT_original",
+  "revised": "30_2024_TT_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "sau: “d) Đối với xe cơ giới thuộc đối tượng miễn kiểm định lần đầu, đơn vị đăng kiểm căn cứ hồ sơ do chủ xe cung cấp, kiểm tra tính đầy đủ và hợp lệ theo quy định tại khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "định là hệ thống các chương trình phần mềm quản lý do Cục Đăng kiểm Việt Nam xây dựng để quản lý cơ sở dữ liệu kiểm định và quản lý công tác kiểm định xe cơ giới, được sử dụng tại các đơn vị đăng kiểm và Cục Đăng kiểm Việt Nam.”. 2. Sửa đổi, bổ sung điểm a khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "tra cứu thông tin phương tiện trên phần mềm cảnh báo xe cơ giới. Trường hợp xe cơ giới chưa được cấp Giấy chứng nhận kiểm định, Tem kiểm định lần đầu thì đơn vị đăng kiểm cấp Giấy chứng nhận kiểm định, Tem kiểm định và cập nhật dữ liệu với nội dung “KĐLĐ-Phương tiện đã được thực hiện việc cấp miễn kiểm định lần đầu” lên phần mềm cảnh báo xe cơ giới. Trường hợp xe cơ giới đã được cấp Giấy chứng nhận kiểm định, Tem kiểm định lần đầu thì không cấp Giấy chứng nhận kiểm định, Tem kiểm định. Trường hợp đơn vị đăng kiểm thực hiện việc in Giấy chứng nhận kiểm định, Tem kiểm định bằng phần mềm cấp miễn kiểm định"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 7.1",
+      "change": "added",
+      "to": "pháp kiểm tra, khiếm khuyết, hư hỏng và tiêu chí đánh giá khi kiểm định xe cơ giới được quy định tại Phụ lục II ban hành kèm theo Thông tư này.”. 4. Sửa đổi, bổ sung điểm d khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 8.1",
+      "change": "added",
+      "to": "BGTVT (được sửa đổi, bổ sung tại khoản 3"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 30/2024/TT-BGTVT Hà Nội, ngày 12 tháng 08 năm 2024 THÔNG TƯ SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 16/2021/TT-BGTVT NGÀY 12 THÁNG 8 NĂM 2021 CỦA BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI QUY ĐỊNH VỀ KIỂM ĐỊNH AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ VÀ THÔNG TƯ SỐ 03/2018/TT-BGTVT NGÀY 10 THÁNG 01 NĂM 2018 CỦA BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI QUY ĐỊNH VỀ KIỂM TRA CHẤT LƯỢNG AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG ĐỐI VỚI Ô TÔ NHẬP KHẨU THUỘC ĐỐI TƯỢNG CỦA NGHỊ ĐỊNH SỐ 116/2017/NĐ-CP Căn cứ Luật Giao thông đường bộ ngày 13 tháng 11 năm 2008; Căn cứ Luật Chất lượng sản phẩm, hàng hóa ngày 21 tháng 11 năm 2007; Căn cứ Nghị định số 116/2017/NĐ-CP ngày 17 tháng 10 năm 2017 của Chính phủ quy định điều kiện sản xuất, lắp ráp, nhập khẩu và kinh doanh dịch vụ bảo hành, bảo dưỡng ô tô; Căn cứ Nghị định số 132/2008/NĐ-CP ngày 31 tháng 1..."
+    }
+  ]
+}

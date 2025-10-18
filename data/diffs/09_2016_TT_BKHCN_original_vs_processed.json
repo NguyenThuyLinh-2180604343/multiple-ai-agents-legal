@@ -1,0 +1,48 @@
+{
+  "base": "09_2016_TT_BKHCN_original",
+  "revised": "09_2016_TT_BKHCN_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "thủ tục cấp giấy phép vận chuyển hàng nguy hiểm là các chất ôxy hóa, các hợp chất ô xít hữu cơ (thuộc loại 5), các chất ăn mòn (thuộc loại 8) (sau đây viết tắt là hàng nguy hiểm) được quy định tại: a) Khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "phép vận chuyển hàng nguy hiểm và các hình thức nộp hồ sơ 1. Hồ sơ đề nghị cấp Giấy phép vận chuyển hàng nguy hiểm bao gồm: a) Đơn đề nghị cấp Giấy phép vận chuyển hà"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 22.1",
+      "change": "added",
+      "to": "hướng dẫn thi hành một số Điều của Luật Đường sắt. 2. Việc vận chuyển hàng nguy hiểm phục vụ các Mục đích sau không thuộc phạm vi Điều chỉnh của Thông tư này: a) Hàng nguy hiểm phục vụ Mục đích quốc phòng, an ninh của lực lượng vũ trang; b) Hàng nguy hiểm trong trường hợp đặc biệt quy định tại Khoản 4"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 27.1",
+      "change": "added",
+      "to": "bệnh, thiên tai, địch họa; - Hàng quá cảnh của các nước, tổ chức quốc tế mà Việt Nam không ký kết hoặc gia nhập Điều ước quốc tế liên quan với các nước, tổ chức quốc tế đó. 3. Trường hợp Điều ước quốc tế liên quan đến vận chuyển hàng nguy hiểm bằng phương tiện giao thông cơ giới đường bộ, đường sắt, đường thủy nội địa mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác với Thông tư này thì áp dụng quy định của Điều ước quốc tế đó."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "đây viết tắt là tổ chức, cá nhân) thực hiện việc vận chuyển và tổ chức, cá nhân khác có liên quan đến vận chuyển hàng nguy hiểm bằng phương tiện giao thông cơ giới đường bộ, đường sắt, đường thủy nội địa trên lãnh thổ Việt Nam. 2. Cơ quan quản lý nhà nước có chức năng quản lý công tác vận chuyển hàng nguy hiểm bằng phương tiện giao thông cơ giới đường bộ, đường sắt, đường thủy nội địa trên lãnh thổ Việt Nam."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "được quy định theo hệ thống của Liên hợp quốc để xác định các hàng nguy hiểm. 2. Giấy phép vận chuyển hàng nguy hiểm là giấy phép do cơ quan nhà nước có thẩm quyền cấp cho các tổ chức, cá nhân có nhu cầu vận chuyển hàng nguy hiểm bằng phương tiện giao thông cơ giới đường bộ, đường sắt, đường thủy nội địa. 3. Các thuật ngữ khác sử dụng trong Thông tư này được quy định tại Luật Hóa chất và các văn bản quy phạm pháp luật hướng dẫn thi hành Luật Hóa chất. Chương II TRÌNH TỰ, THỦ TỤC CẤP GIẤY PHÉP VẬN CHUYỂN HÀNG NGUY HIỂM"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ KHOA HỌC VÀ CÔNG NGHỆ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 09/2016/TT-BKHCN Hà Nội, ngày 09 tháng 06 năm 2016 THÔNG TƯ QUY ĐỊNH TRÌNH TỰ, THỦ TỤC CẤP GIẤY PHÉP VẬN CHUYỂN HÀNG NGUY HIỂM LÀ CÁC CHẤT ÔXY HÓA, CÁC HỢP CHẤT Ô XÍT HỮU CƠ (THUỘC LOẠI 5) VÀ CÁC CHẤT ĂN MÒN (THUỘC LOẠI 8) BẰNG PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ, ĐƯỜNG SẮT VÀ ĐƯỜNG THỦY NỘI ĐỊA Căn cứ Luật Hóa chất ngày 21 tháng 11 năm 2007; Căn cứ Luật Chất lượng sản phẩm, hàng hóa ngày 21 tháng 11 năm 2007; Căn cứ Nghị định số 29/2005/NĐ-CP ngày 10 tháng 3 năm 2005 của Chính phủ quy định danh Mục hàng hóa nguy hiểm và việc vận tải hàng hóa nguy hiểm trên đường thủy nội địa; Căn cứ Nghị định số 108/2008/NĐ-CP ngày 07 tháng 10 năm 2008 của Chính phủ quy định chi Tiết và hướng dẫn thi hành một số Điều của Luật Hóa chất và Nghị định số 26/2011/NĐ-CP ngày 08 tháng 4 năm 2011 của Chính phủ sửa đổi, bổ sung một số Điều của Nghị định số 108/2008/NĐ-CP quy..."
+    }
+  ]
+}

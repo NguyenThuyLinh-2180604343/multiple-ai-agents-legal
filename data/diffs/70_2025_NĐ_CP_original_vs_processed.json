@@ -1,0 +1,42 @@
+{
+  "base": "70_2025_NĐ_CP_original",
+  "revised": "70_2025_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "10 năm 2020 của Chính phủ quy định về hóa đơn, chứng từ 1. Bổ sung điểm e vào khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "cung c ấp ở nước ngo ài không có cơ s ở thường tr ú t ại Việt Nam c ó ho ạt động kinh doanh thương mại điện tử, kinh doanh dựa tr ên n ền tảng số v à các d ịch vụ kh ác đăng ký t ự nguyện sử dụng h óa đơn đi ện tử theo quy định tại Nghị định này .” 2. B ổ sung điểm c, điểm d v ào khoản 2 ; sửa đổi, bổ sung khoản 5, khoản 11, khoản 12 và bổ sung khoản 14 vào"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "đi ện tử khởi tạo từ m áy tính ti ền c ó k ết nối chuyển dữ liệu điện tử với cơ quan thuế (sau đ ây g ọi l à hóa đơn đi ện tử khởi tạo từ m áy tính ti ền) l à hóa đơn có mã c ủa cơ quan thuế hoặc dữ liệu điện tử để người mua c ó th ể truy xuất, k ê khai thông tin hóa đơn đi ện tử khởi tạo từ m áy tính ti ền do tổ chức, c á nhân bán hàng hóa, cung c ấp dịch vụ lập từ hệ thống t ính ti ền, dữ liệu được chuyển đến cơ quan thuế theo định dạng được quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 12.1",
+      "change": "added",
+      "to": "ti ền l à h ệ thống t ính ti ền bao gồm một thiết bị điện tử đồng bộ hoặc một hệ thống gồm nhiều thiết bị điện tử được kết hợp với nhau bằng giải ph áp công ngh ệ th ông tin có ch ức năng chung như: t ính ti ền, lưu trữ c ác giao d ịch b án hàng, s ố liệu b án hàng.” b) Sửa đổi, bổ sung khoản 5 như sau: “5. Ch ứng từ điện tử được thể hiện ở dạng dữ liệu điện tử do tổ chức, c á nhân có trách nhi ệm khấu trừ thuế cấp cho người nộp thuế hoặc do tổ chức thu thuế, ph í, l ệ ph í c ấp cho người nộp bằng phương tiện điện tử theo quy định của ph áp luật ph í, l ệ ph í, pháp luật thuế.” c) Sửa đổi, bổ sung khoản 11, khoản 12 như sau: “11. Tiêu h ủy h óa đơn, ch ứng từ a) Tiêu h ủy h óa đơn, ch ứng từ điện tử l à bi ện ph áp làm cho hóa đơn đi ện tử, chứng từ điện tử kh ông còn t ồn tại tr ên h ệ thống th ông tin, không th ể truy cập v à tham chi ếu đến th ông tin ch ứa trong h óa đơn đi ện tử, chứng từ điện tử. b) Tiêu h ủy h óa đơn do cơ quan thu ế đặt in, ti êu h ủy chứng từ đặt in, tự in l à vi ệc sử dụng biện ph áp đ ốt ch áy, c ắt, x é nh ỏ hoặc h ình th ức ti êu h ủy kh ác, đ ảm bảo h óa đơn, ch ứng từ đ ã tiêu h ủy sẽ kh ông th ể sử dụng lại c ác thông tin, s ố liệu tr ên đó. Hóa đơn, ch ứng từ được ph ép tiêu h ủy l à hóa đơn, ch ứng từ đ ã h ết thời hạn lưu trữ theo quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "giải pháp trong việc khởi tạo, kết nối nhận, truyền, nhận, lưu trữ, xử lý dữ liệu của hóa đơn điện tử, chứng từ điện tử. Tổ chức cung cấp dịch vụ hóa đơn điện tử bao gồm: Tổ chức cung cấp giải pháp hóa đơn điện tử cho người bán và người mua; tổ chức kết nối nhận, truyền, lưu trữ dữ liệu hóa đơn điện tử với cơ quan thuế. ” d) Bổ sung khoản 14 như sau: “14. C ổng th ông tin đi ện tử của Tổng cục Thuế về h óa đơn đi ện tử d ành cho ngư ời nộp thuế (sau đ ây g ọi tắt l à C ổng th ông tin đi ện tử của Tổng cục Thuế) l à điểm truy cập tập trung tr ên internet do T ổng cục Thuế cung cấp để người nộp thuế, cơ quan thuế, tổ chức truyền nhận v à các cơ quan, t ổ chức, c á nhân khác th ực hiện c ác giao d ịch về h óa đơn đi ện tử theo quy định, Cổng th ông tin đi ện tử của Tổng cục Thuế: Gửi phản hồi tự động về việc x ác nh ận người nộp thuế đ ã g ửi th ành công và thông báo v ề thời điểm tiếp nhận ch ính th ức hồ sơ, t ài"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PH Ủ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 70/2025/NĐ-CP Hà N ội, ng ày 20 tháng 3 năm 2025 NGHỊ ĐỊNH SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 123/2020/NĐ-CP NGÀY 19 THÁNG 10 NĂM 2020 CỦA CHÍNH PHỦ QUY ĐỊNH VỀ HÓA ĐƠN, CHỨNG TỪ Căn cứ Luật Tổ chức Chính phủ ngày 18 tháng 02 năm 2025; Căn cứ Luật Quản lý thuế ngày 13 tháng 6 năm 2019; Luật sửa đổi, bổ sung một số điều của Luật Chứng khoán, Luật Kế toán, Luật Kiểm toán độc lập, Luật Ngân sách nhà nước, Luật Quản lý, sử dụng tài sản công, Luật Quản lý thuế, Luật Thuế thu nhập cá nhân, Luật Dự trữ quốc gia, Luật Xử lý vi phạm hành chính ngày 29 tháng 11 năm 2024; Căn cứ Luật Thuế giá trị gia tăng ngày 03 tháng 6 năm 2008; Luật sửa đổi, bổ sung một số điều của Luật Thuế giá trị gia tăng ngày 19 tháng 6 năm 2013; Luật sửa đổi, bổ sung một số điều của các luật về thuế ngày 26 tháng 11 năm 2014; Luật sửa đổi, bổ sung một số điều của Luật Thuế giá trị gia..."
+    }
+  ]
+}

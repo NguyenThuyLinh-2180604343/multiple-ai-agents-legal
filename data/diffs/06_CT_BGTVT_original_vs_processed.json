@@ -1,0 +1,90 @@
+{
+  "base": "06_CT_BGTVT_original",
+  "revised": "06_CT_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section Section_1.1",
+      "change": "added",
+      "to": "TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 06/CT-BGTVT Hà Nội, ngày 25 tháng 5 năm 2023 CHỈ THỊ VỀ VIỆC TĂNG CƯỜNG CÔNG TÁC QUẢN LÝ CÁC TRƯỜNG, HỌC VIỆN THUỘC BỘ GIAO THÔNG VẬN TẢI Thực hiện chủ trương của Đảng"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "của pháp luật về giáo dục đại học, giáo dục nghề nghiệp, trong thời gian qua Bộ Giao thông vận tải đã lãnh đạo, chỉ đạo, tổ chức triển khai đồng bộ các giải pháp và đã đạt được những kết quả tích cực: hệ thống các trường, học viện thuộc Bộ đã từng bước được sắp xếp, tinh gọn; mô hình quản trị và phương thức quản lý"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "phát triển của ngành Giao thông vận tải và đất nước. Tuy nhiên, bên cạnh những kết quả đạt được vẫn còn những tồn tại, hạn chế cần khắc phục đặc biệt là công tác tuyển sinh, công tác cán bộ, liên kết đào tạo, quản lý sử dụng tài sản…; chưa phát huy được vị thế, vai trò của các cơ sở giáo dục, đào tạo đối với yêu cầu phát triển nguồn nhân lực của ngành Giao thông vận tải. Để tăng cường công tác quản lý nhằm tiếp tục nâng cao chất lượng và hiệu quả hoạt động của các trường, học viện,"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "gian tới, Bộ trưởng Bộ Giao thông vận tải yêu cầu các cơ quan, đơn vị: 1. Các tổ chức tham mưu giúp việc"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_5.1",
+      "change": "added",
+      "to": "tình hình tổ chức, hoạt động của các trường, học viện để tổ chức thực hiện hoặc tham mưu, đề xuất để Bộ Giao thông vận tải thực hiện đầy đủ vai trò, trách nhiệm của cơ quan chủ quản; quá trình tham mưu giải quyết công việc phải đảm bảo tuân"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_6.1",
+      "change": "added",
+      "to": "sau: a) Vụ Tổ chức cán bộ - Tiếp tục tham mưu, rà soát kiện toàn hệ thống các trường, học viện đảm bảo phù hợp với định hướng phát triển ngành Giao thông vận tải và quy hoạch mạng lưới các cơ sở giáo dục đại học, cơ sở giáo dục nghề nghiệp. - Tham mưu chỉ đạo, hướng dẫn các trường, học viện thực hiện sắp xếp tổ chức bộ máy, công tác cán bộ, công"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_7.1",
+      "change": "added",
+      "to": "cấp có thẩm quyền. - Phối hợp với Viện Chiến lược và Phát triển Giao thông vận tải xây dựng định hướng phát triển nhân lực ngành Giao thông vận tải đến năm 2030, tầm nhìn đến năm 2045 đảm bảo phù hợp với định hướng phát triển các lĩnh vực Giao thông vận tải đến năm 2030, tầm nhìn đến năm 2045 được cấp có thẩm quyền phê duyệt. - Chủ trì, phối hợp với các cơ quan, đơn vị liên quan hướng dẫn và tổng hợp kế hoạch phát triển giáo dục hàng năm và giai đoạn của các trường, học viện. b) Vụ Tài chính: Tham mưu chỉ đạo, hướng dẫn các trường, học viện trong công tác quản lý, sử dụng tài sản, tài chính,"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_8.1",
+      "change": "added",
+      "to": "pháp luật và hướng dẫn của cấp có thẩm quyền. c) Vụ Kế hoạch - Đầu tư: Tham mưu chỉ đạo, hướng dẫn các trường, học viện về chủ trương đầu tư các dự án đầu"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_9.1",
+      "change": "added",
+      "to": "Môi trường: Tham mưu chỉ đạo, hướng dẫn các trường, học viện trong các hoạt động khoa học và công nghệ, môi trường; đặc biệt là các hoạt động nghiên cứu khoa học, chuyển giao tri thức nhằm phát triển nguồn nhân lực chất lượng cao phục vụ đổi"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_10.1",
+      "change": "added",
+      "to": "theo dõi, đôn đốc, kiểm tra việc thực hiện hoạt động khoa học và công nghệ của các cơ sở giáo dục đại học trực thuộc Bộ theo quy định của pháp luật. đ) Vụ Hợp tác quốc tế: Tham mưu chỉ đạo, hướng dẫn các trường, học viện trong các hoạt động hợp tác, hội nhập quốc tế về giáo dục đào tạo, đặc biệt là các chương trình hợp tác trao đổi học sinh, sinh viên, giáo viên với các cơ sở đào tạo nước ngoài. e) Vụ Quản lý doanh nghiệp: Chủ trì, phối hợp với các cơ quan liên quan tham mưu thực hiện các thủ tục để chuyển các doanh nghiệp là công ty cổ phần có vốn góp nhà nước tại các trường đại học do Bộ Giao thông vận tải đang làm đại diện chủ sở hữu về Tổng công ty Đầu tư và"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_11.1",
+      "change": "added",
+      "to": "hợp với các cơ quan liên quan tăng cường công tác thanh tra, kiểm tra việc chấp"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_12.1",
+      "change": "added",
+      "to": "Hàng hải Việt Nam, Cục Đường thủy nội địa Việt Nam - Chỉ đạo các trường trực thuộc"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_13.1",
+      "change": "added",
+      "to": "nhiệm của cơ quan trực tiếp quản lý trường theo quy định của pháp luật. 3. Các trường, học viện trực thuộc Bộ - Tiếp tục rà soát, thực hiện việc"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 06/CT-BGTVT Hà Nội, ngày 25 tháng 5 năm 2023 CHỈ THỊ VỀ VIỆC TĂNG CƯỜNG CÔNG TÁC QUẢN LÝ CÁC TRƯỜNG, HỌC VIỆN THUỘC BỘ GIAO THÔNG VẬN TẢI Thực hiện chủ trương của Đảng và quy định pháp luật của Nhà nước về đổi mới hệ thống tổ chức và quản lý, nâng cao chất lượng, hiệu quả hoạt động của các đơn vị sự nghiệp công lập và quy định của pháp luật về giáo dục đại học, giáo dục nghề nghiệp, trong thời gian qua Bộ Giao thông vận tải đã lãnh đạo, chỉ đạo, tổ chức triển khai đồng bộ các giải pháp và đã đạt được những kết quả tích cực: hệ thống các trường, học viện thuộc Bộ đã từng bước được sắp xếp, tinh gọn; mô hình quản trị và phương thức quản lý đã được đổi mới; chất lượng đào tạo từng bước được nâng lên để đáp ứng yêu cầu phát triển của ngành Giao thông vận tải và đất nước. Tuy nhiên, bên cạnh những kết quả đạt được vẫn còn những tồn tại, hạn chế cần khắc phục đặ..."
+    }
+  ]
+}

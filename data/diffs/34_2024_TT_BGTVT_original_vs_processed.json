@@ -1,0 +1,48 @@
+{
+  "base": "34_2024_TT_BGTVT_original",
+  "revised": "34_2024_TT_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "vi điều chỉnh Thông tư này quy định về hoạt động trạm thu phí đường bộ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "tượng áp dụng Thông tư này áp dụng đối với các tổ chức, cá nhân liên quan đến hoạt động trạm thu phí đường bộ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "thích từ ngữ 1. Hoạt động trạm thu phí đường bộ bao gồm: quản lý, vận hành, bảo trì, nâng cấp trạm thu phí đường bộ; quản lý hoạt động trạm thu phí đường bộ; trách nhiệm trong quản lý hoạt động thu phí đường bộ. 2. Trạm thu phí đường bộ (sau đây gọi tắt là trạm thu phí) bao gồm hạ tầng trạm thu phí và hệ thống thu phí. 3. Hạ tầng trạm thu phí bao gồm: nhà điều hành; giá long môn và cổng trạm thu phí (nếu có); mặt đường và hệ thống điện chiếu sáng trong phạm vi trạm thu phí; đảo phân làn (nếu có); cabin thu phí (nếu có); các trang bị an toàn và hệ thống an toàn giao thông tại trạm thu phí. 4. Hệ thống điều hành và trung tâm dữ liệu của nhà cung cấp dịch vụ thanh toán tiền sử dụng đường bộ (sau đây được gọi là hệ thống Back-End) là hệ thống theo quy định của pháp luật về thanh toán điện tử giao thông đường bộ. 5. Hệ thống thiết bị lắp đặt tại trạm thu phí, trực tiếp tương tác với phương tiện giao thông đi qua trạm (sau đây được gọi là hệ thống Front-End) bao gồm các thiết bị điện tử như đầu đọc thẻ, ăng ten, ca-me-ra nhận dạng biển số, thiết bị nhận diện xe vào trạm, ba-ri-e tốc độ cao và các hệ thống phần cứng, phần mềm, thiết bị tự động hóa khác. Hệ thống Front-End kết nối với hệ thống Back-End để gửi thông tin giao dịch và thu nhận thông tin của phương tiện, thẻ đầu cuối. 6. Hệ thống thu phí bao gồm hệ thống Back-End, hệ thống Front-End và hệ thống đường truyền dữ liệu. 7. Đơn vị quản lý thu đối với thu phí sử dụng đường cao tốc là cơ quan quản lý thu, tổ chức nhận nhượng quyền thu phí sử dụng đường cao tốc theo quy định của pháp luật về thu phí sử dụng đường bộ cao tốc đối với phương tiện lưu thông trên tuyến đường bộ cao tốc thuộc sở hữu toàn dân do Nhà nước đại diện chủ sở hữu và trực tiếp quản lý, khai thác (sau đây gọi tắt là quy định của pháp luật về thu phí sử dụng đường cao tốc). Chương II QUẢN LÝ, VẬN HÀNH, BẢO TRÌ, NÂNG CẤP TRẠM THU PHÍ"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "lý, vận hành, bảo trì, nâng cấp hạ tầng trạm thu phí và hệ thống Front-End 1. Đơn vị vận hành thu thực hiện công tác quản lý, vận hành, bảo trì, nâng cấp hạ tầng trạm thu phí và hệ thống Front-End theo nhiệm vụ được giao hoặc hợp đồng dịch vụ thu với đơn vị quản lý thu. 2. Đối với trạm thu phí để thu tiền dịch vụ sử dụng đường bộ theo pháp luật về giá (sau đây gọi tắt là tiền dịch vụ sử dụng đường bộ), chi phí quản lý, vận hành, bảo trì, nâng cấp được lấy từ nguồn thu tiền dịch vụ sử dụng đường bộ và được xác định trong phương án tài chính của dự án đầu tư có thu tiền dịch vụ sử dụng đường bộ. Trường hợp nhà cung cấp dịch vụ thanh toán tiền sử dụng đường bộ đồng thời là đơn vị vận hành thu theo hợp đồng với cơ quan có thẩm quyền thì chi phí quản lý, vận hành, bảo trì, nâng cấp được tính trong hợp đồng ký với cơ quan có thẩm quyền. 3. Đối với trạm thu phí để thu phí sử dụng đường cao tốc đối với phương tiện lưu thông trên tuyến đường cao tốc thuộc sở hữu toàn dân do Nhà nước đầu tư, sở hữu, quản lý và khai thác (sau đây gọi tắt là phí sử dụng đường cao tốc), chi phí quản lý, vận hành được lấy từ nguồn thu phí sử dụng đường cao tốc theo quy định của pháp luật về thu phí sử dụng đường cao tốc; chi phí bảo trì, nâng cấp được lấy từ nguồn tài chính quy định tại khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "lý, vận hành, bảo trì, nâng cấp hệ thống Back-End và hệ thống đường truyền dữ liệu 1. Nhà cung cấp dịch vụ thanh toán tiền sử dụng đường bộ thực hiện công tác quản lý, vận hành, bảo trì, nâng cấp hệ thống Back-End và hệ thống đường truyền dữ liệu theo quy định pháp luật về thanh toán điện tử giao thông đường bộ và quy định trong hợp đồng ký kết với cơ quan có thẩm quyền, trừ trường hợp cơ quan có thẩm quyền tự cung cấp dịch vụ thanh toán tiền sử dụng đường bộ. 2. Chi phí quản lý, vận hành, bảo trì, nâng cấp được lấy từ nguồn chi phí dịch vụ thanh toán tiền sử dụng đường bộ theo hình thức điện tử không dừng và các nguồn kinh phí hợp pháp theo quy định pháp luật."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "gian làm việc, trang phục, phù hiệu 1. Trạm thu phí hoạt động 24/24 giờ vào tất cả các ngày trong năm, kể cả ngày nghỉ và ngày lễ trừ những trường hợp tạm dừng thu, dừng thu t"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 34/2024/TT-BGTVT Hà Nội, ngày 14 tháng 11 năm 2024 THÔNG TƯ QUY ĐỊNH VỀ HOẠT ĐỘNG TRẠM THU PHÍ ĐƯỜNG BỘ Căn cứ Luật Đường bộ ngày 27 tháng 6 năm 2024; Căn cứ Nghị định số 56/2022/NĐ-CP ngày 24 tháng 8 năm 2022 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Theo đề nghị của Vụ trưởng Vụ Kết cấu hạ tầng giao thông và Cục trưởng Cục Đường bộ Việt Nam; Bộ trưởng Bộ Giao thông vận tải ban hành Thông tư quy định về hoạt động trạm thu phí đường bộ. Chương I QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Thông tư này quy định về hoạt động trạm thu phí đường bộ. Điều 2. Đối tượng áp dụng Thông tư này áp dụng đối với các tổ chức, cá nhân liên quan đến hoạt động trạm thu phí đường bộ. Điều 3. Giải thích từ ngữ 1. Hoạt động trạm thu phí đường bộ bao gồm: quản lý, vận hành, bảo trì, nâng cấp trạm thu phí đường bộ; quản lý ..."
+    }
+  ]
+}

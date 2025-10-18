@@ -1,0 +1,36 @@
+{
+  "base": "26_2025_TT_BXD_original",
+  "revised": "26_2025_TT_BXD_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 7.1",
+      "change": "added",
+      "to": "hàng hóa 1. Danh sách các cặp cửa khẩu, tuyến đường vận tải hàng hóa ASEAN thực hiện Hiệp định khung ASEAN về tạo thuận lợi cho hàng hóa quá cảnh và Hiệp định khung ASEAN về tạo điều kiện thuận lợi cho vận tải liên quốc gia được quy định tại Phụ lục II và đối chiếu phạm vi địa lý tại Phụ lục XI ban hành kèm theo Thông tư này. 2. Khi các Bên ký kết thống nhất bổ sung các cặp cửa khẩu và tuyến đường vận tải thực hiện Hiệp định khung ASEAN về tạo thuận lợi cho hàng hóa quá cảnh, Hiệp định khung ASEAN về tạo điều kiện thuận lợi cho vận tải liên quốc gia và có hiệu lực đối với nước Cộng hòa xã hội chủ nghĩa Việt Nam, phương tiện vận tải được cấp Giấy phép liên vận ASEAN còn thời hạn sử dụng được phép hoạt động qua lại biên giới tại các cặp cửa khẩu, tuyến đường bổ sung.”."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 8.1",
+      "change": "added",
+      "to": "hành khách 1. Danh sách các cặp cửa khẩu, tuyến đường vận tải hành khách ASEAN thực hiện Hiệp định khung ASEAN về tạo thuận lợi vận tải hành khách qua biên giới bằng phương tiện giao thông đường bộ được quy định tại Phụ lục III và đối chiếu phạm vi địa lý tại Phụ lục XI ban hành kèm theo Thông tư này. 2. Khi các Bên ký kết thống nhất bổ sung các cặp cửa khẩu và tuyến đường vận tải thực hiện Hiệp định khung ASEAN về tạo thuận lợi vận tải hành khách qua biên giới bằng phương tiện giao thông đường bộ và có hiệu lực đối với nước Cộng hòa xã hội chủ nghĩa Việt Nam, phương tiện vận tải được cấp Giấy phép liên vận ASEAN còn thời hạn sử dụng được phép hoạt động qua lại biên giới tại các cặp cửa khẩu, tuyến đường bổ sung."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 11.1",
+      "change": "added",
+      "to": "GMS được quy định tại Phụ lục VII ban hành kèm theo Thông tư này. 2. Khi các Bên ký kết bổ sung các cặp cửa khẩu thực hiện Hiệp định GMS và có hiệu lực đối với nước Cộng hòa xã hội chủ nghĩa Việt Nam, phương tiện vận tải được cấp Giấy phép liên vận GMS và sổ TAD còn thời hạn sử dụng được phép hoạt động qua lại biên giới tại các cặp cửa khẩu bổ sung.”."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 12.1",
+      "change": "added",
+      "to": "GMS được quy định tại Phụ lục VIII và đối chiếu phạm vi địa lý tại Phụ lục XI ban hành kèm theo Thông tư này. 2. Khi các Bên ký kết thống nhất bổ sung các tuyến đường vận tải thực hiện Hiệp định GMS và có hiệu lực đối với nước Cộng hòa xã hội chủ nghĩa Việt Nam, phương tiện được cấp Giấy phép liên vận GMS và sổ TAD còn thời hạn sử dụng được phép hoạt động qua lại biên giới"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ XÂY DỰNG ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 26/2025/TT-BXD Hà Nội, ngày 30 tháng 09 năm 2025 THÔNG TƯ SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 37/2023/TT-BGTVT NGÀY 13 THÁNG 12 NĂM 2023 CỦA BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI VỀ QUẢN LÝ HOẠT ĐỘNG VẬN TẢI ĐƯỜNG BỘ QUA BIÊN GIỚI Căn cứ Luật Điều ước quốc tế ngày 09 tháng 4 năm 2016; Căn cứ Nghị định số 33/2025/NĐ-CP ngày 25 tháng 02 năm 2025 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Xây dựng; Căn cứ Hiệp định khung ASEAN về tạo thuận lợi cho hàng hóa quá cảnh ký ngày 16 tháng 12 năm 1998; Căn cứ Hiệp định khung ASEAN về tạo điều kiện thuận lợi cho vận tải liên quốc gia ký ngày 10 tháng 12 năm 2009; Căn cứ Hiệp định khung ASEAN về tạo thuận lợi vận tải hành khách qua biên giới bằng phương tiện giao thông đường bộ ký ngày 13 tháng 10 năm 2017; Căn cứ Hiệp định về tạo thuận lợi vận tải người và hàng hóa qua lại biên giới giữa các ..."
+    }
+  ]
+}

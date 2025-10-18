@@ -1,0 +1,36 @@
+{
+  "base": "60_QĐ_CATP(PV11)_original",
+  "revised": "60_QĐ_CATP(PV11)_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "dụng trong đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ và đăng ký, quản lý cư trú: 1. Các loại biểu mẫu dùng trong công tác đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ gồm: a. Đơn đề nghị cấp lại giấy đăng ký xe (ký hiệu ĐN01); b. Đơn đề nghị cấp lại biển số xe (ký hiệu ĐN02); c. Đơn đề nghị đổi lại giấy đăng ký xe (ký hiệu ĐN03); d. Đơn đề nghị đổi lại biển số xe (ký hiệu ĐN04); e. Đơn đề nghị đổi màu sơn xe (ký hiệu ĐN05); 2. Các loại biểu mẫu dùng trong công tác đăng ký, quản lý cư trú gồm: a. Đơn đề nghị xác nhận chỗ ở hợp pháp (ký hiệu XN01); b. Đơn đề nghị xác nhận tạm trú (ký hiệu XN02); c. Đơn đề nghị xác nhận nhà cho thuê, mượn, cho ở nhờ (ký hiệu XN03); d. Đơn đề nghị xác nhận thay đổi chủ hộ (ký hiệu XN04); e. Thông báo giải quyết hộ khẩu (ký hiệu TB)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "thực hiện thống nhất theo mẫu (có phụ lục kèm theo). Trưởng Phòng PC13, PC26 có trách nhiệm hướng dẫn sử dụng, thực hiện thống nhất trên toàn địa bàn thành phố Cần Thơ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "ngày ký."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "phương chịu trách nhiệm thi hành Quyết định này./. Nơi nhận: - Như"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ CÔNG AN CÔNG AN TP CẦN THƠ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 60/QĐ.CATP(PV11) Cần Thơ, ngày 07 tháng 04 năm 2008 QUYẾT ĐỊNH VỀ VIỆC BAN HÀNH BIỂU MẪU ĐỂ SỬ DỤNG TRONG CÔNG TÁC ĐĂNG KÝ, CẤP BIỂN SỐ PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ VÀ ĐĂNG KÝ, QUẢN LÝ CƯ TRÚ GIÁM ĐỐC CÔNG AN THÀNH PHỐ Căn cứ Nghị định số 136/2003/NĐ-CP ngày 14/11/2003 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công an; Căn cứ Nghị định số 107/2007/NĐ-CP ngày 25/6/2007 của Thủ tướng Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Cư trú; Căn cứ Nghị định số 146/2007/NĐ-CP ngày 14/9/2007 của Thủ tướng Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ; Căn cứ Thông tư số 01/2007/TT-BCA-C11 ngày 02/01/2007 của Bộ Công an quy định về việc tổ chức đăng ký, cấp biển số phương tiện giao thông cơ giới đường bộ; Căn cứ Thông tư số 06/2007/TT-BCA-C11 ngày 01/7/2007 của Bộ..."
+    }
+  ]
+}

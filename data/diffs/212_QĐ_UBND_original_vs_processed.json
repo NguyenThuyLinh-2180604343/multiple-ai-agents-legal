@@ -1,0 +1,36 @@
+{
+  "base": "212_QĐ_UBND_original",
+  "revised": "212_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "lực thi hành trên Hệ thống thông tin giải quyết thủ tục hành chính của tỉnh theo quy định. 2. Văn phòng UBND tỉnh cập nhật, đăng tải công khai kịp thời, đầy đủ, chính xác các thông tin, dữ liệu thủ tục hành chính thuộc thẩm quyền giải quyết của các cấp chính quyền tỉnh Phú Thọ vào Cơ sở dữ liệu quốc gia về thủ tục hành chính theo quy định."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "quan liên quan rà soát, xây dựng mới hoặc sửa đổi, bổ sung quy trình nội bộ giải quyết từng thủ tục hành chính công bố tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "có hiệu lực thi hành kể từ ngày ký ban hành. Sửa đổi, bổ sung: 19 thủ tục hành chính được công bố tại Danh mục kèm theo các Quyết định của Chủ tịch UBND tỉnh Phú Thọ gồm: Quyết định số 1041/QĐ-UBND ngày 11/6/2024 (Thủ tục số: 1, 2 Phần A; Thủ tục số: 5, 6, 8, 10, 11, 12, 13, 14, 15, 18 ,19, 24, 25, 26 Phần B, Danh mục kèm theo); Quyết định số 801/QĐ-UBND ngày 17/4/2020 (Thủ tục số 1, Mục I, Phần B Danh mục kèm theo); Quyết định số 482/QĐ-UBND ngày 07/3/2022 (Thủ tục số 6, Phần A Danh mục kèm theo) và Quyết định số 508/QĐ-UBND ngày 12/3/2019 (Thủ tục số 1, Mục I Danh mục kèm theo). Thay thế: 17 thủ tục hành chính được công bố tại Danh mục kèm theo các Quyết định của Chủ tịch UBND tỉnh Phú Thọ gồm: Quyết định số 763/QĐ-UBND ngày 19/4/2024 (Thủ tục số 1, 2, 3 Danh mục kèm theo); Quyết định số 1041/QĐ- UBND ngày 11/6/2024 (Thủ tục số: 1, 2, 3, 4, 7, 9, 16, 17, 20, 21, 22, 23, 27, 28 Phần B, Danh mục kèm theo). Bãi bỏ: 02 thủ tục hành chính được công bố tại Danh mục ban hành kèm theo Quyết định số 1041/QĐ-UBND ngày 11/6/2024 (Thủ tục số: 28, 30 Phần B, Danh mục kèm theo)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "TỤC HÀNH CHÍNH MỚI BAN HÀNH, ĐƯỢC SỬA ĐỔI, BỔ SUNG, THAY THẾ VÀ BỊ BÃI BỎ LĨNH VỰC: ĐƯỜNG BỘ, ĐƯỜNG THỦY NỘI ĐỊA THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA CẤP TỈNH TRÊN ĐỊA BÀN TỈNH PHÚ THỌ (Ban hành kèm theo Quyết định số 212/QĐ-UBND ngày 24 tháng 01 năm 2025 của Chủ tịch UBND tỉnh Phú Thọ) TTHC: Thủ tục hành chính; DVC: Dịch vụ công. I. TTHC MỚI BAN HÀNH TT Mã TTHC Tên TTHC Thời hạn giải quyết Cách thức nộp hồ sơ Phí, Lệ phí (nếu có) DVC trực tuyến (mức độ) Căn cứ pháp lý I Lĩnh vực Đường bộ 1 1.013240 Chấp thuận hoạt động của sân tập lái để sát hạch lái xe mô tô 05 ngày làm việc kể từ ngày nhận đủ hồ sơ đúng theo quy định 1. Trực tiếp Trung tâm Phục vụ Hành chính công (HCC) Địa chỉ: Số 398 - Đường Trần Phú - phường Tân Dân - TP Việt Trì - tỉnh Phú Thọ ĐT: 0210 2222 555. 2. Dịch vụ BCCI Không Một phần Nghị định số 160/2024/NĐ-CP ngày 18/12/2024 của Chính phủ quy"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH PHÚ THỌ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 212/QĐ-UBND Phú Thọ, ngày 24 tháng 01 năm 2025 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ DANH MỤC THỦ TỤC HÀNH CHÍNH MỚI BAN HÀNH, ĐƯỢC SỬA ĐỔI, BỔ SUNG, THAY THẾ VÀ BỊ BÃI BỎ CÁC LĨNH VỰC: ĐƯỜNG BỘ, ĐƯỜNG THỦY NỘI ĐỊA THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA CẤP TỈNH TRÊN ĐỊA BÀN TỈNH PHÚ THỌ CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH PHÚ THỌ Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Luật Sửa đổi, bổ sung một số điều của Luật Tổ chức chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08/6/2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 92/2017/NĐ-CP ngày 08/7/2017 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Thông tư số 02/2017/TT-VPCP n gày 31/10/2017 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ hướng dẫn về nghiệp vụ kiểm soát thủ tụ..."
+    }
+  ]
+}

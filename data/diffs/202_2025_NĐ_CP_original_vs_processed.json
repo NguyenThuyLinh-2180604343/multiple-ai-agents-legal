@@ -1,0 +1,48 @@
+{
+  "base": "202_2025_NĐ_CP_original",
+  "revised": "202_2025_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "tự, thủ tục, chương trình giáo dục, việc cấp văn bằng, chứng chỉ thực hiện liên kết giáo dục, giảng dạy chương trình giáo dục tích hợp đối với cơ sở giáo dục mầm non, giáo dục phổ thông công lập của thành phố Hà Nội."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "lập của thành phố Hà Nội, bao gồm: nhà trẻ, trường mẫu giáo, trường mầm non, trường tiểu học, trường trung học cơ sở, trường trung học phổ thông, trường phổ thông có nhiều cấp học và các tổ chức, cá nhân có liên quan thực hiện liên kết giáo dục với cơ sở giáo dục, tổ chức giáo dục của nước ngoài. 2. Cơ sở giáo dục, tổ chức giáo dục của nước ngoài thực hiện liên kết giáo dục với cơ sở giáo dục mầm non, giáo dục phổ thông công lập của thành phố Hà Nội. Chương II CHƯƠNG TRÌNH GIÁO DỤC THỰC HIỆN LIÊN KẾT GIÁO DỤC"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "sau: 1. Bảo đảm tính khoa học, hợp lí, khả thi và phù hợp điều kiện thực hiện tại Việt Nam. 2. Nội dung, thời lượng quy định trong chương trình giáo dục tích hợp phải phù hợp tâm sinh lí lứa tuổi học sinh, thuần phong mĩ tục và truyền thống, văn hoá của Việt Nam; không có định kiến xã hội về giới, sắc tộc, tôn giáo, địa vị xã hội; phù hợp với quan điểm, đường lối của Đảng Cộng sản Việt Nam; tuân thủ Hiến pháp , pháp luật Việt Nam; không vi phạm các quy định về quốc phòng, an ninh của Việt Nam. 3. Chương trình giáo dục tích hợp phải có định hướng về phương pháp, hình thức giáo dục và phương pháp đánh giá kết quả giáo dục, làm cơ sở cho việc quản lí, xây dựng kế hoạch giáo dục của nhà trường. 4. Chương trình giáo dục tích hợp phải có quy định điều kiện bảo đảm thực hiện, bao gồm: tổ chức và quản lí thực hiện chương trình; đội ngũ cán bộ quản lí, giáo viên và nhân viên; cơ sở vật chất, thiết bị dạy học."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 11.1",
+      "change": "added",
+      "to": "này ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "chương trình giáo dục tích hợp Việc tích hợp chương trình giáo dục phải thực hiện theo quy định tại khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "giáo dục mầm non 1. Chương trình giáo dục tích hợp bậc mầm non được xây dựng trên cơ sở chương trình giáo dục mầm non của Việt Nam, bổ sung các mặt phát triển hoặc lĩnh vực phát triển (sau đây gọi chung là lĩnh vực phát triển), nội dung, hoạt động giáo dục của chương trình giáo dục mầm non của nước ngoài mà chương trình giáo dục mầm non của Việt Nam không có; tích hợp các lĩnh vực phát triển có trong cả hai chương trình để bảo đảm mục tiêu của chương trình giáo dục của Việt Nam và chương trình giáo dục của nước ngoài. 2. Việc tích hợp chương trình giáo dục mầm non được thực hiện theo lĩnh vực phát triển hoặc nhóm lĩnh vực phát triển của trẻ em trên cơ sở lấy nội dung, hoạt động giáo dục của lĩnh vực phát triển của một trong hai chương trình làm gốc, bổ sung nội dung, hoạt động giáo dục của"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 202/2025/NĐ-CP Hà Nội, ngày 11 tháng 7 năm 2025 NGHỊ ĐỊNH QUY ĐỊNH CHI TIẾT VỀ ĐIỀU KIỆN, TRÌNH TỰ, THỦ TỤC, CHƯƠNG TRÌNH GIÁO DỤC, VIỆC CẤP VĂN BẰNG, CHỨNG CHỈ THỰC HIỆN LIÊN KẾT GIÁO DỤC, GIẢNG DẠY CHƯƠNG TRÌNH GIÁO DỤC TÍCH HỢP ĐỐI VỚI CƠ SỞ GIÁO DỤC MẦM NON, GIÁO DỤC PHỔ THÔNG CÔNG LẬP CỦA THÀNH PHỐ HÀ NỘI Căn cứ Luật Tổ chức Chính phủ số 63/2025/QH15 ; Căn cứ Luật Tổ chức chính quyền địa phương số 72/2025/QH15 ; Căn cứ Luật Giáo dục số 43/2019/QH14 ; Căn cứ Luật Đầu tư số 61/2020/QH14 ; Căn cứ Luật Thủ đô số 39/2024/QH15 ; Theo đề nghị của Bộ trưởng Bộ Giáo dục và Đào tạo; Chính phủ ban hành Nghị định quy định chi tiết về điều kiện, trình tự, thủ tục, chương trình giáo dục, việc cấp văn bằng, chứng chỉ thực hiện liên kết giáo dục, giảng dạy chương trình giáo dục tích hợp đối với cơ sở giáo dục mầm non, giáo dục phổ thông công lập của thành phố Hà Nội. Chương I ..."
+    }
+  ]
+}

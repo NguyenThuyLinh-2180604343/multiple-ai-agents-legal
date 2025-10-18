@@ -1,0 +1,72 @@
+{
+  "base": "271_TB_VPCP_original",
+  "revised": "271_TB_VPCP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section Section_1.1",
+      "change": "added",
+      "to": "PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 271/TB-VPCP Hà Nội, ngày 21 tháng 10 năm 2021 THÔNG BÁO KẾT LUẬN CỦA PHÓ THỦ TƯỚNG THƯỜNG TRỰC CHÍNH PHỦ PHẠM BÌNH MINH - CHỦ TỊCH ỦY BAN AN TOÀN GIAO THÔNG QUỐC GIA TẠI HỘI NGHỊ SƠ KẾT CÔNG TÁC BẢO ĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG 9 THÁNG VÀ TRIỂN KHAI NHIỆM VỤ TRỌNG TÂM QUÝ IV NĂM 2021 Ngày 15 tháng 10 năm 2021, Phó Thủ tướng Thường trực Chính phủ Phạm Bình Minh - Chủ tịch Ủy ban An toàn giao thông (ATGT) Quốc gia đã chủ trì Hội nghị trực tuyến toàn quốc sơ kết công tác bảo đảm trật tự, an"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "- Phó Chủ tịch Thường trực Ủy ban ATGT Quốc gia cùng các đồng chí Lãnh đạo và thành viên Ủy ban ATGT Quốc gia, lãnh đạo và thành viên Ban An toàn giao thông 63 tỉnh, thành phố trực thuộc Trung ương, Hiệp hội Vận tải ô tô Việt Nam, Tổng Liên đoàn lao động Việt Nam. Sau khi nghe báo cáo của Ủy ban ATGT Quốc gia về kết"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "2021; ý kiến phát biểu của các đại biểu dự họp, Phó Thủ tướng Thường trực Phạm Bình Minh - Chủ tịch Ủy ban ATGT Quốc gia kết luận như sau: I. ĐÁNH GIÁ CHUNG 1. Trong 9 tháng đầu năm 2021, với sự chỉ đạo quyết liệt của Chính phủ, Thủ tướng Chính phủ, cùng sự vào cuộc tích cực của các Bộ, ngành, địa phương, tình hình TTATGT năm 2021 tiếp tục có chuyển biến tốt, cả 03 tiêu chí về số vụ, số người chết và số người bị thương do tai nạn giao thông (TNGT) đều giảm sâu so với cùng kỳ năm 2020, cụ thể: giảm 2.527 vụ (-23,64%), số người chết giảm 817 người (-16,37%), số người bị thương giảm 2.237 người (-28,38%), ùn tắc giao thông kéo dài trên các tuyến trục chính ra vào Hà Nội, Thành phố Hồ Chí Minh và tại các đầu mối giao thông chính (trước khi đợt dịch COVID-19 bùng phát) cơ bản được kiểm soát. Nguyên nhân đạt được kết quả nêu trên là do việc thực"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "đến số lượng phương tiện và người tham gia giao thông giảm rất sâu so với cùng kỳ năm 2020. Bên cạnh đó, lực lượng Cảnh sát giao thông (CSGT), Thanh tra GTVT và các lực lượng chức năng khác đã thực hiện có hiệu quả việc phối hợp tuần tra kiểm soát, xử lý vi phạm về TTATGT với kiểm soát phòng chống dịch COVID-19 trên các tuyến giao thông; đồng thời hướng dẫn, hỗ trợ, bảo đảm lưu thông an toàn, thông suốt cho người và phương tiện tham gia giao thông. Đồng thời, ngành Y tế (gồm cả lực lượng Y tế của Quân đội và Công an), đã nỗ lực vừa hoàn thành tốt"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_5.1",
+      "change": "added",
+      "to": "nhân COVID-19, vừa làm tốt công tác cứu chữa, chăm sóc sức khoẻ cho nạn nhân TNGT. 2. Một số tồn tại, hạn chế: Bên cạnh những kết quả đạt được, công tác bảo đảm TTATGT còn một số tồn tại, hạn chế như: Mức độ giảm TNGT chưa tương xứng với mức độ giảm lưu lượng người và phương tiện giao thông; ở một số địa phương, công tác tổ chức giao thông khi xử lý tai nạn vẫn chưa hiệu quả, việc tổ chức kiểm soát tại các chốt kiểm dịch chưa khoa học dẫn đến nhiều vụ ùn tắc giao thông cục bộ trên các tuyến đường bộ; một số địa phương buông lỏng trong kiểm soát tải trọng xe, dẫn tới tình hình vi phạm tải trọng xe diễn ra phức tạp. Còn 09 địa phương có số người chết do TNGT tăng so với 9 tháng đầu năm"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_6.1",
+      "change": "added",
+      "to": "tăng trên 20% là Hà Giang, Tuyên Quang, Quảng Nam, Đắk Nông, Điện Biên. Nguyên nhân của những tồn tại, hạn chế nêu trên là do một bộ phận người dân còn thiếu kiến thức, kỹ năng về TTATGT; nguồn lực dành cho công tác bảo đảm TTATGT vẫn còn hạn chế; cấp ủy, chính quyền ở một số địa phương chưa quan tâm đúng mức, thiếu quyết liệt, thiếu thống nhất trong chỉ đạo"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_7.1",
+      "change": "added",
+      "to": "với bảo đảm giao thông thông suốt, an toàn chưa hiệu quả (một số địa phương đưa"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_8.1",
+      "change": "added",
+      "to": "của Trung ương, dẫn đến hiện tượng ùn tắc, mất TTATGT tại các chốt kiểm dịch); hạn chế về mức độ ứng dụng công nghệ thông tin, thiếu sự chia sẻ, kết nối về cơ sở dữ liệu, ảnh hưởng tiêu cực đến kết quả và hiệu quả của công tác quản lý nhà"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_9.1",
+      "change": "added",
+      "to": "NĂM 2021 Trong những tháng còn lại của năm 2021, với sự nỗ lực cao nhất của cả hệ thống chính trị, dịch bệnh COVID-19 sẽ từng bước được kiểm soát, kinh tế - xã hội sẽ từng bước được phục hồi và tăng trưởng trở lại, dự báo hoạt động giao thông vận tải sẽ dần quay về với mức độ trước khi có đại dịch COVID-19 và tiếp tục gia tăng. Thực hiện Nghị quyết Trung ương 4 Khóa 15, tập"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_10.1",
+      "change": "added",
+      "to": "phục hồi, phát triển kinh tế - xã hội. Quý IV cũng là giai đoạn chuẩn bị đón Tết"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "VĂN PHÒNG CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 271/TB-VPCP Hà Nội, ngày 21 tháng 10 năm 2021 THÔNG BÁO KẾT LUẬN CỦA PHÓ THỦ TƯỚNG THƯỜNG TRỰC CHÍNH PHỦ PHẠM BÌNH MINH - CHỦ TỊCH ỦY BAN AN TOÀN GIAO THÔNG QUỐC GIA TẠI HỘI NGHỊ SƠ KẾT CÔNG TÁC BẢO ĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG 9 THÁNG VÀ TRIỂN KHAI NHIỆM VỤ TRỌNG TÂM QUÝ IV NĂM 2021 Ngày 15 tháng 10 năm 2021, Phó Thủ tướng Thường trực Chính phủ Phạm Bình Minh - Chủ tịch Ủy ban An toàn giao thông (ATGT) Quốc gia đã chủ trì Hội nghị trực tuyến toàn quốc sơ kết công tác bảo đảm trật tự, an toàn giao thông (TTATGT) 9 tháng và triển khai nhiệm vụ trọng tâm Quý IV năm 2021. Tham dự Hội nghị có Bộ trưởng Bộ Giao thông vận tải (GTVT) Nguyễn Văn Thể - Phó Chủ tịch Thường trực Ủy ban ATGT Quốc gia cùng các đồng chí Lãnh đạo và thành viên Ủy ban ATGT Quốc gia, lãnh đạo và thành viên Ban An toàn giao thông 63 tỉnh, thành phố trực thuộc Trung ương, Hiệp hội Vận tải ô..."
+    }
+  ]
+}

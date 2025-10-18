@@ -1,0 +1,66 @@
+{
+  "base": "94_2024_NĐ_CP_original",
+  "revised": "94_2024_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "chi tiết một số điều, khoản của Luật Kinh doanh bất động sản số 29/2023/QH15 (sau đây gọi chung là Luật Kinh doanh bất động sản) gồm: 1."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 72.1",
+      "change": "added",
+      "to": "hành, khai thác hệ thống thông tin về nhà ở và thị trường bất động sản. 2."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 74.1",
+      "change": "added",
+      "to": "sản. 4. Điểm a, điểm b khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 75.1",
+      "change": "added",
+      "to": "bất động sản."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "với cơ quan, tổ chức, cá nhân có liên quan đến việc xây dựng, quản lý và sử dụng hệ thống thông tin về nhà ở và thị trường bất động sản."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "là số lượng bất động sản của dự án đủ điều kiện đưa vào giao dịch theo quy định của pháp luật nhưng chưa giao dịch trong kỳ báo cáo. 2. Cơ quan quản lý hệ thống thông tin về nhà ở và thị trường bất động sản là Bộ Xây dựng, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương. Trong đó, Bộ Xây dựng quản lý hệ thống thông tin; cơ sở dữ liệu về nhà ở và thị trường bất động sản trên phạm vi toàn quốc; Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương quản lý cơ sở dữ liệu về nhà ở và thị trường bất động sản trong phạm vi của địa phương."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "hệ thống thông tin về nhà ở và thị trường bất động sản 1. Bảo đảm phục vụ kịp thời công tác quản lý nhà nước, bảo đảm quốc phòng, an ninh, đáp ứng yêu cầu phát triển kinh tế - xã hội, công khai, minh bạch thông tin về nhà ở và thị trường bất động sản. 2. Cơ sở dữ liệu về nhà ở và thị trường bất động sản được xây dựng và quản lý tập trung, thống nhất từ trung ương đến địa phương; có tính mở; đáp ứng tiêu chuẩn, quy chuẩn về cơ sở dữ liệu, định mức kinh tế - kỹ thuật do cơ quan nhà nước có thẩm quyền ban hành; bảo đảm việc kết nối, chia sẻ, cung cấp dữ liệu với cơ sở dữ liệu quốc gia và các cơ sở dữ liệu chuyên ngành khác có liên quan được thông suốt, kịp thời. 3. Cơ sở dữ liệu về nhà ở và thị trường bất động sản được quản lý chặt chẽ, bảo đảm an toàn thông tin, bảo vệ bí mật nhà nước, bảo mật thông tin cá nhân; bảo đảm thuận tiện trong khai thác và sử dụng, tạo thuận lợi cho các hoạt động trên môi trường mạng. 4. Các thông tin, dữ liệu về nhà ở và thị trường bất động sản được thu thập đầy đủ, chính xác, kịp thời. Trước khi cập nhật vào cơ sở dữ liệu phải được kiểm tra, đánh giá, xử lý, tích hợp, số hóa và chuẩn hóa. 5. Việc xây dựng, quản lý, khai thác, sử dụng thông tin, dữ liệu về nhà ở và thị trường bất động sản phải đảm bảo đúng mục đích, tuân theo các quy định về quản lý, kết nối và chia sẻ dữ liệu số của cơ quan nhà nước và pháp luật về giao dịch điện tử. Chương II NỘI DUNG CƠ SỞ DỮ LIỆU VỀ NHÀ Ở VÀ THỊ TRƯỜNG BẤT ĐỘNG SẢN Mục 1. NỘI DUNG CƠ SỞ DỮ LIỆU VỀ NHÀ Ở"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "quy phạm pháp luật về nhà ở do Quốc hội, Chính phủ, Thủ tướng Chính phủ, các bộ, ngành ban hành theo thẩm quyền. 2. Thông tin, dữ liệu về chương trình, kế hoạch phát triển nhà ở; chương trình hỗ trợ về nhà ở trên địa bàn theo chương trình mục tiêu quốc gia trên phạm vi toàn quốc tổng hợp từ dữ liệu về nhà ở của các địa phương theo quy định tại khoản 2 và khoản 8"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "nhà ở trong tổng điều tra dân số và nhà ở; điều tra dân số và nhà ở giữa kỳ tổng hợp từ Biểu mẫu số 1 . 5. Thông tin, dữ liệu của các chương trình điều tra, thống kê về nhà ở trên phạm vi toàn quốc tổng hợp từ dữ liệu về nhà ở của các địa phương theo"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM `Độc lập - Tự do - Hạnh phúc --------------- Số: 94/2024/NĐ-CP Hà Nội, ngày 24 tháng 7 năm 2024 NGHỊ ĐỊNH QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT KINH DOANH BẤT ĐỘNG SẢN VỀ XÂY DỰNG VÀ QUẢN LÝ HỆ THỐNG THÔNG TIN, CƠ SỞ DỮ LIỆU VỀ NHÀ Ở VÀ THỊ TRƯỜNG BẤT ĐỘNG SẢN Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Kinh doanh bất động sản ngày 28 tháng 11 năm 2023; Căn cứ Luật Nhà ở ngày 27 tháng 11 năm 2023; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Đất đai số 31/2024/QH15, Luật Nhà ở số 27/2023/QH15, Luật Kinh doanh bất động sản số 29/2023/QH15, Luật Các tổ chức tín dụng số 32/2024/QH15 ngày 29 tháng 6 năm 2024; Theo đề nghị của Bộ trưởng Bộ Xây dựng; Chính phủ ban hành Nghị định quy định chi tiết một số điều của Luật Kinh doanh bất động sản về xây dựng và quản lý hệ thống ..."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "base": "58_2021_NĐ_CP_original",
+  "revised": "58_2021_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "cấp lại, thay đổi nội dung và thu hồi Giấy chứng nhận đủ điều kiện hoạt động cung ứng dịch vụ thông tin tín dụng (sau đây gọi tắt là Giấy chứng nhận); hoạt động cung ứng dịch vụ thông tin tín dụng của công ty thông tin tín dụng và quyền, nghĩa vụ của các tổ chức, cá nhân liên quan. 2. Hoạt động thông tin tín dụng của Ngân hàng Nhà nước Việt Nam (sau đây gọi tắt là Ngân hàng Nhà nước) không thuộc phạm vi điều chỉnh của Nghị định này."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "như sau: 1. Thông tin tín dụng là dữ liệu, số liệu, dữ kiện liên quan của khách hàng vay tại tổ chức tham gia của công ty thông tin tín dụng. 2. Hoạt động cung ứng dịch vụ thông tin tín dụng là việc công ty thông tin tín dụng cung cấp sản phẩm thông tin tín dụng cho các đối tượng sử dụng trên cơ sở các hoạt động thu thập, xử lý, lưu giữ thông tin tín dụng của công ty thông tin tín dụng theo quy định tại Nghị định này. 3. Tổ chức tham gia của công ty thông tin tín dụng (sau đây gọi tắt là tổ chức tham gia) là tổ chức tự nguyện cam kết cung cấp thông tin tín dụng cho công ty thông tin tín dụng, bao gồm: tổ chức tín dụng, chi nhánh ngân hàng nước ngoài; tổ chức không phải là tổ chức tín dụng, chi nhánh ngân hàng nước ngoài cung cấp dịch vụ cho thuê tài sản, mua hàng trả chậm, trả dần, cầm đồ có điều kiện về lãi suất, thời hạn, tiền thuê, biện pháp bảo đảm nghĩa vụ theo quy định của pháp luật (sau đây gọi tắt là tổ chức tham gia khác). 4. Khách hàng vay là tổ chức, cá nhân được tổ chức tín dụng, chi nhánh ngân hàng nước ngoài cấp tín dụng hoặc được tổ chức tham gia khác cung cấp dịch vụ cho thuê tài sản, mua hàng trả chậm, trả dần, cầm đồ có điều kiện về lãi suất, thời hạn, tiền thuê, biện pháp bảo đảm nghĩa vụ theo quy định của pháp luật. 5. Công ty thông tin tín dụng là doanh nghiệp được thành lập, hoạt động theo quy định của Luật Doanh nghiệp để hoạt động cung ứng dịch vụ thông tin tín dụng theo quy định tại Nghị định này. Tên công ty phải có cụm từ “thông tin tín dụng”. 6. Cơ sở hạ tầng thông tin là một tập hợp các trang thiết bị phần cứng, phần mềm, cơ sở dữ liệu, hệ thống mạng và hệ thống an ninh bảo mật để tạo lập, truyền nhận, thu thập, xử lý, lưu trữ và trao đổi thông tin số phục vụ cho một hoặc nhiều hoạt động kỹ thuật, hoạt động cung ứng dịch vụ thông tin tín dụng của công ty thông tin tín dụng. 7. Thông tin định danh là thông tin định danh khách hàng vay theo quy định của Chính phủ về việc giữ bí mật, cung cấp thông tin khách hàng của tổ chức tín dụng, chi nhánh ngân hàng nước ngoài. 8. Thông tin tiêu cực về khách hàng vay là thông tin tín dụng về nợ xấu, vi phạm nghĩa vụ thanh toán, vi phạm pháp luật, bị khởi kiện, bị khởi tố và các thông tin bất lợi khác ảnh hưởng đến kết quả đánh giá khách hàng vay. 9. Sản phẩm thông tin tín dụng là báo cáo, ấn phẩm hoặc các hình thức khác mang thông tin tín dụng được công ty thông tin tín dụng tạo ra trên cơ sở thông tin tín dụng thu thập được để cung cấp cho các đối tượng sử dụng. 10. Đối tượng sử dụng là tổ chức, cá nhân thuộc đối tượng được cung cấp sản phẩm thông tin tín dụng có thỏa thuận với công ty thông tin tín dụng về việc cung cấp sản phẩm thông tin tín dụng."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "cung ứng dịch vụ thông tin tín dụng 1. Công ty thông tin tín dụng chỉ thực hiện hoạt động cung ứng dịch vụ thông tin tín dụng sau khi được Ngân hàng Nhà nước cấp Giấy chứng nhận. 2. Hoạt động cung ứng dịch vụ thông tin tín dụng phải tuân thủ quy định pháp luật, đảm bảo tính trung thực, khách quan và không ảnh hưởng đến quyền, lợi ích hợp pháp của các tổ chức, cá nhân có liên quan. 3. Các thỏa thuận, cam kết trong hoạt động cung ứng dịch vụ thông tin tín dụng quy định tại Nghị định này phải được lập bằng văn bản hoặc hình thức khác có giá trị pháp lý tương đương văn bản theo quy định của pháp luật. 4. Công ty thông tin tín dụng ch"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 58/2021/NĐ-CP Hà Nội, ngày 10 tháng 6 năm 2021 NGHỊ ĐỊNH QUY ĐỊNH VỀ HOẠT ĐỘNG CUNG ỨNG DỊCH VỤ THÔNG TIN TÍN DỤNG Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Ngân hàng Nhà nước Việt Nam ngày 16 tháng 6 năm 2010; Căn cứ Luật Các tổ chức tín dụng ngày 16 tháng 6 năm 2010; Luật sửa đổi, bổ sung một số điều của Luật Các tổ chức tín dụng ngày 20 tháng 11 năm 2017; Căn cứ Luật Doanh nghiệp ngày 17 tháng 6 năm 2020; Căn cứ Luật Đầu tư ngày 17 tháng 6 năm 2020; Theo đề nghị của Thống đốc Ngân hàng Nhà nước Việt Nam; Chính phủ ban hành Nghị định quy định về hoạt động cung ứng dịch vụ thông tin tín dụng. Chương I QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh 1. Nghị định này quy định về điều kiện, thủ tục cấp, cấp lại, thay đổi nội d..."
+    }
+  ]
+}

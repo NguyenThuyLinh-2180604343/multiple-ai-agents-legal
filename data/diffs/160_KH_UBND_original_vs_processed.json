@@ -1,0 +1,66 @@
+{
+  "base": "160_KH_UBND_original",
+  "revised": "160_KH_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section General.1",
+      "change": "added",
+      "to": "ỦY BAN NHÂN DÂN TỈNH LAI CHÂU ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 160/KH-UBND Lai Châu, ngày 20 tháng 01 năm 2021 KẾ HOẠCH NĂM AN TOÀN GIAO THÔNG 2021 Thực hiện Kết luận số 45-KL/TW ngày 01 tháng 02 năm 2019 của Ban Bí thư về tiếp tục đẩy mạnh thực hiện Chỉ thị số 18-CT/TW về tăng cường sự lãnh đạo của Đảng đối với công tác bảo đảm trật tự, an toàn giao thông và khắc phục ùn tắc giao thông; Nghị quyết số 12/NQ-CP ngày 19 tháng 02 năm 2019 của Chính phủ về tăng cường bảo đảm trật tự, an toàn giao thông và chống ùn tắc giao thông giai đoạn 2019-2021; Thực hiện Kế hoạch số 487/KH-UBATGTQG ngày 31 tháng 12 năm 2020 của Ủy ban An toàn giao thông Quốc gia về kế hoạch triển khai Năm An toàn giao thông năm 2021 với chủ đề “Nâng cao hiệu lực, hiệu quả thực thi pháp luật bảo đảm trật tự an toàn giao thông”. Ủy ban nhân dân tỉnh Lai Châu xây dựng Kế hoạch triển khai Năm An toàn giao thông năm 2021 với chủ đề “Nâng cao hiệu lực, hiệu quả thực thi pháp luật bảo đảm trật tự an toàn giao thông” trên địa bàn tỉnh cụ thể như sau: I. MỤC ĐÍCH 1. Nâng cao hiệu lực và hiệu quả công tác quản lý nhà nước và hoạt động thực thi pháp luật trong lĩnh vực đảm bảo trật tự, an toàn giao thông. 2. Nâng cao nhận thức và ý thức tự giác chấp hành pháp luật của người tham gia giao thông, xây dựng văn hóa giao thông trong cộng đồng. 3. Giảm tai nạn giao thông từ 5-10% số vụ, số người chết, bị thương so với năm 2020; kiềm chế tai nạn giao thông đặc biệt nghiêm trọng; giảm tai nạn giao thông liên quan đến xe ô tô kinh"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "khai thực hiện quyết liệt, đồng bộ các giải pháp trên toàn tỉnh, từ cấp tỉnh đến cấp huyện, thành phố, xã, phường, thị trấn ngay từ tháng đầu, quý đầu và cả năm"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.2021",
+      "change": "added",
+      "to": "2. Các sở, ban, ngành, đoàn thể là thành viên Ban An toàn giao thông tỉnh; Ủy ban nhân dân huyện, thành phố chủ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "kiện thực tiễn của đơn vị, địa phương đảm bảo tiết kiệm, tránh hình thức. 3. Phổ biến, quán triệt nhiệm vụ đến từng cán bộ, công chức, viên chức và người lao động; gắn trách nhiệm của cá"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "thực thi công vụ. 4. Tăng cường ứng dụng khoa học công nghệ trong công tác bảo đảm trật tự, an toàn giao thông, trước hết chú trọng ứng dụng công nghệ thông tin trong quản lý điều hành vận tải; điều khiển giao"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_5.1",
+      "change": "added",
+      "to": "TRỌNG TÂM 1. Tiếp tục triển khai, thực hiện Kết luận số 45-KL/TW ngày 01 tháng 02 năm 2019 của Ban Bí thư về tiếp tục đẩy mạnh thực hiện Chỉ thị số 18-CT/TW về tăng cường sự lãnh đạo của Đảng đối với công tác bảo đảm trật tự an toàn giao thông đường bộ và khắc phục ùn tắc giao thông. Nghị quyết số 12/NQ-CP ngày 19 tháng 02 năm 2019 của Chính phủ về tăng cường bảo đảm trật tự, an toàn giao thông và chống ùn tắc giao thông giai đoạn 2019-2021; Chỉ thị số 03/CT-TTg ngày 16 tháng 01 năm 2020 của Thủ tướng Chính phủ về tăng cường thực hiện Luật Phòng, chống tác hại của rượu, bia; Nghị định số 100/2019/NĐ-CP ngày 30 tháng 12 năm 2019 của Chính phủ về quy định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ và đường sắt; Chỉ thị số 32/CT-TTg ngày 25 tháng 11 năm 2016 của Chính phủ về tăng cường công tác kiểm soát tải trọng phương tiện giao thông; Chỉ thị số 33/CT-TTg ngày 21/7/2017 của Chính phủ về tăng cường quản lý, lập lại trật tự hành lang an toàn giao thông đường bộ, đường sắt; Chỉ thị số 04/CT-TTg ngày 19 tháng 01 năm 2018 về việc đẩy"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_6.1",
+      "change": "added",
+      "to": "đội mũ bảo hiểm đối với người đi mô tô, xe gắn máy, xe đạp điện; Chiến lược đảm bảo trật tự, an toàn giao thông đường bộ giai đoạn 2021-2030, tầm nhìn đến năm"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_6.2045",
+      "change": "added",
+      "to": "2. Nâng cao hiệu quả công tác tuyên truyền, phổ biến giáo dục pháp luật về trật tự an toàn giao thông, trật tự đô thị, bám sát chủ đề Năm An toàn giao thông 2021 gắn với đặc điểm về kinh tế, văn hóa, phong tục, tập quán của cộng đồng và theo các nhóm dân cư (độ tuổi, giới, tín ngưỡng); phát huy mạnh mẽ vai trò của Mặt trận Tổ quốc tỉnh và các tổ chức chính trị - xã hội ở cơ sở để tổ chức các phong trào vận động nhân dân chấp hành pháp luật về trật tự, an toàn giao thông; xây dựng và nhân rộng các mô hình tự quản về bảo đảm trật tự, an toàn giao thông phù hợp với thực tiễn địa bàn, nhất là trong đô thị và tại các khu dân cư dọc theo các tuyến quốc lộ; kiên trì xây dựng văn hóa giao thông an toàn và thân thiện môi trường cho mọi tầng lớp nhân dân. 3. Nâng cao chất lượng, hiệu quả quản lý nhà nước về giao thông vận tải, xây dựng, đất đai và du lịch có liên"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_7.1",
+      "change": "added",
+      "to": "hiệu lực của lực lượng tuần tra, kiểm soát, xử lý vi phạm"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH LAI CHÂU ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 160/KH-UBND Lai Châu, ngày 20 tháng 01 năm 2021 KẾ HOẠCH NĂM AN TOÀN GIAO THÔNG 2021 Thực hiện Kết luận số 45-KL/TW ngày 01 tháng 02 năm 2019 của Ban Bí thư về tiếp tục đẩy mạnh thực hiện Chỉ thị số 18-CT/TW về tăng cường sự lãnh đạo của Đảng đối với công tác bảo đảm trật tự, an toàn giao thông và khắc phục ùn tắc giao thông; Nghị quyết số 12/NQ-CP ngày 19 tháng 02 năm 2019 của Chính phủ về tăng cường bảo đảm trật tự, an toàn giao thông và chống ùn tắc giao thông giai đoạn 2019-2021; Thực hiện Kế hoạch số 487/KH-UBATGTQG ngày 31 tháng 12 năm 2020 của Ủy ban An toàn giao thông Quốc gia về kế hoạch triển khai Năm An toàn giao thông năm 2021 với chủ đề “Nâng cao hiệu lực, hiệu quả thực thi pháp luật bảo đảm trật tự an toàn giao thông”. Ủy ban nhân dân tỉnh Lai Châu xây dựng Kế hoạch triển khai Năm An toàn giao thông năm 2021 với chủ đề “Nâng cao hiệu lực..."
+    }
+  ]
+}

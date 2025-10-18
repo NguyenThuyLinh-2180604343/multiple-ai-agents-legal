@@ -1,0 +1,48 @@
+{
+  "base": "97_2021_NĐ_CP_original",
+  "revised": "97_2021_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "năm 2018 của Chính phủ quy định về bảo hiểm cháy, nổ bắt buộc 1. Sửa đổi, bổ sung khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "sau: “1. Cơ quan, tổ chức và cá nhân có cơ sở có nguy hiểm về cháy, nổ theo quy định của pháp luật phòng cháy và chữa cháy”. 2. Sửa đổi, bổ sung điểm b khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 7.1",
+      "change": "added",
+      "to": "sau: “"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 7a.1",
+      "change": "added",
+      "to": "bảo hiểm cháy, nổ bắt buộc 1. Doanh nghiệp bảo hiểm phải cấp Giấy chứng nhận bảo hiểm cháy, nổ bắt buộc cho bên mua bảo hiểm. Giấy chứng nhận bảo hiểm cháy, nổ bắt buộc do doanh nghiệp bảo hiểm chủ động thiết kế và phải bao gồm các nội dung sau đây: a) Tên, địa chỉ của doanh nghiệp bảo hiểm, bên mua bảo hiểm, người được bảo hiểm; b) Thuộc danh mục cơ sở (nêu rõ thuộc danh mục cơ sở có nguy hiểm về cháy, nổ nào theo quy định pháp luật về phòng cháy và chữa cháy); c) Địa chỉ tài sản được bảo hiểm; d) Tài sản được bảo hiểm; đ) Số tiền bảo hiểm; e) Mức khấu trừ bảo hiểm; g) Thời hạn bảo hiểm; h) Tỷ lệ phí bảo hiểm, phí bảo hiểm; i) Tên, địa chỉ, số điện thoại đường dây nóng của doanh nghiệp bảo hiểm; k) Ngày, tháng, năm cấp Giấy chứng nhận bảo hiểm. 2. Trường hợp cấp Giấy chứng nhận bảo hiểm điện tử, doanh nghiệp bảo hiểm phải tuân thủ các quy định của Luật Giao dịch điện tử và các văn bản hướng dẫn thi hành; Giấy chứng nhận bảo hiểm điện tử phải tuân thủ đầy đủ các quy định hiện hành và phản ánh đầy đủ các nội dung quy định tại khoản 1 Điều này”. 5. Sửa đổi, bổ sung khoản 3"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 10.1",
+      "change": "added",
+      "to": "sau: “3. Nguồn thu từ bảo hiểm cháy, nổ bắt buộc cho hoạt động phòng cháy, chữa cháy được sử dụng như sau: a) Hỗ trợ trang bị phương tiện, thiết bị phòng cháy, chữa cháy cho lực lượng Cảnh sát phòng cháy và chữa cháy. Chi cho nội dung này không vượt quá 65% số tiền thực tế thu được từ bảo hiểm cháy, nổ bắt buộc của các doanh nghiệp bảo hiểm trong năm tài chính. b) Hỗ trợ tuyên truyền, phổ biến pháp luật, kiến thức phòng cháy, chữa cháy và bảo hiểm cháy, nổ bắt buộc. Chi cho nội dung này không vượt quá 15% số tiền thực tế thu được từ bảo hiểm cháy, nổ bắt buộc của các doanh nghiệp bảo hiểm trong năm tài chính. c) Hỗ trợ lực lượng Cảnh sát phòng cháy và chữa cháy trong các hoạt động sau: Điều tra nguyên nhân vụ cháy; bồi dưỡng nghiệp vụ, kiểm tra an toàn về phòng cháy và chữa cháy; giám sát việc tham gia bảo hiểm cháy, nổ bắt buộc của các cơ sở có nguy hiểm về cháy, nổ. Chi cho nội dung này không vượt quá 15% số tiền thực tế thu được từ bảo hiểm cháy, nổ bắt buộc của các doanh nghiệp bảo hiểm trong năm tài chính. d) Hỗ trợ khen thưởng thành tích của tổ chức, cá nhân trực tiếp tham gia, phối hợp trong công tác phòng cháy, chữa cháy. Chi cho nội dung này không vượt quá 5% số tiền thực tế thu được từ bảo hiểm cháy, nổ bắt buộc của các doanh nghiệp bảo hiểm trong năm tài chính”. 6. Bổ sung khoản 4 sau khoản 3"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 12.1",
+      "change": "added",
+      "to": "sau: “4. Ghi hạng nguy hiểm cháy, nổ đối với cơ sở công nghiệp có hạng nguy hiểm cháy, nổ A, B, C, D, E tại Biên bản nghiệm thu hoặc Biên bản kiểm tra an toàn về phòng cháy và chữa cháy trên cơ sở xác định hạng nguy hiểm cháy, nổ của cơ quan, tổ chức và"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 97/2021/NĐ-CP Hà Nội, ngày 08 tháng 11 năm 2021 NGHỊ ĐỊNH SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 23/2018/NĐ-CP NGÀY 23 THÁNG 02 NĂM 2018 CỦA CHÍNH PHỦ QUY ĐỊNH VỀ BẢO HIỂM CHÁY, NỔ BẮT BUỘC Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Kinh doanh bảo hiểm ngày 09 tháng 12 năm 2000; Luật sửa đổi, bổ sung một số điều của Luật Kinh doanh bảo hiểm ngày 24 tháng 11 năm 2010; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Kinh doanh bảo hiểm, Luật Sở hữu trí tuệ ngày 14 tháng 6 năm 2019; Căn cứ Luật Phòng cháy và chữa cháy ngày 29 tháng 6 năm 2001 và Luật sửa đổi, bổ sung một số điều của Luật Phòng cháy và chữa cháy ngày 22 tháng 11 năm 2013; Theo đề nghị của Bộ trưởng Bộ Tài chính; Chính phủ ban hành Nghị định sửa đổ..."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "base": "257_QĐ_CĐBVN_original",
+  "revised": "257_QĐ_CĐBVN_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "bỏ 02 Tiêu chuẩn cơ sở (TCCS) sau đây: TCCS 27:2019/TCĐBVN Nhũ tương nhựa đường a xít thấm bám – Yêu cầu kỹ thuật, thi công và nghiệm thu. TCCS 43:2022/TCĐBVN Lớp mặt đường bê tông nhựa chặt sử dụng nhựa đường thông thường có thêm phụ gia SBS theo phương pháp trộn khô tại trạm trộn – Thi công và nghiệm thu."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "định này có hiệu lực thi hành kể từ ngày ký./. Nơi nhận: - Bộ GTVT (để b/c); - Cục trưởng (để b/c); - Các PCT: Phan Thị Thu Hiền, Nguyễn Thanh Hoài (để c/đ); - Các Phòng: QL, BTĐB, QL,TC GTĐB; KHĐT; - Các Khu QLĐB I, II, III, IV; - Chi cục QLĐTXDĐB; - Các Ban QLDA 3, 4, 5, 8; - Các Sở Giao thông vận tải; - Lưu: VT; KHCN, MT và HTQT. KT. CỤC TRƯỞNG PHÓ CỤC TRƯỞNG Nguyễn Mạnh Thắng"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI CỤC ĐƯỜNG BỘ VIỆT NAM ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 257/QĐ-CĐBVN Hà Nội, ngày 24 tháng 01 năm 2025 QUYẾT ĐỊNH VỀ VIỆC HỦY BỎ TIÊU CHUẨN CƠ SỞ CỤC TRƯỞNG CỤC ĐƯỜNG BỘ VIỆT NAM Căn cứ Luật Tiêu chuẩn và Quy chuẩn kỹ thuật số 68/2006/QH11 ; Căn cứ Nghị định số 127/2007/NĐ-CP ngày 01/8/2007 của Chính phủ quy định chi tiết thi hành một số điều của Luật Tiêu chuẩn và Quy chuẩn kỹ thuật ; Nghị định số 78/2018/NĐ-CP ngày 16/5/2018 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 127/2007/NĐ-CP ; Căn cứ Thông tư số 11/2021/TT-BKHCN ngày 18/11/2021 của Bộ Khoa học và Công nghệ quy định chi tiết xây dựng và áp dụng tiêu chuẩn; Căn cứ Quyết định số 1218/QĐ-BGTVT ngày 23/9/2022 của Bộ trưởng Bộ GTVT quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Cục Đường bộ Việt Nam; Căn cứ Quyết định số 739/QĐ-BGTVT ngày 17/6/2024 của Bộ GTVT về việc sửa đổi, bổ sung, bãi bỏ một số..."
+    }
+  ]
+}

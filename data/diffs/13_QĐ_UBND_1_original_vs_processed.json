@@ -1,0 +1,30 @@
+{
+  "base": "13_QĐ_UBND_1_original",
+  "revised": "13_QĐ_UBND_1_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "Nhà nước. 2. Các sở: Kế hoạch và Đầu tư, Tài chính, Giao thông vận tải; Kho bạc Nhà nước Tuyên Quang và các cơ quan, đơn vị liên quan theo chức năng, nhiệm vụ, có trách nhiệm tổ chức thực hiện và kiểm tra, hướng dẫn Ủy ban nhân dân các huyện thực hiện Quyết định này bảo đảm chặt chẽ, đúng quy định của pháp luật."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "ban nhân dân các huyện và các cơ quan, đơn vị liên quan căn cứ nội dung phê duyệt tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "DÂN CHỦ TỊCH Nguyễn Văn Sơn Biểu số 01 TỔNG HỢP KẾ HOẠCH PHÂN BỔ CHI TIẾT VỐN NGÂN SÁCH ĐỊA PHƯƠNG THỰC HIỆN ĐỀ ÁN BÊ TÔNG HÓA ĐƯỜNG GIAO THÔNG NÔNG THÔN VÀ XÂY DỰNG CẦU TRÊN ĐƯỜNG GIAO THÔNG NÔNG THÔN NĂM 2024 (Kèm theo Quyết định số: 13/QĐ-UBND ngày 16 tháng 01 năm 2024"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH TUYÊN QUANG ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 13/QĐ-UBND Tuyên Quang, ngày 16 tháng 01 năm 2024 QUYẾT ĐỊNH PHÊ DUYỆT KẾ HOẠCH CHI TIẾT THỰC HIỆN ĐỀ ÁN BÊ TÔNG HÓA ĐƯỜNG GIAO THÔNG NÔNG THÔN VÀ XÂY DỰNG CẦU TRÊN ĐƯỜNG GIAO THÔNG NÔNG THÔN NĂM 2024 TRÊN ĐỊA BÀN TỈNH TUYÊN QUANG ỦY BAN NHÂN DÂN TỈNH TUYÊN QUANG Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Đầu tư công ngày 13/6/2019; Căn cứ Nghị định số 40/2020/NĐ-CP ngày 06/4/2020 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đầu tư công và các văn bản pháp luật có liên quan; Căn cứ Nghị quyết số 55/NQ-HĐND ngày 20/11/2020 của Hội đồng nhân dân tỉnh thông qua Đề án Bê tông hóa đường giao thông nông thôn và xây dựng cầu trên đường giao thông nông thôn, giai đoạn 2021-2025; Căn cứ Ng..."
+    }
+  ]
+}

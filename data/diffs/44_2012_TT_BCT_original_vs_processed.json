@@ -1,0 +1,36 @@
+{
+  "base": "44_2012_TT_BCT_original",
+  "revised": "44_2012_TT_BCT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "chỉnh Thông tư này quy định Danh mục hàng công nghiệp nguy hiểm phải đóng gói trong quá trình vận chuyển; yêu cầu về đóng gói, phương tiện chứa đối với hàng công nghiệp nguy hiểm, phương án ứng cứu khẩn cấp và huấn luyện người liên quan trực tiếp vận chuyển hàng công nghiệp nguy hiểm bằng phương tiện giao thông cơ giới đường bộ, đường sắt và đường thủy nội địa. Danh mục hàng công nghiệp nguy hiểm không bao gồm các loại hàng nguy hiểm sau đây: 1. Các hóa chất phục vụ mục đích quốc phòng, an ninh do Bộ Quốc phòng, Bộ Công an quản lý; 2. Các sản phẩm thuốc bảo vệ thực vật; hóa chất, chế phẩm diệt côn trùng, diệt khuẩn dùng trong lĩnh vực gia dụng, y tế; 3. Các chất là chất nổ, vật liệu nổ công nghiệp; 4. Các hóa chất thuộc loại 6 quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "2007; 2. “Hàng công nghiệp nguy hiểm” gồm xăng dầu, khí đốt và hóa chất nguy hiểm dùng trong sản xuất công nghiệp; 3. “Đóng gói hàng công nghiệp nguy hiểm” là việc sử dụng các thao tác kỹ thuật để chứa đựng hàng công nghiệp nguy hiểm trong các phương tiện chứa phù hợp tiêu chuẩn đã đăng ký, công bố; 4. “Phương tiện chứa” là các loại bao gói, chai, thùng, bồn, bể hoặc côngtenơ dùng để chứa và vận chuyển hàng hóa. Phương tiện chứa hàng công nghiệp nguy hiểm gồm các loại: a) “Bao gói cỡ nhỏ” (ký hiệu là P) là phương tiện chứa có dung tích chứa nước đến 450 lít hoặc có khối lượng chứa đến 400 kg; b) “Bao gói cỡ lớn” (ký hiệu là LP) là phương tiện chứa có dung tích chứa nước lớn hơn 450 lít hoặc có khối lượng chứa lớn hơn 400 kg nhưng có thể tích chứa nhỏ hơn 3 m3; c) “Thùng chứa hàng rời cỡ trung” (ký hiệu là IBC), bao gồm: - Thùng kim loại có thể tích chứa tối đa đến 3 m3 đối với hàng hóa dạng lỏng, rắn; - Thùng bằng gỗ, chất dẻo, giấy có thể tích chứa tối đa đến 1,5 m3 đối với hàng hóa dạng rắn. d) “Bao gói trong” (còn gọi là bao gói trực tiếp) là phương tiện chứa tiếp xúc trực tiếp với hàng hóa, thực hiện đầy đủ chức năng chứa đựng hàng hóa mà không cần có thêm bất kỳ bao gói khác; đ) “Bao gói ngoài” là phương tiện chứa bao gói trong, cùng với các vật liệu hấp thụ, chèn đệm nhằm tạo ra sự bảo vệ bao gói trong, khi vận chuyển; e) “Bao gói kết hợp” là phương tiện chứa gồm một hoặc nhiều bao gói trong, gắn, xếp cố định trong bao gói ngoài; g) “Bồn, bể chuyên dụng” là phương tiện chứa lắp trên phương tiện vận chuyển, gồm: - Phương tiện chứa có dung tích lớn hơn 1m3 hoặc kiểu côngtenơ bồn (tank-container) có dung tích lớn hơn 3m3 chứa hàng nguy hiểm loại 3 có nhiệt độ chớp cháy không quá 600C (kiểu FL, chi tiết xem Phụ lục 3 ); - Phương tiện chứa có dung tích lớn hơn 1m3 hoặc côngtenơ bồn (tank-container) có dung tích lớn hơn 3m3 chứa hàng nguy hiểm khác với kiểu FL (kiểu AT, chi tiết xem Phụ lục 3 ). h) “Côngtenơ” là phương tiện chứa dạng thùng, hộp có dung tích chứa lớn hơn 1 m3 để chứa và trung chuyển các loại hàng hóa đ"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "dụng Thông tư này áp dụng đối với tổ chức, cá nhân vận chuyển hàng công nghiệp nguy hiểm bằng phương tiện giao thông cơ giới đường bộ, đường thủy nội địa, đường sắt trên lãnh thổ Việt Nam."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau: 1. “Hóa chất nguy hiểm” là hóa chất được quy định tại khoản 4"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ CÔNG THƯƠNG -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 44/2012/TT-BCT Hà Nội, ngày 28 tháng 12 năm 2012 THÔNG TƯ QUY ĐỊNH DANH MỤC HÀNG CÔNG NGHIỆP NGUY HIỂM PHẢI ĐÓNG GÓI TRONG QUÁ TRÌNH VẬN CHUYỂN VÀ VẬN CHUYỂN HÀNG CÔNG NGHIỆP NGUY HIỂM BẰNG PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ, ĐƯỜNG SẮT VÀ ĐƯỜNG THỦY NỘI ĐỊA Căn cứ Nghị định số 104/2009/NĐ-CP ngày 09 tháng 11 năm 2009 của Chính phủ quy định Danh mục hàng nguy hiểm và vận chuyển hàng nguy hiểm bằng phương tiện giao thông cơ giới đường bộ; Căn cứ Nghị định số 109/2006/NĐ-CP ngày 22 tháng 9 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Đường sắt; Nghị định số 03/2012/NĐ-CP ngày 19 tháng 01 năm 2012 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 109/2006/NĐ-CP ngày 22 tháng 9 năm 2006 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật Đường sắt; Căn cứ Nghị định số 29/2005/NĐ-CP ngày 10 thán..."
+    }
+  ]
+}

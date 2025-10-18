@@ -1,0 +1,36 @@
+{
+  "base": "16_VBHN_BCA_original",
+  "revised": "16_VBHN_BCA_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "vi điều chỉnh Thông tư này quy định về: 1. Quy trình quản lý, sử dụng phương tiện, thiết bị kỹ thuật nghiệp vụ và danh mục phương tiện, thiết bị kỹ thuật nghiệp vụ phải kiểm định, hiệu chuẩn hoặc phải bảo đảm chất lượng, tiêu chuẩn, quy chuẩn kỹ thuật theo quy định của pháp luật về chất lượng sản phẩm , hàng hóa và tiêu chuẩn, quy chuẩn kỹ thuật trước khi được sử dụng để phát hiện vi phạm hành chính về trật tự, an toàn giao thông, bảo vệ môi trường, phòng cháy, chữa cháy và cứu nạn, cứu hộ, phòng, chống ma túy và phòng, chống tác hại của rượu, bia trong Công an nhân dân (sau đây viết gọn là vi phạm hành chính). 2. Việc sử dụng dữ liệu thu được từ phương tiện, thiết bị kỹ thuật do cá nhân, tổ chức cung cấp để phát hiện vi phạm hành chính."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "áp dụng Thông tư này áp dụng đối với: 1. Sĩ quan, hạ sĩ quan Công an nhân dân được giao nhiệm vụ quản lý, sử dụng phương tiện, thiết bị kỹ thuật nghiệp vụ để phát hiện vi phạm hành chính. 2. Công an các đơn vị, địa phương. 3. Cơ quan, tổ chức, cá nhân có liên quan đến việc sử dụng phương tiện, thiết bị kỹ thuật nghiệp vụ trong Công an nhân dân; sử dụng dữ liệu thu được từ phương tiện, thiết bị kỹ thuật do cá nhân, tổ chức cung cấp để phát hiện vi phạm hành chính. Chương II QUY ĐỊNH CỤ THỂ"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "về quy trình, thao tác sử dụng, bảo quản phương tiện, thiết bị kỹ thuật nghiệp vụ 1. Cơ quan, đơn vị tổ chức tập huấn a) Cơ quan, đơn vị có thẩm quyền trang bị phương tiện, thiết bị kỹ thuật nghiệp vụ , trước khi trang bị, có trách nhiệm tập huấn cho sĩ quan, hạ sĩ quan được giao quản lý phương tiện, thiết bị kỹ thuật nghiệp vụ của cơ quan, đơn vị được trang bị; b) Cơ quan, đơn vị được trang bị, được giao quản lý, sử dụng phương tiện, thiết bị kỹ thuật nghiệp vụ có trách nhiệm tổ chức tập huấn cho sĩ quan, hạ sĩ quan được giao sử dụng phương tiện, thiết bị kỹ thuật nghiệp vụ của cơ quan, đơn vị mình. 2. Nội dung tập huấn bao gồm: Chế độ quản lý , quy trình, thao tác sử dụng, bảo quản phương tiện, thiết bị kỹ thuật nghiệp vụ ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "lý, sử dụng phương tiện, thiết bị kỹ thuật nghiệp vụ 1. Đơn vị quản lý, sử dụng phương tiện, thiết bị kỹ thuật nghiệp vụ , gồm: a) Cục Cảnh sát giao thông ; Cục Cảnh sát phòng, chống tội phạm về môi trường ; Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ ; Cục Cảnh sát điều tra tội phạm về ma túy ; Bộ Tư lệnh Cảnh sát cơ động ; Cục Cảnh sát quản lý hành chính về trật tự xã hội ; Cục Quản lý xuất nhập cảnh ; Cục Cảnh sát điều tra tội phạm về trật tự xã hội ; Cục Cảnh sát điều tra tội phạm về tham nhũng, kinh tế, buôn lậu ; Thanh tra Bộ Công an; Công an tỉnh , thành phố trực thuộc Trung ương (sau đây viết gọn là Công an cấp tỉnh); b) [2] Phòng nghiệp vụ hoặc tương đương thuộc Cục Cảnh sát giao thông, Cục Cảnh sát quản lý hành chính về trật tự xã hội, Cục Cảnh sát phòng cháy, chữa cháy và cứu nạn, cứu hộ; c"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ CÔNG AN -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 16/VBHN-BCA Hà Nội, ngày 26 tháng 4 năm 2025 THÔNG TƯ QUY ĐỊNH QUY TRÌNH QUẢN LÝ, SỬ DỤNG PHƯƠNG TIỆN, THIẾT BỊ KỸ THUẬT NGHIỆP VỤ TRONG CÔNG AN NHÂN DÂN VÀ DỮ LIỆU THU ĐƯỢC TỪ PHƯƠNG TIỆN, THIẾT BỊ KỸ THUẬT DO CÁ NHÂN, TỔ CHỨC CUNG CẤP ĐỂ PHÁT HIỆN VI PHẠM HÀNH CHÍNH Thông tư số 67/2024/TT-BCA ngày 12 tháng 11 năm 2024 của Bộ trưởng Bộ Công an quy định quy trình quản lý, sử dụng phương tiện, thiết bị kỹ thuật nghiệp vụ trong Công an nhân dân và dữ liệu thu được từ phương tiện, thiết bị kỹ thuật do cá nhân, tổ chức cung cấp để phát hiện vi phạm hành chính, có hiệu lực kể từ ngày 01 tháng 01 năm 2025, được sửa đổi, bổ sung bởi: Thông tư số 13/2025/TT-BCA ngày 28 tháng 02 năm 2025 của Bộ trưởng Bộ Công an sửa đổi, bổ sung một số điều của các thông tư quy định về trật tự, an toàn giao thông đường bộ, đường sắt và đường thủy nội địa, có hiệu lực kể từ ngày 01 tháng 3 năm 2..."
+    }
+  ]
+}

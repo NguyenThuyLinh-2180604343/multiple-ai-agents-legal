@@ -1,0 +1,42 @@
+{
+  "base": "229_2016_TT_BTC_original",
+  "revised": "229_2016_TT_BTC_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển phương tiện giao thông cơ giới đường bộ (sau đây gọi là phương tiện giao thông). 2. Thông tư này áp dụng đối với tổ chức, cá nhân đề nghị cơ quan công an cấp giấy đăng ký và biển số phương tiện giao thông, tổ chức thu lệ phí và các tổ chức, cá nhân khác có liên quan đến thu, nộp, quản lý lệ phí đăng ký, cấp biển phương tiện giao thông. 3. Thông tư này không áp dụng đối với việc đăng ký, cấp biển xe chuyên dùng tham gia giao thông đường bộ (do cơ quan giao thông cấp giấy đăng ký) và xe cơ giới của quân đội sử dụng vào mục đích quốc phòng."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "quan công an cấp giấy đăng ký và biển số phương tiện giao thông thì phải nộp lệ phí theo quy định tại Thông tư này."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "đăng ký, cấp giấy đăng ký và biển số phương tiện giao thông là tổ chức thu lệ phí theo quy định tại Thông tư này."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "ngữ được hiểu như sau: 1. Phương tiện giao thông, gồm: a) Xe ô tô, máy kéo, rơ moóc hoặc sơ mi rơ moóc được kéo bởi ô tô, máy kéo và các loại xe được cấp biển tương tự như ô tô (gọi chung là ô tô); không bao gồm xe lam; b) Xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy và các loại xe tương tự, kể các xe cơ giới dùng cho người tàn tật (gọi chung là xe máy). 2. Các thành phố, thị xã quy định tại Thông tư này được xác định theo địa giới hành chính nhà nước, cụ thể như sau: a) Thành phố Hà Nội, thành phố Hồ Chí Minh và các thành phố trực thuộc Trung ương khác bao gồm tất cả các quận, huyện trực thuộc thành phố không phân biệt nội thành hay ngoại thành; b) Thành phố trực thuộc tỉnh, các thị xã bao gồm tất cả các phường, xã thuộc thành phố, thị xã không phân biệt là phường nội thành, nội thị hay xã ngoại thành, ngoại thị. 3. Cấp mới giấy đăng ký và biển số áp dụng đối với các phương tiện giao thông đăng ký lần đầu tại Việt Nam (kể cả các phương tiện giao thông đã qua sử dụng hay đã đăng ký tại nước ngoài, phương tiện tịch thu sung quỹ Nhà nước) theo quy định của Bộ Công an. 4. Cấp, đổi, cấp lại giấy đăng ký hoặc biển số (gọi chung là cấp đổi giấy đăng ký, biển số), bao gồm: a) Cấp giấy đăng ký, biển số áp dụng đối với các trường hợp: Đăng ký sang tên trong cùng tỉnh, thành phố trực thuộc Trung ương; đăng ký xe từ tỉnh khác chuyển đến; b) Đổi giấy đăng ký hoặc biển số áp dụng đối với các trường hợp: Cải tạo, thay đổi màu sơn; giấy đăng ký xe hoặc biển số xe bị hư hỏng, rách, mờ hoặc thay đổi các thông tin của chủ xe; c) Cấp lại giấy đăng ký hoặc biển số áp dụng đối với trường hợp giấy đăng ký hoặc biển số bị mất. 5. Khu vực: Khu vực I gồm thành phố Hà Nội và thành phố Hồ Chí Minh; khu vực II gồm các thành phố trực thuộc Trung ương (trừ thành phố Hà Nội và thành phố Hồ Chí Minh), các thành phố trực thuộc tỉnh và các thị xã; khu vực III gồm các khu vực khác ngoài khu vực I và khu vực II nêu trên."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "biển phương tiện giao thông được thực hiện như sau: Đơn vị tính: đồng/lần/xe Số TT Chỉ tiêu Khu vực I Khu vực II Khu vực III I Cấp mới giấy đăng ký kèm theo biển số 1 Ô tô, trừ xe ô tô chở người từ 9 chỗ trở xuống áp dụng theo điểm 2 mục này 150.000 - 500.000 150.000 150.000 2 Xe ô tô chở người từ 9 chỗ trở xuống 2.000.000 - 20.000.000 1.000.000 200.000 3 Sơ mi rơ moóc, rơ móc đăng ký rời 100.000 - 200.000 100.000 100.000 4 Xe máy (theo giá tính lệ phí trước bạ) a Trị giá từ 15.000.000 đồng trở xuống 500.000 - 1.000.000 200.000 50.000 b Trị giá trên 15.000.000 đến 40.000.000 đồng 1.000.000 - 2.000.000 400.000 50.000 c Trị giá trên 40.000.000 đồng 2.000.000 - 4.000.000 800.000 50.000 d Xe máy 3 bánh chuyên dùng cho người tàn tật 50.000 50.000 50.000 II Cấp đổi giấy đăng ký 1 Cấp đổi giấy đăng ký kèm theo biển số a Ô tô (trừ xe ô tô chở người"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ TÀI CHÍNH -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 229/2016/TT-BTC Hà Nội, ngày 11 tháng 11 năm 2016 THÔNG TƯ QUY ĐỊNH MỨC THU, CHẾ ĐỘ THU, NỘP, QUẢN LÝ LỆ PHÍ ĐĂNG KÝ, CẤP BIỂN PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ Căn cứ Luật phí và lệ phí ngày 25 tháng 11 năm 2015; Căn cứ Luật ngân sách nhà nước ngày 25 tháng 6 năm 2015; Căn cứ Nghị định số 120/2016/NĐ-CP ngày 23 tháng 8 năm 2016 của Chính phủ quy định chi tiết và hướng dẫn thi hành một số điều của Luật phí và lệ phí; Căn cứ Nghị định số 86/2014/NĐ-CP ngày 10 tháng 9 năm 2014 của Chính phủ về kinh doanh và điều kiện kinh doanh vận tải bằng xe ô tô; Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23 tháng 12 năm 2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Theo đề nghị của Vụ trưởng Vụ Chính sách thuế, Bộ trưởng Bộ Tài chính ban hành Thông tư quy định mức thu, chế độ thu, nộp, quản lý lệ phí đăng ký, cấp biển phương ..."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "base": "529_QĐ_UBND_original",
+  "revised": "529_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "ngày làm việc, kể từ ngày Quyết định có hiệu lực thi hành."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "Sở Giao thông vận tải thực hiện: 1. Công khai trên Trang thông tin điện tử của Sở theo quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 15.1",
+      "change": "added",
+      "to": "31/10/2017 của Bộ trưởng, Chủ nhiệm Văn phòng Chính phủ. 2. Chủ trì, phối hợp với các cơ quan, đơn vị có liên quan hoàn thiện quy trình điện tử đối với quy trình liên thông nêu tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "định này có hiệu lực thi hành kể từ ngày ký."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "2024 của Chủ tịch Ủy ban nhân dân tỉnh Tuyên Quang) Quy trình số 01 QUY TRÌNH LIÊN THÔNG TRONG GIẢI QUYẾT THỦ TỤC CẤP GIẤY PHÉP VẬN CHUYỂN HÀNG HÓA NGUY HIỂM (HÓA CHẤT BẢO VỆ THỰC VẬT) (Mã TTHC: 2.002615) Thứ tự các bước thực hiện (Tổng bước) Nội dung các bước thực hiện Bộ phận giải quyết Thời gian thực hiện các bước (Tổng số ngày/giờ thực hiện) Thời gian thực hiện tại từng cơ quan Cơ quan thực hiện Bước 1 Kiểm tra tính hợp lệ của hồ sơ; hướng dẫn hoàn thiện; tiếp nhận hồ sơ và quét (scan), đóng dấu điện tử, viết Phiếu hẹn trả kết quả và chuyển đến bộ phận chuyên môn xử lý hồ sơ. Trung tâm Phục vụ hành chính công tỉnh (Sở GTVT) 0,25 ngày làm việc 03 ngày làm việc Sở Giao thông vận tải Bước 2 Thẩm định thành phần hồ sơ và hoàn thiện hồ sơ Phòng Quản lý vận tải phương tiện và người lái 2,5 ngày làm việc Bước 3 Ký duyệt văn bản, trình UBND tỉnh xem xét, quyết định Lãnh đạo Sở 0,25 ngày làm việc Bước 4 Tiếp nhận, thẩm định hồ sơ; trình UBND tỉnh ký phê duyệt kết quả thủ tục hành chính Văn phòng UBND tỉnh; Lãnh đạo UBND tỉnh 02 ngày làm việc 02 ngày làm việc Văn phòng UBND tỉnh; Lãnh đạo UBND tỉnh Bước 5 Thông báo và trả trả kết quả TTHC cho cá nhân, tổ chức Trung tâm Phục vụ hành chính công tỉnh (Sở GTVT) Không tính thời gian Sở Giao thông vận tải 05 bước 05 ngày làm việc Quy trình số 02 QUY TRÌNH LIÊN THÔNG TRONG GIẢI QUYẾT THỦ TỤC ĐIỀU CHỈNH THÔNG TIN TRÊN GIẤY PHÉP VẬN CHUYỂN HÀNG HÓA NGUY HIỂM (HÓA CHẤT BẢO VỆ THỰC VẬT) KHI CÓ SỰ THAY ĐỔI LIÊN QUAN ĐẾN NỘI DUNG CỦA GIẤY PHÉP (Mã TTHC: 2.002616) Thứ tự các bước thực hiện (Tổng bước) Nội dung các bước thực hiện Bộ phận giải quyết Thời gian thực hiện các bước (Tổng số ngày/giờ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH TUYÊN QUANG ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 529/QĐ-UBND Tuyên Quang, ngày 27 tháng 5 năm 2024 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ QUY TRÌNH LIÊN THÔNG TRONG GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH MỚI BAN HÀNH LĨNH VỰC GIAO THÔNG VẬN TẢI THUỘC PHẠM VI CHỨC NĂNG QUẢN LÝ CỦA SỞ GIAO THÔNG VẬN TẢI TỈNH TUYÊN QUANG CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH TUYÊN QUANG Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08/6/2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 92/2017/NĐ-CP ngày 07/8/2017 của Chính phủ quy định về sửa đổi, bổ sung một số điều của các nghị định liên quan đến kiểm soát thủ tục hành chính; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành..."
+    }
+  ]
+}

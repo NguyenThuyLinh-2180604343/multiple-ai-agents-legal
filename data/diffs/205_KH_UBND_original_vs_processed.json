@@ -1,0 +1,30 @@
+{
+  "base": "205_KH_UBND_original",
+  "revised": "205_KH_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 8.1",
+      "change": "added",
+      "to": "lý các loại đường sau đây: b) Quy định việc quản lý đường đô thị, đường huyện, đường xã, đường thôn; ” - Cơ quan chủ trì: Sở Giao thông vận tải. - Cơ quan phối hợp: Sở Tư pháp; các sở, ban, ngành tỉnh, UBND huyện, thị xã, thành phố và các cơ quan, đơn vị liên quan. - Thời gian thực hiện: Quý IV năm 2024. b) Nhiệm vụ được giao tại khoản 5"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 30.1",
+      "change": "added",
+      "to": "Đường bộ “5. Bộ trưởng Bộ Giao thông vận tải quy định trình tự, thủ tục chấp thuận thiết kế và trình tự, thủ tục cấp phép thi công nút giao đối với đường quốc lộ đang khai thác; Ủy ban nhân dân cấp tỉnh quy định trình tự, thủ tục chấp thuận thiết kế và trình tự, thủ tục cấp phép thi công nút giao đối với đường địa phương đang khai thác. ” - Cơ quan chủ trì: Sở Giao thông vận tải. - Cơ quan phối hợp: Sở Tư pháp; các sở, ban, ngành tỉnh, UBND huyện, thị xã, thành phố và các cơ quan, đơn vị liên quan. - Thời gian thực hiện: Quý IV năm 2024. c) Nhiệm vụ được giao tại khoản 4"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 57.1",
+      "change": "added",
+      "to": "Đường bộ ”4. Hội đồng nhân dân cấp tỉnh căn cứ vào nguồn lực địa phương quyết định hỗ trợ lãi suất vay vốn tại các tổ chức tín dụng đối với các dự án đầu tư phương tiện xe buýt, đầu tư xây dựng kết cấu hạ tầng phục vụ vận tải hành khách công cộng bằng xe buýt; hỗ trợ kinh phí hoạt"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH QUẢNG NGÃI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 205/KH-UBND Quảng Ngãi, ngày 24 tháng 10 năm 2024 KẾ HOẠCH TRIỂN KHAI THI HÀNH LUẬT ĐƯỜNG BỘ Thực hiện Quyết định số 1044/QĐ-TTg ngày 26/9/2024 của Thủ tướng Chính phủ về việc ban hành Kế hoạch triển khai thi hành Luật Đường bộ, theo đề nghị của Sở Giao thông vận tải tại Công văn số 3628/SGTVT-VP ngày 15/10/2024 và ý kiến thống nhất của Thành viên UBND tỉnh, Ủy ban nhân dân tỉnh ban hành Kế hoạch triển khai thực hiện như sau: I. MỤC ĐÍCH, YÊU CẦU 1. Mục đích a) Tuyên truyền, phổ biến, nâng cao nhận thức về Luật Đường bộ và trách nhiệm của các sở, ban, ngành, địa phương và Nhân dân trên địa bàn tỉnh trong việc thi hành Luật Đường bộ; b) Xác định cụ thể các nội dung công việc, thời hạn, tiến độ hoàn thành và trách nhiệm của các cơ quan, đơn vị có liên quan trong việc tổ chức triển khai thi hành Luật Đường bộ, đảm bảo tính kịp thời, đồng bộ, thống nhất..."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "base": "501_TB_VPCP_original",
+  "revised": "501_TB_VPCP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 77.1",
+      "change": "added",
+      "to": "Trật tự, an toàn giao thông đường bộ , đề nghị Bộ Giao thông vận tải: - Tiếp tục rà soát, thực hiện phân cấp triệt để cho các địa phương quản lý, đầu tư, khai thác, sử dụng, bảo trì (sau đây gọi chung là quản lý) kết cấu hạ tầng đường bộ theo đúng quy định của Luật Đường bộ, theo hướng quy định rõ các điều kiện, tiêu chí đối với từng loại công trình kết cấu hạ tầng do trung ương quản lý [3] và phân cấp cho địa phương quản lý; trường hợp có khó khăn, vướng mắc liên quan đến các quy định của pháp luật về ngân sách và đầu tư công đối với năm 2025 và thời kỳ ổn định ngân sách 2021-2025 thì xem xét quy định một số nội dung trong điều khoản chuyển tiếp để tránh gây ảnh hưởng đến hoạt động đầu tư công năm"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 77.2025",
+      "change": "added",
+      "to": "- Rà soát các nội dung liên quan đến quản lý đường cao tốc: (i) Việc nâng cấp, mở rộng đường cao tốc theo phương thức PPP theo hướng đấu thầu lựa chọn nhà đầu tư, chỉ định nhà đầu tư hiện hữu hoặc nhà nước thực hiện...; (ii) Việc nghiên cứu đầu tư trạm dừng nghỉ phải được thực hiện đồng thời trong giai đoạn nghiên cứu đầu tư dự án. 2. Đối với dự thảo Nghị định quy định danh mục hàng hóa nguy hiểm và trình tự, thủ tục cấp giấy phép, giấy chứng nhận hoàn thành chương trình tập huấn cho người lái xe hoặc áp tải vận chuyển hàng hóa nguy hiểm trên đường bộ: Bộ Giao thông vận tải tiếp tục rà soát nhằm bảo đảm tính đồng bộ trong hệ thống pháp luật, nhất là Luật Phòng thủ dân sự; việc cấp phép hàng hóa nguy hiểm loại 5 (chất ô xy hóa) và loại 8 (chất ăn mòn) giao cho Bộ quản lý ngành theo quy định của pháp luật về hóa chất thực hiện cấp phép. 3. Đối với dự thảo Nghị định quy định về hoạt động đào tạo và sát hạch lái xe: Bộ Giao thông vận tải tiếp tục rà soát lại các điều kiện, tiêu chuẩn của sân tập lái, bảo đảm tính kế thừa và phù hợp với thực tiễn quản lý; xe tập lái phải đáp ứng yêu cầu đào tạo, đồng thời phù hợ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "VĂN PHÒNG CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 501/TB-VPCP Hà Nội, ngày 01 tháng 11 năm 2024 THÔNG BÁO KẾT LUẬN CỦA PHÓ THỦ TƯỚNG CHÍNH PHỦ TRẦN HỒNG HÀ TẠI CUỘC HỌP RÀ SOÁT DỰ THẢO CÁC NGHỊ ĐỊNH QUY ĐỊNH CHI TIẾT, HƯỚNG DẪN THI HÀNH LUẬT ĐƯỜNG BỘ VÀ LUẬT TRẬT TỰ, AN TOÀN GIAO THÔNG ĐƯỜNG BỘ Ngày 29 tháng 10 năm 2024, tại Trụ sở Văn phòng Chính phủ, Phó Thủ tướng Chính phủ Trần Hồng Hà chủ trì cuộc họp rà soát các dự thảo Nghị định quy định chi tiết, hướng dẫn thi hành Luật Đường bộ và Luật Trật tự, an toàn giao thông đường bộ [1] . Tham dự cuộc họp có lãnh đạo các Bộ, cơ quan: Giao thông vận tải, Tư pháp, Kế hoạch và Đầu tư, Khoa học và Công nghệ, Văn phòng Chính phủ và đại diện lãnh đạo các Bộ: Công an, Quốc phòng, Công Thương, Tài chính, Nông nghiệp và Phát triển nông thôn. Sau khi nghe Bộ Giao thông vận tải, Bộ Công an báo cáo về dự thảo các Nghị định do các Bộ chủ trì xây dựng, ý kiến của các đại b..."
+    }
+  ]
+}

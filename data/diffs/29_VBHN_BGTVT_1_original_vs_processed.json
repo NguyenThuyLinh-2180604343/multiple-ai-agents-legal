@@ -1,0 +1,48 @@
+{
+  "base": "29_VBHN_BGTVT_1_original",
+  "revised": "29_VBHN_BGTVT_1_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "toàn kỹ thuật và bảo vệ môi trường các loại phương tiện giao thông cơ giới đường bộ (sau đây gọi là xe cơ giới) và làm căn cứ kỹ thuật cho các chủ phương tiện và người lái xe thực hiện đầy đủ yêu cầu về bảo dưỡng, sửa chữa để phương tiện đạt yêu cầu quy định về an toàn kỹ thuật và bảo vệ môi trường khi tham gia giao thông. 2. Thông tư này không áp dụng cho xe mô tô, xe gắn máy và các xe cơ giới của quân đội, công an sử dụng vào mục đích quốc phòng, an ninh."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "nhân có liên quan đến hoạt động kiểm tra an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới đang lưu hành theo định kỳ (sau đây gọi tắt là kiểm định) hoặc khi tham gia giao thông."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "kiểm tra 1. Hạng mục và phương pháp kiểm tra an toàn kỹ thuật và bảo vệ môi trường xe cơ giới quy định tại Phụ lục I ban hành kèm theo Thông tư này. 2. Xe cơ giới được cấp Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường khi đạt tất cả các hạng mục quy định tại Phụ lục I ban hành kèm theo Thông tư này."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "của xe cơ giới được thực hiện theo quy định tại Phụ lục II ban hành kèm theo Thông tư này. 2. Các trường hợp phương tiện đang trong quá trình hoàn thiện hồ sơ đăng ký, hồ sơ chuyển vùng, cải tạo; phương tiện mới sản xuất lắp ráp, nhập khẩu, chưa có biển số đăng ký nhưng có nhu cầu tham gia giao thông để di chuyển về địa điểm cần thiết, được kiểm tra theo Thông tư này và nếu đạt yêu cầu được cấp Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường có thời hạn không quá 15 ngày."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "ngày ký và bãi bỏ Quyết định số 4134/2001/QĐ-BGTVT ngày 05 tháng 12 năm 2001 của Bộ trưởng Bộ Giao thông vận tải ban hành: “Tiêu chuẩn an toàn kỹ thuật và bảo vệ môi trường của phương tiện giao thông cơ giới đường bộ”, số đăng ký: 22 TCN 224 - 01 và Quyết định 4331/2002/QĐ-BGTVT ngày 24 tháng 12 năm 2002 của Bộ trưởng Bộ Giao thông vận tải về việc sửa đổi, bổ sung Tiêu chuẩn an toàn kỹ thuật và bảo vệ môi trường của phương tiện giao thông cơ giới đường bộ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "triển khai thực hiện Thông tư này. 2. Các Ông (Bà) Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, Vụ trưởng Vụ Khoa học - Công nghệ và Vụ trưởng các Vụ, Cục trưởng Cục Đăng kiểm Việt Nam, Thủ trưởng các cơ quan, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./. Nơi nhận: - Văn phòng Chính phủ (để đăng Công báo); - Trang thông tin điện tử Bộ GTVT; - Lưu: VT, PC. XÁC THỰC VĂN BẢN HỢP NHẤT BỘ TRƯỞNG Đinh La Thăng PHỤ LỤC I HẠNG MỤC VÀ PHƯƠNG PHÁP KIỂM TRA (Ban hành kèm theo Thông tư số: 10/2009/TT-BGTVT ngày 24 tháng 06 năm 2009 của Bộ trưởng Bộ Giao thông vận tải) Các hạng mục kiểm tra quy định trong phụ lục này được thực hiện phù hợp theo hồ sơ kỹ thuật của phương tiện và tiêu chuẩn, quy định hiện hành. 1. Kiểm tra nhận dạng, tổng quát Hạng mục kiểm tra Phương pháp kiểm tra Nguyên nhân không đạt 1.1 Biển số đăng ký Quan sát, kết hợp dùng tay lay lắc. a) Không đủ số lượng, lắp đặt không chắc chắn; b) Không đúng qu"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------- Số: 29/VBHN-BGTVT Hà Nội, ngày 25 tháng 12 năm 2013 THÔNG TƯ VỀ KIỂM TRA AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ Thông tư số 10/2009/TT-BGTVT ngày 24 tháng 06 năm 2009 của Bộ trưởng Bộ Giao thông vận tải về kiểm tra an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ có hiệu lực kể từ ngày 10 tháng 08 năm 2009, được sửa đổi, bổ sung bởi: Thông tư số 37/2011/TT-BGTVT ngày 06 tháng 05 năm 2011 của Bộ trưởng Bộ Giao thông vận tải về việc sửa đổi, bổ sung một số điều của Quy định về việc cải tạo phương tiện giao thông cơ giới đường bộ ban hành kèm theo Quyết định số 15/2005/QĐ-BGTVT ngày 15/02/2005, Quy định điều kiện thành lập và hoạt động của Trung tâm Đăng kiểm xe cơ giới ban hành kèm theo Quyết định số 45/2005/QĐ-BGTVT ngày 23/09/2005, Thông tư số 10/2009/TT-BGTVT ngày 24/06/2009 quy định về kiể..."
+    }
+  ]
+}

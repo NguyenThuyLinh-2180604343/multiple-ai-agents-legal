@@ -1,0 +1,60 @@
+{
+  "base": "01_CT_UBND_original",
+  "revised": "01_CT_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section General.1",
+      "change": "added",
+      "to": "ỦY BAN NHÂN DÂN TỈNH NINH BÌNH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 01/CT-UBND Ninh Bình, ngày 28 tháng 7 năm 2025 CHỈ THỊ VỀ TĂNG CƯỜNG THỰC HIỆN CÁC GIẢI PHÁP CẤP BÁCH NHẰM BẢO ĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG; HẠN CHẾ, KÉO GIẢM TAI NẠN GIAO THÔNG VÀ BẢO ĐẢM TRẬT TỰ CÔNG CỘNG, VĂN MINH ĐÔ THỊ TRÊN ĐỊA BÀN TỈNH NINH BÌNH Từ đầu năm 2025 đến nay, tình hình trật tự, an toàn giao thông (TTATGT) trên địa bàn tỉnh diễn biến rất phức tạp; tai nạn giao thông (TNGT) xảy ra 405 vụ, làm chết 228 người, bị thương 267 người, tăng cả 3 tiêu chí so với cùng kỳ năm 2024 (tăng 6% số vụ, 9% số người chết và 7% số người bị thương) ; đã xảy ra 02 vụ TNGT đặc biệt nghiêm trọng, làm chết 10 người. Trật tự, kỷ cương, văn hoá tham gia giao thông chưa được hình thành rõ nét, một bộ phận người dân “ngang nhiên” vi phạm pháp luật về giao thông; tình trạng lấn chiếm lòng, lề đường, vỉa hè, hành lang an toàn giao thông (ATGT) để sử dụng vào mục đích cá nhân (bày bán hàng hóa, để vật liệu xây dựng, họp chợ, trông giữ xe,…) , xây dựng công trình trái phép chưa được giải quyết triệt để; thanh, thiếu niên tụ tập đua xe trái phép; phương tiện chở hàng quá trọng tải, quá khổ,... tiếp tục diễn biến phức tạp. Nguyên nhân của tình trạng trên ngoài nguyên nhân khách quan như số lượng phương tiện giao thông cá nhân gia tăng nhanh (6 tháng đầu năm đăng ký mới 10.815 ô tô và 36.505 mô tô) ,"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "ý thức chấp hành pháp luật về ATGT của một bộ phận người tham gia giao thông còn yếu kém, vi phạm TTATGT, nhất là các nhóm hành vi như người điều khiển"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "hướng, sử dụng rượu bia, các chất kích thích khi lái xe; không chấp hành biển báo, tín hiệu đèn giao thông; chạy quá tốc độ,… Bên cạnh đó, hiệu quả công tác tuyên truyền pháp luật về TTATGT ở một số địa phương chưa tạo được sức lan tỏa sâu rộng; cấp ủy, chính quyền một số địa phương và một số sở, ngành chưa quyết liệt trong lãnh đạo, chỉ đạo công tác bảo đảm TTATGT; hiệu lực, hiệu quả thực"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "cao; đầu tư nguồn lực, phương tiện trang thiết bị, ứng dụng khoa học công nghệ trong quản lý, giám sát, điều hành giao thông chưa tương xứng với tình hình thực tế,… Để tăng cường công tác bảo đảm TTATGT trên địa bàn tỉnh, nhằm hạn chế, kéo giảm TNGT, bảo đảm an toàn về tính mạng, sức khỏe, tài sản của Nhân dân và bảo đảm trật tự công cộng, văn minh đô"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_5.1",
+      "change": "added",
+      "to": "ban, ngành, đoàn thể, tổ chức chính trị - xã hội, Ủy ban nhân dân các xã, phường tập trung triển khai thực hiện nghiêm túc, hiệu quả các văn bản chỉ đạo của Đảng, Nhà nước trong công tác bảo đảm TTATGT [1] . Xem xét, xử lý trách nhiệm người đứng đầu cấp ủy, chính quyền địa phương nếu để tình hình TTATGT xảy ra phức tạp trên địa bàn do thiếu lãnh đạo, chỉ đạo, thanh tra, kiểm tra, giám sát hoặc thực hiện không đầy đủ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_6.1",
+      "change": "added",
+      "to": "công chức, viên chức, lực lượng vũ trang gương mẫu thực hiện, tích cực vận động"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_7.1",
+      "change": "added",
+      "to": "hành vi can thiệp, tác động vào quá trình xử lý vi phạm về giao thông; xử lý kỷ luật nghiêm đối với cán bộ, công chức, viên chức vi phạm nồng độ cồn, không hợp tác với lực lượng chức năng trong xử lý vi phạm; đồng thời lấy việc chấp hành pháp luật về ATGT là một tiêu chuẩn đánh giá kết quả công tác hàng năm của các cơ quan, đơn vị và cán bộ, công nhân viên. 2. Công an tỉnh - Chủ trì, phối hợp với các sở, ngành, Ủy ban nhân dân các xã, phường và các cơ quan, đơn vị có liên quan mở đợt cao điểm bảo đảm TTATGT; trật tự công cộng, văn minh đô thị (từ ngày 01 tháng 8 năm 2025 đến ngày 14 tháng 11 năm 2025) . - Tăng cường công tác tuần tra, kiểm soát, xử lý vi phạm về TTATGT với nguyên tắc “thượng tôn pháp luật” , “không có vùng cấm, không có ngoại lệ”. Tập trung xử lý các hành vi vi phạm là nguyên nhân chính dẫn đến các vụ TNGT nghiêm trọng, như vi phạm nồng độ cồn, phóng nhanh, vượt ẩu, không chấp hành biển báo, tín hiệu đèn giao thông, đi không đúng phần đường, làn đường; thanh thiếu niên tụ tập điều khiển phương tiện chạy tốc độ cao, lạng lách, đánh võng, đi ngược chiều; vi phạm trong lứa tuổi học sinh; hành vi giao xe hoặc để cho người không đủ điều kiện điều khiển phương tiện gây tai nạn,… Quá trình xử lý phải tiến hành xác minh, nếu người vi phạm là cán bộ, công chức, viên chức vi phạm nồng độ cồn, không hợp tác với cơ quan chức năng trong xử lý vi phạm phải thông báo về cơ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_8.1",
+      "change": "added",
+      "to": "trí lực lượng tổ chức hướng dẫn, phân luồng giao thông, giải toả kịp thời, không để xảy ra ùn tắc kéo dài, nhất là tại các nút giao thông trọng điểm, khu"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH NINH BÌNH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 01/CT-UBND Ninh Bình, ngày 28 tháng 7 năm 2025 CHỈ THỊ VỀ TĂNG CƯỜNG THỰC HIỆN CÁC GIẢI PHÁP CẤP BÁCH NHẰM BẢO ĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG; HẠN CHẾ, KÉO GIẢM TAI NẠN GIAO THÔNG VÀ BẢO ĐẢM TRẬT TỰ CÔNG CỘNG, VĂN MINH ĐÔ THỊ TRÊN ĐỊA BÀN TỈNH NINH BÌNH Từ đầu năm 2025 đến nay, tình hình trật tự, an toàn giao thông (TTATGT) trên địa bàn tỉnh diễn biến rất phức tạp; tai nạn giao thông (TNGT) xảy ra 405 vụ, làm chết 228 người, bị thương 267 người, tăng cả 3 tiêu chí so với cùng kỳ năm 2024 (tăng 6% số vụ, 9% số người chết và 7% số người bị thương) ; đã xảy ra 02 vụ TNGT đặc biệt nghiêm trọng, làm chết 10 người. Trật tự, kỷ cương, văn hoá tham gia giao thông chưa được hình thành rõ nét, một bộ phận người dân “ngang nhiên” vi phạm pháp luật về giao thông; tình trạng lấn chiếm lòng, lề đường, vỉa hè, hành lang an toàn giao thông (ATGT) để sử dụng vào mục..."
+    }
+  ]
+}

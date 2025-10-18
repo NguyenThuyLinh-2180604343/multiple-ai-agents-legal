@@ -1,0 +1,48 @@
+{
+  "base": "05_2024_TT_BGTVT_original",
+  "revised": "05_2024_TT_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "sung một số điều của Thông tư số 06/2011/TT-BGTVT ngày 07 tháng 3 năm 2011 của Bộ trưởng Bộ Giao thông vận tải quy định về bồi dưỡng kiến thức pháp luật về giao thông đường bộ cho người điều khiển xe máy chuyên dùng tham gia giao thông đường bộ 1. Bãi bỏ điểm b khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 10.1",
+      "change": "added",
+      "to": "số 06/2011/TT-BGTVT tương ứng bằng Phụ lục I, Phụ lục II và Phụ lục III ban hành kèm theo Thông tư này."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "sung một số điều của Thông tư số 09/2015/TT-BGTVT ngày 15 tháng 4 năm 2015 của Bộ trưởng Bộ Giao thông vận tải quy định về cung cấp, quản lý và sử dụng dữ liệu từ thiết bị giám sát hành trình của xe ô tô (sau đây gọi là Thông tư số 09/2015/TT-BGTVT), Thông tư số 36/2020/TT-BGTVT ngày 24 tháng 12 năm 2020 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của các Thông tư quy định về chế độ báo cáo định kỳ trong lĩnh vực đường bộ (sau đây gọi là Thông tư số 36/2020/TT-BGTVT), Thông tư số 05/2023/TT-BGTVT ngày 27 tháng 4 năm 2023 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của các Thông tư liên quan đến lĩnh vực vận tải đường bộ, dịch vụ hỗ trợ vận tải đường bộ, phương tiện và người lái (sau đây gọi là Thông tư số 05/2023/TT-BGTVT) 1. Sửa đổi, bổ sung điểm b khoản 3, điểm c khoản 3"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 9.1",
+      "change": "added",
+      "to": "sau: “b) Dữ liệu từ thiết bị giám sát hành trình được truyền từ máy chủ dịch vụ về máy chủ của Cục Đường bộ Việt Nam phải đảm bảo theo thứ tự thời gian. Trong thời gian không quá 03 ngày kể từ ngày cuối cùng máy chủ của Cục Đường bộ Việt Nam nhận dữ liệu, trường hợp dữ liệu truyền bị gián đoạn thì thực hiện gửi đồng thời cả dữ liệu cũ và dữ liệu hiện tại khi có kết nối trở lại; đối với các trường hợp quá 03 ngày, đơn vị truyền dữ liệu gửi thông báo đến Cục Đường bộ Việt Nam để bố trí kênh truyền lại dữ liệu;”; b) Sửa đổi, bổ sung điểm c khoản 3"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "liệu do Cục Đường bộ Việt Nam công bố công khai trên Trang Thông tin điện tử của Cục Đường bộ Việt Nam.”. 2. Sửa đổi, bổ sung"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "phương pháp tính toán 1. Việc tính toán về km xe chạy, tốc độ xe chạy, thời gian lái xe liên tục, thời gian làm việc của lái xe trong ngày được thực hiện trên máy chủ dịch vụ, trên máy chủ của Cục Đường bộ Việt Nam. Không sử dụng dữ liệu trong các bản tin truyền về bị lỗi để thực hiện tính toán, chi tiết xử lý lọc nhiễu các bản tin trước khi tính toán quy định tại Phụ lục 3 ban hành kèm theo Thông tư này. 2. Tính toán quá tốc độ xe chạy a) Phương pháp xác định quá tốc độ xe chạy được thực hiện theo quy định tại Phụ lục 2 ban hành kèm theo Thông tư này; b) Phần mềm trên máy chủ thực hiện tính toán quá tố"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 05/2024/TT-BGTVT Hà Nội, ngày 31 tháng 03 năm 2024 THÔNG TƯ SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA CÁC THÔNG TƯ LIÊN QUAN ĐẾN LĨNH VỰC VẬN TẢI ĐƯỜNG BỘ, DỊCH VỤ HỖ TRỢ VẬN TẢI ĐƯỜNG BỘ, PHƯƠNG TIỆN VÀ NGƯỜI LÁI Căn cứ Luật Giao thông đường bộ ngày 13 tháng 11 năm 2008; Căn cứ Luật Giáo dục nghề nghiệp ngày 27 tháng 11 năm 2014; Căn cứ Nghị định số 65/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về điều kiện kinh doanh dịch vụ đào tạo lái xe ô tô và dịch vụ sát hạch lái xe; Nghị định số 138/2018/NĐ-CP ngày 08 tháng 10 năm 2018 của Chính phủ sửa đổi, bổ sung một số điều Nghị định số 65/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ quy định về điều kiện kinh doanh dịch vụ đào tạo lái xe ô tô và dịch vụ sát hạch lái xe; Nghị định số 70/2022/NĐ-CP ngày 27 tháng 9 năm 2022 của Chính phủ sửa đổi, bổ sung một số điều của các Nghị định quy định liên..."
+    }
+  ]
+}

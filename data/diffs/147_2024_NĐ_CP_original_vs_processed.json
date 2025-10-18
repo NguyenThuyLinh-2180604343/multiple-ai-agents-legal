@@ -1,0 +1,36 @@
+{
+  "base": "147_2024_NĐ_CP_original",
+  "revised": "147_2024_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "lý, cung cấp, sử dụng dịch vụ Internet, thông tin trên mạng, bao gồm: Dịch vụ Internet, tài nguyên Internet; Thông tin trên mạng; Cung cấp dịch vụ nội dung thông tin trên mạng viễn thông di động; Giám sát thông tin và ngăn chặn, gỡ bỏ thông tin vi phạm pháp luật trên mạng."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "trong nước, tổ chức, cá nhân nước ngoài trực tiếp tham gia hoặc có liên quan đến việc quản lý, cung cấp, sử dụng dịch vụ Internet và thông tin trên mạng."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "như sau: 1. Dịch vụ Internet là một loại hình dịch vụ viễn thông, bao gồm dịch vụ truy nhập Internet và dịch vụ kết nối Internet: a) Dịch vụ truy nhập Internet là dịch vụ cung cấp cho người sử dụng dịch vụ viễn thông khả năng truy nhập đến Internet; b) Dịch vụ kết nối Internet là dịch vụ cung cấp cho doanh nghiệp cung cấp dịch vụ truy nhập Internet, doanh nghiệp cung cấp dịch vụ ứng dụng viễn thông khả năng kết nối với nhau để chuyển tải lưu lượng Internet. 2. Trạm trung chuyển Internet là hệ thống thiết bị viễn thông gồm: a) Trạm trung chuyển Internet do doanh nghiệp thiết lập để cung cấp dịch vụ kết nối Internet; b) Trạm trung chuyển Internet quốc gia (VNIX) do Bộ Thông tin và Truyền thông (Trung tâm Internet Việt Nam) thiết lập để thực hiện các nội dung quy định tại khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 8.1",
+      "change": "added",
+      "to": "nghiệp viễn thông cung cấp dịch vụ Internet quy định tại khoản 1 Điều này. 4. Đại lý Internet là tổ chức, cá nhân cung cấp dịch vụ truy nhập Internet cho người sử dụng dịch vụ viễn thông thông qua hợp đồng đại lý ký với doanh nghiệp cung cấp dịch vụ Internet. 5. Điểm truy nhập Internet công cộng bao gồm: a) Địa điểm mà đại lý Internet được quyền sử dụng hợp pháp để cung cấp dịch vụ; b) Điểm truy nhập Internet công cộng của doanh nghiệp là địa điểm mà đơn vị thành viên hoặc cá nhân đại diện cho doanh nghiệp cung cấp dịch vụ truy nhập Internet trực tiếp quản lý để cung cấp dịch vụ truy nhập Internet cho người sử dụng dịch vụ viễn thông; c) Điểm truy nhập Internet công cộng tại khách sạn, nhà hàng, sân bay, bến tàu, bến xe, quán cà phê và điểm công cộng khác là địa điểm mà tổ chức, cá nhân được quyền sử dụng hợp pháp để cung cấp dịch vụ truy nhập Internet cho người sử dụng dịch vụ viễn thông. 6. Người sử dụng Internet là tổ chức, cá nhân giao kết hợp đồng cung cấp và sử dụng dịch vụ viễn thông với doanh nghiệp cung cấp dịch vụ truy nhập Internet hoặc điểm truy nhập Internet công cộng để sử dụng các ứng dụng và dịch vụ trên Internet. 7. Tài nguyên Internet là tập hợp tên miền, địa chỉ Internet (còn gọi là địa chỉ IP), số hiệu mạng (còn gọi là ASN) và tên, số khác thuộc quyền quản lý của Việt Nam, bao gồm: a) Tài nguyên Internet Việt Nam là: Tên miền quốc gia Việt Nam “.vn”; Địa chỉ Internet; Số hiệu mạng và tên, số quốc gia Việt Nam khác do Bộ Thông tin và Truyền thông (Trung tâm Internet Việt Nam) phân bổ, cấp; b) Tài nguyên Internet quốc tế là: Tên miền quốc tế; Địa chỉ Internet; Số hiệu mạng và tên, số quốc tế khác do các tổ chức quốc tế phân bổ, cấp cho tổ chức, cá nhân sử dụng, cung cấp dịch vụ tại Việt Nam. 8. Tên miền quốc tế là tên miền dùng chung cấp cao nhất (viết tắt là gTLD), tên miền quốc gia (viết tắt là ccTLD) không phải tên miền quốc gia Việt Nam, tên miền cấp dưới của các tên miền nêu trên. 9. Tên miền quốc gia Việt Nam “.vn” là tên miền quốc gia cấp cao nhất của Việt Nam (“.vn”) và các tên miền cấp dưới tên miền quốc gia cấp cao nhất “.vn” do Bộ Thông tin và Truyền thông quản lý, cấp quyền sử dụng. 10. Tên miền dùng chung cấp cao nhất mới (viết tắt là New gTLD) là gTLD được Tổ chức quản lý tên miền và số quốc tế (ICANN) phân bổ, chuyển giao cho các tổ chức, cá nhân theo Chương trình mở rộng đuôi tên miền"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 147/2024/NĐ-CP Hà Nội, ngày 09 tháng 11 năm 2024 NGHỊ ĐỊNH QUẢN LÝ, CUNG CẤP, SỬ DỤNG DỊCH VỤ INTERNET VÀ THÔNG TIN TRÊN MẠNG Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật An ninh quốc gia ngày 14 tháng 12 năm 2004; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Luật Báo chí ngày 05 tháng 4 năm 2016; Căn cứ Luật Trẻ em ngày 05 tháng 4 năm 2016; Căn cứ Luật An ninh mạng ngày 12 tháng 6 năm 2018; Căn cứ Luật Đầu tư ngày 17 tháng 6 năm 2020; Căn cứ Luật Doanh nghiệp ngày 11 tháng 01 năm 2022 ; Căn cứ Luật Viễn thông ngày 24 tháng 11 năm 2023; Theo đề nghị của Bộ trưởng Bộ Thông tin và Truyền thông; Chính phủ ban hành Nghị định quản lý, cung cấp,..."
+    }
+  ]
+}

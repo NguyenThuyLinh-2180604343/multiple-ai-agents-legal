@@ -1,0 +1,36 @@
+{
+  "base": "3432_QĐ_UBND_original",
+  "revised": "3432_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "quyết thủ tục hành chính lĩnh vực đường bộ thuộc thẩm quyền giải quyết của Sở Giao thông vận tải thành phố Hà Nội. Bãi bỏ 01 quy trình nội bộ giải quyết thủ tục hành chính lĩnh vực đường bộ thuộc thẩm quyền giải quyết của Sở Giao thông vận tải thành phố Hà Nội. (Chi tiết tại các Phụ lục kèm theo)"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "quan, đơn vị liên quan, căn cứ Quyết định này xây dựng quy trình điện tử để phục vụ việc tiếp nhận, giải quyết thủ tục hành chính trên Hệ thống thông tin giải quyết thủ tục hành chính của Thành phố theo quy định."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "theo Quyết định số 2224/QĐ-UBND ngày 18/5/2021 của Chủ tịch UBND thành phố Hà Nội hết hiệu lực."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI THÀNH PHỐ HÀ NỘI (Kèm theo Quyết định số 3432/QĐ-UBND ngày 30 tháng 6 năm 2023 của Chủ tịch UBND thành phố Hà Nội) TT Tên quy trình nội bộ Ký hiệu 1. Đổi giấy phép lái xe do ngành Giao thông vận tải cấp QT-01 PHỤ LỤC 2 NỘI DUNG QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI THÀNH PHỐ HÀ NỘI (Kèm theo Quyết định số 3432/QĐ-UBND ngày 20 tháng 6 năm 2023 của Chủ tịch UBND thành phố Hà Nội) 1. Quy trình Đổi giấy phép lái xe do ngành Giao thông vận tải cấp (QT-01) 1 Mục đích: Quy định trình tự và cách thức thủ tục đổi giấy phép lái xe do ngành Giao thông vận tải cấp 2 Phạm vi: Áp dụng đối với cá nhân có nhu cầu đổi giấy phép lái xe do ngành Giao thông vận tải cấp. Cán bộ, công chức thuộc Sở Giao thông vận tải chịu trách nhiệm thực hiện quy trình này. 3 Nội dung quy trình 3.1 Cơ sở pháp lý 1. Thông tư số 12/2017/TT-BGTVT ngày 15/04/2017 của Bộ trưởng Bộ Giao thông vận tải quy định về đào tạo, sát hạch, cấp giấy phép lái xe cơ giới đường bộ; 2. Thông tư số 38/2019/TT-BGTVT ngày 08/10/2019 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của Thông tư số 12/2017/TT-BGTVT ngày 15/4/2017 của Bộ trưởng Bộ Giao thông vận tải quy định về đào tạo, sát hạch, cấp giấy phép lái xe cơ giới đường bộ; 3. Thông tư số 188/2016/TT-BTC ngày 08/11/2016 của Bộ Tài chính quy định mức thu, chế độ thu, nộp, quản lý và sử dụng phí sát hạch lái xe; lệ phí cấp bằng, chứng chỉ hoạt động trên các phương tiện và lệ phí đăng ký, cấp biển xe máy chuyên dùng; 4. Thông tư số 01/2021/TT-BGTVT ngày 27/01/2021 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều Thông tư số 29/2015/TT-BGTVT ngày 6/7/2015 của Bộ trưởng Bộ GTVT quy định về cấp, sử dụng GPLX quốc tế và Thông tư số 12/2017/TT-BGTVT ngày 15/04/2017 của Bộ trưởng Bộ Giao thông vận tải quy định về đào tạo, sát hạch, cấp giấy phép lái xe cơ giớ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN THÀNH PHỐ HÀ NỘI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 3432/QĐ-UBND Hà Nội, ngày 30 tháng 6 năm 2023 QUYẾT ĐỊNH VỀ VIỆC PHÊ DUYỆT QUY TRÌNH NỘI BỘ GIẢI QUYẾT THỦ TỤC HÀNH CHÍNH LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ GIAO THÔNG VẬN TẢI HÀ NỘI CHỦ TỊCH ỦY BAN NHÂN DÂN THÀNH PHỐ HÀ NỘI Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22/11/2019; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Nghị định số 107/2021/NĐ-CP ngày 06/12/2021 sửa đổi, bổ sung một số điều của Nghị định số 61/2018/NĐ-CP ; Căn cứ Thông tư số 01/2018/TT-VPCP ngày 23/11/2018 của Văn phòng Chính phủ hướng dẫn thi hành một số điều của Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 về thực hiện cơ chế một cửa, một cửa..."
+    }
+  ]
+}

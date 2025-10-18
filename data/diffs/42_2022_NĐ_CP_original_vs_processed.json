@@ -1,0 +1,30 @@
+{
+  "base": "42_2022_NĐ_CP_original",
+  "revised": "42_2022_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "định này quy định về việc cung cấp thông tin và dịch vụ công trực tuyến của cơ quan nhà nước trên môi trường mạng."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "Cổng dữ liệu cấp bộ, cấp tỉnh là điểm đầu mối truy cập thông tin, dữ liệu trên môi trường mạng phục vụ việc công bố dữ liệu mở, cung cấp thông tin về chia sẻ dữ liệu của cơ quan nhà nước trong nội bộ của bộ, tỉnh; cung cấp các tài liệu, dịch vụ, công cụ, ứng dụng xử lý, khai thác dữ liệu được công bố bởi các cơ quan nhà nước trong nội bộ của bộ, tỉnh. 4. Dịch vụ hành chính công là những dịch vụ liên quan đến hoạt động thực thi pháp luật, không nhằm mục tiêu lợi nhuận, do cơ quan nhà nước có thẩm quyền cấp cho tổ chức, cá nhân dưới hình thức các loại giấy tờ có giá trị pháp lý hoặc dưới hình thức thông báo kết quả thực hiện trong các lĩnh vực mà cơ quan nhà nước đó quản lý. Mỗi dịch vụ hành chính công gắn liền với một hoặc một số thủ tục hành chính để giải quyết một công việc cụ thể liên quan đến tổ chức, cá nhân. 5. Dịch vụ công trực tuyến của cơ quan nhà nước là dịch vụ hành chính công và các dịch vụ khác của cơ quan nhà nước được cung cấp cho các tổ chức, cá nhân trên môi trường mạng. 6. Các chủ thể tham gia giao dịch là các cơ quan nhà nước, tổ chức, cá nhân tham gia vào các giao dịch của dịch vụ công trực tuyến. 7. Biểu mẫu điện tử không tương tác là biểu mẫu của thủ tục hành chính (mẫu đơn, mẫu tờ khai) được định dạng và lưu trữ dưới dạng tệp tin điện tử để tải về và điền thông tin. 8. Biểu mẫu điện tử tương tác là biểu mẫu của thủ tục hành chính được thể hiện dưới dạng ứng dụng máy tính (thông thường dưới dạng ứng dụng trên Web) để tổ chức, cá nhân cung cấp, trao đổi thông tin, dữ liệu khi sử dụng dịch vụ công trực tuyến của cơ quan nhà nước. 9. Kênh cung cấp thông tin và dịch vụ công trực tuyến của cơ quan nhà nước trên môi trường mạng (sau đây gọi là kênh cung cấp) là kênh giao tiếp trên môi trường mạng được cơ quan nhà nước xác định và quản lý để kiểm soát việc cung cấp thông tin và dịch vụ công trực tuyến cho tổ chức, cá nhân. 10. Hệ thống giám sát, đo lường mức độ cung cấp và sử dụng dịch vụ Chính phủ số là hệ thống do Bộ Thông tin và Truyền thông xây dựng để thực hiện đo lường, đánh giá, theo dõi, quản lý việc cung cấp và hiệu quả sử dụng thông tin và dịch vụ công trực tuyến của các cơ quan nhà nước. 11. Dữ liệu đặc tả là những thông tin mô tả các đặc tính của dữ liệu như nội dung, định dạng, chất lượng, điều kiện và các đặc tính khác nhằm tạo thuận lợi cho quá trình tìm kiếm, truy cập, quản lý và lưu trữ dữ liệu. 12. Cổng kết nối dịch vụ chứng thực chữ ký số công cộng do Bộ Thông tin và Truyền thông xây dựng, là hệ thống thông tin kết nối đến các tổ chức cung cấp dịch vụ chứng thực chữ ký số công cộng và tổ chức cung cấp dịch vụ chứng thực chữ ký số chuyên dùng Chính phủ. Chương II CUNG CẤP THÔNG TIN CỦ"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "Nghị định này, các từ ngữ dưới đây được hiểu như sau: 1. Cổng thông tin điện tử là điểm truy cập của cơ quan trên môi trường mạng, liên kết, tích hợp các kênh thông tin, các dịch vụ và các ứng dụng mà qua đó người dùng có thể khai thác, sử dụng và cá nhân hóa việc hiển thị thông tin. 2. Cơ quan chủ quản trang thông tin điện tử hoặc cổng thông tin điện tử là các cơ quan nhà nước quy định tại khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 42/2022/NĐ-CP Hà Nội, ngày 24 tháng 6 năm 2022 NGHỊ ĐỊNH QUY ĐỊNH VỀ VIỆC CUNG CẤP THÔNG TIN VÀ DỊCH VỤ CÔNG TRỰC TUYẾN CỦA CƠ QUAN NHÀ NƯỚC TRÊN MÔI TRƯỜNG MẠNG Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Công nghệ thông tin ngày 29 tháng 6 năm 2006; Căn cứ Luật An toàn thông tin mạng ngày 19 tháng 11 năm 2015; Căn cứ Luật Tiếp cận thông tin ngày 06 tháng 4 năm 2016; Theo đề nghị của Bộ trưởng Bộ Thông tin và Truyền thông; Chính phủ ban hành Nghị định quy định về việc cung cấp thông tin và dịch vụ công trực tuyến của cơ quan nhà nước trên môi trường mạng. Chương I QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định về việc cung cấp thông tin và dịch vụ công trực tuyến của cơ quan nhà nước trên môi trường mạng. ..."
+    }
+  ]
+}

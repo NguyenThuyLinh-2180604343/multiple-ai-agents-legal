@@ -1,0 +1,30 @@
+{
+  "base": "16_NQ_CP_original",
+  "revised": "16_NQ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "Thái Bình, Cao Bằng 1. Chịu trách nhiệm trình cấp thẩm quyền xem xét, quyết định điều chỉnh chủ trương đầu tư các dự án tương ứng với các nội dung quy định tại Phụ lục I của Nghị quyết số 106/2023/QH15 . 2. Việc lập, thẩm định, phê duyệt điều chỉnh chủ trương đầu tư, triển khai các dự án thực hiện theo quy định hiện hành."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "được giao làm cơ quan chủ quản đầu tư dự án đường bộ tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "ương và địa phương theo chức năng, nhiệm vụ, thẩm quyền được giao 1. Tập trung triển khai thực hiện các nhiệm vụ, giải pháp liên quan quy định tại Nghị quyết này; trường hợp cần thiết, chủ động, kịp thời hướng dẫn cụ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 16/NQ-CP Hà Nội, ngày 27 tháng 01 năm 2024 NGHỊ QUYẾT TRIỂN KHAI NGHỊ QUYẾT SỐ 106/2023/QH15 NGÀY 28 THÁNG 11 NĂM 2023 CỦA QUỐC HỘI THÍ ĐIỂM MỘT SỐ CHÍNH SÁCH ĐẶC THÙ VỀ ĐẦU TƯ XÂY DỰNG CÔNG TRÌNH ĐƯỜNG BỘ CHÍNH PHỦ Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ ngày 22 tháng 11 năm 2019; Căn cứ Nghị quyết số 106/2023/QH15 ngày 28 tháng 11 năm 2023 của Quốc hội thí điểm một số chính sách đặc thù về đầu tư xây dựng công trình đường bộ; Căn cứ Nghị định số 39/2022/NĐ-CP ngày 18 tháng 6 năm 2022 của Chính phủ ban hành Quy chế làm việc của Chính phủ; Theo đề nghị của Bộ trưởng Bộ Kế hoạch và Đầu tư tại các văn bản số 204/TTr-BKHĐT ngày 08 tháng 01 năm 2024, 622/BKHĐT-PTHTĐT ngày 24 tháng 01 năm 2024, 712/BKHĐT-PTHTĐT ngày 26 tháng 01 năm 2024; Trên cơ sở kết quả biểu quyết của các thành viên Chính phủ. Q..."
+    }
+  ]
+}

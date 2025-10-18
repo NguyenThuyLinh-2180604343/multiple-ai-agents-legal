@@ -1,0 +1,30 @@
+{
+  "base": "40_2023_NĐ_CP_original",
+  "revised": "40_2023_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "điều của Nghị định số 67/2018/NĐ-CP ngày 14 tháng 5 năm 2018 của Chính phủ quy định chi tiết thi hành một số điều của Luật Thủy lợi (đã được sửa đổi, bổ sung một số điều tại Nghị định số 08/2022/NĐ-CP ngày 10 tháng 01 năm 2022 của Chính phủ quy định chi tiết một số điều của Luật Bảo vệ môi trường ) 1. Sửa đổi, bổ sung"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "2"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "của Chính phủ về quản lý an toàn đập, hồ chứa nước. 2. Trạm bơm tiêu, trạm bơm tưới tiêu kết hợp: a) Trạm bơm lớn là trạm bơm có tổng lưu lượng từ 72.000 m 3 /h trở lên; b) Trạm bơm vừa là trạm bơm có tổng lưu lượng từ 3.600 m 3 /h đến dưới 72.000 m 3 /h; c) Trạm bơm nhỏ là trạm bơm có tổng lưu lượng dưới 3.600 m 3 /h. 3. Trạm bơm tưới: a) Trạm bơm lớn là trạm bơm có tổng lưu lượng từ 12.000 m 3 /h trở lên; b) Trạm bơm vừa là trạm bơm có tổng lưu lượng từ 2.000 m 3 /h đến dưới 12.000 m 3 /h; c) Trạm bơm nhỏ là trạm bơm có tổng lưu lượng dưới 2.000 m 3 /h. 4. Cống: a) Cống lớn là cống có tổng chiều rộng thông nước: Đối với vùng đồng bằng sông Cửu Long từ 20 m trở lên; Đối với vùng còn lại từ 10 m trở lên. b) Cống vừa là cống có tổng chiều rộng thông nước: Đối với vùng đồng bằng sông Cửu Long từ 3 m đến dưới 20 m; Đối với các vùng còn lại từ 1,5 m đến dưới 10 m. c) Cống nhỏ là cống có tổng chiều rộng thông nước: Đối với vùng đồng bằng sông Cửu Long dưới 3 m; Đối với các vùng còn lại dưới 1,5 m. d) Đối với các cống qua đập phân loại theo loại công trình đập, hồ chứa. 5. Hệ thống tiêu, thoát nước, tưới tiêu kết hợp: a) Kênh, mương, rạch, tuynel, xi phông, cầu máng lớn là công trình có các thông số: Đối với vùng đồng bằng sông Cửu Long có lưu lượng từ 50 m 3 /s trở lên hoặc có chiều rộng đáy kênh từ 20 m trở lên; Đối với các vùng khác có lưu lượng từ 20 m 3 /s trở lên hoặc có chiều rộng đáy kênh từ 10 m trở lên. b) Kênh, mương, rạch, tuynel, xi phông, cầu máng vừa là công trình có thông số: Đối với vùng đồng bằng sông Cửu Long có lưu lượng từ 3 m 3 /s đến dưới 50 m 3 /s hoặc chiều rộng đáy kênh từ 5 m đến dưới 20 m; Đối với các vùng khác có lưu lượng từ 1,5 m 3 /s đến dưới 20 m 3 /s hoặc chiều rộng đáy kênh từ 3 m đến dưới 10 m. c) Kênh, mương, rạch, tuynel, xi phông, cầu máng nhỏ là công trình có các thông số: Đối với vùng đồng bằng sông Cửu Long có lưu lượng dưới 3 m 3 /s hoặc chiều rộng đáy kênh dưới 5 m; Đối với các vùng khác có lưu lượng dưới 1,5 m 3 /s hoặc chiều rộng đáy kênh dưới 3 m. 6. Hệ thống cấp, tưới nước: a) Kênh, mương, rạch, tuynel, xi phông, cầu máng lớn là công trình có các thông số: Đối với vùng đồng bằng sông Cửu Long có lưu lượng từ 20 m 3 /s trở lên hoặc có chiều rộng đáy kênh từ 10 m trở lên; Đối với các vùng khác có lưu lượng từ 10 m 3 /s trở lên hoặc có chiều rộng đáy kênh từ 5 m trở lên. b) Kênh, mương, rạch, tuynel, xi phông, cầu máng vừa là công trình có thông số: Đối với vùng đồng bằng sông Cửu Long có lưu lượng từ 1 m 3 /s đến dưới 20 m 3 /s hoặc chiều rộng đáy kênh từ 1 m đến dưới 10 m; Đối với các vùng khác có lưu lượng từ 0,5 m 3 /s đến dưới 10 m 3 /s hoặc chiều rộng đáy kênh từ 0,5 m đến dưới 5 m. c) Kênh, mương, rạch, tuynel, xi phông, cầu máng nhỏ là công trình có các thông số: Đối với vùng đồng bằng sông Cửu Long có lưu lượng dưới 1 m 3 /s hoặc chiều rộng đáy kênh dưới 1 m; Đối với các vùng khác có lưu lượng dưới 0,5 m 3 /s hoặc chiều rộng đáy kênh dưới 0,5 m. 7. Đường ống: a) Đường ống lớn là đường ống dẫn lưu lượng từ 1,5 m 3 /s trở lên hoặc có đường kính trong từ 1.000 mm trở lên; b) Đường ống vừa là đường ống dẫn lưu lượng từ 0,025 m 3 /s đến dưới 1,5 m 3 /s hoặc có đường kính trong từ 100 mm đến dưới 1.000 mm; c) Đường ống nhỏ là đường ống dẫn lưu lượng dưới 0,025 m 3 /s hoặc có đường kính trong dưới 100 mm."
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 40/2023/NĐ-CP Hà Nội, ngày 27 tháng 6 năm 2023 NGHỊ ĐỊNH SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 67/2018/NĐ-CP NGÀY 14 THÁNG 5 NĂM 2018 CỦA CHÍNH PHỦ QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT THỦY LỢI Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Thủy lợi ngày 19 tháng 6 năm 2017; Căn cứ Luật Bảo vệ môi trường ngày 17 tháng 11 năm 2020; Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật ngày 18 tháng 6 năm 2020; Theo đề nghị của Bộ trưởng Bộ Nông nghiệp và Phát triển nông thôn; Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của Nghị định số 67/2018/NĐ-CP ngày 14 tháng 5 năm 2018 của Chính phủ quy định chi t..."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "base": "51_2024_NĐ_CP_original",
+  "revised": "51_2024_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "năm 2019 của Chính phủ quy định một số chế độ đối với thành viên cơ quan Việt Nam ở nước ngoài 1. Sửa đổi khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "áp dụng chung cho tất cả các cơ quan Việt Nam ở nước ngoài là 1.350 đô-la Mỹ/người/tháng và sẽ được xem xét điều chỉnh khi chỉ số giá tiêu dùng tại các địa bàn tăng từ 10% trở lên hoặc tùy theo điều kiện phát triển kinh tế - xã hội của Việt Nam.” 2. Sửa đổi khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 12.1",
+      "change": "added",
+      "to": "theo thành viên cơ quan Việt Nam ở nước ngoài được hỗ trợ chi phí mua bảo hiểm khám, chữa bệnh ở nước ngoài bằng mức mua bảo hiểm khám, chữa bệnh ở nước ngoài dành cho thành viên cơ quan Việt Nam ở nước ngoài. Mức hỗ trợ này sẽ được xem xét điều chỉnh tùy theo điều kiện phát triển kinh tế - xã hội của Việt Nam.”"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "thi hành kể từ ngày ký ban hành."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Người đứng đầu cơ quan Việt Nam ở nước ngoài chịu trách nhiệm thi hành Nghị định này. Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; - HĐND, UBND các tỉnh, thành phố trực thuộc trung ương; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Tổng Bí thư; - Văn phòng Chủ tịch nước; - Hội đồng Dân tộc và các Ủy ban của Quốc hội; - Văn phòng Quốc hội; - Tòa án nhân dân tối cao; - Viện kiểm sát nhân dân tối cao; - Kiểm toán nhà nước; - Ủy ban Giám sát tài chính Quốc gia; - Ngân hàng Chính sách xã hội; - Ngân hàng Phát triển Việt Nam; - Ủy ban trung ương Mặt trận Tổ quốc Việt Nam; - Cơ quan trung ương của các đoàn thể; - Các Cơ quan Việt Nam ở nước ngoài; - VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo; - Lưu: VT, KTTH (2b). TM. CHÍNH PHỦ THỦ TƯỚNG Phạm Minh Chính"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 51/2024/NĐ-CP Hà Nội ngày 15 tháng 5 năm 2024 NGHỊ ĐỊNH SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 08/2019/NĐ-CP NGÀY 23 THÁNG 01 NĂM 2019 CỦA CHÍNH PHỦ QUY ĐỊNH MỘT SỐ CHẾ ĐỘ ĐỐI VỚI THÀNH VIÊN CƠ QUAN VIỆT NAM Ở NƯỚC NGOÀI Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài ngày 18 tháng 6 năm 2009 và Luật sửa đổi, bổ sung một số điều của Luật Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài ngày 21 tháng 11 năm 2017; Căn cứ Luật Cán bộ, công chức ngày 13 tháng 11 năm 2008; Luật Viên chức ngày 15 tháng 11 năm 2010; Luật sửa đổi, bổ sung một số điều của Luật Cán bộ, công chức và Luật Viên chức ngày 25 tháng 11 năm 2019; Căn cứ Luật Ngâ..."
+    }
+  ]
+}

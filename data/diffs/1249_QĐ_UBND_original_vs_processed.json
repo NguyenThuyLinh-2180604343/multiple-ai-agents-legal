@@ -1,0 +1,36 @@
+{
+  "base": "1249_QĐ_UBND_original",
+  "revised": "1249_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "Dịch vụ công quốc gia theo quy định."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "các dịch vụ công trực tuyến toàn trình và một phần được công bố tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "có hiệu lực thi hành kể từ ngày ký."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "Ủy ban nhân dân tỉnh; Giám đốc Sở Xây dựng; Thủ trưởng các sở, ban, ngành; Giám đốc Trung tâm Phục vụ hành chính công tỉnh; Chủ tịch Ủy ban nhân dân các xã, phường và các cơ quan, tổ chức, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này./. KT. CHỦ TỊCH PHÓ CHỦ TỊCH Trịnh Trường Huy PHỤ LỤC DANH MỤC THỦ TỤC HÀNH CHÍNH CUNG CẤP DỊCH VỤ CÔNG TRỰC TUYẾN TOÀN TRÌNH, MỘT PHẦN TRONG LĨNH VỰC HÀNG HẢI VÀ ĐƯỜNG THUỶ, LĨNH VỰC ĐƯỜNG BỘ THUỘC QUYỀN GIẢI QUYẾT CỦA SỞ XÂY DỰNG, ỦY BAN NHÂN DÂN CẤP XÃ TỈNH CAO BẰNG (Kèm theo Quyết định số 1249/QĐ-UBND ngày 29 tháng 7 năm 2025 của Chủ tịch Ủy ban nhân dân tỉnh Cao Bằng) A. Thủ tục hành chính thuộc thẩm quyền giải quyết của Sở Xây dựng (08 TTHC) I. Lĩnh vực Hàng hải và đường thủy ( 03 TTHC) TT Mã TTHC Tên TTHC Toàn trình Một phần 1 1.009444 Gia hạn hoạt động cảng, bến thủy nội địa. X 2 1.009447 Công bố đóng cảng, bến thủy nội địa X 3 1.009465 Chấp thuận phương án bảo đảm an toàn giao thông X II. Lĩnh vực Đường bộ ( 05 TTHC) TT Mã TTHC Tên TTHC Toàn trình Một phần 1 1.002798 Phê duyệt phương án tổ chức giao thông trước khi đưa đường cao tốc vào khai thác; Phê duyệt điều chỉnh, bổ sung phương án tổ chức giao thông đường cao tốc trong thời gian khai thác X 2 1.013061 Cấp giấy phép thi công công trình trên đường bộ đang khai thác X 3 1.000314 Chấp thuận vị trí đấu nối tạm vào đường bộ đang khai thác X 4 2.001921 Chấp thuận vị trí, quy mô, kích thước, phương án tổ chức thi công biển quảng cáo, biển thông tin cổ động, tuyên truyền chính trị; chấp thuận xây dựng, lắp đặt công trình hạ tầng, công trình hạ tầng kỹ thuật sử dụng chung trong phạm vi bảo vệ kết cấu hạ tầng đường bộ; chấp thuận gia cường công trình đường bộ khi cần thiết để cho X 5 1.013274 Cấp phép sử dụng tạm thời lòng đường, vỉa hè vào mục đích khác X B. Thủ tục hành chính thuộc thẩm quyền giải quyết của Ủy ban nhân dân cấp xã (07 TTHC) I. Lĩnh vực Hàng hải và đường thủy ( 03 TTHC) TT Mã TTHC Tên TTHC Toàn trình Một phần 1 1.009444 Gia hạn hoạt động cảng, bến thủy nội địa. X 2 1.009447 Công bố đóng cảng, bến thủy nội địa X 3 1.009465 Chấp thuận phương án bảo đảm an toàn giao thông X II."
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH CAO BẰNG ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 1249/QĐ-UBND Cao Bằng, ngày 29 tháng 7 năm 2025 QUYẾT ĐỊNH CÔNG BỐ DANH MỤC THỦ TỤC HÀNH CHÍNH CUNG CẤP DỊCH VỤ CÔNG TRỰC TUYẾN TOÀN TRÌNH, MỘT PHẦN TRONG LĨNH VỰC HÀNG HẢI VÀ ĐƯỜNG THỦY, LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ XÂY DỰNG, UBND CẤP XÃ TỈNH CAO BẰNG CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH CAO BẰNG Căn cứ Luật Tổ chức chính quyền địa phương ngày 16 tháng 6 năm 2025; Căn cứ Nghị định số 118/2025/NĐ-CP ngày 09 tháng 6 năm 2025 của Chính phủ về thực hiện thủ tục hành chính theo cơ chế một cửa, một cửa liên thông tại Bộ phận Một cửa và Cổng Dịch vụ công quốc gia; Căn cứ Nghị định số 45/2020/NQ-CP ngày 08 tháng 4 năm 2020 của Chính phủ quy định về thực hiện thủ tục hành chính trên môi trường điện tử; Nghị định số 42/2022/NĐ-CP ngày 24 tháng 6 năm 2022 của Chính phủ quy định về việc cung cấp thông tin và dịch vụ công trực tuyến của cơ quan ..."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "base": "02_VBHN_BGTVT_original",
+  "revised": "02_VBHN_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "vi điều chỉnh và đối tượng áp dụng 1. Thông tư này quy định về tổ chức, hoạt động và phạm vi hoạt động của Cảng vụ đường thuỷ nội địa. 2. Thông tư này áp dụng đối với cơ quan, tổ chức, cá nhân có liên quan đến tổ chức và hoạt động của Cảng vụ đường thuỷ nội địa."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "trí và chức năng [2] 1. Cảng vụ đường thủy nội địa là cơ quan thực hiện chức năng quản lý nhà nước chuyên ngành về giao thông vận tải đường thủy nội địa tại cảng, bến thủy nội địa (sau đây viết tắt là cảng, bến), khu neo đậu; trên luồng, tuyến khi có sự phân công của Bộ trưởng Bộ Giao thông vận tải nhằm bảo đảm việc chấp hành quy định của pháp luật về trật tự, an toàn giao thông đường thủy nội địa và bảo vệ môi trường. 2. Cảng vụ đường thủy nội địa có tư cách pháp nhân, có trụ sở riêng, được sử dụng con dấu riêng, được mở tài khoản tại Kho bạc Nhà nước và Ngân hàng thương mại theo quy định."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "vi quản lý 1. Phạm vi quản lý của Cảng vụ đường thuỷ nội địa trực thuộc Cục Đường thuỷ nội địa Việt Nam bao gồm các cảng, bến (trừ bến khách ngang sông), khu neo đậu đã được công bố, cấp phép hoạt động, cụ thể như sau: a) Cảng, bến, khu neo đậu trên đường thuỷ nội địa quốc gia; b) Cảng, bến, khu neo đậu trên đường thuỷ nội địa chuyên dùng nối với đường thuỷ nội địa quốc gia; c) Cảng, bến, khu neo đậu có vùng đất, vùng nước vừa trên đường thủy nội địa quốc gia và đường thủy nội địa địa phương; d) [3] Cảng, bến, khu neo đậu trong vùng nước cảng biển được Bộ Giao thông vận tải giao. đ) [4] (được bãi bỏ) 2. [5] Phạm vi quản lý của Cảng vụ đường thủy nội địa trực thuộc Sở Giao thông vận tải (sau đây viết tắt là Sở) của Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương bao gồm các cảng, bến (trừ bến khách ngang sông), khu neo đậu đã được công bố, cấp phép hoạt động, cụ thể như sau: a) Cảng, bến, khu neo đậu trên đường thủy nội địa địa phương; b) Cảng, bến, khu neo đậu trên đường thủy nội địa chuyên dùng nối với đường thủy nội địa địa phương; c) Cảng, bến, khu neo đậu trong vùng nước cảng biển thuộc địa giới hành chính của địa phương được Bộ Giao thông vận tải giao; d) Cảng, bến, khu neo đậu theo quy định tại khoản 1 Điều này được Bộ trưởng Bộ Giao thông vận tải phân cấp theo quy định."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "vụ và quyền hạn 1. Quy định nơi neo đậu cho phương tiện thủy nội địa (sau đây viết tắt là phương tiện), tàu biển, thủy phi cơ, phương tiện thủy nước ngoài trong vùng nước cảng, bến, khu neo đậu. 2. [6] Kiểm tra việc thực hiện quy định của pháp luật trong phạm vi của cảng, bến, khu neo đậu về: an toàn, an ninh và bảo vệ môi trường đối với phương tiện, tàu biển, thủy phi cơ, phương tiện thủy nước ngoài; giấy chứng nhận khả năng chuyên môn, chứng chỉ chuyên môn của thuyền viên, người lái phương tiện và danh bạ thuyền viên; thiết bị xếp, dỡ hàng hóa, giấy chứng nhận, chứng chỉ của người điều khiển thiết bị xếp dỡ hàng hóa theo quy định. 3. [7] Cấp giấy phép hoặc lệnh điều động cho phương tiện, tàu biển, thủy phi cơ, phương tiện thủy nước ngoài ra, vào cảng, bến, khu neo đậu theo quy định. Không cho phương tiện, tàu biển, thủy phi cơ, phương tiện thủy nước ngoài ra, vào cảng, bến, khu neo đậu khi cảng, bến, khu neo đậu hoặc phương tiện, tàu biển, thủy phi cơ, phương tiện thủy nước ngoài không bảo đảm điều kiện an toàn, an ninh và bảo vệ môi trường hoặc cảng, bến, khu neo đậu không đủ điều kiện hoạt động theo quy định của pháp luật. 4. [8] Thực hiện công tác quản lý luồng, tuyến theo phân công của Bộ trưởng Bộ Giao thông vận tả"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 02/VBHN-BGTVT Hà Nội, ngày 10 tháng 01 năm 2025 THÔNG TƯ QUY ĐỊNH VỀ TỔ CHỨC VÀ HOẠT ĐỘNG CỦA CẢNG VỤ ĐƯỜNG THỦY NỘI ĐỊA Thông tư số 18/2021/TT-BGTVT ngày 14 tháng 9 năm 2021 của Bộ trưởng Bộ Giao thông vận tải quy định về tổ chức và hoạt động của Cảng vụ đường thủy nội địa, có hiệu lực kể từ ngày 01 tháng 11 năm 2021 được sửa đổi, bổ sung bởi: Thông tư số 61/2024/TT-BGTVT ngày 19 tháng 12 năm 2024 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của Thông tư số 18/2021/TT-BGTVT ngày 14 tháng 9 năm 2021 của Bộ trưởng Bộ Giao thông vận tải quy định về tổ chức và hoạt động của Cảng vụ đường thủy nội địa, có hiệu lực kể từ ngày 15 tháng 02 năm 2025. Căn cứ Luật Giao thông đường thủy nội địa ngày 15 tháng 6 năm 2004 và Luật sửa đổi, bổ sung một số điều của Luật Giao thông đường thủy nội địa ngày 17 tháng 6 năm 2014; Căn cứ Nghị định số 08/2021..."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "base": "12_VBHN_BCA_original",
+  "revised": "12_VBHN_BCA_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "điều chỉnh Thông tư này quy định về chỉ tiêu thống kê, tổng hợp, xây dựng, quản lý, khai thác, sử dụng Cơ sở dữ liệu về tai nạn giao thông đường bộ, tai nạn giao thông đường sắt, tai nạn giao thông đường thủy nội địa (sau đây gọi chung là tai nạn giao thông)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "tượng áp dụng Thông tư này áp dụng đối với Công an các đơn vị, địa phương và cơ quan, tổ chức, cá nhân liên quan đến việc thống kê, tổng hợp, xây dựng, quản lý, khai thác, sử dụng Cơ sở dữ liệu về tai nạn giao thông."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "thích từ ngữ 1. Người chết trong vụ tai nạn giao thông đường bộ, tai nạn giao thông đường sắt, tai nạn giao thông đường thủy nội địa là toàn bộ số người bị chết do tai nạn giao thông gây ra. 2. Người mất tích trong vụ tai nạn giao thông đường bộ, tai nạn giao thông đường sắt, tai nạn giao thông đường thủy nội địa là người gặp nạn trong vụ tai nạn giao thông mà tại thời điểm thống kê chưa tìm thấy tung tích và không có tin tức xác thực về người đó còn sống hay đã chết. 3. Người bị thương trong vụ tai nạn giao thông đường bộ, tai nạn giao thông đường sắt, tai nạn giao thông đường thủy nội địa là những người bị tổn thương về thể xác và tâm trí do ảnh hưởng trực tiếp của vụ tai nạn giao thông, làm ảnh hưởng đến cuộc sống bình thường. 4. Tài sản bị thiệt hại trong vụ tai nạn giao thông đường bộ, tai nạn giao thông đường sắt, tai nạn giao thông đường thủy nội địa là những thiệt hại về phương tiện, hàng hóa được chở trên phương tiện, hạ tầng, công trình giao thông và những thiệt hại khác ngoài tính mạng, sức khỏe của con người được quy đổi thành tiền mà nguyên nhân trực tiếp do vụ tai nạn giao thông gây ra."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "tắc thống kê, tổng hợp, xây dựng Cơ sở dữ liệu về tai nạn giao thông 1. Bảo đảm khách quan, trung thực, chính xác, đầy đủ, kịp thời, theo tiến độ điều tra, xác minh, giải quyết vụ tai nạn giao thông và yêu cầu nghiệp vụ khác. 2. Thống nhất về chỉ tiêu thống kê, biểu mẫu thống kê; có phân tích, so sánh. 3. Không trùng lặp, chồng chéo giữa các thông tin thống kê; phải thống kê đầy đủ các trường thông tin bắt buộc theo biểu mẫu báo cáo vụ tai nạn giao thông quy định tại khoản 1"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 27.1",
+      "change": "added",
+      "to": "tiếp giữa các đối tượng tham gia giao thông tại một địa điểm nhất định thì được gọi là một vụ tai nạn giao thông. Một vụ tai nạn giao thông xảy ra đối với một hoặc nhiều đối tượng tham gia giao thông. 5. Thống kê số người chết trong vụ tai nạn giao thông gồm người chết và người bị thương do tai nạn giao thông gây ra dẫn đến chết trong thời gi"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ CÔNG AN -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 12/VBHN-BCA Hà Nội, ngày 26 tháng 4 năm 2025 THÔNG TƯ QUY ĐỊNH THỐNG KÊ, TỔNG HỢP, XÂY DỰNG, QUẢN LÝ, KHAI THÁC, SỬ DỤNG CƠ SỞ DỮ LIỆU VỀ TAI NẠN GIAO THÔNG ĐƯỜNG BỘ, TAI NẠN GIAO THÔNG ĐƯỜNG SẮT, TAI NẠN GIAO THÔNG ĐƯỜNG THỦY NỘI ĐỊA Thông tư số 26/2024/TT-BCA ngày 21 tháng 6 năm 2024 của Bộ trưởng Bộ Công an quy định thống kê, tổng hợp, xây dựng, quản lý, khai thác, sử dụng Cơ sở dữ liệu về tai nạn giao thông đường bộ, tai nạn giao thông đường sắt, tai nạn giao thông đường thủy nội địa, có hiệu lực kể từ ngày 15 tháng 8 năm 2024, được sửa đổi, bổ sung bởi: Thông tư số 13/2025/TT-BCA ngày 28 tháng 02 năm 2025 của Bộ trưởng Bộ Công an sửa đổi, bổ sung một số điều của các thông tư quy định về trật tự, an toàn giao thông đường bộ, đường sắt và đường thủy nội địa, có hiệu lực kể từ ngày 01 tháng 3 năm 2025. Căn cứ Luật Thống kê ngày 23 tháng 11 năm 2015; Căn cứ Luật sửa ..."
+    }
+  ]
+}

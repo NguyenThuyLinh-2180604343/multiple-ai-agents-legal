@@ -1,0 +1,24 @@
+{
+  "base": "53_2015_TT_BTC_original",
+  "revised": "53_2015_TT_BTC_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "bổ sung"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "127/2013/TT-BTC như sau: “4. Một số chỉ tiêu quy định trong Biểu mức thu lệ phí cấp giấy đăng ký và biển số phương tiện giao thông áp dụng như sau: 4.1. Xe ô tô con hoạt động kinh doanh vận tải hành khách bao gồm: a) Xe ô tô con của các tổ chức, cá nhân hoạt động kinh doanh vận tải hành khách được cơ quan có thẩm quyền cấp giấy phép kinh doanh vận tải bằng xe ô tô. Trường hợp này khi đăng ký xe, tổ chức, cá nhân hoạt động kinh doanh vận tải hành khách phải cung cấp cho cơ quan đăng ký: - Giấy giới thiệu của tổ chức hoặc giấy đề nghị của cá nhân. Trong đó, ghi rõ số lượng, chủng loại xe đăng ký. - Giấy phép kinh doanh vận tải bằng xe ô tô (trong đó có nội dung được phép kinh doanh vận tải hành khách) của cơ quan có thẩm quyền cấp (bản sao có chứng thực hoặc bản phô tô kèm bản chính để đối chiếu). b) Xe ô tô con cho thuê tài chính đối với các tổ chức, cá nhân được cơ quan có thẩm quyền cấp giấy phép kinh doanh vận tải bằng xe ô tô. Khi đăng ký xe, công ty cho thuê tài chính phải cung cấp cho cơ quan đăng ký: - Giấy giới thiệu của công ty cho thuê tài chính, ghi rõ số lượng, chủng loại xe ô tô đăng ký để cho thuê tài chính. - Hợp đồng cho thuê tài chính ký kết giữa công ty thuê là công ty kinh doanh vận tải hành khách và công ty cho thuê tài chính, trong đó phải ghi rõ: Số lượng xe ô tô con cho thuê, thời hạn thuê (nếu là bản sao thì phải có công chứng hoặc chứng thực). Các trường hợp trên (a, b) nộp lệ phí cấp đăng ký và biển số theo mức thu quy định tại điểm 1 mục I Biểu mức thu quy định tại khoản 1 Điều này. 4.2. Trường hợp cấp lại hoặc đổi giấy đăng ký và biển số xe ô tô con không hoạt động kinh doanh vận tải hành khách và xe máy chuyển từ khu vực phải nộp lệ phí quy định mức thu thấp về khu vực phải nộp lệ phí quy định mức thu cao (không phân biệt có đổi hay không đổi chủ tài sản), tổ chức, cá nhân phải nộp lệ phí theo mức thu cấp mới quy định tại điểm 2 (đối với ô tô), điểm 4 (đối với xe máy) mục I Biểu mức thu quy định tại khoản 1 Điều này, trừ trường hợp quy định tại điểm 4.3 Khoản này. Ví dụ 1: Ông A có hộ khẩu tại thành phố Hà Nội, đã được Công an thành phố Hà Nội cấp giấy đăng ký và biển số xe, sau đó ông A bán xe đó cho ông B cũng ở tại thành phố Hà Nội thì khi đăng ký ông B chỉ phải nộp lệ phí cấp lại hoặc đổi giấy đăng ký và biển số theo mức thu quy định tại mục II Biểu mức thu quy định tại khoản 1 Điều này. Ví dụ 2: Ông H ở huyện Lục Ngạn, tỉnh Bắc Giang, được Công an tỉnh Bắc Giang cấp giấy đăng ký và biển số xe (ô tô hoặc xe máy), sau đó ông H bán cho ông B tại Hà Nội thì khi đăng ký ông B phải nộp lệ phí theo mức thu cấp mới tại Hà Nội quy định tại điểm 2 (đối với xe ô tô con), điểm 4 (đối với xe máy) mục I Biểu mức thu quy định tại khoản 1 Điều này. 4.3. Đối với ô tô, xe máy của cá nhân đã được cấp giấy đăng ký và biển số tại khu vực phải nộp lệ phí quy định mức thu thấp, chuyển về khu vực phải nộp lệ phí quy định mức thu cao vì lý do di chuyển công tác hoặc di chuyển"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ TÀI CHÍNH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 53/2015/TT-BTC Hà Nội, ngày 21 tháng 4 năm 2015 THÔNG TƯ SỬA ĐỔI, BỔ SUNG THÔNG TƯ SỐ 127/2013/TT-BTC NGÀY 06/9/2013 CỦA BỘ TÀI CHÍNH QUY ĐỊNH CHẾ ĐỘ THU, NỘP, QUẢN LÝ VÀ SỬ DỤNG LỆ PHÍ CẤP GIẤY ĐĂNG KÝ VÀ BIỂN SỐ PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ Căn cứ Luật giao thông đường bộ ngày 13/11/2008; Căn cứ Pháp lệnh phí và lệ phí ngày 28/8/2001; Căn cứ Nghị định số 57/2002/NĐ-CP ngày 03/6/2002; Nghị định số 24/2006/NĐ-CP ngày 06/3/2006 của Chính phủ quy định chi tiết thi hành Pháp lệnh phí và lệ phí; Căn cứ Nghị định số 86/2014/NĐ-CP ngày 10/9/2014 của Chính phủ về kinh doanh và điều kiện kinh doanh vận tải bằng xe ô tô; Căn cứ Nghị định số 215/2013/NĐ-CP ngày 23/12/2013 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Tài chính; Theo đề nghị của Vụ trưởng Vụ Chính sách Thuế, Bộ trưởng Bộ Tài chính sửa đổi, bổ sung Thông tư số 127/..."
+    }
+  ]
+}

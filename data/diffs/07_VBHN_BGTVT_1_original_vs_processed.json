@@ -1,0 +1,42 @@
+{
+  "base": "07_VBHN_BGTVT_1_original",
+  "revised": "07_VBHN_BGTVT_1_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "chỉnh Thông tư này quy định về tiêu chuẩn, nhiệm vụ, quyền hạn và trách nhiệm của lãnh đạo, đăng kiểm viên, nhân viên nghiệp vụ của đơn vị đăng kiểm phương tiện thủy nội địa (sau đây gọi là đơn vị đăng kiểm)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "dụng 1. Thông tư này áp dụng đối với cơ quan, tổ chức, cá nhân có liên quan đến hoạt động đăng kiểm phương tiện thủy nội địa. 2. Thông tư này không áp dụng đối với cơ quan, tổ chức, cá nhân thực hiện đăng kiểm phương tiện làm nhiệm vụ quốc phòng, an ninh, tàu cá."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau: 1. Lãnh đạo đơn vị đăng kiểm (sau đây gọi là lãnh đạo đơn vị) bao gồm người đứng đầu, cấp phó của người đứng đầu đơn vị đăng kiểm hoặc là người được giao phụ trách công tác đăng kiểm phương tiện thủy nội địa. 2. Đăng kiểm viên phương tiện thủy nội địa (sau đây gọi là Đăng kiểm viên) là người có đủ tiêu chuẩn theo quy định, được công nhận là Đăng kiểm viên để thực hiện hoạt động đăng kiểm phương tiện thủy nội địa. Đăng kiểm viên bao gồm Đăng kiểm viên thực hiện công tác kiểm tra và Đăng kiểm viên thực hiện công tác thẩm định thiết kế. 3. Đăng kiểm viên thực hiện công tác kiểm tra là Đăng kiểm viên thực hiện đăng kiểm vỏ tàu tại hiện trường (sau đây gọi là Đăng kiểm viên chuyên ngành vỏ tàu) hoặc Đăng kiểm viên thực hiện đăng kiểm máy và điện tàu tại hiện trường (sau đây gọi là Đăng kiểm viên chuyên ngành máy tàu). Đăng kiểm viên thực hiện công tác kiểm tra bao gồm 3 hạng: Hạng I, hạng II và hạng III. 4. [2] Đăng kiểm viên thực hiện công tác thẩm định thiết kế (sau đây gọi là đăng kiểm viên thẩm định thiết kế) là đăng kiểm viên thực hiện thẩm định các loại hồ sơ thiết kế được thiết lập theo quy định của quy chuẩn kỹ thuật quốc gia, tiêu chuẩn quốc gia nhằm phục vụ cho đóng mới, hoán cải, sửa chữa phục hồi, nhập khẩu và khai thác phương tiện thủy nội địa và thực hiện thẩm định tài liệu hướng dẫn. 5. Nhân viên nghiệp vụ đơn vị đăng kiểm (sau đây gọi là nhân viên nghiệp vụ) là người thực hiện việc tiếp nhận công việc, lưu trữ, cấp phát hồ sơ, ấn chỉ dùng trong công tác đăng kiểm và thực hiện các công việc khác phục vụ cho hoạt động đăng kiểm phương tiện thủy nội địa. Chương II TIÊU CHUẨN CỦA LÃNH ĐẠO ĐƠN VỊ, ĐĂNG KIỂM VIÊN, NHÂN VIÊN NGHIỆP VỤ"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "của nhân viên nghiệp vụ 1. [3] Tốt nghiệp trung cấp trở lên. 2. Hoàn thành chương trình tập huấn nhân viên nghiệp vụ đăng kiểm phương tiện thủy nội địa."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "đăng kiểm viên thực hiện công tác kiểm tra hạng III [4] 1. Có bằng tốt nghiệp cao đẳng trở lên với ngành hoặc chuyên ngành đào tạo phù hợp với yêu cầu của vị trí việc làm. 2. Đã hoàn thành chương trình tập huấn nghiệp vụ đăng kiểm viên thực hiện công tác kiểm tra hạng III theo quy định tại điểm 1.2 Mục I Phụ lục I ban hành kèm theo Thông tư này. 3. Đã thực tập nghiệp vụ đăng kiểm tối thiểu 12 (mười hai) tháng tại đơn vị đăng k"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 07/VBHN-BGTVT Hà Nội, ngày 19 tháng 3 năm 2024 THÔNG TƯ QUY ĐỊNH VỀ TIÊU CHUẨN, NHIỆM VỤ VÀ QUYỀN HẠN CỦA LÃNH ĐẠO, ĐĂNG KIỂM VIÊN VÀ NHÂN VIÊN NGHIỆP VỤ CỦA ĐƠN VỊ ĐĂNG KIỂM PHƯƠNG TIỆN THỦY NỘI ĐỊA Thông tư số 49/2015/TT-BGTVT ngày 22 tháng 9 năm 2015 của Bộ trưởng Bộ Giao thông vận tải quy định về tiêu chuẩn, nhiệm vụ và quyền hạn của lãnh đạo, đăng kiểm viên và nhân viên nghiệp vụ của đơn vị đăng kiểm phương tiện thủy nội địa, có hiệu lực kể từ ngày 01 tháng 01 năm 2016 được sửa đổi, bổ sung bởi: 1. Thông tư số 42/2018/TT-BGTVT ngày 30 tháng 7 năm 2018 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số Điều của các Thông tư trong lĩnh vực đăng kiểm, có hiệu lực kể từ ngày 15 tháng 10 năm 2018; 2. Thông tư số 27/2023/TT-BGTVT ngày 29 tháng 9 năm 2023 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của các Thông tư trong lĩnh v..."
+    }
+  ]
+}

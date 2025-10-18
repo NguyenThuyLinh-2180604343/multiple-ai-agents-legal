@@ -1,0 +1,36 @@
+{
+  "base": "51_2024_QĐ_UBND_original",
+  "revised": "51_2024_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "kiện về đường giao thông để phương tiện chữa cháy thực hiện nhiệm vụ chữa cháy tại nơi có nhà ở nhiều tầng nhiều căn hộ của cá nhân có quyền sử dụng đất ở theo quy định tại khoản 3"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 54.1",
+      "change": "added",
+      "to": "xây dựng nhà ở có từ 02 tầng trở lên và có quy mô dưới 20 căn hộ mà tại mỗi tầng có thiết kế, xây dựng căn hộ để cho thuê phải tuân thủ các quy định của pháp luật về quy hoạch, xây dựng, nh"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "tiện chữa cháy thực hiện nhiệm vụ chữa cháy tại nơi có nhà ở nhiều tầng, nhiều căn hộ của cá nhân cho thuê 1. Chiều rộng thông thủy mặt đường giao thông hiện trạng tiếp giáp khu đất đề nghị cấp phép xây dựng công trình tối thiểu là 3,5m và phải liên thông với các tuyến đường khác tại khu vực có chiều rộng thông thủy mặt đường tối thiểu là 3,5m. 2. Đường giao thông thực hiện nhiệm vụ chữa cháy phải không bị che chắn bởi các kết cấu chặn phía trên đường cho xe chữa cháy, đảm bảo chiều cao thông thủy để các phương tiện chữa cháy đi qua không được nhỏ hơn 4,5m. 3. Mặt đường phải bảo đảm chịu được tải trọng của xe chữa cháy theo yêu cầu thiết kế và phù hợp với chủng loại phương tiện của cơ quan Cảnh sát Phòng cháy chữa cháy và Cứu nạn cứu hộ. 4. Đối với đường giao thông nhỏ hẹp, chỉ đủ cho 1 làn xe chạy thì cứ ít nhất 100m phải thiết kế đoạn đường mở rộng có chiều dài tối thiểu 8m và chiều rộng tối thiểu 7m. 5. Các thông số kỹ thuật khác theo quy định tại Quy chuẩn kỹ thuật quốc gia về An toàn cháy cho nhà và công trình QCVN 06:2022/BXD ban hành theo Thông tư số 06/2022/TT-BXD ngày 30 tháng 11 năm 2022 của Bộ trưởng Bộ Xây dựng."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "huyện, thành phố trong công tác cấp phép xây dựng tuân thủ theo Quyết định này. b) Kịp thời xem xét, giải quyết các vấn đề phát sinh, vướng mắc (nếu có); trường hợp vượt thẩm quyền tham mưu, đề xuất, báo cáo Ủy ban nhân dân tỉnh để xem xét, giải quyết theo quy định. 2. Ủy ban nhân dân các huyện, thành phố a) Việc cấp giấy phép xây dựng cho các cá nhân có quyền sử dụng đất ở theo quy định tại khoản 3"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH HÀ GIANG ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 51/2024/QĐ-UBND Hà Giang, ngày 31 tháng 10 năm 2024 QUYẾT ĐỊNH QUY ĐỊNH VỀ ĐIỀU KIỆN ĐƯỜNG GIAO THÔNG ĐỂ PHƯƠNG TIỆN CHỮA CHÁY THỰC HIỆN NHIỆM VỤ CHỮA CHÁY TẠI NƠI CÓ NHÀ Ở NHIỀU TẦNG, NHIỀU CĂN HỘ CỦA CÁ NHÂN CHO THUÊ TRÊN ĐỊA BÀN TỈNH HÀ GIANG ỦY BAN NHÂN DÂN TỈNH HÀ GIANG Căn cứ Luật Tổ chức Chính quyền địa phương ngày 19 tháng 6 năm 2015; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức Chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Phòng cháy và chữa cháy ngày 29 tháng 6 năm 2001; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Phòng cháy và chữa cháy ngày 22 tháng 11 năm 2013; Căn cứ Luật Xây dựng ngày 18 tháng 6 năm 2014; Căn cứ Luật sửa đổi, bổ sung một số điều của Luật Xây dựng ngày 17 tháng 6 năm 2020; Căn cứ Luật Nhà ở ngày 27 tháng 11 năm 2023; Căn cứ Luật Sửa đổi, bổ sung một số điều c..."
+    }
+  ]
+}

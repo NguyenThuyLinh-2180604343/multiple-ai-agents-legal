@@ -1,0 +1,60 @@
+{
+  "base": "165_2025_NĐ_CP_original",
+  "revised": "165_2025_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "3"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 20.1",
+      "change": "added",
+      "to": "5"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 30.1",
+      "change": "added",
+      "to": "8"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 37.1",
+      "change": "added",
+      "to": "dụng dữ liệu; việc bảo đảm nguồn lực cho hoạt động của Trung tâm dữ liệu quốc gia; trách nhiệm của cơ quan, tổ chức, cá nhân có liên quan đến hoạt động về dữ liệu."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "Nam. 3. Cơ quan, tổ chức, cá nhân nước ngoài trực tiếp tham gia hoặc có liên quan đến hoạt động dữ liệu số tại Việt Nam. Chương II CÁC HOẠT ĐỘNG XỬ LÝ DỮ LIỆU"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "liệu quan trọng Việc xác định dữ liệu quan trọng căn cứ theo mức độ có thể tác động của dữ liệu đến quốc phòng, an ninh, cơ yếu, đối ngoại, kinh tế vĩ mô, ổn định xã hội, sức khỏe và an toàn cộng đồng khi bị thu thập, sử dụng trái phép (không bao gồm bí mật nhà nước), bao gồm: 1. Dữ liệu có thể gây tác động nguy hiểm đến an ninh quốc gia, độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Tổ quốc, bảo vệ Đảng, Nhà nước, khối đại đoàn kết toàn dân tộc; bảo vệ an ninh chính trị, an ninh trong các lĩnh vực tư tưởng - văn hóa, kinh tế, quốc phòng, đối ngoại, thông tin, xã hội, tài nguyên, môi trường, nông nghiệp, sinh học, y tế, lao động, xây dựng, giáo dục, đào tạo, khoa học và công nghệ. 2. Dữ liệu có thể gây tác động nguy hiểm đến kế hoạch phát triển quan hệ đối ngoại, ảnh hưởng lợi ích quốc gia và an ninh hợp tác quốc tế, dự án đầu tư của Việt Nam ở nước ngoài, an ninh năng lượng, hàng hải. 3. Dữ liệu có thể gây tác động nguy hiểm đến phát triển, vận hành kinh tế vĩ mô, ngành kinh tế quan trọng của quốc gia, tổng cung, tổng cầu của xã hội, tổng giá trị kinh tế quốc gia, tỷ lệ thất nghiệp, lĩnh vực tiền tệ, thương mại, xuất, nhập khẩu, cung ứng hàng hóa, sản phẩm, dịch vụ thiết yếu. 4. Dữ liệu có thể gây tác động nguy hiểm đến tính mạng, sức khỏe, danh dự, nhân phẩm, tài sản, quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân; công tác phòng chống dịch bệnh, phòng ngừa, theo dõi và điều trị các bệnh truyền nhiễm, bệnh nghề nghiệp, an toàn vệ sinh thực phẩm; cung ứng lao động, cung cấp các dịch vụ công."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "liệu cốt lõi Việc xác định dữ liệu cốt lõi căn cứ vào tác động trực tiếp của dữ liệu gây nguy hiểm đến quốc phòng, an ninh, cơ yếu, đối ngoại, kinh tế vĩ mô, ổn định xã hội, sức khỏe và an toàn cộng đồng khi bị thu thập, sử dụng trái phép (không bao gồm bí mật nhà nước), bao gồm: 1. Dữ liệu trực tiếp gây tác động nguy hiểm đến an ninh quốc gia, độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ của Tổ quốc, bảo vệ Đảng, Nhà nước, khối đại đoàn kết toàn dân tộc; bảo vệ an ninh chính trị, an ninh trong các lĩnh vực tư tưởng - văn hóa, kinh tế, quốc phòng, đối ngoại, thông tin, xã hội, tài nguyên, môi trường, nông nghiệp, sinh học, y tế, lao động, xây dựng, giáo dục, đào tạo, khoa học và công nghệ. 2. Dữ liệu trực tiếp gây tác động nguy hiểm đến kế hoạch phát triển quan hệ đối ngoại, ảnh hưởng lợi ích quốc gia và an ninh hợp tác quốc tế, dự án đầu tư của Việt Nam ở nước ngoài, an ninh năng lượng, hàng hải. 3. Dữ liệu trực tiếp gây tác động nguy hiểm đến phát triển, vận hành kinh tế vĩ mô, ngành kinh tế quan trọng của quốc gia, tổng cung, tổng cầu của xã hội, tổng giá trị kinh tế quốc gia, tỷ lệ thất nghiệp, lĩnh vực tiền tệ, thương mại, xuất, nhập khẩu, cung ứng hàng hóa, sản phẩm, dịch vụ thiết yếu. 4. Dữ liệu trực tiếp gây tác động nguy hiểm đến tính mạng, sức khỏe, danh dự, nhân phẩm, tài sản, quyền, lợi ích hợp pháp của cơ quan, tổ chức, cá nhân; công tác phòng chống dịch bệnh, phòng ngừa, theo dõi và điều trị các bệnh truyền nhiễm, bệnh nghề nghiệp, an toàn vệ sinh thực phẩm; cung ứng lao động, cung cấp các dịch vụ công."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "liệu 1. Chủ sở hữu dữ liệu quy định thời hạn lưu trữ cụ thể đối với dữ liệu do mình thu thập, tạo lập. 2. Cơ quan nhà nước phải ban hành quy trình kỹ thuật về lưu trữ dữ liệu do mình quản lý, bảo đảm lưu trữ dữ liệu an toàn. 3. Trung tâm dữ liệu quốc gia thiết lập các dịch vụ lưu trữ dữ liệu phục vụ nhu cầu của chủ sở hữu dữ liệu, chủ quản dữ liệu. Chủ sở hữu dữ liệu, chủ quản dữ liệu phối hợp với Trun"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 165/2025/NĐ-CP Hà Nội, ngày 30 tháng 6 năm 2025 NGHỊ ĐỊNH QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU VÀ BIỆN PHÁP THI HÀNH LUẬT DỮ LIỆU Căn cứ Luật Tổ chức Chính phủ ngày 18 tháng 02 năm 2025; Căn cứ Luật Dữ liệu ngày 30 tháng 11 năm 2024; Theo đề nghị của Bộ trưởng Bộ Công an; Chính phủ ban hành Nghị định quy định chi tiết và biện pháp thi hành Luật Dữ liệu . Chương I QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định chi tiết khoản 3 Điều 13, khoản 5 Điều 14, khoản 5 Điều 15 , khoản 3 Điều 16, khoản 4 Điều 17, khoản 4 Điều 18 , khoản 3 Điều 20, khoản 5 Điều 21, khoản 5 Điều 22 , khoản 4 Điều 23, khoản 5 Điều 25, khoản 4 Điều 26 , khoản 4 Điều 27, khoản 3 Điều 30, khoản 8 Điều 31 , khoản 5 Điều 35, khoản 4 Điều 36, khoản 3 Điều 37 của Luật Dữ liệu và việc xây dựng, phát triển, bảo vệ, quản trị, xử lý, sử dụng dữ liệu; việc bảo đảm nguồn lực cho hoạt động của Trung tâm..."
+    }
+  ]
+}

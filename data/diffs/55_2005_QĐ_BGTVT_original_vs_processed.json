@@ -1,0 +1,48 @@
+{
+  "base": "55_2005_QĐ_BGTVT_original",
+  "revised": "55_2005_QĐ_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "đăng ký và quản lý việc đăng ký phương tiện giao thông đường sắt."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "dưới đây được hiểu như sau: 1. Đường sắt quốc gia là đường sắt phục vụ cho nhu cầu vận tải chung của cả nước, từng vùng kinh tế và liên vận quốc tế. 2. Đường sắt đô thị là đường sắt phục vụ cho nhu cầu đi lại hàng ngày của hành khách ở thành phố, vùng phụ cận. 3. Đường sắt chuyên dùng là đường sắt phục vụ cho nhu cầu vận tải riêng của tổ chức, cá nhân. 4. Phương tiện giao thông đường sắt (sau đây được gọi tắt là phương tiện) là đầu máy, toa xe, toa xe động lực và các loại phương tiện chuyên dùng di chuyển trên đường sắt. 5. Thay đổi thông số kỹ thuật chủ yếu của phương tiện là thay đổi một trong các thông số sau đây: a. Đối với đầu máy là thay đổi động cơ khác kiểu loại; thay đổi công suất động cơ; thay đổi kiểu truyền động; thay đổi khổ đường. b. Đối với toa xe là thay đổi giá chuyển hướng mà có làm thay đổi khổ đường. c. Đối với phương tiện chuyên dùng là thay đổi tính năng sử dụng; thyay đổi khổ đường. 6. Bản sao hợp lệ là bản sao do doanh nghiệp tự sao y và tự chịu trách nhiệm về tính trung thực trước pháp luật. Chương 2: ĐĂNG KÝ PHƯƠNG TIỆN"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "này áp dụng đối với tổ chức, cá nhân có sở hữu phương tiện giao thông đường sắt hoạt động trên đường sắt quốc gia, đường sắt đô thị, đường sắt chuyên dùng có nối ray với đường sắt quốc gia; tổ chức, cá nhân có sở hữu phương tiện giao thông đường sắt hoạt động trên đường sắt quốc gia, đường sắt đô thị, đường sắt chuyên dùng có nối ray với đường sắt chuyên dùng có nối ray với đường sắt quốc gia; tổ chức, cá nhân liên quan đến việc đăng ký và quản lý việc đăng ký phương tiện giao thông đường sắt. 2. Đối với phương tiện giao thông đường sắt tham gia liên vận đường sắt quốc tế, ngoài việc áp dụng Quy định này còn phải thực hiện các quy định về liên vận đường sắt quốc tế có liên quan."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "các việc sau đây: 1. Đăng ký lần đầu là việc cấp giấy chứng nhận đăng ký cho phương tiện nhập khẩu, sản xuất, lắp ráp trong nước trước khi đưa phương tiện vào tham gia giao thông trên đường sắt quốc gia, đường sắt đô thị, đường sắt chuyên dùng có nối ray với đường sắt quốc gia; 2. Đăng ký lại là việc thu hồi, xóa tên giấy chứng nhận đăng ký mới cho phương tiện; áp dụng đối với phương tiện khi: a. Thay đổi tính năng sử dụng hoặc khi thay đổi các thông số kỹ thuật chủ yếu; b. Khi chuyển quyền sở hữu phương tiện. 3. Xóa đăng ký là việc xóa tên đăng ký của phương tiện trong sổ đăng ký; áp dụng trong các trường hợp sau đây: a. Phương tiện không còn sử dụng cho giao thông đường sắt; b. Phương tiện bị mất tích, bị phá hủy. 4. Cấp lại giấy chứng nhận đăng ký phương tiện là việc cấp lại giấy chứng nhận đăng ký cho phương tiện đã có giấy chứng nhận đăng ký nhưng giấy chứng nhận đăng ký của phương tiện bị thất lạc, mất, hư hỏng và chủ sở hữu phương tiện có đề nghị."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "lệ theo quy định tại các"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "các giấy tờ sau đây: 1. Đơn đề nghị đăng ký phương tiện theo mẫu quy định tại Phụ lục số 1 kèm theo Q"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc Số: 55/2005/QĐ-BGTVT Hà Nội, ngày 28 tháng 10 năm 2005 QUYẾT ĐỊNH BAN HÀNH QUY ĐỊNH VỀ ĐĂNG KÝ PHƯƠNG TIỆN GIAO THÔNG ĐƯỜNG SẮT BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI Căn cứ Luật đường sắt ngày 14 tháng 6 năm 2005; Căn cứ Nghị định số 86/2002/NĐ-CP ngày 05/12/2002 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của các Bộ, cơ quan ngang Bộ; Căn cứ Nghị định số 34/2003/NĐ-CP ngày 04/4/2003 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Xét đề nghị của Cục trưởng Cục Đường sắt Việt Nam, Vụ trưởng Vụ Vận tải, QUYẾT ĐỊNH: Điều 1 . Ban hành kèm theo Quyết định này “Quy định về đăng ký phương tiện giao thông đường sắt”. Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày 01 tháng 01 năm 2006. Điều 3. Chánh Văn phòng, Chánh Thanh tra, Vụ trưởng các Vụ thuộc Bộ, Cục trưởng Cục Đường sắt Việt Nam, Chủ tịch Hội đồng quản tr..."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "base": "639_QĐ_UBND_original",
+  "revised": "639_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "ngạch công chức thuộc nhóm vị trí việc làm công chức nghiệp vụ chuyên ngành và vị trí việc làm công chức nghiệp vụ chuyên môn dùng chung của Văn phòng Ban An toàn giao thông như phụ lục kèm theo."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "có hiệu lực thi hành kể từ ngày ký ban hành và bãi bỏ các quy định trước đây trái với Quyết định này."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "CẤU NGẠCH CÔNG CHỨC CỦA VĂN PHÒNG BAN AN TOÀN GIAO THÔNG (Kèm theo Quyết định số 639/QĐ-UBND ngày 22 tháng 12 năm 2023 của Chủ tịch Ủy ban nhân dân tỉnh) STT Loại ngạch công chức Tỷ lệ ngạch công chức Ghi chú 1 Chuyên viên 100% Không tính lãnh đạo, quản lý"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH KON TUM ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 639/QĐ-UBND Kon Tum, ngày 22 tháng 12 năm 2023 QUYẾT ĐỊNH VỀ VIỆC PHÊ DUYỆT CƠ CẤU NGẠCH CÔNG CHỨC CỦA VĂN PHÒNG BAN AN TOÀN GIAO THÔNG CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH KON TUM Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015; Luật Sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Nghị định số 62/2020/NĐ-CP ngày 01 tháng 6 năm 2020 của Chính phủ về vị trí việc làm và biên chế công chức; Nghị định số 138/2020/NĐ-CP ngày 27 tháng 11 năm 2020 của Chính phủ Quy định về tuyển dụng, sử dụng và quản lý công chức; Nghị định số 111/2022/NĐ-CP ngày 30 tháng 12 năm 2022 của Chính phủ về hợp đồng đối với một số loại công việc trong cơ quan hành chính và đơn vị sự nghiệp công lập; Căn cứ Thông tư số 13/2022/TT-BNV ngày 31 tháng 12 năm 2022 của Bộ trưởng Bộ Nội vụ hướng dẫ..."
+    }
+  ]
+}

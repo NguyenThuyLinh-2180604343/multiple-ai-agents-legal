@@ -1,0 +1,30 @@
+{
+  "base": "40_2021_TT_BGTVT_original",
+  "revised": "40_2021_TT_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "thuật công tác thu tiền dịch vụ sử dụng đường bộ đối với các dự án xây dựng đường bộ do Bộ Giao thông vận tải quản lý."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "quan đến công tác thu tiền dịch vụ sử dụng đường bộ tại các dự án xây dựng đường bộ do Bộ Giao thông vận tải quản lý."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "khoản thi hành 1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 03 năm 2021 . 2. Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, các Vụ trưởng, Tổng cục trưởng Tổng cục Đường bộ Việt Nam, Thủ trưởng các cơ quan, tổ chức và cá nhân có liên quan chịu trách nhiệm thi hành Thông tư này./. Nơi nhận: - Văn phòng Chính phủ; - Viện Kiểm sát nhân dân tối cao; - Tòa án nhân dân tối cao; - Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; - Ủy ban nhân dân các tỉnh, thành phố trực thuộc TW; - Cơ quan Trung ương của các đoàn thể; - Kiểm toán nhà nước; - Các Thứ trưởng Bộ GTVT; - Cục Kiểm tra văn bản (Bộ Tư pháp); - Công báo; - Cổng Thông tin điện tử Chính phủ; - Báo Giao thông, Tạp chí GTVT; - Cổng Thông tin điện tử Bộ GTVT; - Lưu: VT, KHCN. KT. BỘ TRƯỞNG THỨ TRƯỞNG Lê Đình Thọ ĐỊNH MỨC KINH TẾ - KỸ THUẬT CÔNG TÁC THU TIỀN DỊCH VỤ SỬ DỤNG ĐƯỜNG BỘ ĐỐI VỚI CÁC DỰ ÁN ĐẦU TƯ XÂY DỰNG ĐƯỜNG BỘ DO BỘ GIAO THÔNG VẬN TẢI QUẢN LÝ (Ban hành kèm theo Thông tư số 40/2021/TT-BGTVT ngày 31 tháng 12 năm 2021 của Bộ trưởng Bộ Giao thông vận tải) PHẦN I THUYẾT MINH 1. Cơ sở xây dựng định mức - Bộ Luật Lao động ngày 20 tháng 11 năm 2019. - Thông tư số 17/2019/TT-BLĐTBXH ngày 06 tháng 11 năm 2019 của Bộ trưởng Bộ Lao động - Thương binh và Xã hội hướng dẫn xác định chi phí tiền lương, chi phí nhân công trong giá, đơn giá sản phẩm, dịch vụ công sử dụng kinh phí ngân sách nhà nước do doanh nghiệp thực hiện. - Thông tư số 11/2020/TT-BLĐTBXH ngày 12 tháng 11 năm 2020 Bộ trưởng Bộ Lao động - Thương binh và Xã hội ban hành Danh mục nghề, công việc nặng nhọc, độc hại, nguy hiểm và nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm. - Quyết định số 19/2020/QĐ-TTg ngày 17 tháng 6 năm 2020 của Thủ tướng chính phủ về việc thu phí dịch vụ sử dụng đường bộ theo hình thức điện tử không dừng; 2. Giải thích từ ngữ Trong định mức này, các thuật ngữ dưới đây được hiểu như sau: a) Thu tiền dịch vụ sử dụng đường bộ theo hình thức điện tử không dừng trong bộ định mức được viết tắt là ETC; b) Đối soát là việc đối chiếu các giao dịch thu tiền sử dụng dịch vụ đường bộ. c) Đơn vị tính “làn” là làn có hoạt động thu tiền; d) Phân trạm là một bộ phận của trạm thu phí trong đó có làn thu tiền nằm trên các nhánh đường, tuyến đường khác nhau, việc bố trí nhân công để thực hiện các công việc thu tiền tại các vị trí độc lập; đ) Ca là thời gian hoạt độ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 40/2021/TT-BGTVT Hà Nội, ngày 31 tháng 12 năm 2021 THÔNG TƯ BAN HÀNH ĐỊNH MỨC KINH TẾ - KỸ THUẬT CÔNG TÁC THU TIỀN DỊCH VỤ SỬ DỤNG ĐƯỜNG BỘ ĐỐI VỚI CÁC DỰ ÁN XÂY DỰNG ĐƯỜNG BỘ DO BỘ GIAO THÔNG VẬN TẢI QUẢN LÝ Căn cứ Luật Giao thông đường bộ ngày 13 tháng 11 năm 2008; Căn cứ Luật Giá ngày 20 tháng 6 năm 2012; Căn cứ Luật Đầu tư theo phương thức đối tác công tư ngày 18 tháng 6 năm 2020; Căn cứ Nghị định số 11/2010/NĐ-CP ngày 24 tháng 02 năm 2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ; Nghị định số 100/2013/NĐ-CP ngày 03 tháng 9 năm 2013 của Chính phủ sửa đổi, bổ sung một số điều của Nghị định số 11/2010/NĐ- CP ngày 24 tháng 02 năm 2010 của Chính phủ quy định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ; Nghị định số 64/2016/NĐ-CP ngày 01 tháng 7 năm 2016 của Chính phủ sửa đổi, bổ sung một số điều của Ngh..."
+    }
+  ]
+}

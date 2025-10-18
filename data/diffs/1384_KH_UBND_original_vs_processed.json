@@ -1,0 +1,18 @@
+{
+  "base": "1384_KH_UBND_original",
+  "revised": "1384_KH_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "phần l.1",
+      "change": "added",
+      "to": "biên giới Việt - Lào. Số lượng còn lại là đường đô thị (732km), đường huyện (772km), đường giao thông nông thôn (khoảng 9.500km), đường chuyên dùng (54km). Mạng lưới giao thông đường bộ hiện nay đã được chú trọng đầu tư, phát triển, nâng cấp và hoàn thiện, hệ thống cơ sở hạ tầng giao thông cơ bản đã được đầu tư xây dựng khép kín, phân bố tương đối đồng đều trên toàn tỉnh; đảm bảo kết nối liên hoàn từ Quốc lộ đến tỉnh lộ, đến đường giao thông nông thôn, đáp ứng nhu cầu đi lại của nhân dân, góp phần phát triển kinh tế - xã hội, đảm bảo quốc phòng - an ninh trên địa bàn tỉnh. b) Hiện trạng phương tiện vận tải đường bộ - Vận tải hành khách công cộng trên địa bàn tỉnh bao gồm các loại hình: xe tuyến cố định, xe buýt, xe hợp đồng, xe du lịch, xe taxi, xe vận tải hàng hóa và các loại hình khác (xe mô tô dịch vụ, đường thủy nội địa,...), cơ bản đáp ứng nhu cầu đi lại của nhân dân. Đến nay, toàn tỉnh có 28.824 xe tải; 42.703 xe chở người; 314 xe chuyên dùng và 140 rơ móoc, sơ mi rơ móoc. Lực lượng ô tô vận tải luôn đổi mới và đã đáp ứng được nhu cầu đi lại của nhân dân cũng như nhu cầu vận tải hàng hóa phục vụ phát triển kinh tế - xã hội. - Hoạt động vận tải hành khách tuyến cố định: Trên địa bàn tỉnh Quảng Bình có 13 đơn vị kinh doanh vận tải khách theo tuyến cố định. Sở GTVT quản lý 88 tuyến với 251 xe khách"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH QUẢNG BÌNH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 1384/KH-UBND Quảng Bình, ngày 25 tháng 7 năm 2024 KẾ HOẠCH PHÁT TRIỂN VÀ QUẢN LÝ PHƯƠNG TIỆN KINH DOANH VẬN TẢI PHÙ HỢP VỚI NHU CẦU ĐI LẠI CỦA NGƯỜI DÂN VÀ THỰC TRẠNG KẾT CẤU HẠ TẦNG GIAO THÔNG TRÊN ĐỊA BÀN TỈNH QUẢNG BÌNH ĐẾN NĂM 2030 Thực hiện Nghị định số 10/2020/NĐ-CP ngày 17/01/2020 của Chính phủ quy định về kinh doanh và điều kiện kinh doanh vận tải bằng xe ô tô; Thông tư số 12/2020/TT-BGTVT ngày 29/5/2020 của Bộ giao thông vận tải quy định về tổ chức, quản lý hoạt động vận tải bằng xe ô tô và dịch vụ vận tải đường bộ. Căn cứ nhu cầu đi lại của người dân và thực trạng kết cấu hạ tầng giao thông trên địa bàn tỉnh, UBND tỉnh ban hành Kế hoạch phát triển và quản lý phương tiện kinh doanh vận tải trên địa bàn tỉnh Quảng Bình đến năm 2030, cụ thể như sau: I. MỤC ĐÍCH, YÊU CẦU 1. Mục đích Phát triển phương tiện kinh doanh vận tải phù hợp với tình h..."
+    }
+  ]
+}

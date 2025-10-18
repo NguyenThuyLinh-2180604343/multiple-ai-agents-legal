@@ -1,0 +1,78 @@
+{
+  "base": "896_KH_BGTVT_original",
+  "revised": "896_KH_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section Section_1.1",
+      "change": "added",
+      "to": "TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 896/KH-BGTVT Hà Nội, ngày 24 tháng 01 năm 2022 KẾ HOẠCH HÀNH ĐỘNG “NĂM AN TOÀN GIAO THÔNG 2022” Căn cứ Kết luận số 45-KL/TW ngày 01 tháng 02 năm 2019 của Ban Bí thư về việc tiếp tục đẩy mạnh thực hiện Chỉ thị số 18-CT/TW về tăng cường sự lãnh đạo của Đảng đối với công tác bảo đảm trật tự an toàn giao thông đường bộ, đường sắt, đường thủy nội địa và khắc phục ùn tắc giao thông; Căn cứ Nghị định số 12/2017/NĐ-CP ngày 10 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Căn cứ Quyết định số 2060/QĐ-TTg ngày 12 tháng 12 năm 2020 của Thủ tướng Chính phủ phê duyệt Chiến lược Quốc gia bảo đảm trật tự, an toàn giao thông đường bộ giai đoạn 2021 - 2030 và tầm nhìn đến năm 2045; Căn cứ Kế hoạch số 36/KH-UBATGTQG ngày 10 tháng 01 năm 2022 của Ủy ban An toàn giao thông Quốc gia về Kế hoạch Năm An toàn giao thông 2022; Căn cứ Thông báo số 9/TB-VPCP ngày 10 tháng 01 năm 2022 của Văn phòng Chính phủ về Kết luận của Phó Thủ tướng Thường trực Chính phủ Phạm Bình Minh - Chủ tịch Ủy ban An toàn giao thông Quốc gia tại Hội nghị tổng kết công tác bảo đảm trật tự, an toàn giao thông năm 2021"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "Kế hoạch Năm An toàn giao thông 2022 với chủ đề “Xây dựng văn hóa giao thông an toàn gắn với kiểm soát hiệu quả dịch Covid-19” với tinh thần “Vì sức khỏe, sinh mạng của người tham gia giao thông, như sau: I. MỤC ĐÍCH,"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "hành pháp luật và xây dựng văn hóa giao thông an toàn; b) Tiếp tục giảm từ 5%-10% số vụ, số người chết, số người bị thương do tai nạn giao thông so với năm 2021; c) Khắc phục tình trạng ùn tắc giao thông trên các trục giao thông chính, các đầu mối giao thông trọng điểm, tại các đô thị lớn và không để xảy ra ùn tắc giao thông khi kiểm soát dịch bệnh; d) Hạn chế tối đa việc lây nhiễm, bùng phát dịch bệnh Covid - 19 từ các hoạt động giao thông vận tải. 1.2. Yêu cầu a) Các cơ quan, đơn vị của ngành Giao thông vận tải từ cấp trung ương đến địa phương tổ chức, triển khai"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "thông (TTATGT), phòng chống dịch Covid -19 trên toàn quốc ngay từ những tháng đầu, quý đầu và cả năm 2022; b) Các đơn vị phải xây dựng kế"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_5.1",
+      "change": "added",
+      "to": "bảo đảm TTATGT đến từng cán bộ, công chức, viên chức và người lao động; gắn"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_6.1",
+      "change": "added",
+      "to": "thi công vụ; d) Tăng cường ứng dụng khoa học công nghệ vào công tác bảo đảm TTATGT; trong đó, tập trung xây dựng, hoàn thiện các cơ chế, chính sách để áp dụng kịp thời các thành tựu của cuộc cách mạng công nghiệp lần thứ tư vào các lĩnh vực: quản lý điều hành vận tải, điều khiển giao thông, giám sát, phát hiện và xử lý vi phạm về TTATGT; đ) Cán bộ, công chức, viên chức và người lao động trong ngành giao thông vận tải phải gương mẫu trong việc thực"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_7.1",
+      "change": "added",
+      "to": "dựng văn hóa giao thông an toàn gắn với kiểm soát hiệu quả dịch Covid-19” với"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_8.1",
+      "change": "added",
+      "to": "Kế hoạch Năm An toàn giao thông 2022, các cơ quan, đơn vị trong toàn ngành cần chủ động, sáng tạo, tích cực phối hợp với các cơ quan liên quan, chính quyền địa"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_9.1",
+      "change": "added",
+      "to": "được nêu trong các chỉ đạo của Ban Bí thư, Quốc hội, Chính phủ, Thủ tướng Chính phủ, Chủ tịch Ủy ban An toàn giao thông Quốc gia, trong đó trọng tâm một số nhiệm vụ sau: 2.1. Tiếp tục hoàn thiện hệ thống văn bản quy phạm pháp luật, chính sách về bảo đảm TTATGT, chống ùn tắc giao"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_10.1",
+      "change": "added",
+      "to": "thực tiễn và đáp ứng xu thế mới về an toàn toàn giao thông trong giai đoạn 2021"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_11.1",
+      "change": "added",
+      "to": "triển giao thông thông minh vào trong các đề án, chiến lược, quy hoạch cấp quốc gia, cấp tỉnh, thành phố và các dự án đầu tư tạo ra nhu cầu giao thông, vận tải lớn. 2.2. Nâng cao hiệu quả, chất lượng công tác tuyên truyền, phổ biến giáo dục pháp luật về TTATGT ở các cấp, ngành liên quan; tránh hình thức, lãng phí; kiên trì xây dựng văn hoá giao thông an toàn và thân thiện môi trường cho mọi tầng lớp nhân dân. 2.3. Triển khai hiệu quả công tác thanh tra, kiểm tra theo kế hoạch hoặc đ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 896/KH-BGTVT Hà Nội, ngày 24 tháng 01 năm 2022 KẾ HOẠCH HÀNH ĐỘNG “NĂM AN TOÀN GIAO THÔNG 2022” Căn cứ Kết luận số 45-KL/TW ngày 01 tháng 02 năm 2019 của Ban Bí thư về việc tiếp tục đẩy mạnh thực hiện Chỉ thị số 18-CT/TW về tăng cường sự lãnh đạo của Đảng đối với công tác bảo đảm trật tự an toàn giao thông đường bộ, đường sắt, đường thủy nội địa và khắc phục ùn tắc giao thông; Căn cứ Nghị định số 12/2017/NĐ-CP ngày 10 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao thông vận tải; Căn cứ Quyết định số 2060/QĐ-TTg ngày 12 tháng 12 năm 2020 của Thủ tướng Chính phủ phê duyệt Chiến lược Quốc gia bảo đảm trật tự, an toàn giao thông đường bộ giai đoạn 2021 - 2030 và tầm nhìn đến năm 2045; Căn cứ Kế hoạch số 36/KH-UBATGTQG ngày 10 tháng 01 năm 2022 của Ủy ban An toàn giao thông Quốc gia về Kế hoạch Năm An toàn g..."
+    }
+  ]
+}

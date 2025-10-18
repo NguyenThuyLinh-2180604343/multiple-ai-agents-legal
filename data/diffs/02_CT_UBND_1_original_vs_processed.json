@@ -1,0 +1,42 @@
+{
+  "base": "02_CT_UBND_1_original",
+  "revised": "02_CT_UBND_1_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section General.1",
+      "change": "added",
+      "to": "ỦY BAN NHÂN DÂN TỈNH TRÀ VINH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 02/CT-UBND Trà Vinh, ngày 11 tháng 3 năm 2024 CHỈ THỊ VỀ TĂNG CƯỜNG CÔNG TÁC BẢO ĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG TRÊN ĐỊA BÀN TỈNH TRÀ VINH Thời gian qua, các sở, ban, ngành, đoàn thể tỉnh, chính quyền địa phương các cấp đã chỉ đạo, triển khai thực hiện nghiêm túc, đồng bộ các giải pháp bảo đảm trật tự, an toàn giao thông; qua đó, tình hình trật tự, an toàn giao thông có chuyển biến tích cực, giao thông trong khu vực nội thành, nội thị và trên các quốc lộ, các tuyến đường trọng điểm được duy trì ổn định; tình hình vận tải được bảo đảm, năng lực vận chuyển và chất lượng dịch vụ được nâng cao. Tuy nhiên, trong năm 2023 tình hình trật tự an toàn giao thông vẫn còn diễn biến phức tạp, tai nạn giao thông còn tăng về số người bị thương (cụ thể như: Năm 2023 xảy ra 119 vụ (giảm 9 vụ (-7%) so với cùng kỳ), làm chết 104 người (giảm 23 người chết (-17,5%) so với cùng kỳ ), bị thương 57 người (tăng 17 người bị thương (+42,5%)) so với cùng kỳ ), thiệt hại tài sản khoảng 330 triệu đồng. Nguyên nhân chủ yếu do công tác tham mưu thực thi pháp luật về trật tự, an toàn giao thông ở một số đơn vị, địa phương"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "giữa các cơ quan, lực lượng có nơi, có lúc chưa chặt chẽ; công tác tuyên truyền, phổ biến, giáo dục pháp luật và xây dựng văn hóa giao thông ở một số địa phương tuy được triển khai nhưng chưa thường xuyên mà chủ yếu tập trung vào các đợt cao điểm; hình thức tuyên truyền còn thiếu sáng tạo, chưa tạo thành phong trào, còn rời rạc; công tác kiểm tra, giám sát, đôn đốc việc triển khai thực hiện còn hình thức, hiệu quả chưa cao. Để kịp thời khắc phục những tồn tại, hạn chế nêu trên và phấn đấu trong năm 2024 kéo giảm tai nạn giao thông cả về 03 mặt số vụ, số người chết và số người bị thương so với năm 2023; Chủ tịch Ủy ban nhân dân"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "dân các huyện, thị xã, thành phố, Chủ tịch Ủy ban nhân dân xã, phường, thị trấn thực hiện nghiêm túc các nội dung sau: 1. Tiếp tục tổ chức thực hiện nghiêm túc Kế hoạch số 143-KH/TU, ngày 29/9/2023 của Ban Thường vụ Tỉnh ủy và Kế hoạch số 110/KH-UBND ngày 22/11/2023 của Chủ tịch UBND tỉnh thực hiện Chỉ thị số 23-CT/TW, ngày 25/5/2023 của Ban Bí thư về tăng cường sự lãnh đạo của Đảng đối với công tác bảo đảm trật tự, an toàn giao thông trong tình hình mới; Kế hoạch số 41/KH- UBND ngày 28/4/2023 thực hiện Chỉ thị số 10/CT-TTg ngày 19/4/2023 của Thủ tướng Chính phủ về tăng cường công tác bảo đảm trật tự, an toàn giao thông đường bộ trong tình hình mới; Quyết định số 96/QĐ-UBND ngày 24/01/2024 ban hành Kế hoạch thực hiện Chỉ thị số 31/CT-TTg ngày 21/12/2023 của Thủ tướng Chính phủ về tăng cường công tác bảo đảm trật tự, an toàn giao thông cho lứa tuổi học sinh trong tình hình mới và ý kiến chỉ đạo của Chủ tịch Ủy ban nhân dân tỉnh tại Công văn số 1243/UBND-CNXD ngày 29/3/2023 về việc đẩy mạnh thực hiện một số biện pháp bảo đảm trật tự, an toàn giao thông trên địa bàn tỉnh; Công văn số 4813/UBND-CNXD ngày 25/10/2023 về việc tiếp tục tăng cường công tác đảm bảo trật tự, an toàn giao thông trên địa bàn tĩnh; Công văn số 139/UBND-CNXD ngày 10/01/2024 về việc chấn chỉnh công tác cấp giấy phép xe lưu thông vào đường hạn chế tải trọng. 2. Tiếp tục tuyên truyền, phổ biến Luật Giao thông"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "rượu bia, không điều khiển phương tiện giao thông”; nghiêm cấm can thiệp, tác động vào quá trình kiểm tra, xử lý vi phạm trật tự, an toàn giao thông của lực lượng thực thi công vụ. Người đứng đầu đơn vị, địa phương chịu trách nhiệm trước Ủy ban nhân dân tỉnh nếu để tình hình trật tự, an toàn giao thông xảy ra phức tạp trên địa bàn do thiếu lãnh đạo, chỉ đạo, thanh tra, kiểm tra, giám sát"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_5.1",
+      "change": "added",
+      "to": "chức, viên chức, người lao động thuộc thẩm quyền quản lý vi phạm pháp luật về giao thông. 3. Công an tỉnh a) Chỉ đạo lực lượng Cảnh sát giao thông và các lực lượng chức năng tăng cường tuần tra, kiểm soát, kịp thời phát hiện và xử lý nghiêm các trường hợp vi phạm, nhất là hành vi có nguyên nhân chính dẫn đến tai nạn giao thông. Tiếp tục thực hiện quyết liệt việc kiểm soát vi phạm nồng độ cồn, ma túy, tốc độ, chở hàng quá tải trọng, phương tiện hết niên hạn sử dụng, hết hạn đăng kiểm,... b) Xây dựng, hoàn thiện các phương án phòng ngừa, giải quyết ùn tắc giao thông, không để xảy ra ùn tắc giao thông kéo dài. Kịp thời phát hiện, kiến nghị khắc phục những “điểm đen”, điểm tiềm ẩn, bất cập trong tổ chức giao thông; theo dõi, đôn đốc, thu thập tài liệu, đề nghị xử lý những cá nhân, tổ chức thiếu trách nhiệ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH TRÀ VINH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 02/CT-UBND Trà Vinh, ngày 11 tháng 3 năm 2024 CHỈ THỊ VỀ TĂNG CƯỜNG CÔNG TÁC BẢO ĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG TRÊN ĐỊA BÀN TỈNH TRÀ VINH Thời gian qua, các sở, ban, ngành, đoàn thể tỉnh, chính quyền địa phương các cấp đã chỉ đạo, triển khai thực hiện nghiêm túc, đồng bộ các giải pháp bảo đảm trật tự, an toàn giao thông; qua đó, tình hình trật tự, an toàn giao thông có chuyển biến tích cực, giao thông trong khu vực nội thành, nội thị và trên các quốc lộ, các tuyến đường trọng điểm được duy trì ổn định; tình hình vận tải được bảo đảm, năng lực vận chuyển và chất lượng dịch vụ được nâng cao. Tuy nhiên, trong năm 2023 tình hình trật tự an toàn giao thông vẫn còn diễn biến phức tạp, tai nạn giao thông còn tăng về số người bị thương (cụ thể như: Năm 2023 xảy ra 119 vụ (giảm 9 vụ (-7%) so với cùng kỳ), làm chết 104 người (giảm 23 người chết (-17,5%) so vớ..."
+    }
+  ]
+}

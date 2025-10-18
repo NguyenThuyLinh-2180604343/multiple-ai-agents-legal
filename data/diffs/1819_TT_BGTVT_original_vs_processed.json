@@ -1,0 +1,48 @@
+{
+  "base": "1819_TT_BGTVT_original",
+  "revised": "1819_TT_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "thay đổi mục đích sử dụng (công dụng) giữa các loại ô tô chở người, ô tô tải, ô tô chuyên dùng có thời gian sử dụng trên 15 năm. b) Khoản 1, khoản 2 : Thời gian sử dụng được tính theo năm. c) Khoản 8 : - Cải tạo lắp đặt thành thùng kín, thêm khung mui che mưa nắng bảo vệ hàng hóa là: cải tạo thành thùng chở hàng có mái che mưa nắng, bịt kín hoặc để hở phần mui phía trước, phía sau. Phần thùng kín, khung mui che mưa nắng bảo vệ hàng hóa chỉ gồm khung xương phủ tôn hoặc che bạt. - Đối với trường hợp ô tô tải không thùng đã qua sử dụng được phép nhập khẩu thì kích thước thùng chở hàng sau khi cải tạo lắp đặt thùng chở hàng là kích thước thùng chở hàng của ô tô tải cùng nhãn hiệu, số loại của Hãng sản xuất. d) Khoản 13 : Việc cải tạo một hệ thống, tổng thành nếu dẫn đến việc ảnh hưởng tới đặc tính làm việc của các hệ thống, tổng thành có liên quan khác thì phải được xem xét, tính toán cụ thể và phải được coi là cải tạo cả hệ thống, tổng thành có liên quan. Ví dụ: Khi cải tạo thay đổi cầu dẫn hướng, nếu dẫn tới việc thay đổi hình thang lái hoặc các góc đặt bánh xe dẫn hướng thì việc cải tạo này được coi là cải tạo cả hệ thống chuyển động và hệ thống lái; phải tính toán thiết kế cải tạo cho cả hệ thống chuyển động và hệ thống lái. 2.2."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "dẫn Cơ sở thiết kế về việc Hồ sơ thiết kế phải có ký hiệu riêng, không trùng với ký hiệu thiết kế của Hồ sơ khác; ký hiệu thiết kế không quá 20 ký tự. b) Khoản 1 : Thuyết minh tính toán thiết kế được thể hiện trên giấy trắng khổ A4, có đóng dấu từng trang hoặc giáp lai. c) Điểm c khoản 1 : Nội dung thực hiện cải tạo và các bước công nghệ thi công: - Phải có đầy đủ các nội dung cải tạo các hệ thống, tổng thành, chi tiết và các bộ phận liên quan khác. - Phải xây dựng chi tiết các bước công nghệ để thực hiện thi công cải tạo; mô tả quy trình tháo, lắp các hệ thống, tổng thành chi tiết thi công cải tạo. - Phải có yêu cầu kỹ thuật cụ thể về vật tư, phụ tùng, vật liệu sử dụng trong cải tạo, đảm bảo tiêu chuẩn và phù hợp với xe cơ giới trước cải tạo. Đối với dây dẫn điện phải được thiết kế thể hiện vị trí lắp đặt và dây dẫn được đặt trong ống bảo vệ bằng vật liệu chống cháy; cách định vị ống bảo vệ. d) Điểm d khoản 1 : - Tính toán đầy đủ và đưa ra kết luận về các chỉ tiêu động học, động lực học, của xe cơ giới, hệ thống, tổng thành sau cải tạo. đ) Điểm đ khoản 1 : - Tính toán đầy đủ và đưa ra kết luận về khả năng chịu bền của các chi tiết cải tạo, các chi tiết liên quan và các mối liên kết. e) Khoản 2 : Các bản vẽ kỹ thuật được trình bày trên giấy trắng khổ A3, có đóng dấu tại khung tên và bản vẽ bố trí chung của xe cơ giới sau cải tạo có ký tên, đóng dấu của đại diện Cơ sở thiết kế. 2.3."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "thực hiện theo Phụ lục 1 của Hướng dẫn này. 2.4."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 7.1",
+      "change": "added",
+      "to": "định tại khoản 10"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "thiết kế xe cơ giới cải tạo thực hiện theo Phụ lục 2 của Hướng dẫn này. - Giấy chứng nhận thẩm định thiết kế xe cơ giới cải tạo được in trên giấy trắng khổ A4 từ Chương trình Quản lý cải tạo xe cơ giới (sau đây gọi tắt là Chương trình cải tạo), có đầy đủ các nội dung theo mẫu tại Phụ lục I Thông tư 29. - Đối với trường hợp cải tạo khung xương ô tô khách theo quy định tại khoản 3,"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 10.1",
+      "change": "added",
+      "to": "Giấy chứng nhận thẩm định thiết kế xe cơ giới cải tạo phải ghi rõ yêu cầu về nghiệm thu khung xương, các dây dẫn điện, đường ống thông gió, điều hòa và các chi tiết, bộ phận khác trong vỏ xe trước khi bọc kín (ghi ở phần Nội dung chính), để Cơ sở thi công thực hiện theo quy định. - Số Giấy chứng nhận thẩm định thiết kế xe cơ giới cải tạo được"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CỤC ĐĂNG KIỂM VIỆT NAM -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 1819/ĐKVN-VAR Hà Nội, ngày 10 tháng 9 năm 2012 HƯỚNG DẪN THỰC HIỆN MỘT SỐ ĐIỂM CỦA THÔNG TƯ SỐ 29/2012/TT-BGTVT NGÀY 31/07/2012 CỦA BỘ GIAO THÔNG VẬN TẢI QUY ĐỊNH VỀ CẢI TẠO PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ Căn cứ Quyết định số 26/2008/QĐ-BGTVT ngày 04/12/2008 của Bộ trưởng Bộ Giao thông vận tải quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Cục Đăng kiểm Việt Nam; Căn cứ Thông tư số 29/2012/TT-BGTVT ngày 31/07/2012 của Bộ Giao thông vận tải quy định về cải tạo phương tiện giao thông cơ giới đường bộ; Cục Đăng kiểm Việt Nam hướng dẫn cụ thể một số điểm của Thông tư số 29/2012/TT-BGTVT ngày 31/07/2012 quy định về cải tạo phương tiện giao thông cơ giới đường bộ (sau đây gọi tắt là Thông tư 29) như sau: 1. Đối tượng, phạm vi áp dụng 1.1. Hướng dẫn thực hiện thiết kế, thẩm định thiết kế cải tạo phương tiện giao thông cơ giới đường bộ (..."
+    }
+  ]
+}

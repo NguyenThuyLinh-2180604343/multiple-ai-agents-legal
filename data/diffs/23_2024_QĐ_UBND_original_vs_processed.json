@@ -1,0 +1,42 @@
+{
+  "base": "23_2024_QĐ_UBND_original",
+  "revised": "23_2024_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "khoản 3"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "luật về quy hoạch, xây dựng, nhà ở, phòng cháy chữa cháy và theo quy định tại Quyết định này; b) Tăng cường công tác thanh tra, kiểm tra để phát hiện và xử lý nghiêm các hành vi vi phạm trật tự xây dựng, phòng cháy, chữa chá"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 54.1",
+      "change": "added",
+      "to": "mô dưới 20 căn hộ mà tại mỗi tầng có thiết kế, xây dựng căn hộ để cho thuê."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "tiện chữa cháy thực hiện nhiệm vụ chữa cháy tại nơi có nhà ở nhiều tầng nhiều căn hộ của cá nhân Cá nhân quy định tại khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "thành phố trong công tác cấp phép xây dựng, đảm bảo theo Quy định này. b) Kịp thời xem xét, giải quyết các vấn đề phát sinh, vướng mắc (nếu có); trường hợp vượt thẩm quyền tham mưu đề xuất, báo cáo Ủy ban nhân dân tỉnh để xem xét, giải quyết theo quy định. 2. Ủy ban nhân dân các huyện, thành phố a) Việc cấp giấy phép xây dựng cho các cá nhân quy định tại khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH ĐẮK NÔNG ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 23/2024/QĐ-UBND Đắk Nông, ngày 14 tháng 10 năm 2024 QUYẾT ĐỊNH QUY ĐỊNH ĐIỀU KIỆN VỀ ĐƯỜNG GIAO THÔNG ĐỂ PHƯƠNG TIỆN CHỮA CHÁY THỰC HIỆN NHIỆM VỤ CHỮA CHÁY TẠI NƠI CÓ NHÀ Ở NHIỀU TẦNG NHIỀU CĂN HỘ CỦA CÁ NHÂN TRÊN ĐỊA BÀN TỈNH ĐẮK NÔNG ỦY BAN NHÂN DÂN TỈNH ĐẮK NÔNG Căn cứ Luật Tổ chức chính quyền địa phương ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Ban hành văn bản quy phạm pháp luật ngày 22 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Ban hành văn bản quy phạm pháp luật ngày 18 tháng 6 năm 2020; Căn cứ Luật Nhà ở ngày 27 tháng 11 năm 2023; Căn cứ Luật Phòng cháy và chữa cháy ngày 29 tháng 6 năm 2001; Luật sửa đổi, bổ sung một số điều của Luật Phòng cháy và chữa cháy ngày 22 tháng 11 năm 2013; Căn cứ Nghị định số ..."
+    }
+  ]
+}

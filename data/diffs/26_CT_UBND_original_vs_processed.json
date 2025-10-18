@@ -1,0 +1,54 @@
+{
+  "base": "26_CT_UBND_original",
+  "revised": "26_CT_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section General.1",
+      "change": "added",
+      "to": "ỦY BAN NHÂN DÂN TỈNH THỪA THIÊN HUẾ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 26/CT-UBND Thừa Thiên Huế, ngày 05 tháng 12 năm 2024 CHỈ THỊ VỀ XỬ LÝ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC, NGƯỜI LAO ĐỘNG VÀ CHIẾN"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "THÔNG MÀ TRONG MÁU HOẶC TRONG HƠI THỞ CÓ NỒNG ĐỘ CỒN; KHÔNG HỢP TÁC VỚI LỰC LƯỢNG CHỨC NĂNG TRONG XỬ LÝ VI PHẠM Thực hiện chủ trương của Đảng, chỉ đạo của Chính phủ, Thủ tướng Chính phủ và các bộ ngành; thời gian qua, ý thức chấp hành pháp luật, văn hoá ứng xử khi tham gia giao thông của cán bộ, công chức, viên chức, người lao động, và cán bộ, chiến sỹ trong lực lượng vũ trang (sau đây gọi chung là cán bộ, công chức, viên chức) đã có sự chuyển biến tích cực, góp phần làm cho hoạt động giao thông văn minh và an toàn hơn. Tuy nhiên, vẫn còn một bộ phận cán bộ, công chức, viên chức thiếu gương mẫu, vi phạm pháp luật khi tham gia giao thông, thậm chí có hành vi không chuẩn mực, không chấp hành việc kiểm tra, xử lý của lực lượng chức năng, nhất là trong việc kiểm tra vi phạm điều khiển phương tiện giao thông mà trong máu hoặc hơi thở có nồng độ cồn (vi phạm nồng độ cồn); cá biệt có một số trường hợp điều khiển phương tiện giao thông vi phạm nồng độ cồn gây tai nạn giao thông làm chết người, chống đối, không hợp tác việc kiểm tra, giải quyết của cơ quan chức năng, gây bức xúc trong Nhân dân, làm ảnh hưởng tới uy tín, hình ảnh cán bộ, công chức, viên chức. Nguyên nhân của tình trạng trên chủ yếu là do một bộ phận cán bộ, công chức, viên chức chưa nhận thức đầy đủ nghĩa vụ, trách nhiệm trong công tác đảm bảo trật tự, an toàn giao thông; Thủ trưởng, lãnh đạo một số cơ quan hành chính, đơn vị sự nghiệp công lập, đơn vị thuộc lực lượng vũ trang chưa quan tâm trong quán triệt, tổ chức thực hiện các chỉ đạo của Đảng, Chính phủ, Thủ tướng Chính phủ trong công tác bảo đảm trật tự, an toàn giao thông; buông lỏng kỷ luật, kỷ cương, thiếu trách nhiệm trong quản"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "công chức, viên chức có hành vi vi phạm để chấn chỉnh, nhắc nhở chung trong cơ quan, đơn vị. Tiếp tục triển khai ý kiến chỉ đạo của của Thủ tướng Chính phủ tại Chỉ thị số 35/CT-TTg ngày 17/9/2024 về xử lý cán bộ, công chức, viên chức và chiến sỹ trong lực lượng vũ trang vi phạm"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "có nồng độ cồn; không hợp tác với lực lượng chức năng trong xử lý vi phạm, Chủ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_5.1",
+      "change": "added",
+      "to": "các sở, ban, ngành, cơ quan, đoàn thể cấp tỉnh, các đơn vị sự nghiệp công lập, doanh nghiệp nhà nước; Chủ tịch Ủy ban nhân dân các huyện, thị xã, thành phố Huế Tổ chức tuyên truyền, quán triệt và triển khai thực hiện nghiêm Chỉ thị số 35/CT-TTg ngày 17/9/2024 của Thủ tướng Chính phủ đến toàn thể cán bộ, công chức, viên chức trong đơn vị, địa phương mình quản lý và Nhân dân trên địa bàn bằng nhiều hình thức thiết thực, hiệu quả; tiếp tục thực hiện nghiêm các chỉ đạo của Tỉnh ủy, UBND tỉnh về an toàn giao thông. Tiếp tục quán triệt, thực hiện nghiêm túc các chỉ đạo của Đảng, Chính phủ trong công tác bảo đảm trật tự an toàn giao thông, nhất là việc triển khai thực hiện Chỉ thị số 23-CT/TW ngày 25/5/2023 của Ban Bí thư về tăng cường sự lãnh đạo của Đảng đối với công tác bảo đảm trật tự an toàn giao thông trong tình hình mới; Chỉ thị số 10/CT-TTg ngày 19/4/2023 của Thủ tướng Chính phủ về tăng cường công tác bảo đảm trật tự an toàn giao thông đường bộ trong tình hình mới; Chỉ thị số 31/CT-TTg ngày 21/12/2023 của Thủ tướng Chính phủ về tăng cường công tác bảo đảm trật tự, an toàn giao thông cho lứa tuổi học sinh trong tình hình mới; Chỉ thị số 23/CT-TTg ngày 26/7/2024 của Thủ tướng Chính phủ về tăng cường công tác bảo đảm trật tự, an toàn giao thông đối với hoạt động kinh doanh vận tải. Khi có thông báo của cơ quan chức"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_6.1",
+      "change": "added",
+      "to": "cồn; không hợp tác với lực lượng chức năng trong xử lý vi phạm hoặc cung cấp thông tin không đúng sự thật khi được xác minh rõ, cơ quan quản lý cán bộ, công"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_7.1",
+      "change": "added",
+      "to": "công khai, nghiêm minh, chính xác, kịp thời, đúng thẩm quyền, trình tự, thủ tục, nghiêm cấm việc bao che, giấu giếm khuyết điểm của cán bộ, công chức, viên chức vi phạm. Trao đổi kết quả xử lý kỷ luật với cơ quan gửi thông báo vi phạm (đồng thời gửi Công an tỉnh, Sở Nội vụ) để tổng hợp, báo cáo Chủ tịch Ủy ban nhân dân tỉnh. Nghiêm cấm can thiệp, tác động vào quá trình kiểm tra, xử lý vi phạm của lực lượng thực thi công vụ, nhất là vi phạm nồng độ cồn; tăng cường công tác quản lý, chấn chỉnh việc chấp hành pháp luật khi tham gia giao thông của cán bộ, công chức"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH THỪA THIÊN HUẾ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 26/CT-UBND Thừa Thiên Huế, ngày 05 tháng 12 năm 2024 CHỈ THỊ VỀ XỬ LÝ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC, NGƯỜI LAO ĐỘNG VÀ CHIẾN SỸ TRONG LỰC LƯỢNG VŨ TRANG VI PHẠM QUY ĐỊNH VỀ ĐIỀU KHIỂN PHƯƠNG TIỆN GIAO THÔNG MÀ TRONG MÁU HOẶC TRONG HƠI THỞ CÓ NỒNG ĐỘ CỒN; KHÔNG HỢP TÁC VỚI LỰC LƯỢNG CHỨC NĂNG TRONG XỬ LÝ VI PHẠM Thực hiện chủ trương của Đảng, chỉ đạo của Chính phủ, Thủ tướng Chính phủ và các bộ ngành; thời gian qua, ý thức chấp hành pháp luật, văn hoá ứng xử khi tham gia giao thông của cán bộ, công chức, viên chức, người lao động, và cán bộ, chiến sỹ trong lực lượng vũ trang (sau đây gọi chung là cán bộ, công chức, viên chức) đã có sự chuyển biến tích cực, góp phần làm cho hoạt động giao thông văn minh và an toàn hơn. Tuy nhiên, vẫn còn một bộ phận cán bộ, công chức, viên chức thiếu gương mẫu, vi phạm pháp luật khi tham gia giao thông, thậm chí có..."
+    }
+  ]
+}

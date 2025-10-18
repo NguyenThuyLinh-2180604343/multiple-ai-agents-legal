@@ -1,0 +1,48 @@
+{
+  "base": "44_2022_NĐ_CP_original",
+  "revised": "44_2022_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "việc xây dựng, quản lý và khai thác, sử dụng hệ thống thông tin về nhà ở và thị trường bất động sản; trách nhiệm, quyền hạn của cơ quan, tổ chức, cá nhân trong việc xây dựng, quản lý và khai thác, sử dụng hệ thống thông tin về nhà ở và thị trường bất động sản; trách nhiệm, quyền hạn của cơ quan, tổ chức trong việc kết nối và chia sẻ, công bố thông tin, dữ liệu trên hệ thống thông tin về nhà ở và thị trường bất động sản."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "với cơ quan, tổ chức, cá nhân có liên quan đến việc xây dựng, quản lý và khai thác, sử dụng hệ thống thông tin về nhà ở và thị trường bất động sản."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "số lượng bất động sản của dự án đủ điều kiện đưa vào giao dịch theo quy định của pháp luật nhưng chưa giao dịch trong kỳ báo cáo. 2. Cơ quan quản lý hệ thống thông tin về nhà ở và thị trường bất động sản bao gồm: a) Bộ Xây dựng; b) Sở Xây dựng hoặc cơ quan chuyên môn quản lý nhà ở và thị trường bất động sản địa phương cấp tỉnh (sau đây được viết tắt là Sở Xây dựng). 3. Chỉ số giá, chỉ số lượng giao dịch một số loại bất động sản a) Giá giao dịch bất động sản là giá của sản phẩm bất động sản được giao dịch trong kỳ giữa chủ đầu tư dự án và người mua bất động sản. Chỉ số giá giao dịch một số loại bất động sản là chỉ tiêu tương đối (tính bằng %) phản ánh mức độ biến động về giá giao dịch thành công của một số loại bất động sản quy định tại điểm a, b, c khoản 3"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 12.1",
+      "change": "added",
+      "to": "động sản là số lượng sản phẩm bất động sản được giao dịch trong kỳ giữa chủ đầu tư dự án và người mua bất động sản. Chỉ số lượng giao dịch bất động sản là chỉ tiêu tương đối (tính bằng %) phản ánh mức độ biến động về số lượng giao dịch thành công của một số loại bất động sản quy định tại điểm a, b, c khoản 3"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "nhà ở và thị trường bất động sản gồm: a) Cơ sở dữ liệu về nhà ở và thị trường bất động sản; b) Hạ tầng kỹ thuật công nghệ thông tin về nhà ở và thị trường bất động sản; c) Hệ thống phần mềm phục vụ quản lý, vận hành, khai thác thông tin về nhà ở và thị trường bất động sản. 2. Hệ thống thông tin về nhà ở và thị trường bất động sản được xây dựng thống nhất trên toàn quốc nhằm chia sẻ, cung cấp thông tin cơ bản về nhà ở và thị trường bất động sản cho các cơ quan, tổ chức, cá nhân, phục vụ công tác quản lý nhà nước và việc công bố các số liệu thống kê về nhà ở và thị trường bất động sản, đáp ứng yêu cầu phát triển kinh tế - xã hội."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "và thị trường bất động sản là tập hợp các thông tin, dữ liệu cơ bản về nhà ở và thị trường bất động sản đã được thu thập, kiểm tra, đánh giá, xử lý, số hóa, tích hợp và được lưu trữ một cách có hệ thống, có tổ chức dưới dạng tệp dữ liệu lưu trữ trên các hệ thống tin học, các thiết bị lưu trữ, vật mang tin để có thể cập nhật, quản lý, khai thác bằng hệ thống công nghệ thông tin nhằm phục vụ công tác quản lý nhà nước, các hoạt động kinh tế, xã hội và bảo đảm quyền tiếp cận thông tin theo quy định của pháp luật. 2. Cơ sở dữ liệu về nhà ở và thị trường bất động sản gồm: a) Cơ sở dữ liệu về nhà ở và thị trường bất động sản quốc gia: là tập hợp các thông tin, dữ liệu tổng hợp về nhà ở và thị trường bất động sản trên phạm vi cả nước từ cơ sở dữ liệu về nhà ở và thị trường bất động sản địa phương, thông tin do các bộ, ngành có liên quan chia sẻ, cung cấp và từ các chương trình điều tra về nhà ở quốc gia. Cơ sở dữ liệu về nhà ở và thị trường bất động sản quốc gia do Bộ Xây dựng chịu trách nhiệm xây dựng, lưu trữ và quản lý; b) Cơ sở dữ liệu về nhà ở và thị trường bất động sản địa phương: là tập hợp toàn bộ các thông tin, dữ liệu cơ bản về nhà ở và thị trường bất động sản được thu thập trên địa bàn tỉnh, thành phố trực thuộc trung ương. Cơ sở dữ liệu về nhà ở và thị trường bất động sản địa phương do Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương (sau đây gọi là Ủy ban nhân dân cấp tỉnh) giao Sở Xâ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- -- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 44/2022/NĐ-CP Hà Nội, ngày 29 tháng 6 năm 2022 NGHỊ ĐỊNH VỀ XÂY DỰNG, QUẢN LÝ VÀ SỬ DỤNG HỆ THỐNG THÔNG TIN VỀ NHÀ Ở VÀ THỊ TRƯỜNG BẤT ĐỘNG SẢN Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Nhà ở ngày 25 tháng 11 năm 2014; Căn cứ Luật Kinh doanh bất động sản ngày 25 tháng 11 năm 2014; Căn cứ Luật Phòng chống rửa tiền ngày 18 tháng 6 năm 2012; Theo đề nghị của Bộ trưởng Bộ Xây dựng; Chính phủ ban hành Nghị định về xây dựng, quản lý và sử dụng hệ thống thông tin về nhà ở và thị trường bất động sản. Chương I NHỮNG QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định về việc xây dựng, quản lý và khai thác, sử dụng hệ thống thông tin về nhà ở và thị trường bất động sản; trách nhiệm, quyền hạn của cơ quan, t..."
+    }
+  ]
+}

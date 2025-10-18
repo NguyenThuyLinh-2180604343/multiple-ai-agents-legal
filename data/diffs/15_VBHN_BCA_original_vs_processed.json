@@ -1,0 +1,36 @@
+{
+  "base": "15_VBHN_BCA_original",
+  "revised": "15_VBHN_BCA_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "điều chỉnh Thông tư này quy định về đào tạo, sát hạch, cấp Giấy phép lái xe; bồi dưỡng kiến thức pháp luật về giao thông đường bộ cho người điều khiển xe máy chuyên dùng trong Công an nhân dân, gồm: 1. Hình thức, nội dung, chương trình đào tạo lái xe; tiêu chuẩn của cơ sở đào tạo lái xe; cấp Quyết định công nhận năng lực đào tạo lái xe(gồm cấp, đổi, cấp lại, thu hồi Quyết định công nhận năng lực đào tạo lái xe); điều kiện, tiêu chuẩn Giáo viên dạy lái xe; cấp Giấy chứng nhận Giáo viên dạy lái xe (gồm cấp, đổi, cấp lại, thu hồi Giấy chứng nhận giáo viên dạy lái xe); cấp Giấy phép xe tập lái (gồm cấp, đổi, cấp lại, thu hồi Giấy phép xe tập lái). 2. Hình thức, nội dung, quy trình, quản lý sát hạch để cấp Giấy phép lái xe; tiêu chuẩn của trung tâm sát hạch lái xe; cấp Quyết định công nhận trung tâm sát hạch lái xe đủ điều kiện sát hạch lái xe trong Công an nhân dân (gồm cấp, đổi, cấp lại, thu hồi Quyết định công nhận trung tâm sát hạch lái xe đủ điều kiện sát hạch lái xe trong Công an nhân dân); điều kiện, tiêu chuẩn sát hạch viên, tổ chức tập huấn, cấp Thẻ sát hạch viên (gồm cấp, đổi, cấp lại, thu hồi Thẻ sát hạch viên). 3. Cấp Giấy phép lái xe (gồm cấp, đổi, cấp lại, thu hồi Giấy phép lái xe). 4. Hình thức, nội dung, chương trình bồi dưỡng kiến thức pháp luật về giao thông đường bộ; tiêu chuẩn của cơ sở đào tạo người điều khiển xe máy chuyên dùng, cấp Chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ (gồm cấp, đổi, cấp lại, thu hồi Chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "tượng áp dụng 1. Các đơn vị thuộc cơ quan Bộ Công an, Công an tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là Công an các đơn vị, địa phương). 2. Cơ quan quản lý đào tạo, sát hạch, cấp Giấy phép lái xe; bồi dưỡng, kiểm tra, cấp Chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ trong Công an nhân dân. 3. Cơ sở đào tạo lái xe, trung tâm sát hạch lái xe trong Công an nhân dân. 4. Người thực hiện, tham gia công tác đào tạo, sát hạch, cấp Giấy phép lái xe; bồi dưỡng, kiểm tra, cấp Chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ trong Công an nhân dân. 5. Cơ quan, tổ chức, cá nhân khác có liên quan."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "tượng được đào tạo, sát hạch, cấp Giấy phép lái xe; bồi dưỡng, kiểm tra, cấp Chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ Các đối tượng sau đây được đào tạo, sát hạch, cấp Giấy phép lái xe; bồi dưỡng, kiểm tra, cấp Chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ (sau đây gọi chung là cán bộ, chiến sĩ), gồm: 1. Sĩ quan, hạ sĩ quan, chiến sĩ nghĩa vụ Công an nhân dân. 2. Học viên các Học viện, trường Công an nhân dân, trừ học viên hệ dân sự. 3. Công nhân công an; người có hợp đồng lao động hưởng lương ngân sách nhà nước tại Công an các đơn vị, địa phương do thủ trưởng Công an các đơn vị, địa phương trực tiếp ký kết với người lao động, gồm hợp đồng lao động xác định thời hạn từ đủ 12 tháng đến 36 tháng và hợp đồng lao động không xác định thời hạn."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "quyền quản lý và tổ chức đào tạo, sát hạch, cấp Giấy phép lái xe; bồi dưỡng, kiểm tra, cấp Chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ 1. Thẩm quyền quản lý: a) Cục Cảnh sát giao thông quản lý đào tạo, sát hạch, cấp Giấy phép lái xe; bồi dưỡng, kiểm tra, cấp Chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ trong Công an nhân dân; b) Phòng Cảnh sát giao thông thuộc Công an tỉnh, thành phố trực thuộc trung ương (sau đây gọi chung là Phòng Cảnh sát g"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ CÔNG AN -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 15/VBHN-BCA Hà Nội, ngày 26 tháng 4 năm 2025 THÔNG TƯ QUY ĐỊNH VỀ ĐÀO TẠO, SÁT HẠCH, CẤP GIẤY PHÉP LÁI XE; BỒI DƯỠNG KIẾN THỨC PHÁP LUẬT VỀ GIAO THÔNG ĐƯỜNG BỘ CHO NGƯỜI ĐIỀU KHIỂN XE MÁY CHUYÊN DÙNG TRONG CÔNG AN NHÂN DÂN Thông tư số 66/2024/TT-BCA ngày 12 tháng 11 năm 2024 của Bộ trưởng Bộ Công an quy định về đào tạo, sát hạch, cấp Giấy phép lái xe; bồi dưỡng kiến thức pháp luật về giao thông đường bộ cho người điều khiển xe máy chuyên dùng trong Công an nhân dân, có hiệu lực kể từ ngày 01 tháng 01 năm 2025, được sửa đổi, bổ sung bởi: Thông tư số 13/2025/TT-BCA ngày 28 tháng 02 năm 2025 của Bộ trưởng Bộ Công an sửa đổi, bổ sung một số điều của các thông tư quy định về trật tự, an toàn giao thông đường bộ, đường sắt và đường thủy nội địa, có hiệu lực kể từ ngày 01 tháng 3 năm 2025. Căn cứ Luật Trật tự, an toàn giao thông đường bộ ngày 27 tháng 6 năm 2024; Căn cứ Nghị..."
+    }
+  ]
+}

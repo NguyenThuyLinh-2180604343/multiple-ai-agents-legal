@@ -1,0 +1,18 @@
+{
+  "base": "459_LTTC_CA_original",
+  "revised": "459_LTTC_CA_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 61.1",
+      "change": "added",
+      "to": "ngày 02 tháng 07 năm 2002 và Thông tư hướng dẫn số 72/2004/TT-BTC ngày 15/07/2004 của Bộ Tài chính về “Hướng dẫn việc quản lý và xử lý phương tiện tịch thu sang công quỹ Nhà nước do vi phạm hành chính”. 4.3 Tổng số tiền thu được sau khi khấu trừ hi phí định kỳ, phần còn lại được nhập vào tiền xử phạt vi phạm hành chính về giao thông mà đơn vị được sử dụng. - Trường hợp tổng số tiền thu được không đủ bù chi phí định kỳ thì dùng khoản tiền xử phạt vi phạm hành chính về giao thông đơn vị được sử dụng mà bù chi. 5. Về phân cấp quản lý tiền thu phí và thanh toán tiền chi phí: 5.1 Đơn vị công an tổ chức thu thuộc cấp nào thì được giữ tiền tại đơn vị đó và chi theo các nội dung quy định tại điểm 4.1, cuối năm 2005 quyết tóan với cơ quan tài chính và cơ quan thuế cùng cấp, cụ thể: - Công an Thành phố chịu trách nhiệm liên hệ với Sở Tài chính , Cục Thuế kê khai biên lai thu phí, quyết tóan các khoản chi của các phòng trực thuộc. - Công an quận, huyện chịu trách nhiệm liên hệ với Phòng Tài chính Kế hoạch, Chi cục Thuế quận, huyện kê khai đăng ký biên lai thu phí và quyết toán các khoản chi của CSGT-TT-CĐ quận, huyện. 5.2 Sau khi đơn vị Công an được duyệt quyết toán, cơ quan tài chính làm thủ tục ghi thu, ghi chi theo chương lại khoản mục tương ứng, đồng thời Phòng Tài chính Kế họach và Công an quận, huyện lập báo cáo về Sở Tài chính và Công an thành phố để sơ kết trình UBND.TP xem xét trình HĐND quyết định cho năm tiếp theo. 6. Tổ chức thực hiện: Hướng dẫn này chỉ áp dụng từ khi có hiệu lực ban hành đến hết năm 2005 (theo văn bản 7930/UB-ĐT ngày 22/12/2004), kể từ năm 2006 sẽ có hướng dẫn lại theo chủ trương của Ủy ban nhân dân thành phố. - Để nhanh chó"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TP HỒ CHÍ MINH LIÊN NGÀNH SỞ TÀI CHÍNH-CÔNG AN TP ----- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ------- Số: 459/LTTC-CA TP. Hồ Chí Minh, ngày 20 tháng 01 năm 2005 HƯỚNG DẪN VỀ VIỆC THU PHÍ TRÔNG GIỮ PHƯƠNG TIỆN GIAO THÔNG BỊ TẠM GIỮ DO VI PHẠM PHÁP LUẬT VỀ TTATGT TRÊN ĐỊA BÀN TP. HỒ CHÍ MINH Căn cứ Nghị định số 93/2001/NĐ-CP ngày 12/12/2001 của Chính phủ về phân cấp quản lý một số lĩnh vực cho Thành phố Hồ Chí Minh Căn cứ Thông tư số 15/2003/TT-BTC ngày 3/7/2003 của Bộ Tài chính về hướng dẫn tạm phí giữ xe đạp, xe máy, ôtô bị tạm giữ do vi phạm pháp luật về TTATGT. Thực hiện Quyết định số 231/2004/QĐ-UB ngày 11/20/2004 của Bộ Tài chính về hướng dẫn ban hành mức thu phí trông giữ phương tiện giao thông bị tạm giữ do vi phạm pháp luật về TTATGT trên địa bàn Thành phố Hồ Chí Minh; công văn số: 7390/UB-ĐT ngày 22/12/2004 của UBND.TP v/v chấp thuận tỷ lệ 100% trích để lại tiền thu phí trông giữ phương tiện bị tạm giữ do vi phạm phá..."
+    }
+  ]
+}

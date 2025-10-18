@@ -1,0 +1,30 @@
+{
+  "base": "99_2022_NĐ_CP_original",
+  "revised": "99_2022_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "cung cấp thông tin về biện pháp bảo đảm bằng tài sản (sau đây gọi là biện pháp bảo đảm); quản lý nhà nước về đăng ký biện pháp bảo đảm. 2. Đăng ký biện pháp bảo đảm, cung cấp thông tin về biện pháp bảo đảm bằng chứng khoán đã đăng ký tập trung tại Tổng công ty lưu ký và bù trừ chứng khoán Việt Nam thực hiện theo quy định của pháp luật về chứng khoán. Đối với các vấn đề không quy định trong pháp luật về chứng khoán thì thực hiện theo quy định liên quan đến đăng ký biện pháp bảo đảm bằng động sản không phải là tàu bay, tàu biển tại Nghị định này."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "tượng áp dụng Nghị định này áp dụng đối với cơ quan, tổ chức, cá nhân tham gia hoặc có liên quan đến đăng ký, cung cấp thông tin về biện pháp bảo đảm, quản lý nhà nước về đăng ký biện pháp bảo đảm."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "thích từ ngữ Trong Nghị định này, các từ ngữ dưới đây được hiểu như sau: 1. Đăng ký biện pháp bảo đảm là việc cơ quan đăng ký ghi, cập nhật vào Sổ đăng ký hoặc vào Cơ sở dữ liệu về biện pháp bảo đảm về việc bên bảo đảm dùng tài sản để bảo đảm thực hiện nghĩa vụ của mình hoặc của người khác hoặc đồng thời bảo đảm thực hiện nghĩa vụ của mình và của người khác đối với bên nhận bảo đảm (sau đây gọi là đăng ký). 2. Cung cấp thông tin về biện pháp bảo đảm là việc cơ quan đăng ký hoặc cơ quan khác có thẩm quyền quy định tại Nghị định này cung cấp thông tin về biện pháp bảo đảm đã được đăng ký theo yêu cầu của cơ quan, tổ chức, cá nhân có liên quan hoặc là việc cơ quan khác có thẩm quyền, người có thẩm quyền cung cấp thông tin liên quan đến tài sản cho cơ quan đăng ký. 3. Sổ đăng ký là sổ được cơ quan đăng ký dùng để ghi, cập nhật nội dung đăng ký. Sổ đăng ký có thể là sổ giấy, sổ điện tử hoặc đồng thời là sổ giấy và sổ điện tử, bao gồm: a) Sổ địa chính, Sổ đăng ký thế chấp tài sản gắn liền với đất hình thành trong tương lai đối với biện pháp bảo đảm bằng quyền sử dụng đất, tài sản gắn liền với đất; b) Sổ đăng bạ tàu bay Việt Nam đối với biện pháp bảo đảm bằng tàu bay; c) Sổ đăng ký tàu biển quốc gia Việt Nam đối với biện pháp bảo đảm bằng tàu biển; d) Sổ theo quy định của pháp luật về khai thác, sử dụng tài nguyên biển đối với biện pháp bảo đảm bằng quyền sử dụng khu vực biển được giao để nuôi trồng thủy sản, tài sản gắn liền với khu vực biển được giao để nuôi trồng thủy sản (sau đây gọi là quyền sử dụng khu vực biển, tài sản gắn liền với khu vực biển). 4. Cơ sở dữ liệu về biện pháp bảo đảm là tập hợp dữ liệu về biện pháp bảo đảm đã được đăng ký và được sắp xếp, tổ chức để truy cập, khai thác, quản lý thông qua phương tiện điện tử (sau đây gọi là Cơ sở dữ liệu). 5. Hồ sơ đăng ký hợp lệ là hồ sơ có đầy đủ Phiếu yêu cầu đăng ký hợp lệ và giấy tờ khác thuộc thành phần hồ sơ theo quy định của Nghị định này. 6. Phiếu yêu cầu đăng ký hợp lệ là phiếu được kê khai đầy đủ và đúng các nội dung phải kê khai theo mẫu tại Phụ lục ban hành kèm theo Nghị định này (sau đây gọi là Phụ lục). 7. Giấy chứng nhận bao gồm: a) Giấy chứng nhận quyền sở hữu tài sản là động sản; giấy chứng nhận đăng ký xe cơ giới, xe máy chuyên dùng; giấy tờ khác xác nhận quyền sở hữu đối với tài sản là động sản theo quy định của pháp luật; b) Giấy chứng nhận đăng ký tàu biển Việt Nam; c) Giấy chứng nhận đăng ký quyền sở hữu tàu bay; d) Giấy chứng nhận quyền sử dụng đất hoặc Giấy chứng nhận quyền sở hữu nhà ở và quyền sử dụng đất ở hoặc Giấy chứng nhận quyền sử dụng đất, quyền sở hữu nhà ở và tài sản khác gắn liền với đất hoặc Giấy chứng nhận quyền sở hữu nhà ở hoặc Giấy chứng nhận quyền sở hữu công trình xây dựng được cấp theo quy định của pháp luật về đất đai, về nhà ở, về xây dựng; đ) Giấy tờ chứng nhận quyền sử dụng khu vực biển, quyền sở hữu tài sản gắn liền với khu vực biển theo quy định của pháp luậ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 99/2022/NĐ-CP Hà Nội, ngày 30 tháng 11 năm 2022 NGHỊ ĐỊNH VỀ ĐĂNG KÝ BIỆN PHÁP BẢO ĐẢM Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Bộ luật Dân sự ngày 24 tháng 11 năm 2015; Căn cứ Bộ luật Hàng hải Việt Nam ngày 25 tháng 11 năm 2015; Căn cứ Luật Hàng không dân dụng Việt Nam ngày 29 tháng 6 năm 2006; Luật sửa đổi, bổ sung một số điều của Luật Hàng không dân dụng Việt Nam ngày 21 tháng 11 năm 2014; Căn cứ Luật Đất đai ngày 29 tháng 11 năm 2013; Căn cứ Luật Nhà ở ngày 25 tháng 11 năm 2014; Luật sửa đổi, bổ sung một số điều của Luật Đầu tư công, Luật Đầu tư theo phương thức đối tác công tư, Luật Đầu tư, Luật Nhà ở, Luật Đấu thầu, Luật Điện lực, Luật Doanh nghiệp, Luật Thuế tiêu thụ đặc biệt và Luật Thi hành án dân sự ngày 11 ..."
+    }
+  ]
+}

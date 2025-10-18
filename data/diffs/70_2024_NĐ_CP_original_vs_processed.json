@@ -1,0 +1,60 @@
+{
+  "base": "70_2024_NĐ_CP_original",
+  "revised": "70_2024_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "26"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 23.1",
+      "change": "added",
+      "to": "5"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 30.1",
+      "change": "added",
+      "to": "lý, vận hành hệ thống cơ sở hạ tầng thông tin Cơ sở dữ liệu quốc gia về dân cư, xác lập, hủy, xác lập lại số định danh cá nhân, xác nhận thông tin số chứng minh nhân dân 09 số, số định danh cá nhân."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "người gốc Việt Nam chưa xác định được quốc tịch đang sinh sống tại Việt Nam (sau đây gọi là người gốc Việt Nam chưa xác định được quốc tịch); cơ quan, tổ chức, cá nhân có liên quan. Chương II THU THẬP, CẬP NHẬT, ĐIỀU CHỈNH, QUẢN LÝ, KẾT NỐI, CHIA SẺ, KHAI THÁC THÔNG TIN TRONG CƠ SỞ DỮ LIỆU QUỐC GIA VỀ DÂN CƯ"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "sở dữ liệu quốc gia về dân cư 1. Ngoài những thông tin quy định từ khoản 1 đến khoản 25"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 9.1",
+      "change": "added",
+      "to": "công dân Việt Nam và người gốc Việt Nam chưa xác định được quốc tịch quy định tại Phụ lục ban hành kèm theo Nghị định này nếu có trong cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành, cơ sở dữ liệu khác do cơ quan, tổ chức quản lý, chia sẻ cho Cơ sở dữ liệu quốc gia về dân cư để phục vụ việc khai thác, sử dụng chung trong hoạt động của các cơ quan nhà nước và phát triển kinh tế - xã hội, xây dựng Chính phủ số, xã hội số, công dân số. 2. Giao Bộ Công an chủ trì, phối hợp với các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và cơ quan, tổ chức khác có liên quan để xác định, thống nhất các thông tin quy định tại khoản 1 Điều này được chia sẻ, thu thập, cập nhật, lưu trữ vào Cơ sở dữ liệu quốc gia về dân cư và việc tổ chức triển khai thực hiện cụ thể, bảo đảm hiệu quả, an ninh, an toàn thông tin. 3. Cơ quan quản lý cơ sở dữ liệu quốc gia, cơ sở dữ liệu chuyên ngành cung cấp 03 thông tin cơ bản của công dân Việt Nam, người gốc Việt Nam chưa xác định được quốc tịch gồm họ, chữ đệm và tên khai sinh, ngày, tháng, năm sinh, số định danh cá nhân để thực hiện việc kết nối, chia sẻ, đồng bộ thông tin với Cơ sở dữ liệu quốc gia về dân cư."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "cơ sở hạ tầng thông tin Cơ sở dữ liệu quốc gia về dân cư 1. Quản lý, vận hành hệ thống cơ sở hạ tầng thông tin Cơ sở dữ liệu quốc gia về dân cư bao gồm các hoạt động: a) Bố trí mặt bằng, công trình, lắp đặt, trang bị máy móc, thiết bị; b) Thiết lập hệ thống thông tin và hạ tầng kết nối dữ liệu; c) Xây dựng kiến trúc dữ liệu; d) Thu thập, chuẩn hóa, nhập dữ liệu; đ) Lưu trữ, sao lưu dự phòng, đồng bộ hệ thống, phục hồi dữ liệu; bảo mật, bảo đảm an ninh, an toàn thông tin, bảo vệ dữ liệu cá nhân; e) Đào tạo, huấn luyện, bồi dưỡng, tổ chức bộ máy cán bộ quản lý, vận hành cơ sở dữ liệu; g) Vận hành, hiệu chỉnh, nâng cấp, bảo trì hệ thống; h) Các hoạt động khác theo quy định của pháp luật. 2. Cơ sở dữ liệu quốc gia về dân cư được triển khai đến Công an tỉnh, thành phố trực thuộc trung ương (sau đây gọi là Công an cấp tỉnh), Công an quận, huyện, thị xã, thành phố thuộc tỉnh, thành phố thuộc thành phố trực thuộc trung ương (sau đây gọi là Công an cấp huyện), Công an xã, phường, thị trấn (sau đây gọi là Công an cấp xã) và cơ quan, tổ chức khác. 3. Cơ sở dữ liệu quốc gia về dân cư phải được sao lưu thường xuyên tại cơ quan quản lý căn cước của Bộ Công an và lưu trữ dự phòng, bảo mật; việc sao lưu phải được bảo vệ an toàn, định kỳ kiểm tra và phục hồi thử để sẵn sàng sử dụng. Cơ sở dữ liệu quốc gia về dân cư được phục hồi khi dữ liệu bị phá hủy, tấn công mạng, truy nhập trái phép. Các thiết bị lưu trữ dữ liệu về dân cư bị lỗi, hư hỏng khi giao cho tổ chức, cá nhân bảo hành, sửa chữa phải có cán bộ chuyên môn giám sát và được sự đồng ý của Thủ trưởng cơ quan quản lý căn cước của Bộ Công an, khi thay thế thiết bị lưu trữ phải giữ lại thiết bị cũ để quản lý."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "thông tin của công dân vào Cơ sở dữ liệu quốc gia về dân cư 1. Cơ quan đăng ký hộ tịch, cơ quan quản lý Cơ sở dữ liệu hộ tịch điện tử có trách nhiệm cung cấp, chia sẻ thông tin đăng ký hộ tịch của công dân cho cơ quan quản lý căn cước khi có phát sinh một hoặc một số thông tin công dân quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 70/2024/NĐ-CP Hà Nội, ngày 25 tháng 6 năm 2024 NGHỊ ĐỊNH QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU VÀ BIỆN PHÁP THI HÀNH LUẬT CĂN CƯỚC Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Căn cước ngày 27 tháng 11 năm 2023; Theo đề nghị của Bộ trưởng Bộ Công an; Chính phủ ban hành Nghị định quy định chi tiết một số điều và biện pháp thi hành Luật Căn cước . Chương I NHỮNG QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định chi tiết khoản 26 Điều 9, khoản 11 Điều 10, khoản 4 Điều 12 , khoản 2 Điều 16, khoản 5 Điều 16, khoản 6 Điều 22, khoản 5 Điều 23 , khoản 5 Điều 25, khoản 6 Điều 29, khoản 6 Điều 30 của Luật Căn cước và việc quản lý, vận hành hệ thống cơ sở hạ tầng thông tin Cơ sở dữ liệu quốc gia về dân cư, xác lập, hủy, xác lập..."
+    }
+  ]
+}

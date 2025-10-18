@@ -1,0 +1,54 @@
+{
+  "base": "57_2013_NĐ_CP_original",
+  "revised": "57_2013_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "các cơ quan thực hiện chức năng thanh tra ngành Giao thông vận tải; thanh tra viên, công chức thanh tra chuyên ngành và cộng tác viên thanh tra ngành Giao thông vận tải; trách nhiệm của cơ quan, tổ chức, cá nhân trong hoạt động thanh tra ngành Giao thông vận tải."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "của Bộ Giao thông vận tải, Sở Giao thông vận tải theo ủy quyền hoặc phân cấp của Ủy ban nhân dân cấp tỉnh. 2. Cơ quan, tổ chức, cá nhân Việt Nam và nước ngoài có nghĩa vụ chấp hành quy định pháp luật trong các lĩnh vực thuộc phạm vi quản lý nhà nước của ngành Giao thông vận tải."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "chủ nghĩa Việt Nam là thành viên có quy định khác về tổ chức và hoạt động thanh tra ngành Giao thông vận tải thì áp dụng quy định của điều ước quốc tế. Chương 2. TỔ CHỨC, NHIỆM VỤ VÀ QUYỀN HẠN CỦA CÁC CƠ QUAN THỰC HIỆN CHỨC NĂNG THANH TRA NGÀNH GIAO THÔNG VẬN TẢI"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "năng thanh tra ngành Giao thông vận tải 1. Cơ quan thanh tra nhà nước: a) Thanh tra Bộ Giao thông vận tải (sau đây gọi là Thanh tra Bộ); b) Thanh tra Sở Giao thông vận tải (sau đây gọi là Thanh tra Sở). 2. Cơ quan được giao thực hiện chức năng thanh tra chuyên ngành: a) Tổng cục Đường bộ Việt Nam; b) Cục Đường sắt Việt Nam, Cục Đường thủy nội địa Việt Nam, Cục Hàng không Việt Nam và Cục Hàng hải Việt Nam; c) Chi cục Đường thủy nội địa thuộc Cục Đường thủy nội địa Việt Nam (sau đây gọi là Chi cục Đường thủy nội địa); d) Cảng vụ Hàng không, Cảng vụ Hàng hải và Cảng vụ Đường thủy nội địa thuộc Cục Đường thủy nội địa Việt Nam (sau đây gọi là Cảng vụ Đường thủy nội địa); đ) Cơ quan quản lý đường bộ ở khu vực thuộc Tổng cục Đường bộ Việt Nam."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "Thanh tra Bộ 1. Thanh tra Bộ có Chánh Thanh tra, các Phó Chánh Thanh tra, các Thanh tra viên và công chức khác. Chánh Thanh tra Bộ do Bộ trưởng bổ nhiệm, miễn nhiệm, cách chức sau khi thống nhất với Tổng Thanh tra Chính phủ. Phó Chánh Thanh tra Bộ do Bộ trưởng bổ nhiệm, miễn nhiệm, cách chức theo đề nghị của Chánh Thanh tra Bộ. Phó Chánh Thanh tra Bộ giúp Chánh Thanh tra Bộ phụ trách một hoặc một số lĩnh vực công tác và chịu trách nhiệm trước pháp luật và trước Chánh Thanh tra Bộ về việc thực hiện nhiệm vụ được giao. 2. Thanh tra Bộ có các phòng nghiệp vụ. Bộ trưởng quyết định thành lập phòng nghiệp vụ thuộc Thanh tra Bộ. 3. Thanh tra Bộ có con dấu và tài khoản riêng."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "Thanh tra Bộ Thanh tra Bộ thực hiện nhiệm vụ, quyền hạn được quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 7.1",
+      "change": "added",
+      "to": "Chánh Thanh tra Bộ Chánh Thanh tra Bộ thực hiện nhiệm vụ, quyền hạn được quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập – Tự do – Hạnh phúc -------------- Số: 57/2013/NĐ-CP Hà Nội, ngày 31 tháng 05 năm 2013 NGHỊ ĐỊNH VỀ TỔ CHỨC VÀ HOẠT ĐỘNG THANH TRA NGÀNH GIAO THÔNG VẬN TẢI Căn cứ Luật tổ chức Chính phủ ngày 25 tháng 12 năm 2001; Căn cứ Luật thanh tra ngày 15 tháng 11 năm 2010; Căn cứ Bộ luật Hàng hải Việt Nam ngày 14 tháng 6 năm 2005; Căn cứ Luật giao thông đường thủy nội địa ngày 15 tháng 6 năm 2004; Căn cứ Luật đường sắt ngày 14 tháng 6 năm 2005; Căn cứ Luật hàng không dân dụng Việt Nam ngày 29 tháng 6 năm 2006; Căn cứ Luật giao thông đường bộ ngày 13 tháng 11 năm 2008; Theo đề nghị của Bộ trưởng Bộ Giao thông vận tải; Chính phủ ban hành Nghị định về tổ chức và hoạt động thanh tra ngành Giao thông vận tải, Chương 1. QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định về tổ chức và hoạt động của các cơ quan thực hiện chức năng thanh tra ngành Giao thông vận tải; thanh tra viên, công chức thanh tra chuyên ngành ..."
+    }
+  ]
+}

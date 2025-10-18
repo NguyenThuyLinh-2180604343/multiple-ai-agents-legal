@@ -1,0 +1,48 @@
+{
+  "base": "172_TB_BGTVT_original",
+  "revised": "172_TB_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section General.1",
+      "change": "added",
+      "to": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 172/TB-BGTVT Hà Nội, ngày 29 tháng 5 năm 2023 THÔNG BÁO KẾT"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "SỞ DỮ LIỆU GIÁM SÁT HÀNH TRÌNH PHƯƠNG TIỆN KINH DOANH VẬN TẢI Ngày 17/5/2023, tại Văn phòng Bộ Giao thông vận tải, Thứ trưởng Lê Đình Thọ đã chủ trì cuộc họp về Hệ thống duy trì và cập nhật cơ sở dữ liệu giám sát hành trình phương tiện kinh doanh vận tải. Tham gia dự họp có đại diện các Vụ: Kết cấu hạ tầng giao thông, Pháp chế, Vận tải, Khoa học Công nghệ & Môi trường, Tài chính, Thanh tra Bộ; Cục Đường bộ Việt Nam (ĐBVN); Trung tâm Công nghệ thông tin. Sau khi nghe Vụ Kết cấu hạ tầng giao thông, Cục ĐBVN báo cáo về các nội dung liên quan và ý kiến tham gia của các cơ quan, đơn vị tham dự cuộc họp, Thứ trưởng Lê Đình Thọ kết luận như sau: 1. Cục ĐBVN rút kinh nghiệm"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "duy trì và cập nhật cơ sở dữ liệu giám sát hành trình phương tiện kinh doanh vận tải” chưa đảm bảo quy định và thời hạn. 2. Giao các cơ quan, đơn vị: - Cục ĐBVN: + Nghiên cứu, rà soát cơ sở pháp lý của nhiệm vụ được giao, đối chiếu với quy định (trong đó có Thông tư số 01/2018/TT-BTC ngày 02/01/2018 và số 28/2019/TT-BTC ngày 21/5/2019 của Bộ trưởng Bộ Tài chính) để đề xuất nguồn kinh phí cho phù hợp. + Trường hợp đúng nội dung cần sử dụng nguồn kinh phí chi đảm bảo trật tự an toàn giao thông, Cục ĐBVN khẩn trương báo cáo rõ sự cần thiết với Ủy ban ATGT quốc gia để được cấp có thẩm quyền"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "của Luật Ngân sách và các văn bản hướng dẫn. - Vụ Vận tải: Trường hợp sử dụng nguồn kinh phí ATGT như đã nêu trên, giao Vụ Vận tải chủ trì phối hợp với Văn phòng UBATGT quốc gia, Trung tâm Công nghệ thông tin và các cơ quan có liên quan để tham mưu phê duyệt kế hoạch, dự toán kinh phí cho “Hệ thống duy trì và cập nhật cơ sở dữ liệu giám sát hành trình phương tiện kinh doanh vận tải” đảm"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_5.1",
+      "change": "added",
+      "to": "mưu tổng hợp dự toán 2024; trên cơ sở dự toán năm 2024 được Bộ Tài chính phân bổ,"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_6.1",
+      "change": "added",
+      "to": "Bộ thông báo để các đơn vị liên quan biết, thực hiện./. Nơi nhận: - Bộ trưởng (để b/c); - Thứ trưởng Lê Đình Thọ (để b/c); - Các cơ quan, đơn vị dự họp; - Lưu VT, TH. TL. BỘ TRƯỞNG CHÁNH VĂN PHÒNG Uông Việt Dũng"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 172/TB-BGTVT Hà Nội, ngày 29 tháng 5 năm 2023 THÔNG BÁO KẾT LUẬN CỦA THỨ TRƯỞNG LÊ ĐÌNH THỌ TẠI CUỘC HỌP VỀ HỆ THỐNG DUY TRÌ VÀ CẬP NHẬT CƠ SỞ DỮ LIỆU GIÁM SÁT HÀNH TRÌNH PHƯƠNG TIỆN KINH DOANH VẬN TẢI Ngày 17/5/2023, tại Văn phòng Bộ Giao thông vận tải, Thứ trưởng Lê Đình Thọ đã chủ trì cuộc họp về Hệ thống duy trì và cập nhật cơ sở dữ liệu giám sát hành trình phương tiện kinh doanh vận tải. Tham gia dự họp có đại diện các Vụ: Kết cấu hạ tầng giao thông, Pháp chế, Vận tải, Khoa học Công nghệ & Môi trường, Tài chính, Thanh tra Bộ; Cục Đường bộ Việt Nam (ĐBVN); Trung tâm Công nghệ thông tin. Sau khi nghe Vụ Kết cấu hạ tầng giao thông, Cục ĐBVN báo cáo về các nội dung liên quan và ý kiến tham gia của các cơ quan, đơn vị tham dự cuộc họp, Thứ trưởng Lê Đình Thọ kết luận như sau: 1. Cục ĐBVN rút kinh nghiệm trong việc xây dựng, trình phân bổ dự toán ngân sách cho nhiệm..."
+    }
+  ]
+}

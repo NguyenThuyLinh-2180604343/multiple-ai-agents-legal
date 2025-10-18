@@ -1,0 +1,36 @@
+{
+  "base": "01_2022_NĐ_CP_original",
+  "revised": "01_2022_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "điều của Nghị định số 65/2018/NĐ-CP ngày 12 tháng 5 năm 2018 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đường sắt 1. Sửa đổi khoản 3 và bổ sung khoản 6"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 18.1",
+      "change": "added",
+      "to": "sau: “3. Không áp dụng quy định về niên hạn sử dụng phương tiện giao thông đường sắt quy định tại khoản 1, khoản 2 Điều này đối với việc thực hiện cứu hộ cứu nạn; dồn dịch trong ga, cảng, trong đề-pô, trong nội bộ nhà máy; điều chuyển giữa các ga, các đề-pô; các đầu máy hơi nước kéo đoàn tàu du lịch; toa xe mặt võng chuyên vận tải phục vụ an ninh, quốc phòng và các loại phương tiện chuyên dùng di chuyển trên đường sắt.”. b) Bổ sung khoản 6 như sau: “6. Phương tiện giao thông đường sắt quy định tại khoản 1, khoản 2 Điều này khi hết niên hạn sử dụng được chuyển thành phương tiện không áp dụng quy định về niên hạn sử dụng theo quy định tại khoản 3 Điều này.”. 2. Sửa đổi"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 19.1",
+      "change": "added",
+      "to": "phương tiện giao thông đường sắt 1. Các phương tiện hết niên hạn sử dụng trước ngày 31 tháng 12 năm 2018: Được phép hoạt động đến hết ngày 31 tháng 12 năm 2023. 2. Các phương tiện hết niên hạn sử dụng từ 01 tháng 01 năm 2019 đến ngày 31 tháng 12 năm 2019: Được phép hoạt động đến hết ngày 31 tháng 12 năm 2024. 3. Các phương tiện hết niên hạn sử dụng từ 01 tháng 01 năm 2020 đến ngày 31 tháng 12 năm 2025: Được phép hoạt động đến hết ngày 31 tháng 12 năm 2025. 4. Các phương tiện hết niên hạn sử dụng từ ngày 01 tháng 01 năm 2026: Không được kéo dài thời gian hoạt động.”."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương và Thủ trưởng các cơ quan liên quan chịu trách nhiệm thi hành Nghị định này./. Nơi nhận: - Ban Bí thư Trung ương Đảng; - Thủ tướng, các Phó Thủ tướng Chính phủ; - Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; - HĐND, UBND các tỉnh, thành phố trực thuộc trung ương; - Văn phòng Trung ương và các Ban của Đảng; - Văn phòng Tổng Bí thư; - Văn phòng Chủ tịch nước; - Hội đồng Dân tộc và các Ủy ban của Quốc hội; - Văn phòng Quốc hội; - Tòa án nhân dân tối cao; - Viện kiểm sát nhân dân tối cao; - Kiểm toán nhà nước; - Ủy ban Giám sát tài chính Quốc gia; - Ngân hàng Chính sách xã hội; - Ngân hàng Phát triển Việt Nam; - Ủy ban trung ương Mặt trận Tổ quốc Việt Nam; - Cơ quan trung ương của các đoàn thể; - Tổng công ty Đường sắt Việt Nam; - VPCP: BTCN, các PCN, Trợ lý TTg, PTTgCP, TGĐ Cổng TTĐT, các Vụ, Cục, đơn vị trực thuộc, Công báo; - Lưu: VT, CN (3). TM. CHÍNH PHỦ KT. THỦ TƯỚNG PHÓ THỦ TƯỚNG Lê Văn Thành"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ -------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 01/2022/NĐ-CP Hà Nội, ngày 04 tháng 01 năm 2022 NGHỊ ĐỊNH SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 65/2018/NĐ-CP NGÀY 12 THÁNG 5 NĂM 2018 CỦA CHÍNH PHỦ QUY ĐỊNH CHI TIẾT THI HÀNH MỘT SỐ ĐIỀU CỦA LUẬT ĐƯỜNG SẮT Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019; Căn cứ Luật Đường sắt ngày 16 tháng 6 năm 2017; Theo đề nghị của Bộ trưởng Bộ Giao thông vận tải; Chính phủ ban hành Nghị định sửa đổi, bổ sung một số điều của Nghị định số 65/2018/NĐ-CP ngày 12 tháng 5 năm 2018 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đường sắt . Điều 1. Sửa đổi, bổ sung một số điều của Nghị định số 65/2018/NĐ-CP ngày 12 tháng 5 năm 2018 của Chính phủ quy định chi tiết thi hành một số điều của Luật Đường sắt 1. Sửa đổi khoản 3 và bổ sung khoản 6 Đ..."
+    }
+  ]
+}

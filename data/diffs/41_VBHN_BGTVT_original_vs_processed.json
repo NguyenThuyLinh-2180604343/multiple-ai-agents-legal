@@ -1,0 +1,36 @@
+{
+  "base": "41_VBHN_BGTVT_original",
+  "revised": "41_VBHN_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "vi điều chỉnh 1. Thông tư này quy định về việc cải tạo phương tiện giao thông cơ giới đường bộ (sau đây gọi tắt là xe cơ giới) đã có biển số đăng ký hoặc đã qua sử dụng được phép nhập khẩu. 2. Thông tư này không áp dụng đối với các xe cơ giới sau đây: a) Xe mô tô, xe gắn máy, máy kéo; b) Xe cơ giới được cải tạo để sử dụng vào mục đích quốc phòng, an ninh của Bộ Quốc phòng và Bộ Công an."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "tượng áp dụng Thông tư này áp dụng đối với tổ chức, cá nhân có liên quan đến hoạt động cải tạo xe cơ giới."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "thích từ ngữ Trong Thông tư này, các từ ngữ dưới đây được hiểu như sau: 1. Xe cơ giới là các phương tiện giao thông đường bộ được định nghĩa, phân loại tại các tiêu chuẩn Việt Nam TCVN 6211 và TCVN 7271 (trừ xe mô tô, xe gắn máy). 2. Tổng thành là động cơ; khung; buồng lái, thân xe hoặc thùng xe, khoang chở khách; thiết bị chuyên dùng lắp trên xe. 3. Hệ thống là hệ thống truyền lực; hệ thống chuyển động; hệ thống treo; hệ thống phanh; hệ thống lái; hệ thống nhiên liệu; hệ thống điện, đèn chiếu sáng và tín hiệu. 4. Cải tạo xe cơ giới là việc thay đổi kết cấu, hình dáng, bố trí, nguyên lý làm việc, thông số, đặc tính kỹ thuật của một phần hoặc toàn bộ hệ thống, tổng thành của xe cơ giới. Trường hợp thay thế hệ thống, tổng thành bằng hệ thống, tổng thành khác cùng kiểu loại, của cùng nhà sản xuất (cùng mã phụ tùng) thì không phải là cải tạo. 5. Xe bao gồm xe ô tô, sơ mi rơ moóc và rơ moóc. 6. Xe nguyên thủy (xe cơ giới chưa cải tạo) là xe cơ giới không có sự thay đổi cấu tạo, hình dáng, bố trí, nguyên lý làm việc, thông số, đặc tính kỹ thuật của toàn bộ các hệ thống, tổng thành so với thiết kế của nhà sản xuất. 7. Cơ sở thiết kế là tổ chức kinh doanh ngành nghề dịch vụ thiết kế xe cơ giới. 8. Cơ sở cải tạo là tổ chức kinh doanh ngành nghề thi công cải tạo, sản xuất, lắp ráp xe cơ giới. 9. Thẩm định thiết kế là việc xem xét, kiểm tra, đối chiếu và đánh giá các nội dung hồ sơ thiết kế cải tạo xe cơ giới với các tiêu chuẩn, quy chuẩn kỹ thuật, quy định có liên quan. 10. Nghiệm thu xe cơ giới cải tạo là việc kiểm tra, đánh giá xe cơ giới đã được thi công cải tạo theo hồ sơ thiết kế đã được thẩm định (sau đây gọi là nghiệm thu)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "quy định khi cải tạo xe cơ giới Việc cải tạo xe cơ giới và xe cơ giới sau khi cải tạo phải phù hợp tiêu chuẩn, quy chuẩn kỹ thuật và quy định về chất lượng an toàn kỹ thuật và bảo vệ môi trường đối với xe cơ giới khi tham gia giao thông và phải tuân thủ các quy định sau đây: 1. Không cải tạo thay đổi mục đích sử dụng (công dụng) đối với xe cơ giới đã có thời gian sử dụng trên 15 năm, kể từ năm sản xuất của xe cơ giới đến thời điểm thẩm định thiết kế. 2. Không cải tạo xe cơ giới chuyên dùng nhập khẩu thành xe cơ giới loại khác trong thời gian 05 năm, xe đông lạnh nhập khẩu thành xe loại khác trong thời gian 03 năm, kể từ ngày được cấp biển số đăng ký lần đầu. 3. Không cải tạo thùng xe của xe tải nhập khẩu, sản xuất, lắp ráp mới, chưa qua sử dụng trong thời gian 06 tháng, kể từ ngày kiểm định an toàn kỹ thuật và bảo vệ môi trường lần đầu đến khi thẩm định thiết kế (trừ trường hợp cải tạo thành xe tập lái, sát hạch; cải tạo lắp đặt thêm mui phủ của xe tải thùng hở). 4. 2 Không cải tạo xe cơ giới loại khác thành xe chở người và ngược lại, trừ trường hợp xe chở người từ 16 chỗ (kể cả chỗ người lái) trở xuống thành xe chuyên dùng hoặc thành xe ô tô tải VAN. 5."
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 41/VBHN-BGTVT Hà Nội, ngày 22 tháng 7 năm 2022 THÔNG TƯ QUY ĐỊNH VỀ CẢI TẠO PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ Thông tư số 85/2014/TT-BGTVT ngày 31 tháng 12 năm 2014 của Bộ trưởng Bộ Giao thông vận tải quy định về cải tạo phương tiện cơ giới giao thông đường bộ, có hiệu lực kể từ ngày 10 tháng 03 năm 2015 được sửa đổi, bổ sung bởi: 1. Thông tư số 42/2018/TT-BGTVT ngày 30 tháng 7 năm 2018 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số Điều của các Thông tư trong lĩnh vực đăng kiểm, có hiệu lực kể từ ngày 15 tháng 10 năm 2018. 2. Thông tư số 26/2020/TT-BGTVT ngày 16 tháng 10 năm 2020 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của các Thông tư quy định về chế độ báo cáo định kỳ trong lĩnh vực đăng kiểm, có hiệu lực kể từ ngày 15 tháng 12 năm 2020. 3. Thông tư số 16/2022/TT-BGTVT ngày 30 tháng 06 năm 2022 của Bộ trường Bộ Gi..."
+    }
+  ]
+}

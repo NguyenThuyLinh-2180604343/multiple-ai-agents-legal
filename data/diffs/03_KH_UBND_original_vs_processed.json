@@ -1,0 +1,36 @@
+{
+  "base": "03_KH_UBND_original",
+  "revised": "03_KH_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section General.1",
+      "change": "added",
+      "to": "ỦY BAN NHÂN DÂN THÀNH PHỐ HÀ NỘI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 03/KH-UBND Hà Nội, ngày 02 tháng 01 năm 2024 KẾ HOẠCH THỰC HIỆN CÔNG TÁC BẢO ĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG, GIẢM ÙN TẮC GIAO THÔNG TRÊN ĐỊA BÀN THÀNH PHỐ HÀ NỘI NĂM 2024 Tiếp tục thực hiện Chỉ thị số 23-CT/TW ngày 25/5/2023 của Ban Bí thư về tăng cường sự lãnh đạo của Đảng đối với công tác bảo đảm trật tự, an toàn giao thông trong tình hình mới; Nghị quyết số 149/NQ-CP ngày 21/9/2023 của Chính phủ về ban hành chương trình hành động của Chính phủ thực hiện Chỉ thị số 23-CT/TW ngày 25/5/2023 của Ban Bí thư Trung ương Đảng về tăng cường sự lãnh đạo của Đảng đối với công tác bảo đảm trật tự, an toàn giao thông trong tình hình mới; Nghị quyết số 48/NQ-CP ngày 05/4/2022 của Chính phủ về tăng cường bảo đảm trật tự, an toàn giao thông và chống ùn tắc giao thông giai đoạn 2022-2025; Quyết định số 2060/QĐ-TTg ngày 12/12/2020 của Thủ tướng Chính phủ về việc phê duyệt Chiến lược Quốc gia bảo đảm trật tự, an toàn giao thông đường bộ giai đoạn 2021-2030 và tầm nhìn đến năm 2045; Chỉ thị số 10/CT-TTg ngày 19/4/2023 của Thủ tướng Chính phủ về tăng cường công tác bảo đảm trật tự, an toàn giao thông đường bộ trong tình hình mới; Công điện số 1300/CĐ-TTg ngày 5/12/2023 của Thủ tướng Chính phủ về bảo đảm trật tự, an toàn giao thông dịp Tết Dương lịch, Tết Nguyên đán Giáp Thìn và Lễ hội xuân 2024. Thực hiện Kế hoạch số 689/KH-UBATGTQG ngày 19/12/2023 của Ủy ban ATGT Quốc gia về bảo đảm an toàn giao thông năm 2024 với chủ đề “Thượng tôn pháp luật để xây dựng văn hóa giao thông an toàn”; chủ đề năm 2024 của thành phố Hà Nội: “Kỷ cương, trách nhiệm, hành động, sáng tạo, phát triển”; các chỉ đạo của Thành ủy, Hội đồng Nhân dân Thành phố về công tác bảo đảm trật tự, an toàn giao thông trên địa bàn thành phố Hà Nội. Ủy ban Nhân dân thành phố Hà Nội ban hành Kế hoạch thực hiện công tác bảo đảm trật tự, an toàn giao thông, giảm ùn tắc giao thông trên địa bàn thành phố Hà Nội năm 2024 như sau: I. MỤC ĐÍCH - YÊU CẦU 1. Tạo được sự đồng thuận, thống nhất của cả hệ thống chính trị trong việc thực hiện công tác bảo đảm trật tự, an toàn giao thông; gắn trách nhiệm của Giám đốc các Sở, Thủ trưởng các ban, ngành có liên quan, Chủ tịch UBND các quận, huyện, thị xã trong việc chỉ đạo và tổ chức triển khai thực hiện quyết liệt, đồng bộ các giải pháp giảm ùn tắc giao thông, giảm tai nạn giao thông trên toàn địa bàn Thành phố và trên từng địa bàn quận, huyện, thị xã, địa bàn xã, phường, thị trấn ngay từ ngày đầu, tháng đầu và trong suốt năm 2024. 2. Bảo đảm trật tự, an toàn giao thông, hạn chế ùn tắc giao thông, đặc biệt thực hiện tốt việc tổ chức các sự kiện chính trị, văn hóa, thể thao quan trọng trên địa bàn Thành phố; phục vụ tốt nhu cầu đi lại của Nhân dân, nhất là trong dịp Tết Dương lịch, Tết Nguyên đán, Lễ hội xuân Giáp Thìn và các kỳ nghỉ lễ khác trong năm 2024. 3. Nâng cao tinh thần trách nhiệm, siết chặt kỷ cương của người thực thi pháp luật về bảo đảm trật tự, an toàn giao thông. Cán bộ, công chức, viên chức và người lao động trong các cơ quan, đơn vị thuộc"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "pháp luật về trật tự, an toàn giao thông. 4. Tăng cường tuần tra, kiểm soát, xử lý nghiêm các vi phạm về trật tự, an toàn giao thông đường bộ, đường sắt, đường thủy nội địa trên nguyên tắc “Thượng tôn pháp luật để xây dựng văn hóa giao thông an toàn”. 5. Đẩy mạnh ứng dụng khoa học công nghệ trong quản lý điều hành vận tải, điều khiển giao thông, tuyên truyền an toàn giao thông; giám sát, phát hiện và xử lý vi phạm về trật tự, an toàn giao thông. II. MỘT SỐ CHỈ TIÊU 1. Vận tải hành khách công cộng đảm bảo chất lượng, phục vụ hiệu quả, phấn đấu năm 2024 đạt từ 22-25% và tiếp tục triển khai thực hiện tốt Nghị quyết số 04/2017/NQ-HĐND ngày 04/7/2017, Nghị quyết số 07/2019/NQ-HĐND ngày 10/7/2019 của Hội đồng Nhân dân Thành phố. 2. Phấn đấu tiếp tục kiềm chế giảm tai nạn giao thông từ 5% so với năm 2023 trên cả 3 tiêu chí (số vụ, số người chết, số người bị thương). 3. Tập trung giải quyết từ 08-10 điểm ùn tắc giao thông, hạn chế để xảy ra tình trạng ùn tắc giao thông kéo dài trên 30 phút; kịp thời xử lý những điểm có nguy cơ phát sinh ùn tắc giao thông mới và các điểm đen về tai nạn giao thông. III. NHIỆM VỤ TRỌNG TÂM Các Sở, ban, ngành, UBND các quận, huyện, thị xã và các đơn vị có liên quan tập trung triển khai đồng bộ, quyết liệt và có hiệu quả công tác bảo đảm trật tự, an toàn giao thông theo chỉ đạo của Trung ương và"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "tuyên truyền, phổ biến, giáo dục pháp luật về trật tự, an toàn giao thông - Cán bộ, công chức, viên chức, sỹ quan, chiến sỹ và người lao động trong các cơ quan, đơn vị thuộc thành phố Hà Nội phải gương mẫu"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "thông. - Kiên trì xây dựng văn hóa giao thông an toàn đối với t"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN THÀNH PHỐ HÀ NỘI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 03/KH-UBND Hà Nội, ngày 02 tháng 01 năm 2024 KẾ HOẠCH THỰC HIỆN CÔNG TÁC BẢO ĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG, GIẢM ÙN TẮC GIAO THÔNG TRÊN ĐỊA BÀN THÀNH PHỐ HÀ NỘI NĂM 2024 Tiếp tục thực hiện Chỉ thị số 23-CT/TW ngày 25/5/2023 của Ban Bí thư về tăng cường sự lãnh đạo của Đảng đối với công tác bảo đảm trật tự, an toàn giao thông trong tình hình mới; Nghị quyết số 149/NQ-CP ngày 21/9/2023 của Chính phủ về ban hành chương trình hành động của Chính phủ thực hiện Chỉ thị số 23-CT/TW ngày 25/5/2023 của Ban Bí thư Trung ương Đảng về tăng cường sự lãnh đạo của Đảng đối với công tác bảo đảm trật tự, an toàn giao thông trong tình hình mới; Nghị quyết số 48/NQ-CP ngày 05/4/2022 của Chính phủ về tăng cường bảo đảm trật tự, an toàn giao thông và chống ùn tắc giao thông giai đoạn 2022-2025; Quyết định số 2060/QĐ-TTg ngày 12/12/2020 của Thủ tướng Chính phủ về việc..."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "base": "32_CT_UBND_original",
+  "revised": "32_CT_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section General.1",
+      "change": "added",
+      "to": "ỦY BAN NHÂN DÂN TỈNH NAM ĐỊNH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 32/CT-UBND Nam Định, ngày 09 tháng 10 năm 2024 CHỈ THỊ VỀ VIỆC XỬ LÝ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC VÀ CHIẾN SỸ TRONG"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "TRONG MÁU HOẶC HƠI THỞ CÓ NỒNG ĐỘ CỒN; KHÔNG HỢP TÁC VỚI LỰC LƯỢNG CHỨC NĂNG TRONG XỬ LÝ VI PHẠM Thời gian qua, dưới sự chỉ đạo quyết liệt, thường xuyên của Tỉnh ủy, Ủy ban nhân dân tỉnh, Ban An toàn giao thông tỉnh, sự vào cuộc của các sở, ngành, cấp ủy, chính quyền các cấp trong thực hiện các biện pháp bảo đảm trật tự, an toàn giao thông đã tạo chuyển biến tích cực về ý thức chấp hành pháp luật, văn hóa ứng xử khi tham gia giao thông của cán bộ, đảng viên và Nhân dân trong tỉnh, góp phần làm cho hoạt động giao thông văn minh và an toàn hơn. Tuy nhiên còn một bộ phận cán bộ, công chức, viên chức, cán bộ, chiến sỹ trong lực lượng vũ trang (sau đây gọi chung là cán bộ) thiếu gương mẫu, vi phạm pháp luật khi tham gia giao thông, nhất là vi phạm về nồng độ cồn, cá biệt có một số trường hợp điều khiển phương tiện giao thông vi phạm nồng độ cồn gây tai nạn giao thông làm chết người gây bức xúc trong nhân dân. Từ ngày 15 tháng 12 năm 2023 đến ngày 14 tháng 9 năm 2024 lực lượng Công an trong tỉnh đã kiểm tra, xử lý vi phạm hành chính 4.400 trường hợp vi phạm về nồng độ cồn, trong đó xử lý và xác minh gửi thông báo về cơ quan đơn vị quản lý đối với 169 cán bộ, đảng viên. Nguyên nhân của tình trạng trên chủ yếu là do một bộ phận cán bộ chưa nhận thức đầy đủ nghĩa vụ, trách nhiệm trong công tác đảm bảo trật tự, an toàn giao thông; Thủ trưởng, lãnh đạo một số cơ quan, địa phương, đơn vị lực lượng vũ trang chưa quan tâm quán triệt, tổ chức thực hiện các chỉ đạo của Đảng, Chính phủ, Thủ tướng Chính phủ trong công tác bảo đảm trật tự, an toàn giao thông; buông lỏng kỷ luật, kỷ cương, thiếu trách nhiệm"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "khi cán bộ có hành vi vi phạm để chấn chỉnh, nhắc nhở chung trong cơ quan, đơn vị. Thực hiện Chỉ thị số 35/CT-TTg ngày 17 tháng 9 năm 2024 của Thủ tướng Chính phủ về xử lý cán bộ, công chức,"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "phương tiện giao thông mà trong máu hoặc hơi thở có nồng độ cồn; không hợp tác với lực lượng chức năng trong xử lý vi phạm (sau đây gọi tắt là Chỉ thị số"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_5.1",
+      "change": "added",
+      "to": "các Sở, ban, ngành, đoàn thể của tỉnh, Chủ tịch Ủy ban nhân dân các huyện, thành phố Nam Định - Tiếp tục quán triệt, thực hiện nghiêm túc các chỉ đạo của Đảng, Chính phủ trong công tác bảo đảm trật tự, an toàn giao thông; trọng tâm là Chỉ thị số 23-CT/TW ngày 25 tháng 5 năm 2023 của Ban Bí thư; Chỉ thị số 10/CT-TTg ngày 19 tháng 4 năm 2023 của Thủ tướng Chính phủ; Chỉ thị số 23/CT-TTg ngày 26 tháng 7 năm 2024 của Thủ tướng Chính phủ;"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_6.1",
+      "change": "added",
+      "to": "chính sách, pháp luật của Nhà nước về trật tự, an toàn giao thông. - Ban hành kế hoạch, quán triệt toàn thể cán bộ về nội dung của Chỉ thị số 35/CT-TTg và nội dung tại Chỉ thị"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_7.1",
+      "change": "added",
+      "to": "lái xe” đồng thời vận động bạn bè, người thân chấp hành, nghiêm cấm can thiệp vào việc xử lý vi phạm trật tự, an toàn giao thông của lực lượng chức năng. Phấn đấu 100% cán bộ, công chức, viên chức trên địa bàn tỉnh không vi phạm về nồng độ cồn. - Khi có thông báo của cơ quan"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_8.1",
+      "change": "added",
+      "to": "tác với lực lượng chức năng trong xử lý vi phạm, cơ quan quản lý cán bộ căn cứ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_9.1",
+      "change": "added",
+      "to": "việc xử lý phải bảo đảm khách quan, công bằng, công khai, nghiêm minh, chính xác, kịp thời, đúng thẩm quyền, trình tự, thủ tục, nghiêm cấm việc bao che, giấu giếm khuyết điểm cho cán bộ, công nhân viên chức vi phạm; định kỳ hàng quý, 6 tháng, 9 tháng, năm (trước ngày 10 tháng 10) trao đổi kết quả xử lý kỷ luật với cơ quan gửi thông báo vi phạm và báo cáo về Ủy ban nhân dân tỉnh (qua Sở Nội vụ, Công an tỉnh) để theo dõi, chỉ đạo. - Hàng tháng phân công lãnh đơn vị, địa phương kiểm tra, thanh tra, giám sát việc chấp hành kỷ luật, kỷ cương khi tham gia giao thông đối với cán bộ trong các cơ quan hành chính nhà nước,"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_10.1",
+      "change": "added",
+      "to": "trưởng, người đứng đầu cơ quan, đơn vị, địa phương trực tiếp sử dụng cán bộ có"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_11.1",
+      "change": "added",
+      "to": "thực"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH NAM ĐỊNH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 32/CT-UBND Nam Định, ngày 09 tháng 10 năm 2024 CHỈ THỊ VỀ VIỆC XỬ LÝ CÁN BỘ, CÔNG CHỨC, VIÊN CHỨC VÀ CHIẾN SỸ TRONG LỰC LƯỢNG VŨ TRANG VI PHẠM QUY ĐỊNH VỀ ĐIỀU KHIỂN PHƯƠNG TIỆN GIAO THÔNG MÀ TRONG MÁU HOẶC HƠI THỞ CÓ NỒNG ĐỘ CỒN; KHÔNG HỢP TÁC VỚI LỰC LƯỢNG CHỨC NĂNG TRONG XỬ LÝ VI PHẠM Thời gian qua, dưới sự chỉ đạo quyết liệt, thường xuyên của Tỉnh ủy, Ủy ban nhân dân tỉnh, Ban An toàn giao thông tỉnh, sự vào cuộc của các sở, ngành, cấp ủy, chính quyền các cấp trong thực hiện các biện pháp bảo đảm trật tự, an toàn giao thông đã tạo chuyển biến tích cực về ý thức chấp hành pháp luật, văn hóa ứng xử khi tham gia giao thông của cán bộ, đảng viên và Nhân dân trong tỉnh, góp phần làm cho hoạt động giao thông văn minh và an toàn hơn. Tuy nhiên còn một bộ phận cán bộ, công chức, viên chức, cán bộ, chiến sỹ trong lực lượng vũ trang (sau đây gọi chung là cá..."
+    }
+  ]
+}

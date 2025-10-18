@@ -1,0 +1,36 @@
+{
+  "base": "4051_QĐ_UBND_original",
+  "revised": "4051_QĐ_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "quyết định này danh mục 13 thủ tục hành chính (TTHC) bị bãi bỏ lĩnh vực đường bộ (công tác sát hạch, cấp Giấy phép lái xe) thuộc thẩm quyền giải quyết của Sở Xây dựng tỉnh Long An (phụ lục đính kèm)."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "có trách nhiệm cập nhật các TTHC bị bãi bỏ trên hệ thống thông tin giải quyết thủ tục hành chính của tỉnh ngay khi nhận được quyết định công bố."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "có hiệu lực thi hành kể từ ngày ký."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "BỊ BÃI BỎ TRONG LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ XÂY DỰNG TỈNH LONG AN (Ban hành kèm theo Quyết định số 4051/QĐ-UBND ngày 16/4/2025 của Chủ tịch UBND tỉnh Long An) THỦ TỤC HÀNH CHÍNH BỊ BÃI BỎ: 13 TTHC STT Mã số TTHC (CSQLQG) Tên TTHC Văn bản quy định TTHC bãi bỏ hoặc hủy bỏ I LĨNH VỰC ĐƯỜNG BỘ: 13 TTHC 1 2.001002 Cấp Giấy phép lái xe quốc tế Quyết định số 222/QĐ-BXD ngày 01/3/2025 của Bộ Xây dựng về việc công bố bãi bỏ thủ tục hành chính thuộc phạm vi chức năng quản lý của Bộ Xây dựng trong công tác sát hạch, cấp Giấy phép lái xe. 2 1.002835 Cấp mới Giấy phép lái xe 3 1.002820 Cấp lại Giấy phép lái xe 4 1.002809 Đổi Giấy phép lái xe do ngành Giao thông vận tải cấp 5 1.002804 Đổi giấy phép lái xe quân sự do Bộ Quốc phòng cấp sang giấy phép lái xe do ngành Giao thông vận tải cấp 6 1.002801 Đổi giấy phép lái xe do ngành Công an cấp sang giấy phép lái xe do ngành Giao thông vận tải cấp 7 1.002796 Đổi giấy phép lái xe hoặc bằng lái xe của nước ngoài sang giấy phép lái xe do ngành Giao thông vận tải cấp 8 1.000004 Chấp thuận bố trí mặt bằng tổng thể hình sát hạch trung tâm sát hạch lái xe loại 1, loại 2 9 1.004998 Cấp Giấy phép sát hạch cho trung tâm sát hạch lái xe loại 1, loại 2 10 1.004995 Cấp Giấy phép sát hạch cho trung tâm sát hạch lái xe loại 3 11 1.004987 Cấp lại Giấy phép sát hạch cho trung tâm sát hạch lái xe 12 1.013240 Chấp thuận hoạt động của sân tập lái để sát hạch lái xe mô tô 13 1.013241 Chấp thuận lại hoạt động của sân tập lái để sát hạch lái xe mô tô"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH LONG AN ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 4051/QĐ-UBND Long An, ngày 16 tháng 4 năm 2025 QUYẾT ĐỊNH VỀ VIỆC CÔNG BỐ THỦ TỤC HÀNH CHÍNH BỊ BÃI BỎ LĨNH VỰC ĐƯỜNG BỘ THUỘC THẨM QUYỀN GIẢI QUYẾT CỦA SỞ XÂY DỰNG TỈNH LONG AN CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH LONG AN Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/02/2025; Căn cứ Nghị định số 63/2010/NĐ-CP ngày 08/6/2010 của Chính phủ về kiểm soát thủ tục hành chính; Nghị định số 48/2013/NĐ-CP ngày 14/5/2013, Nghị định số 92/2017/NĐ-CP ngày 07/8/2017 của Chính phủ về sửa đổi, bổ sung một số điều của các Nghị định liên quan đến thủ tục hành chính; Căn cứ Nghị định số 61/2018/NĐ-CP ngày 23/4/2018 của Chính phủ về thực hiện cơ chế một cửa, một cửa liên thông trong giải quyết thủ tục hành chính; Nghị định số 107/NĐ-CP ngày 06/12/2021 sửa đổi, bổ sung một số điều của Nghị định số 61/2018/NĐ-CP về thực hiện cơ chế một cửa, một cửa liên thông trong giải qu..."
+    }
+  ]
+}

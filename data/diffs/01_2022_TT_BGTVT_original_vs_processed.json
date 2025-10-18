@@ -1,0 +1,42 @@
+{
+  "base": "01_2022_TT_BGTVT_original",
+  "revised": "01_2022_TT_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "Bộ Giao thông vận tải về sửa đổi, bổ sung một số điều của Thông tư số 29/2018/TT-BGTVT ngày 14 tháng 5 năm 2018 quy định về việc kiểm tra chất lượng, an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông đường sắt và Thông tư số 31/2018/TT-BGTVT ngày 15 tháng 5 năm 2018 quy định về thực hiện đánh giá, chứng nhận an toàn hệ thống đối với đường sắt đô thị."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "khoản thi hành 1. Thông tư này có hiệu lực thi hành kể từ ngày 01 tháng 3 năm 2022. 2. Bãi bỏ khoản 11"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "sung"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 16a.1",
+      "change": "added",
+      "to": "Giao thông vận tải: Phối hợp với Cục Đăng kiểm Việt Nam trong công tác kiểm tra đánh giá lần đầu các đơn vị đăng kiểm xe cơ giới.”"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "hành kèm theo Thông tư số 01/2022/TT-BGTVT ngày 12 tháng 01 năm 2022 của Bộ trưởng Bộ Giao thông vận tải) Phụ lục VI CHU KỲ KIỂM TRA Loại phương tiện Chu kỳ kiểm tra (tháng) Chu kỳ đầu Chu kỳ định kỳ 1. Đường sắt quốc gia 1.1. Phương tiện nhập khẩu mới và sản xuất, lắp ráp a) Đầu máy, phương tiện chuyên dùng có động cơ 18 - b) Toa xe khách 28 - c) Toa xe hàng, phương tiện chuyên dùng không có động cơ 36 - 1.2. Phương tiện đang khai thác có thời gian sử dụng dưới hoặc bằng 30 năm a) Đầu máy, phương tiện chu"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 01/2022/TT-BGTVT Hà Nội, ngày 12 tháng 01 năm 2022 THÔNG TƯ SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU THÔNG TƯ SỐ 29/2018/TT-BGTVT NGÀY 14 THÁNG 5 NĂM 2018 CỦA BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI QUY ĐỊNH VỀ KIỂM TRA CHẤT LƯỢNG, AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG PHƯƠNG TIỆN GIAO THÔNG ĐƯỜNG SẮT VÀ THÔNG TƯ SỐ 18/2019/TT-BGTVT NGÀY 20 THÁNG 5 NĂM 2019 CỦA BỘ TRƯỞNG BỘ GIAO THÔNG VẬN TẢI HƯỚNG DẪN THỰC HIỆN NGHỊ ĐỊNH SỐ 139/2018/NĐ-CP NGÀY 08 THÁNG 10 NĂM 2018 CỦA CHÍNH PHỦ QUY ĐỊNH VỀ KINH DOANH DỊCH VỤ KIỂM ĐỊNH XE CƠ GIỚI Căn cứ Luật Giao thông đường bộ ngày 13 tháng 11 năm 2008; Căn cứ Luật Đường sắt ngày 16 tháng 6 năm 2017; Căn cứ Nghị định số 139/2018/NĐ-CP ngày 08 tháng 10 năm 2018 của Chính phủ quy định về kinh doanh dịch vụ kiểm định xe cơ giới; Căn cứ Nghị định số 65/2018/NĐ-CP ngày 12 tháng 5 năm 2018 của Chính phủ Quy định chi tiết thi hành một số điều của ..."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "base": "523_KH_UBND_original",
+  "revised": "523_KH_UBND_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Section General.1",
+      "change": "added",
+      "to": "ỦY BAN NHÂN DÂN TỈNH HÀ TĨNH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 523/KH-UBND Hà Tĩnh, ngày 24 tháng 11 năm 2023 KẾ HOẠCH PHÁT ĐỘNG PHONG TRÀO TOÀN DÂN THAM GIA PHÁT HIỆN, CUNG CẤP THÔNG TIN PHẢN ÁNH CÁC HÀNH VI VI PHẠM TRẬT TỰ, AN TOÀN GIAO THÔNG TRÊN ĐỊA BÀN TỈNH HÀ TĨNH Trong những năm qua, với sự quan tâm, vào cuộc đồng bộ, quyết liệt của cả hệ thống chính trị và tham gia tích cực của các tầng lớp Nhân dân, tình hình trật tự, an toàn giao thông trên địa bàn Tỉnh được duy trì ổn định, an toàn; tình trạng vi phạm an toàn giao thông, tai nạn và ùn tắc giao thông được kiềm chế. Để tiếp tục duy trì tốt công tác bảo đảm trật tự, an toàn giao thông trên địa bàn toàn Tỉnh; thực hiện Chỉ thị số 23-CT/TW ngày 25/5/2023 của Ban Bí thư Trung ương, Chỉ thị số 10/CT-TTg ngày 19/4/2023 của Thủ tướng Chính phủ về tăng cường công tác bảo đảm trật tự, an toàn giao thông đường bộ trong tình hình mới; Kế hoạch số 182-KH/TU ngày 13/7/2023 của Ban Thường vụ Tỉnh ủy về thực hiện Chỉ thị số 23-CT/TW của Ban Bí thư Trung ương Đảng; UBND tỉnh ban hành Kế hoạch phát động phong trào “ Toàn dân tham gia phát hiện, cung cấp các thông tin phản ánh các hành vi vi phạm trật tự, an toàn giao thông ” như sau: I. MỤC ĐÍCH,"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_2.1",
+      "change": "added",
+      "to": "đồng bộ các biện pháp, giải pháp, trọng tâm là vận dụng triệt để thành tựu của Cuộc cách mạng 4.0 trong công tác bảo đảm trật tự, an toàn giao thông, gắn với công tác tuyên truyền, phổ biến, giáo dục pháp luật; phấn đấu mỗi người dân là một “tuyên truyền viên”, một “cộng tác viên” đắc lực với lực lượng chức năng trong công tác bảo đảm trật tự, an toàn giao thông; phát huy dân chủ trong công tác bảo đảm an ninh, trật tự nói chung và bảo đảm trật tự, an toàn giao thông nói riêng, tạo điều kiện thuận lợi để huy động người dân tham gia vào công tác bảo đảm trật tự, an toàn giao thông. 2. Huy động sự vào cuộc tổng thể, nâng cao trách nhiệm của các sở, ban, ngành, cấp ủy, chính quyền địa phương, các tổ chức chính trị - xã hội và quần chúng Nhân dân trong công tác bảo đảm trật tự, an toàn giao thông; tăng cường tuyên truyền, vận động quần chúng Nhân dân tự ý thức, có trách nhiệm trong chấp hành pháp luật về an toàn giao thông và chủ động phát hiện, cung cấp thông tin, tài liệu phản ánh các vi phạm trật tự, an toàn giao thông, các hành vi gây hư hại kết cấu hạ tầng giao thông, tiềm ẩn nhiều nguy cơ gây ùn tắc, tai nạn giao thông cho các cơ quan chức năng"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_3.1",
+      "change": "added",
+      "to": "Nhân dân về vi phạm trật tự, an toàn giao thông phải đảm bảo khách quan, chính xác. Việc tiếp nhận, xác minh, xử lý, giải quyết thông tin phản ánh phải kịp thời,"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_4.1",
+      "change": "added",
+      "to": "rộng rãi, tạo hiệu ứng răn đe, phòng ngừa xã hội, qua đó, vận động Nhân dân ủng hộ, tích cực phối hợp với các lực lượng chức năng trong công tác đảm bảo trật tự, an toàn giao thông. 4. Đảm bảo an toàn, bí mật về danh tính của người cung cấp thông tin, tài liệu phản ánh vi phạm về trật tự, an toàn giao thông; kịp thời động viên, khen thưởng những cá nhân có thành tích"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_5.1",
+      "change": "added",
+      "to": "của pháp luật đối với các hành vi lợi dụng phong trào để cung cấp thông tin sai"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_6.1",
+      "change": "added",
+      "to": "\" Toàn dân tham gia phát hiện, cung cấp các thông tin phản ánh các hành vi"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_7.1",
+      "change": "added",
+      "to": "Tỉnh; trong đó, tuyên truyền cho các tầng lớp Nhân dân chấp hành nghiêm pháp luật về trật tự, an toàn giao thông, hướng dẫn cách thức nhận diện, vận động Nhân"
+    },
+    {
+      "level": "clause",
+      "id": "Section Section_8.1",
+      "change": "added",
+      "to": "quần chúng Nhân dân, cơ quan, đơn vị. III. NỘI DUNG, BIỆN PHÁP THỰC HIỆN 1. Công tác tham mưu, chỉ đạo, triển khai 1.1. Tổ chức phổ biến, quán triệt sâu rộng trong toàn xã hội, các cơ quan, đơn vị, mọi tầng lớp Nhân dân nhằm đẩy mạnh thực hiện nghiêm chủ trương, đường lối của Đảng, chính sách, pháp luật của Nhà nước về công tác bảo đảm trật tự, an toàn giao thông, trọng tâm là: Chỉ thị số 23-CT/TW ngày 25/5/2023 của Ban Bí thư Trung ương Đảng (khóa XIII) về tăng cường sự lãnh đạo của Đảng đối với công tác đảm bảo trật tự, an toàn giao thông trong tình hình mới; Nghị quyết số 149/NQ-CP ngày 21/9/2023 của Chính phủ thực hiện Chỉ thị số 23- CT/TW; Chỉ thị số 10/CT-TTg ngày 19/4/2023 của Thủ tướng Chính phủ về tăng cường công tác đảm bảo an toàn giao thông trong tình hình mới; Chỉ thị số 25- CT/TU ngày 04/11/2022 của Ban Thường vụ Tỉnh ủy về tăng cường lãnh đạo, chỉ đạo công tác đảm bảo trật tự, an toàn giao thông trên địa bàn tỉnh; Kế hoạch số 182-KH/TU ngày 13/7/2023 của Ban Thường vụ Tỉnh ủy và Kế hoạch số 367/KH-UBND ngày 31/8/2023 của UBND tỉnh về triển khai thực hiện Chỉ thị số 32-CT/TW... 1.2. Phát động phong"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "ỦY BAN NHÂN DÂN TỈNH HÀ TĨNH ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 523/KH-UBND Hà Tĩnh, ngày 24 tháng 11 năm 2023 KẾ HOẠCH PHÁT ĐỘNG PHONG TRÀO TOÀN DÂN THAM GIA PHÁT HIỆN, CUNG CẤP THÔNG TIN PHẢN ÁNH CÁC HÀNH VI VI PHẠM TRẬT TỰ, AN TOÀN GIAO THÔNG TRÊN ĐỊA BÀN TỈNH HÀ TĨNH Trong những năm qua, với sự quan tâm, vào cuộc đồng bộ, quyết liệt của cả hệ thống chính trị và tham gia tích cực của các tầng lớp Nhân dân, tình hình trật tự, an toàn giao thông trên địa bàn Tỉnh được duy trì ổn định, an toàn; tình trạng vi phạm an toàn giao thông, tai nạn và ùn tắc giao thông được kiềm chế. Để tiếp tục duy trì tốt công tác bảo đảm trật tự, an toàn giao thông trên địa bàn toàn Tỉnh; thực hiện Chỉ thị số 23-CT/TW ngày 25/5/2023 của Ban Bí thư Trung ương, Chỉ thị số 10/CT-TTg ngày 19/4/2023 của Thủ tướng Chính phủ về tăng cường công tác bảo đảm trật tự, an toàn giao thông đường bộ trong tình hình mới; Kế hoạch số 182-KH/TU ngày 13/7..."
+    }
+  ]
+}

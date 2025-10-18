@@ -1,0 +1,54 @@
+{
+  "base": "15_VBHN_BGTVT_original",
+  "revised": "15_VBHN_BGTVT_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "vi điều chỉnh Thông tư này quy định về đào tạo thẩm tra viên và quản lý chứng chỉ thẩm tra viên an toàn giao thông đường bộ."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "tượng áp dụng Thông tư này áp dụng đối với cơ quan, tổ chức, cá nhân có liên quan đến công tác đào tạo thẩm tra viên và quản lý chứng chỉ thẩm tra viên an toàn giao thông đường bộ. Chương II ĐÀO TẠO THẨM TRA VIÊN VÀ QUẢN LÝ, SỬ DỤNG CHỨNG CHỈ THẨM TRA VIÊN AN TOÀN GIAO THÔNG ĐƯỜNG BỘ"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "dạy bảo đảm cho học viên a) Nắm được quy định của Luật giao thông đường bộ và các văn bản hướng dẫn thi hành liên quan đến an toàn giao thông, thẩm tra an toàn giao thông đường bộ; b) Nắm được quy định, yêu cầu của các quy chuẩn kỹ thuật, tiêu chuẩn kỹ thuật liên quan đến an toàn giao thông đường bộ; c) Nắm được trách nhiệm, nghĩa vụ, quyền hạn của Thẩm tra viên an toàn giao thông đường bộ và Chủ nhiệm thẩm tra an toàn giao thông đường bộ; d) Kỹ năng nghiên cứu, phân tích tài liệu, tiến hành kiểm tra hiện trường; đ) Kỹ năng lập báo cáo thẩm tra an toàn giao thông. 2. Chương trình khung đào tạo Thẩm tra viên an toàn giao thông đường bộ theo quy định tại Phụ lục I ban hành kèm theo Thông tư này."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "liệu giảng dạy 1. Tài liệu giảng dạy do cơ sở kinh doanh đào tạo thẩm tra viên an toàn giao thông đường bộ biên soạn. 2. Tài liệu giảng dạy phải đảm bảo các yêu cầu và nội dung quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "chức đào tạo 1. Tuyển sinh a) Cơ sở kinh doanh đào tạo thẩm tra viên an toàn giao thông đường bộ (sau đây gọi là Cơ sở kinh doanh đào tạo) thông báo tuyển sinh, yêu cầu đối với học viên, dự kiến kế hoạch, thời gian, địa điểm đào tạo của khóa học, kinh phí và các thông tin cần thiết khác; b) Cơ quan, tổ chức, cá nhân đăng ký học tại Cơ sở kinh doanh đào tạo; hồ sơ đăng ký học của học viên theo quy định tại khoản 2 Điều này; c) Cơ sở kinh doanh đào tạo tiếp nhận và rà soát hồ sơ; bảo đảm học viên đủ điều kiện quy định tại khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 12c.1",
+      "change": "added",
+      "to": "định về quản lý và bảo vệ kết cấu hạ tầng giao thông đường bộ (đã được sửa đổi, bổ sung một số điều tại Nghị định số 64/2016/NĐ-CP ngày 01 tháng 7 năm 2016). 2. Hồ sơ đăng ký học của học viên bao gồm: a) Đơn đăng ký học theo mẫu quy định tại Phụ lục II ban hành kèm theo Thông tư này; b) 02 (hai) ảnh màu cỡ (4x6) cm, nền màu xanh; kiểu thẻ căn cước, chụp trong thời gian không quá 06 tháng tính đến thời điểm nộp hồ sơ; c) Bản sao có chứng thực bằng tốt nghiệp đại học, hoặc sau đại học; d) Bản khai kinh nghiệm công tác trong lĩnh vực đường bộ, có xác nhận của cơ quan, đơn vị quản lý trực tiếp học viên theo mẫu quy định tại Phụ lục III ban hành kèm theo Thông tư này. 3. Tổ chức đào tạo a) Cơ sở kinh doanh đào tạo lập kế hoạch đào tạo và danh sách học viên, thông báo cho Cục Đường bộ Việt Nam [2] và học viên biết trước khi mở lớp tối thiểu 07 (bảy) ngày làm việc; b) Cơ sở kinh doanh đào tạo tiếp nhận học viên, bố trí lớp học (mỗi lớp không quá 45 học viên); c) Cơ sở kinh doanh đào tạo tổ chức đào tạo theo chương trình khung và kế hoạch đào tạo đã thông báo."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "chức thi 1. Cơ sở kinh doanh đào tạo thành lập Hội đồng thi có tối thiểu 05 người, bao gồm: a) Chủ tịch, Phó Chủ tịch Hội đồng thi là Lãnh đạo Cơ"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "BỘ GIAO THÔNG VẬN TẢI ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 15/VBHN-BGTVT Hà Nội, ngày 28 tháng 07 năm 2023 THÔNG TƯ QUY ĐỊNH VỀ ĐÀO TẠO THẨM TRA VIÊN VÀ QUẢN LÝ CHỨNG CHỈ THẨM TRA VIÊN AN TOÀN GIAO THÔNG ĐƯỜNG BỘ Thông tư số 29/2017/TT-BGTVT ngày 01 tháng 9 năm 2017 của Bộ trưởng Bộ Giao thông vận tải quy định về đào tạo thẩm tra viên và quản lý chứng chỉ thẩm tra viên an toàn giao thông đường bộ, có hiệu lực kể từ ngày 15 tháng 10 năm 2017 được sửa đổi, bổ sung bởi: Thông tư số 06/2023/TT-BGTVT ngày 12 tháng 05 năm 2023 của Bộ trưởng Bộ Giao thông vận tải sửa đổi, bổ sung một số điều của các thông tư liên quan đến quản lý, khai thác, sử dụng, bảo trì và bảo vệ đường bộ, có hiệu lực kể từ ngày 01 tháng 07 năm 2023. Căn cứ Luật Giao thông đường bộ ngày 13 tháng 11 năm 2008; Căn cứ Nghị định số 12/2017/NĐ-CP ngày 10 tháng 02 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Giao th..."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "base": "24_2015_NĐ_CP_original",
+  "revised": "24_2015_NĐ_CP_processed",
+  "diff": [
+    {
+      "level": "clause",
+      "id": "Điều 1.1",
+      "change": "added",
+      "to": "hành một số điều của Luật Giao thông đường thủy nội địa và Luật sửa đổi, bổ sung một số điều của Luật Giao thông đường thủy nội địa , bao gồm: Phạm vi hành lang bảo vệ luồng đường thủy nội địa; điều kiện hoạt động của cơ sở đóng mới, hoán cải, sửa chữa phục hồi phương tiện; quản lý hoạt động tại cảng thủy nội địa được phép tiếp nhận phương tiện thủy nước ngoài và phương án bảo đảm an toàn khi vận tải hàng hóa siêu trường, hàng hóa siêu trọng."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 2.1",
+      "change": "added",
+      "to": "phương tiện thủy liên quan đến hoạt động giao thông đường thủy nội địa tại Việt Nam. Chương II HÀNH LANG BẢO VỆ LUỒNG ĐƯỜNG THỦY NỘI ĐỊA, QUẢN LÝ CƠ SỞ ĐÓNG MỚI, SỬA CHỮA, HOÁN CẢI, PHỤC HỒI PHƯƠNG TIỆN"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 3.1",
+      "change": "added",
+      "to": "luồng đường thủy nội địa Phạm vi hành lang bảo vệ luồng đường thủy nội địa quy định tại Khoản 4"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 16.1",
+      "change": "added",
+      "to": "địa được xác định từ mép luồng trở ra mỗi phía và theo cấp kỹ thuật đường thủy nội địa, cụ thể như sau: 1. Phạm vi hành lang bảo vệ luồng đường thủy nội địa trong trường hợp luồng không nằm sát bờ. a) Đối với luồng đường thủy nội địa trên hồ, vịnh, cửa sông ra biển, ven bờ biển và luồng cấp đặc biệt: Từ 20 m đến 25 m; b) Đối với luồng đường thủy nội địa cấp I, cấp II: Từ 15 m đến 20 m; c) Đối với luồng đường thủy nội địa cấp III, cấp IV: Từ 10 m đến 15 m; d) Đối với luồng đường thủy nội địa cấp V, cấp VI: 10 m. 2. Phạm vi hành lang bảo vệ luồng đường thủy nội địa trong trường hợp luồng nằm sát bờ được tính từ mép bờ tự nhiên trở vào phía bờ ít nhất là 5 m; trường hợp luồng nằm trong khu vực thành phố, thị xã, thị trấn thì phạm vi hành lang bảo vệ luồng là chỉ giới đường đỏ theo quy hoạch được cấp có thẩm quyền phê duyệt. 3. Căn cứ đặc điểm của từng khu vực, cơ quan quản lý đường thủy nội địa chủ trì, phối hợp với Sở Tài nguyên và Môi trường để xác định cụ thể mép bờ tự nhiên phục vụ công tác bảo vệ công trình đường thủy nội địa."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 4.1",
+      "change": "added",
+      "to": "lang bảo vệ luồng đường thủy nội địa trong một số trường hợp đặc biệt 1. Trường hợp phạm vi hành lang bảo vệ luồng đường thủy nội địa trùng với hành lang an toàn cầu đường bộ, cầu đường sắt thì phạm vi hành lang bảo vệ luồng được tính từ mép luồng tới mép bờ tự nhiên và thực hiện theo quy định của pháp luật về bảo vệ hành lang an toàn cầu đường bộ, cầu đường sắt. 2. Trường hợp phạm vi hành lang bảo vệ luồng đường thủy nội địa trùng với hành lang an bảo vệ luồng hàng hải thì thực hiện theo quy định của pháp luật về bảo vệ hành lang luồng hàng hải. 3. Trường hợp phạm vi hành lang bảo vệ luồng đường thủy nội địa trùng với phạm vi bảo vệ các công trình phòng, chống thiên tai bảo vệ đê điều và các công trình thủy lợi thì thực hiện theo quy định của pháp luật về phòng, chống thiên tai, bảo vệ đê điều và pháp luật về khai thác bảo vệ công trình thủy lợi. 4. Đối với những tuyến luồng đường thủy nội địa đã được phê duyệt quy hoạch, việc xác định phạm vi hành lang bảo vệ luồng đường thủy nội địa phải căn cứ vào cấp kỹ thuật đường thủy nội địa theo quy hoạch để thực hiện. 5. Khi lập dự án đầu tư xây dựng mới hoặc nâng cấp, mở rộng tuyến đường thủy nội địa, chủ đầu tư dự án phải căn cứ vào quy hoạch hệ thống đường thủy nội địa để xác định rõ cấp kỹ thuật của tuyến đường thủy nội địa, đồng thời xác định phạm vi hành lang bảo vệ luồng đường thủy nội địa, xây dựng phương án và thực hiện cắm mốc chỉ giới sau khi hoàn thành dự án."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 5.1",
+      "change": "added",
+      "to": "không, dưới mặt đất của các công trình đường thủy nội địa Phạm vi bảo vệ các công trình đường thủy nội địa phần trên không, phần dưới mặt đất quy định tại Khoản 2"
+    },
+    {
+      "level": "clause",
+      "id": "Điều 14.1",
+      "change": "added",
+      "to": "Giao thông đường thủy nội địa theo cấp kỹ thuật của từng đường thủy nội địa, bảo đảm an toàn giao thông, an toàn công trình và không ảnh hưởng đến việc quản lý, bảo trì đường thủy nội địa."
+    },
+    {
+      "level": "clause",
+      "id": "Điều 6.1",
+      "change": "added",
+      "to": "cơ sở đóng mới, hoán cải, sửa chữa phục hồi phương tiện Tổ chức, cá nhân hoạt động đóng mới, hoán cải, sửa chữa phục hồi phương tiện (gọi tắt là cơ sở đóng mới, sửa chữa phương tiện) quy định tại"
+    },
+    {
+      "level": "clause",
+      "id": "Section Original.1",
+      "change": "deleted",
+      "from": "CHÍNH PHỦ ------- CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh Phúc ------------------ Số: 24/2015/NĐ-CP Hà Nội, ngày 27 tháng 02 năm 2015 NGHỊ ĐỊNH QUY ĐỊNH CHI TIẾT VÀ BIỆN PHÁP THI HÀNH MỘT SỐ ĐIỀU CỦA LUẬT GIAO THÔNG ĐƯỜNG THỦY NỘI ĐỊA VÀ LUẬT SỬA ĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA LUẬT GIAO THÔNG ĐƯỜNG THỦY NỘI ĐỊA Căn cứ Luật Tổ chức Chính phủ ngày 25 tháng 12 năm 2001; Căn cứ Luật Giao thông đường thủy nội địa ngày 15 tháng 6 năm 2004 và Luật sửa đổi, bổ sung một số điều của Luật Giao thông đường thủy nội địa ngày 17 tháng 6 năm 2014; Theo đề nghị của Bộ trưởng Bộ Giao thông vận tải; Chính phủ ban hành Nghị định quy định chi tiết và biện pháp thi hành một số điều của Luật Giao thông đường thủy nội địa và Luật sửa đổi, bổ sung một số điều của Luật Giao thông đường thủy nội địa. Chương I QUY ĐỊNH CHUNG Điều 1. Phạm vi điều chỉnh Nghị định này quy định chi tiết và biện pháp thi hành một số điều của Luật Giao thông đường thủy nội địa và Luật sửa đổi, bổ sung ..."
+    }
+  ]
+}
