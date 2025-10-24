@@ -1,0 +1,322 @@
+{
+  "timestamp": "2025-10-25T01:12:35.557701",
+  "validation_type": "comprehensive",
+  "standard_validation": {
+    "cost_estimation": {
+      "compliance_cost_estimated": true,
+      "application_cost_estimated": true,
+      "benefit_estimated": true,
+      "details": {
+        "compliance_cost": 15.0,
+        "total_application_cost": 21.75,
+        "total_benefits": 91.8
+      }
+    },
+    "scenarios": {
+      "has_three_scenarios": true,
+      "has_optimistic": true,
+      "has_average": true,
+      "has_pessimistic": true,
+      "scenarios_have_probabilities": true,
+      "details": {
+        "scenario_count": 3,
+        "scenario_names": [
+          "optimistic",
+          "average",
+          "pessimistic"
+        ]
+      }
+    },
+    "assumptions": {
+      "meets_assumption_requirement": true,
+      "assumption_details": {
+        "optimistic": {
+          "count": 3,
+          "assumptions": [
+            "Doanh nghiệp hợp tác tích cực trong triển khai",
+            "Không có chi phí phát sinh ngoài dự kiến",
+            "Hiệu quả an toàn đạt cao hơn mục tiêu"
+          ],
+          "meets_requirement": true
+        },
+        "average": {
+          "count": 3,
+          "assumptions": [
+            "Thực hiện đúng theo kế hoạch đã đề ra",
+            "Chi phí và lợi ích như dự tính ban đầu",
+            "Tỷ lệ tuân thủ đạt mức trung bình ngành"
+          ],
+          "meets_requirement": true
+        },
+        "pessimistic": {
+          "count": 3,
+          "assumptions": [
+            "Gặp khó khăn trong quá trình triển khai",
+            "Chi phí phát sinh cao hơn dự kiến",
+            "Tỷ lệ tuân thủ thấp hơn mong đợi"
+          ],
+          "meets_requirement": true
+        }
+      },
+      "total_assumptions": 9
+    },
+    "expert_deviation": {
+      "has_expert_comparison": true,
+      "deviation_calculated": true,
+      "acceptable_deviation": false,
+      "details": {
+        "overall_deviation": 66.52595680181888,
+        "cost_deviation": 66.53846153846153,
+        "benefit_deviation": 49.0,
+        "roi_deviation": 84.03940886699507,
+        "validation_status": "REVIEW_NEEDED"
+      }
+    },
+    "overall_completion_rate": 100.0,
+    "total_checks": 11,
+    "passed_checks": 11
+  },
+  "deep_validation": {
+    "total_documents_analyzed": 5,
+    "documents_with_actual_costs": 1,
+    "documents_with_benefit_indicators": 4,
+    "average_cost_accuracy": 1112.5,
+    "detailed_results": [
+      {
+        "document": {
+          "number": "354/QĐ-UBND",
+          "agency": "ỦY BAN NHÂN DÂN TỈNH THÁI BÌNH"
+        },
+        "actual_data": {
+          "costs_found": {
+            "costs": [],
+            "penalties": [],
+            "fees": [],
+            "total_costs": 0,
+            "total_penalties": 0,
+            "total_fees": 0
+          },
+          "benefits_found": {
+            "safety_mentions": 0,
+            "efficiency_mentions": 0,
+            "economic_mentions": 0,
+            "quality_mentions": 1,
+            "quantitative_targets": [],
+            "benefit_descriptions": [
+              "CHỦ TỊCH ỦY BAN NHÂN DÂN TỈNH THÁI BÌNH Căn cứ Luật Tổ chức chính\r\nquyền địa phương năm 2015; Luật sửa đổi, bổ sung một số điều Luật Tổ chức Chính\r\nphủ và Luật Tổ chức chính quyền địa phương năm 2019; Căn cứ các Nghị định của\r\nChính phủ: Số 63/2010/NĐ-CP ngày 08/6/2010 về kiểm soát thủ tục hành chính; số 92/2017/NĐ-CP ngày 07/8/2017 sửa đổi, bổ sung một số điều của các nghị định\r\nliên quan đến kiểm soát thủ tục hành chính; Căn cứ Thông tư số 02/2017/TT-VPCP ngày 31/10/2017 của Văn phòng Chính phủ hướng dẫn về nghiệp vụ\r\nkiểm soát thủ tục hành chính; Căn cứ Quyết định số 161/QĐ-BGTVT ngày 19/02/2024 của Bộ trưởng Bộ Giao thông vận tải về việc công\r\nbố thủ tục hành chính được sửa đổi, bổ sung trong lĩnh vực đường thuỷ nội địa\r\nthuộc phạm vi chức năng quản lý của Bộ Giao thông vận tải; Theo đề nghị của Giám đốc Sở\r\nGiao thông vận tải tại Tờ trình số 28/TTr-SGTVT ngày 20/3/2024"
+            ]
+          }
+        },
+        "estimated_data": {
+          "total_cost": 21.75,
+          "compliance_cost": 15.0,
+          "penalty_risk": 3.0,
+          "total_benefits": 91.8,
+          "direct_benefits": 64.8,
+          "indirect_benefits": 27.0
+        },
+        "validation": {
+          "cost_based_on_content": false,
+          "benefit_indicators": 1,
+          "benefit_based_on_content": true
+        }
+      },
+      {
+        "document": {
+          "number": "46/2024/TT-BCA",
+          "agency": "BỘ TRƯỞNG BỘ CÔNG AN QUY ĐỊNH VỀ THỰC HIỆN DÂN CHỦ TRONG CÔNG TÁC BẢO"
+        },
+        "actual_data": {
+          "costs_found": {
+            "costs": [],
+            "penalties": [],
+            "fees": [],
+            "total_costs": 0,
+            "total_penalties": 0,
+            "total_fees": 0
+          },
+          "benefits_found": {
+            "safety_mentions": 1,
+            "efficiency_mentions": 0,
+            "economic_mentions": 0,
+            "quality_mentions": 1,
+            "quantitative_targets": [],
+            "benefit_descriptions": [
+              "BỘ\r\n  CÔNG AN ------- CỘNG\r\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 46/2024/TT-BCA Hà Nội, ngày 30\r\n  tháng 9 năm 2024 THÔNG TƯ SỬA\r\nĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA THÔNG TƯ SỐ 67/2019/TT-BCA NGÀY 28 THÁNG 11 NĂM\r\n2019 CỦA BỘ TRƯỞNG BỘ CÔNG AN QUY ĐỊNH VỀ THỰC HIỆN DÂN CHỦ TRONG CÔNG TÁC BẢO\r\nĐẢM TRẬT TỰ, AN TOÀN GIAO THÔNG Căn cứ Luật Tiếp cận\r\nthông tin ngày 06 tháng 4 năm 2016; Căn cứ Luật Công\r\nan nhân dân ngày 20 tháng 11 năm 2018; Luật sửa\r\nđổi, bổ sung một số điều của Luật Công an nhân dân ngày 22 tháng 6 năm\r\n2023; Căn cứ Luật Thực\r\nhiện dân chủ ở cơ sở ngày 10 tháng 11 năm 2022; Căn cứ Nghị định số 01/2018/NĐ-CP ngày 06 tháng\r\n8 năm 2018 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ\r\nchức của Bộ Công an; Theo đề nghị của Cục trưởng Cục Cảnh sát giao\r\nthông; Bộ trưởng Bộ Công an ban hành Thông tư sửa đổi,\r\nbổ sung một số điều của Thông tư số 67/2019/TT-BCA ngày 28 tháng 11 năm 2019 quy định về thực hiện dân chủ trong công tác bảo đảm\r\ntrật tự, an toàn giao thông",
+              "Sửa đổi, bổ sung một số\r\nđiều của Thông tư số 67/2019/TT-BCA ngày 28 tháng 11 năm 2019 của Bộ trưởng Bộ\r\nCông an quy định về thực hiện dân chủ trong công tác bảo đảm trật tự, an toàn\r\ngiao thông 1",
+              "Khu vực thực thi công vụ là nơi được giới hạn bằng\r\ncọc tiêu hình chóp nón hoặc dây căng để cán bộ, chiến sĩ thực thi nhiệm vụ bảo\r\nđảm trật tự, an toàn giao thông và an ninh, trật tự",
+              "Thông qua Cổng Thông tin điện tử; Trang thông\r\ntin điện tử; tài khoản mạng xã hội và các phần mềm ứng dụng trên thiết bị điện\r\ntử do cơ quan Công an lập và quản lý",
+              "Thông báo cho cơ quan Công an hoặc Ủy ban nhân\r\ndân nơi gần nhất các vụ tai nạn, ùn tắc giao thông; các vụ đua xe trái phép,\r\ngây rối trật tự công cộng, vi phạm pháp luật hình sự làm ảnh hưởng an toàn giao\r\nthông; đặt chướng ngại vật trên đường gây cản trở giao thông; ném đất, đá hoặc\r\ncác vật khác vào phương tiện hoặc người tham gia giao thông; vận chuyển trái\r\nphép chất cháy, chất nổ, chất ma túy hoặc vận chuyển trái phép các hàng hóa\r\nkhác; các hành vi giả danh Công an nhân dân; chống người thi hành công vụ và\r\ncác hành vi vi phạm trật tự, an toàn giao thông khác"
+            ]
+          }
+        },
+        "estimated_data": {
+          "total_cost": 21.75,
+          "compliance_cost": 15.0,
+          "penalty_risk": 3.0,
+          "total_benefits": 97.75,
+          "direct_benefits": 69.0,
+          "indirect_benefits": 28.749999999999996
+        },
+        "validation": {
+          "cost_based_on_content": false,
+          "benefit_indicators": 2,
+          "benefit_based_on_content": true
+        }
+      },
+      {
+        "document": {
+          "number": "163/2024/NĐ-CP",
+          "agency": "CHÍNH PHỦ ----"
+        },
+        "actual_data": {
+          "costs_found": {
+            "costs": [],
+            "penalties": [],
+            "fees": [],
+            "total_costs": 0,
+            "total_penalties": 0,
+            "total_fees": 0
+          },
+          "benefits_found": {
+            "safety_mentions": 0,
+            "efficiency_mentions": 0,
+            "economic_mentions": 0,
+            "quality_mentions": 2,
+            "quantitative_targets": [
+              20.0,
+              20.0,
+              20.0
+            ],
+            "benefit_descriptions": [
+              "Nghị định này quy định chi tiết khoản\r\n8 Điều 5; khoản 3 Điều 11; điểm h, k và m khoản 2 Điều 13 ; điểm\r\nd khoản 4 Điều 13; khoản 1 Điều 17; khoản 6 Điều 19 ; khoản 6\r\nĐiều 20; khoản 4 Điều 21; điểm b khoản 2 Điều 22 ; khoản 4 Điều\r\n23; điểm d khoản 2 và khoản 3 Điều 28; điểm h khoản 2 và khoản 5 Điều 29 ; khoản 5 Điều 33; điểm b khoản 1, điểm b khoản 2 Điều 36; điểm b khoản\r\n2 Điều 39 ; khoản 3 Điều 41; khoản 4 Điều 47; khoản 4 Điều 61 ; khoản 3 Điều 63; khoản 10 Điều 65 của Luật Viễn thông đối với\r\ncác hoạt động viễn thông sau đây: a) Kinh doanh dịch vụ viễn thông; b) Giấy phép viễn thông; c) Quy hoạch hạ tầng kỹ thuật viễn thông thụ động; d) Công trình viễn thông",
+              "Các biện pháp thi hành Luật Viễn thông bao gồm: a) Giải quyết tranh chấp trong kinh doanh dịch vụ\r\nviễn thông; b) Phí quyền hoạt động viễn thông; c) Quy chuẩn kỹ thuật, chất lượng viễn thông",
+              "Chương II KINH DOANH DỊCH VỤ VIỄN\r\nTHÔNG Mục 1",
+              "SỞ HỮU TRONG KINH DOANH\r\nDỊCH VỤ VIỄN THÔNG Điều 3",
+              "Sở hữu trong kinh doanh\r\ndịch vụ viễn thông 1"
+            ]
+          }
+        },
+        "estimated_data": {
+          "total_cost": 21.75,
+          "compliance_cost": 15.0,
+          "penalty_risk": 3.0,
+          "total_benefits": 117.3,
+          "direct_benefits": 82.8,
+          "indirect_benefits": 34.5
+        },
+        "validation": {
+          "cost_based_on_content": false,
+          "benefit_indicators": 2,
+          "benefit_based_on_content": true
+        }
+      },
+      {
+        "document": {
+          "number": "175/2025/NĐ-CP",
+          "agency": "CHÍNH PHỦ QUY ĐỊNH VỀ LỆ PHÍ TRƯỚC BẠ Căn cứ Luật Tổ chức"
+        },
+        "actual_data": {
+          "costs_found": {
+            "costs": [],
+            "penalties": [],
+            "fees": [
+              {
+                "amount": 2.0,
+                "context": "sung khoản 4 điều 8 như sau: “4. xe máy: mức thu là 2%. đối với xe máy nộp lệ\r\nphí trước bạ lần thứ 2 trở đi được áp dụng mức thu là 1%.”. 4. sửa đổi, bổ sung một số điểm và tiêu đề của khoản 5 điều 8 a)",
+                "match": "2 tr"
+              }
+            ],
+            "total_costs": 0,
+            "total_penalties": 0,
+            "total_fees": 2.0
+          },
+          "benefits_found": {
+            "safety_mentions": 1,
+            "efficiency_mentions": 0,
+            "economic_mentions": 0,
+            "quality_mentions": 0,
+            "quantitative_targets": [
+              5.0,
+              2.0,
+              1.0
+            ],
+            "benefit_descriptions": [
+              "CHÍNH\r\n  PHỦ ------- CỘNG\r\n  HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- Số: 175/2025/NĐ-CP Hà Nội, ngày 30\r\n  tháng 6 năm 2025 NGHỊ ĐỊNH SỬA\r\nĐỔI, BỔ SUNG MỘT SỐ ĐIỀU CỦA NGHỊ ĐỊNH SỐ 10/2022/NĐ-CP NGÀY 15 THÁNG 01 NĂM\r\n2022 CỦA CHÍNH PHỦ QUY ĐỊNH VỀ LỆ PHÍ TRƯỚC BẠ Căn cứ Luật Tổ chức\r\nChính phủ ngày 18 tháng 02 năm 2025; Căn cứ Luật Tổ chức\r\nchính quyền địa phương ngày 16 tháng 6 năm 2025; Căn cứ Luật Phí và\r\nlệ phí ngày 25 tháng 11 năm 2015; Căn cứ Luật Trật tự,\r\nan toàn giao thông đường bộ ngày 27 tháng 6 năm 2024; Căn cứ Luật Đất\r\nđai ngày 18 tháng 01 năm 2024; Luật sửa đổi,\r\nbổ sung một số điều của Luật Đất đai số 31/2024/QH15, Luật Nhà ở số 27/2023/QH15,\r\nLuật Kinh doanh bất động sản số 29/2023/QH15, Luật Các tổ chức tín dụng số 32/2024/QH15 ngày 29 tháng 6 năm 2024; Theo đề nghị của Bộ trưởng Bộ Tài chính; Chính phủ ban hành Nghị định sửa đổi, bổ sung một\r\nsố điều của Nghị định số 10/2022/NĐ-CP ngày\r\n15 tháng 01 năm 2022 của Chính phủ quy định về lệ phí trước bạ",
+              "Xe ô tô, rơ moóc, sơ mi rơ moóc, xe chở người bốn\r\nbánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ, xe máy chuyên dùng,\r\nxe tương tự các loại xe này theo quy định pháp luật về trật tự, an toàn giao\r\nthông đường bộ phải đăng ký và gắn biển số do cơ quan nhà nước có thẩm quyền cấp"
+            ]
+          }
+        },
+        "estimated_data": {
+          "total_cost": 24.25,
+          "compliance_cost": 15.0,
+          "penalty_risk": 3.0,
+          "total_benefits": 130.05,
+          "direct_benefits": 91.8,
+          "indirect_benefits": 38.25
+        },
+        "validation": {
+          "cost_accuracy": 1112.5,
+          "cost_based_on_content": true,
+          "benefit_indicators": 1,
+          "benefit_based_on_content": true
+        }
+      },
+      {
+        "document": {
+          "number": "02/2025/NĐ-CP",
+          "agency": "CHÍNH PHỦ"
+        },
+        "actual_data": {
+          "costs_found": {
+            "costs": [],
+            "penalties": [],
+            "fees": [],
+            "total_costs": 0,
+            "total_penalties": 0,
+            "total_fees": 0
+          },
+          "benefits_found": {
+            "safety_mentions": 0,
+            "efficiency_mentions": 0,
+            "economic_mentions": 0,
+            "quality_mentions": 0,
+            "quantitative_targets": [
+              100.0,
+              100.0,
+              81.0,
+              81.0,
+              100.0,
+              15.0,
+              95.0,
+              100.0,
+              50.0,
+              50.0,
+              50.0
+            ],
+            "benefit_descriptions": []
+          }
+        },
+        "estimated_data": {
+          "total_cost": 21.75,
+          "compliance_cost": 15.0,
+          "penalty_risk": 3.0,
+          "total_benefits": 134.3,
+          "direct_benefits": 94.8,
+          "indirect_benefits": 39.5
+        },
+        "validation": {
+          "cost_based_on_content": false,
+          "benefit_indicators": 0,
+          "benefit_based_on_content": false
+        }
+      }
+    ]
+  },
+  "summary": {
+    "standard_completion_rate": 100.0,
+    "deep_documents_analyzed": 5,
+    "deep_accuracy_rate": 1112.5,
+    "overall_status": "PASSED"
+  }
+}
