@@ -1855,10 +1855,10 @@ class ThuvienCrawlerAgent(BaseAgent):
                         data['documents'][j] = new_doc
                         break
                 retry_results["success"] += 1
-                self.log(f"  ✓ Success: {url}")
+                self.log(f"  Success: {url}")
             else:
                 retry_results["still_blocked"] += 1
-                self.log(f"  ✗ Still blocked: {url}")
+                self.log(f"  Still blocked: {url}")
             
             # Delay between retries
             time.sleep(Config.DELAY_BETWEEN_REQUESTS * 2)

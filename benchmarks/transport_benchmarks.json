@@ -1,0 +1,152 @@
+{
+  "transport_compliance_costs": {
+    "vehicle_inspection": {
+      "description": "Chi phí kiểm định xe định kỳ",
+      "cost_range": {
+        "min": 0.5,
+        "max": 3.0,
+        "average": 2.0
+      },
+      "frequency": "yearly",
+      "applies_to": "all_vehicles"
+    },
+    "driver_training": {
+      "description": "Chi phí đào tạo lái xe",
+      "cost_range": {
+        "min": 5.0,
+        "max": 15.0,
+        "average": 8.0
+      },
+      "frequency": "one_time",
+      "applies_to": "new_drivers"
+    },
+    "safety_equipment": {
+      "description": "Chi phí trang bị an toàn",
+      "cost_range": {
+        "min": 2.0,
+        "max": 10.0,
+        "average": 5.0
+      },
+      "frequency": "one_time",
+      "applies_to": "commercial_vehicles"
+    },
+    "reporting_compliance": {
+      "description": "Chi phí báo cáo tuân thủ",
+      "cost_range": {
+        "min": 1.0,
+        "max": 5.0,
+        "average": 3.0
+      },
+      "frequency": "yearly",
+      "applies_to": "transport_companies"
+    }
+  },
+  "transport_penalties": {
+    "speed_violation": {
+      "description": "Phạt vi phạm tốc độ",
+      "penalty_range": {
+        "min": 0.8,
+        "max": 18.0,
+        "average": 5.0
+      },
+      "frequency": "per_violation"
+    },
+    "alcohol_violation": {
+      "description": "Phạt vi phạm nồng độ cồn",
+      "penalty_range": {
+        "min": 6.0,
+        "max": 40.0,
+        "average": 15.0
+      },
+      "frequency": "per_violation"
+    },
+    "overload_violation": {
+      "description": "Phạt vi phạm tải trọng",
+      "penalty_range": {
+        "min": 4.0,
+        "max": 25.0,
+        "average": 10.0
+      },
+      "frequency": "per_violation"
+    }
+  },
+  "transport_benefits": {
+    "accident_reduction": {
+      "description": "Giảm chi phí tai nạn",
+      "benefit_range": {
+        "min": 20.0,
+        "max": 100.0,
+        "average": 50.0
+      },
+      "probability": 0.7
+    },
+    "insurance_savings": {
+      "description": "Tiết kiệm bảo hiểm",
+      "benefit_range": {
+        "min": 5.0,
+        "max": 20.0,
+        "average": 10.0
+      },
+      "probability": 0.8
+    },
+    "operational_efficiency": {
+      "description": "Tăng hiệu quả vận hành",
+      "benefit_range": {
+        "min": 10.0,
+        "max": 50.0,
+        "average": 25.0
+      },
+      "probability": 0.6
+    }
+  },
+  "expert_benchmarks": {
+    "vehicle_inspection_regulation": {
+      "description": "Quy định kiểm định xe nghiêm ngặt hơn",
+      "expert_estimates": {
+        "compliance_cost_per_vehicle": 2.5,
+        "implementation_cost_total": 50.0,
+        "indirect_cost_percentage": 25,
+        "penalty_risk_percentage": 15,
+        "total_cost_estimate": 65.0
+      },
+      "expert_benefits": {
+        "accident_reduction_benefit": 45.0,
+        "insurance_savings": 12.0,
+        "operational_efficiency": 20.0,
+        "total_benefit_estimate": 180.0
+      },
+      "expert_scenarios": {
+        "optimistic": {
+          "cost_estimate": 52.0,
+          "benefit_estimate": 234.0,
+          "roi_estimate": 350.0
+        },
+        "average": {
+          "cost_estimate": 65.0,
+          "benefit_estimate": 180.0,
+          "roi_estimate": 175.0
+        },
+        "pessimistic": {
+          "cost_estimate": 91.0,
+          "benefit_estimate": 126.0,
+          "roi_estimate": 38.5
+        }
+      }
+    }
+  },
+  "economic_indicators": {
+    "transport_sector_growth": 0.065,
+    "inflation_rate": 0.035,
+    "compliance_rate": 0.75,
+    "violation_probability": 0.15
+  },
+  "validation_criteria": {
+    "acceptable_deviation_percentage": 25.0,
+    "minimum_assumptions_per_scenario": 3,
+    "required_scenarios": [
+      "optimistic",
+      "average",
+      "pessimistic"
+    ]
+  }
+}
