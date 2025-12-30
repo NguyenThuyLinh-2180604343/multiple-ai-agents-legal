@@ -1,4 +1,4 @@
 try:
     risky()
-except:
-    pass
+except Exception:
+    pass  # TODO: Add proper error handling/logging
